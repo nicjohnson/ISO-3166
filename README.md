@@ -4,7 +4,7 @@ ISO-3166
 Country and Subdivision Data
 
 If you have questions or issues with the data I'll do my best to get it updated.
-Please create an issue if your find a discrepency.
+Please create an issue if your find a discrepancy.
 
 # Structure
 ### Raw Data
