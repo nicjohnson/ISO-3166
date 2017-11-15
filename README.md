@@ -11,7 +11,7 @@ This is a trimmed dataset from the ISO-3166 Country Collection export. I created
 dynamic dropdowns in address form fields.
 
 There are a few subdivision categories that have been excluded due to collisions with the country data.
-They are not suitible to be used as a selectable option when displaying `states / regions / provinces` in an address form.
+They are not suitable to be used as a selectable option when displaying `states / regions / provinces` in an address form.
 
 #### Excluded Categories
 We may exclude more in the future to trim the dataset further
