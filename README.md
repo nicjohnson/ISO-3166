@@ -21,7 +21,7 @@ We may exclude more in the future to trim the dataset further
 
 # Structure
 ### Raw Data
-- `*-raw.json` filescontain lines of json
+- `*-raw.json` files contain lines of json
 
 
 ### Country Data
