@@ -1,0 +1,170 @@
+[
+  {
+    "alpha3": "MN-063", 
+    "name": "Dornogov\u012d", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-073", 
+    "name": "Arhangay", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-046", 
+    "name": "Uvs", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-065", 
+    "name": "Gov\u012d-Altay", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-041", 
+    "name": "H\u00f6vsg\u00f6l", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-053", 
+    "name": "\u00d6mn\u00f6gov\u012d", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-061", 
+    "name": "Dornod", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-067", 
+    "name": "Bulgan", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-055", 
+    "name": "\u00d6v\u00f6rhangay", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-069", 
+    "name": "Bayanhongor", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-039", 
+    "name": "Hentiy", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-047", 
+    "name": "T\u00f6v", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-049", 
+    "name": "Selenge", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-057", 
+    "name": "Dzavhan", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-059", 
+    "name": "Dundgov\u012d", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-043", 
+    "name": "Hovd", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-071", 
+    "name": "Bayan-\u00d6lgiy", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-035", 
+    "name": "Orhon", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-037", 
+    "name": "Darhan uul", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-064", 
+    "name": "Gov\u012d-S\u00fcmber", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "333", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MN-1", 
+    "name": "Ulaanbaatar", 
+    "countryAlpha3": "MNG", 
+    "countryAlpha2": "MN", 
+    "categoryId": "360", 
+    "categoryName": "capital city"
+  }
+]

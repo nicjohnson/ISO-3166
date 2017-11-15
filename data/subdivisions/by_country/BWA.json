@@ -1,0 +1,122 @@
+[
+  {
+    "alpha3": "BW-KL", 
+    "name": "Kgatleng", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-GH", 
+    "name": "Ghanzi", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-NW", 
+    "name": "North West", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-SO", 
+    "name": "Southern", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-KW", 
+    "name": "Kweneng", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-CH", 
+    "name": "Chobe", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-KG", 
+    "name": "Kgalagadi", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-CE", 
+    "name": "Central", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-SE", 
+    "name": "South East", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "277", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BW-LO", 
+    "name": "Lobatse", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "447", 
+    "categoryName": "town"
+  }, 
+  {
+    "alpha3": "BW-SP", 
+    "name": "Selibe Phikwe", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "447", 
+    "categoryName": "town"
+  }, 
+  {
+    "alpha3": "BW-JW", 
+    "name": "Jwaneng", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "447", 
+    "categoryName": "town"
+  }, 
+  {
+    "alpha3": "BW-ST", 
+    "name": "Sowa Town", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "447", 
+    "categoryName": "town"
+  }, 
+  {
+    "alpha3": "BW-FR", 
+    "name": "Francistown", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "448", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "BW-GA", 
+    "name": "Gaborone", 
+    "countryAlpha3": "BWA", 
+    "countryAlpha2": "BW", 
+    "categoryId": "448", 
+    "categoryName": "city"
+  }
+]

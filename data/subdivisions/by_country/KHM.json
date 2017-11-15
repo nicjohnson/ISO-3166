@@ -1,0 +1,394 @@
+[
+  {
+    "alpha3": "KH-12", 
+    "name": "Phnom Penh", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "206", 
+    "categoryName": "autonomous municipality"
+  }, 
+  {
+    "alpha3": "KH-21", 
+    "name": "Taakaev", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-21", 
+    "name": "Tak\u00eav", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-16", 
+    "name": "Rotanak Kiri", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-16", 
+    "name": "R\u00f4t\u00e2n\u00f4kiri", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-17", 
+    "name": "Siem Reab", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-17", 
+    "name": "Si\u0115mr\u00e9ab", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-20", 
+    "name": "Svay Ri\u0115ng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-20", 
+    "name": "Svaay Rieng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-24", 
+    "name": "Kr\u014fng Pail\u012dn", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-24", 
+    "name": "Krong Pailin", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-10", 
+    "name": "Kr\u00e2ch\u00e9h", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-10", 
+    "name": "Kracheh", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-1", 
+    "name": "Banteay Mean Chey", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-1", 
+    "name": "B\u00e2nt\u00e9ay M\u00e9anchey", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-18", 
+    "name": "Kr\u014fng Pre\u0103h Sihanouk", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-18", 
+    "name": "Krong Preah Sihanouk", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-23", 
+    "name": "Krong Kaeb", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-23", 
+    "name": "Kr\u014fng K\u00eab", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-25", 
+    "name": "Tbong Khmum", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-25", 
+    "name": "Tbong Khm\u016dm", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-11", 
+    "name": "M\u00f4nd\u00f3l Kiri", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-11", 
+    "name": "Mondol Kiri", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-4", 
+    "name": "Kampong Chhnang", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-4", 
+    "name": "K\u00e2mp\u00f3ng Chhn\u0103ng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-6", 
+    "name": "K\u00e2mp\u00f3ng Thum", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-6", 
+    "name": "Kampong Thum", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-2", 
+    "name": "Baat Dambang", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-2", 
+    "name": "B\u0103td\u00e2mb\u00e2ng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-5", 
+    "name": "Kampong Spueu", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-5", 
+    "name": "K\u00e2mp\u00f3ng Sp\u0153", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-9", 
+    "name": "Kaoh Kong", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-9", 
+    "name": "Ka\u00f4h K\u014fng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-15", 
+    "name": "Po\u016dth\u012ds\u0103t", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-15", 
+    "name": "Pousaat", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-3", 
+    "name": "Kampong Chaam", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-3", 
+    "name": "K\u00e2mp\u00f3ng Cham", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-8", 
+    "name": "Kandaal", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-8", 
+    "name": "K\u00e2ndal", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-19", 
+    "name": "Sto\u0115ng Tr\u00eang", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-19", 
+    "name": "Stueng Traeng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-22", 
+    "name": "\u014etd\u00e2r M\u00e9anchey", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-22", 
+    "name": "Otdar Mean Chey", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-7", 
+    "name": "Kampot", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-7", 
+    "name": "K\u00e2mp\u00f4t", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-13", 
+    "name": "Pre\u0103h Vih\u00e9ar", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-13", 
+    "name": "Preah Vihear", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-14", 
+    "name": "Prey V\u00eang", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KH-14", 
+    "name": "Prey Veaeng", 
+    "countryAlpha3": "KHM", 
+    "countryAlpha2": "KH", 
+    "categoryId": "342", 
+    "categoryName": "province"
+  }
+]

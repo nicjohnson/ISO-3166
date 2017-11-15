@@ -1,0 +1,90 @@
+[
+  {
+    "alpha3": "VU-SEE", 
+    "name": "Sh\u00e9fa", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-MAP", 
+    "name": "Malampa", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-MAP", 
+    "name": "Malampa", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-PAM", 
+    "name": "P\u00e9nama", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-PAM", 
+    "name": "P\u00e9nama", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-SAM", 
+    "name": "Sanma", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-SAM", 
+    "name": "Sanma", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-TOB", 
+    "name": "Torba", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-TOB", 
+    "name": "Torba", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-TAE", 
+    "name": "Taf\u00e9a", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "VU-TAE", 
+    "name": "Taf\u00e9a", 
+    "countryAlpha3": "VUT", 
+    "countryAlpha2": "VU", 
+    "categoryId": "170", 
+    "categoryName": "province"
+  }
+]

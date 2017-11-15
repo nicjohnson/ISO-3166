@@ -1,0 +1,26 @@
+[
+  {
+    "alpha3": "FM-PNI", 
+    "name": "Pohnpei", 
+    "countryAlpha3": "FSM", 
+    "countryAlpha2": "FM", 
+    "categoryId": "181", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "FM-KSA", 
+    "name": "Kosrae", 
+    "countryAlpha3": "FSM", 
+    "countryAlpha2": "FM", 
+    "categoryId": "181", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "FM-YAP", 
+    "name": "Yap", 
+    "countryAlpha3": "FSM", 
+    "countryAlpha2": "FM", 
+    "categoryId": "181", 
+    "categoryName": "state"
+  }
+]

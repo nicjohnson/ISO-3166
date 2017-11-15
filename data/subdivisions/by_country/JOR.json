@@ -1,0 +1,90 @@
+[
+  {
+    "alpha3": "JO-AZ", 
+    "name": "Az Zarq\u0101\u2019", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-IR", 
+    "name": "Irbid", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-MN", 
+    "name": "Ma\u2018\u0101n", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-AJ", 
+    "name": "\u2018Ajl\u016bn", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-MA", 
+    "name": "Al Mafraq", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-AM", 
+    "name": "Al \u2018A\u0305\u015fimah", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-AT", 
+    "name": "A\u0163 \u0162af\u012blah", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-JA", 
+    "name": "Jarash", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-KA", 
+    "name": "Al Karak", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-BA", 
+    "name": "Al Balq\u0101\u2019", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "JO-MD", 
+    "name": "M\u0101dab\u0101", 
+    "countryAlpha3": "JOR", 
+    "countryAlpha2": "JO", 
+    "categoryId": "420", 
+    "categoryName": "governorate"
+  }
+]

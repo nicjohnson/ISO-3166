@@ -1,0 +1,82 @@
+[
+  {
+    "alpha3": "MZ-I", 
+    "name": "Inhambane", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-A", 
+    "name": "Niassa", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-L", 
+    "name": "Maputo", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-Q", 
+    "name": "Zamb\u00e9zia", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-S", 
+    "name": "Sofala", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-B", 
+    "name": "Manica", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-T", 
+    "name": "Tete", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-P", 
+    "name": "Cabo Delgado", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-N", 
+    "name": "Nampula", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MZ-G", 
+    "name": "Gaza", 
+    "countryAlpha3": "MOZ", 
+    "countryAlpha2": "MZ", 
+    "categoryId": "281", 
+    "categoryName": "province"
+  }
+]

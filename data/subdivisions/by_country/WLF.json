@@ -1,0 +1,18 @@
+[
+  {
+    "alpha3": "WF-SG", 
+    "name": "Sigave", 
+    "countryAlpha3": "WLF", 
+    "countryAlpha2": "WF", 
+    "categoryId": "464", 
+    "categoryName": "administrative precinct"
+  }, 
+  {
+    "alpha3": "WF-UV", 
+    "name": "Uvea", 
+    "countryAlpha3": "WLF", 
+    "countryAlpha2": "WF", 
+    "categoryId": "464", 
+    "categoryName": "administrative precinct"
+  }
+]

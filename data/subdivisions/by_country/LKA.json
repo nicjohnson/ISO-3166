@@ -1,0 +1,810 @@
+[
+  {
+    "alpha3": "LK-11", 
+    "name": "K\u014f\u1e37amba", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-11", 
+    "name": "K\u014fl\u032eumpu", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-51", 
+    "name": "Batticaloa", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-51", 
+    "name": "Ma\u1e6d\u1e6dakka\u1e37appu", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-51", 
+    "name": "Ma\u1e0dakalapuva", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-31", 
+    "name": "Galle", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-31", 
+    "name": "K\u0101li", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-31", 
+    "name": "G\u0101lla", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-12", 
+    "name": "Gampaha", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-12", 
+    "name": "Kampah\u0101", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-12", 
+    "name": "Gampaha", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-33", 
+    "name": "Hambantota", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-33", 
+    "name": "Amp\u0101nt\u014d\u1e6d\u1e6dai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-33", 
+    "name": "Hambant\u014f\u1e6da", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-41", 
+    "name": "Jaffna", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-41", 
+    "name": "Y\u0101l\u032epp\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-41", 
+    "name": "Y\u0101panaya", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-62", 
+    "name": "Puttalam", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-62", 
+    "name": "Puttalama", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-62", 
+    "name": "Putta\u1e37am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-91", 
+    "name": "Ratnapura", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-91", 
+    "name": "Iratti\u1e49apuri", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-91", 
+    "name": "Ratnapura", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-44", 
+    "name": "Vavuniya", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-44", 
+    "name": "Vavu\u1e49iy\u0101", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-44", 
+    "name": "Vavuniy\u0101va", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-53", 
+    "name": "Trincomalee", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-53", 
+    "name": "Tiruk\u014f\u1e47amalai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-53", 
+    "name": "Triku\u1e47\u0101malaya", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-45", 
+    "name": "Mullaittivu", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-45", 
+    "name": "Mulativ", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-45", 
+    "name": "Mullaitt\u012bvu", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-82", 
+    "name": "Monaragala", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-82", 
+    "name": "M\u014f\u1e49ar\u0101kalai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-82", 
+    "name": "M\u014f\u1e47ar\u0101gala", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-23", 
+    "name": "Nuwara Eliya", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-23", 
+    "name": "Nuvara \u0114liya", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-23", 
+    "name": "Nuvar\u0115liy\u0101", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-72", 
+    "name": "Polonnaruwa", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-72", 
+    "name": "P\u014fla\u1e49\u1e49a\u1e5buvai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-72", 
+    "name": "P\u014f\u1e37\u014fnnaruva", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-52", 
+    "name": "Ampara", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-52", 
+    "name": "Amp\u0101\u1e5fai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-52", 
+    "name": "Amp\u0101ra", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-81", 
+    "name": "Badulla", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-81", 
+    "name": "Patu\u1e37ai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-81", 
+    "name": "Badulla", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-71", 
+    "name": "Anuradhapura", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-71", 
+    "name": "Anur\u0101dhapura", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-71", 
+    "name": "Anur\u0101tapuram", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-42", 
+    "name": "Kilinochchi", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-42", 
+    "name": "Kilin\u014fchchi", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-42", 
+    "name": "Ki\u1e37inochchi", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-92", 
+    "name": "Kegalla", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-92", 
+    "name": "K\u00e6galla", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-92", 
+    "name": "Kek\u0101lai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-13", 
+    "name": "Kalutara", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-13", 
+    "name": "Ka\u1e37utara", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-13", 
+    "name": "Ka\u1e37uttu\u1e5fai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-21", 
+    "name": "Kandy", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-21", 
+    "name": "Mahanuvara", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-21", 
+    "name": "Ka\u1e47\u1e6di", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-61", 
+    "name": "Kurunegala", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-61", 
+    "name": "Kuru\u1e47\u00e6gala", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-61", 
+    "name": "Kurun\u0101kal", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-43", 
+    "name": "Mannar", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-43", 
+    "name": "Mann\u0101rama", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-43", 
+    "name": "Ma\u1e49\u1e49\u0101r", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-32", 
+    "name": "Matara", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-32", 
+    "name": "M\u0101tta\u1e5bai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-32", 
+    "name": "M\u0101tara", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-22", 
+    "name": "Matale", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-22", 
+    "name": "M\u0101tta\u1e37ai", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-22", 
+    "name": "M\u0101tale", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "421", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LK-2", 
+    "name": "Central Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-2", 
+    "name": "Mattiya m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-2", 
+    "name": "Madhyama pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-3", 
+    "name": "Southern Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-3", 
+    "name": "Daku\u1e47u pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-3", 
+    "name": "T\u0115\u1e49 m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-8", 
+    "name": "Uva Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-8", 
+    "name": "\u016av\u0101 m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-8", 
+    "name": "\u016ava pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-9", 
+    "name": "Sabaragamuwa Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-9", 
+    "name": "Chappirakamuva m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-9", 
+    "name": "Sabaragamuva pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-6", 
+    "name": "North Western Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-6", 
+    "name": "Vayamba pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-6", 
+    "name": "Va\u1e6damel m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-7", 
+    "name": "North Central Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-7", 
+    "name": "Va\u1e6damattiya m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-7", 
+    "name": "Uturum\u00e6\u0306da pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-1", 
+    "name": "Western Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-1", 
+    "name": "Basn\u0101hira pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-1", 
+    "name": "Mel m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-4", 
+    "name": "Northern Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-4", 
+    "name": "Uturu pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-4", 
+    "name": "Va\u1e6dakku m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-5", 
+    "name": "Eastern Province", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-5", 
+    "name": "N\u00e6\u0306g\u0115nahira pa\u1e37\u0101ta", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LK-5", 
+    "name": "Kil\u032eakku m\u0101k\u0101\u1e47am", 
+    "countryAlpha3": "LKA", 
+    "countryAlpha2": "LK", 
+    "categoryId": "286", 
+    "categoryName": "province"
+  }
+]

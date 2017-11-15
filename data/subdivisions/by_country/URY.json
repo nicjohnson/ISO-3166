@@ -1,0 +1,146 @@
+[
+  {
+    "alpha3": "UY-MO", 
+    "name": "Montevideo", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-TT", 
+    "name": "Treinta y Tres", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-CO", 
+    "name": "Colonia", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-LA", 
+    "name": "Lavalleja", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-RN", 
+    "name": "R\u00edo Negro", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-SA", 
+    "name": "Salto", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-DU", 
+    "name": "Durazno", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-FD", 
+    "name": "Florida", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-FS", 
+    "name": "Flores", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-RV", 
+    "name": "Rivera", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-CL", 
+    "name": "Cerro Largo", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-MA", 
+    "name": "Maldonado", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-RO", 
+    "name": "Rocha", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-TA", 
+    "name": "Tacuaremb\u00f3", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-SJ", 
+    "name": "San Jos\u00e9", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-AR", 
+    "name": "Artigas", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-PA", 
+    "name": "Paysand\u00fa", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "UY-SO", 
+    "name": "Soriano", 
+    "countryAlpha3": "URY", 
+    "countryAlpha2": "UY", 
+    "categoryId": "125", 
+    "categoryName": "department"
+  }
+]

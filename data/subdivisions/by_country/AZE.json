@@ -1,0 +1,618 @@
+[
+  {
+    "alpha3": "AZ-SA", 
+    "name": "\u015e\u0259ki", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-YE", 
+    "name": "Yevlax", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-BA", 
+    "name": "Bak\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-SR", 
+    "name": "\u015eirvan", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-XA", 
+    "name": "Xank\u0259ndi", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-GA", 
+    "name": "G\u0259nc\u0259", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-LA", 
+    "name": "L\u0259nk\u0259ran", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-SM", 
+    "name": "Sumqay\u0131t", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-MI", 
+    "name": "Ming\u0259\u00e7evir", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-NV", 
+    "name": "Nax\u00e7\u0131van", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "108", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "AZ-NX", 
+    "name": "Nax\u00e7\u0131van", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "357", 
+    "categoryName": "autonomous republic"
+  }, 
+  {
+    "alpha3": "AZ-GOR", 
+    "name": "Goranboy", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QBI", 
+    "name": "Qubadl\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SMI", 
+    "name": "\u015eamax\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-TOV", 
+    "name": "Tovuz", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-ZAR", 
+    "name": "Z\u0259rdab", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-ABS", 
+    "name": "Ab\u015feron", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-BAL", 
+    "name": "Balak\u0259n", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-BAR", 
+    "name": "B\u0259rd\u0259", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-GOY", 
+    "name": "G\u00f6y\u00e7ay", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-MAS", 
+    "name": "Masall\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SKR", 
+    "name": "\u015e\u0259mkir", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-XIZ", 
+    "name": "X\u0131z\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-AGC", 
+    "name": "A\u011fcab\u0259di", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-AGU", 
+    "name": "A\u011fsu", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-BIL", 
+    "name": "Bil\u0259suvar", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QAB", 
+    "name": "Q\u0259b\u0259l\u0259", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SMX", 
+    "name": "Samux", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-XAC", 
+    "name": "Xa\u00e7maz", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-YAR", 
+    "name": "Yard\u0131ml\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-ZAN", 
+    "name": "Z\u0259ngilan", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-AGA", 
+    "name": "A\u011fstafa", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-FUZ", 
+    "name": "F\u00fczuli", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-GAD", 
+    "name": "G\u0259d\u0259b\u0259y", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-LAC", 
+    "name": "La\u00e7\u0131n", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QAX", 
+    "name": "Qax", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-AGM", 
+    "name": "A\u011fdam", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-DAS", 
+    "name": "Da\u015fk\u0259s\u0259n", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-GYG", 
+    "name": "G\u00f6yg\u00f6l", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-LAN", 
+    "name": "L\u0259nk\u0259ran", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-OGU", 
+    "name": "O\u011fuz", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QBA", 
+    "name": "Quba", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QUS", 
+    "name": "Qusar", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAB", 
+    "name": "Sabirabad", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-CAB", 
+    "name": "C\u0259bray\u0131l", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-KUR", 
+    "name": "K\u00fcrd\u0259mir", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAL", 
+    "name": "Salyan", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SBN", 
+    "name": "\u015eabran", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-UCA", 
+    "name": "Ucar", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-XCI", 
+    "name": "Xocal\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-YEV", 
+    "name": "Yevlax", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-AGS", 
+    "name": "A\u011fda\u015f", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-AST", 
+    "name": "Astara", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-BEY", 
+    "name": "Beyl\u0259qan", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-HAC", 
+    "name": "Hac\u0131qabul", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-IMI", 
+    "name": "\u0130mi\u015fli", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-ISM", 
+    "name": "\u0130smay\u0131ll\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-LER", 
+    "name": "Lerik", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-NEF", 
+    "name": "Neft\u00e7ala", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-CUL", 
+    "name": "Culfa", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-ORD", 
+    "name": "Ordubad", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAD", 
+    "name": "S\u0259d\u0259r\u0259k", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAH", 
+    "name": "\u015eahbuz", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-BAB", 
+    "name": "Bab\u0259k", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAR", 
+    "name": "\u015e\u0259rur", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-KAN", 
+    "name": "K\u01ddng\u01ddrli", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QAZ", 
+    "name": "Qazax", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAK", 
+    "name": "\u015e\u0259ki", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SAT", 
+    "name": "Saatl\u0131", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-TAR", 
+    "name": "T\u0259rt\u0259r", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-XVD", 
+    "name": "Xocav\u0259nd", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-CAL", 
+    "name": "C\u0259lilabad", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-KAL", 
+    "name": "K\u0259lb\u0259c\u0259r", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-QOB", 
+    "name": "Qobustan", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SIY", 
+    "name": "Siy\u0259z\u0259n", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-SUS", 
+    "name": "\u015eu\u015fa", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }, 
+  {
+    "alpha3": "AZ-ZAQ", 
+    "name": "Zaqatala", 
+    "countryAlpha3": "AZE", 
+    "countryAlpha2": "AZ", 
+    "categoryId": "325", 
+    "categoryName": "rayon"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "alpha3": "MH-T", 
+    "name": "Ratak chain", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "162", 
+    "categoryName": "chain (of islands)"
+  }, 
+  {
+    "alpha3": "MH-L", 
+    "name": "Ralik chain", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "162", 
+    "categoryName": "chain (of islands)"
+  }, 
+  {
+    "alpha3": "MH-L", 
+    "name": "Ralik chain", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "162", 
+    "categoryName": "chain (of islands)"
+  }, 
+  {
+    "alpha3": "MH-LIK", 
+    "name": "Likiep", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-LIK", 
+    "name": "Likiep", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MAJ", 
+    "name": "Majuro", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MAJ", 
+    "name": "Majuro", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ARN", 
+    "name": "Arno", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ARN", 
+    "name": "Arno", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-AUR", 
+    "name": "Aur", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-AUR", 
+    "name": "Aur", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MAL", 
+    "name": "Maloelap", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MAL", 
+    "name": "Maloelap", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MEJ", 
+    "name": "Mejit", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MEJ", 
+    "name": "Mejit", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MIL", 
+    "name": "Mili", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-MIL", 
+    "name": "Mili", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-WTJ", 
+    "name": "Wotje", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-WTJ", 
+    "name": "Wotje", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ALK", 
+    "name": "Ailuk", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ALK", 
+    "name": "Ailuk", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-UTI", 
+    "name": "Utrik", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-UTI", 
+    "name": "Utrik", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-KWA", 
+    "name": "Kwajalein", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-KWA", 
+    "name": "Kwajalein", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ALL", 
+    "name": "Ailinglaplap", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ALL", 
+    "name": "Ailinglaplap", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-KIL", 
+    "name": "Bikini and Kili", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-KIL", 
+    "name": "Bikini and Kili", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-LAE", 
+    "name": "Lae", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-LAE", 
+    "name": "Lae", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-NMU", 
+    "name": "Namu", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-NMU", 
+    "name": "Namu", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-JAB", 
+    "name": "Jabat", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-JAB", 
+    "name": "Jabat", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-JAL", 
+    "name": "Jaluit", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-JAL", 
+    "name": "Jaluit", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-LIB", 
+    "name": "Lib", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-LIB", 
+    "name": "Lib", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-UJA", 
+    "name": "Ujae", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-UJA", 
+    "name": "Ujae", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-EBO", 
+    "name": "Ebon", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-EBO", 
+    "name": "Ebon", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ENI", 
+    "name": "Enewetak and Ujelang", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-ENI", 
+    "name": "Enewetak and Ujelang", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-WTH", 
+    "name": "Wotho", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-WTH", 
+    "name": "Wotho", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-NMK", 
+    "name": "Namdrik", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-NMK", 
+    "name": "Namdrik", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-RON", 
+    "name": "Rongelap", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MH-RON", 
+    "name": "Rongelap", 
+    "countryAlpha3": "MHL", 
+    "countryAlpha2": "MH", 
+    "categoryId": "378", 
+    "categoryName": "municipality"
+  }
+]

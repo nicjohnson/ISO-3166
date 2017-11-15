@@ -1,0 +1,90 @@
+[
+  {
+    "alpha3": "CY-03", 
+    "name": "Larnaka", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-06", 
+    "name": "Keryneia", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-06", 
+    "name": "Girne", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-01", 
+    "name": "Lefkosia", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-01", 
+    "name": "Lefko\u015fa", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-04", 
+    "name": "Gazima\u011fusa", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-04", 
+    "name": "Ammochostos", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-05", 
+    "name": "Pafos", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-05", 
+    "name": "Baf", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-02", 
+    "name": "Leymosun", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CY-02", 
+    "name": "Lemesos", 
+    "countryAlpha3": "CYP", 
+    "countryAlpha2": "CY", 
+    "categoryId": "266", 
+    "categoryName": "district"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "alpha3": "RW-01", 
+    "name": "Ville de Kigali", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "267", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "RW-01", 
+    "name": "City of Kigali", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "267", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "RW-05", 
+    "name": "Amajyepfo", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-05", 
+    "name": "Southern", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-05", 
+    "name": "Sud", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-03", 
+    "name": "Amajyaruguru", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-03", 
+    "name": "Nord", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-03", 
+    "name": "Northern", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-02", 
+    "name": "Iburasirazuba", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-02", 
+    "name": "Est", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-02", 
+    "name": "Eastern", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-04", 
+    "name": "Western", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-04", 
+    "name": "Iburengerazuba", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-04", 
+    "name": "Ouest", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }
+]

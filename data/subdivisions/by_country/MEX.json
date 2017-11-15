@@ -1,0 +1,250 @@
+[
+  {
+    "alpha3": "MX-AGU", 
+    "name": "Aguascalientes", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-BCN", 
+    "name": "Baja California", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-CAM", 
+    "name": "Campeche", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-GUA", 
+    "name": "Guanajuato", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-MOR", 
+    "name": "Morelos", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-BCS", 
+    "name": "Baja California Sur", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-GRO", 
+    "name": "Guerrero", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-HID", 
+    "name": "Hidalgo", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-SON", 
+    "name": "Sonora", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-ZAC", 
+    "name": "Zacatecas", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-COA", 
+    "name": "Coahuila de Zaragoza", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-COL", 
+    "name": "Colima", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-DUR", 
+    "name": "Durango", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-QUE", 
+    "name": "Quer\u00e9taro", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-SIN", 
+    "name": "Sinaloa", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-VER", 
+    "name": "Veracruz de Ignacio de la Llave", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-CHP", 
+    "name": "Chiapas", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-JAL", 
+    "name": "Jalisco", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-PUE", 
+    "name": "Puebla", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-ROO", 
+    "name": "Quintana Roo", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-TLA", 
+    "name": "Tlaxcala", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-MEX", 
+    "name": "M\u00e9xico", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-NAY", 
+    "name": "Nayarit", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-OAX", 
+    "name": "Oaxaca", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-SLP", 
+    "name": "San Luis Potos\u00ed", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-TAB", 
+    "name": "Tabasco", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-CHH", 
+    "name": "Chihuahua", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-NLE", 
+    "name": "Nuevo Le\u00f3n", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-TAM", 
+    "name": "Tamaulipas", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-YUC", 
+    "name": "Yucat\u00e1n", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-MIC", 
+    "name": "Michoac\u00e1n de Ocampo", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }
+]

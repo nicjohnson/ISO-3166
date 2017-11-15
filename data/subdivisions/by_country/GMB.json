@@ -1,0 +1,42 @@
+[
+  {
+    "alpha3": "GM-U", 
+    "name": "Upper River", 
+    "countryAlpha3": "GMB", 
+    "countryAlpha2": "GM", 
+    "categoryId": "225", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "GM-W", 
+    "name": "Western", 
+    "countryAlpha3": "GMB", 
+    "countryAlpha2": "GM", 
+    "categoryId": "225", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "GM-L", 
+    "name": "Lower River", 
+    "countryAlpha3": "GMB", 
+    "countryAlpha2": "GM", 
+    "categoryId": "225", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "GM-N", 
+    "name": "North Bank", 
+    "countryAlpha3": "GMB", 
+    "countryAlpha2": "GM", 
+    "categoryId": "225", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "GM-B", 
+    "name": "Banjul", 
+    "countryAlpha3": "GMB", 
+    "countryAlpha2": "GM", 
+    "categoryId": "442", 
+    "categoryName": "city"
+  }
+]

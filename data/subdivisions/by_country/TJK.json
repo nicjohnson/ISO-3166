@@ -1,0 +1,34 @@
+[
+  {
+    "alpha3": "TJ-DU", 
+    "name": "Dushanbe", 
+    "countryAlpha3": "TJK", 
+    "countryAlpha2": "TJ", 
+    "categoryId": "458", 
+    "categoryName": "capital territory"
+  }, 
+  {
+    "alpha3": "TJ-KT", 
+    "name": "Khatlon", 
+    "countryAlpha3": "TJK", 
+    "countryAlpha2": "TJ", 
+    "categoryId": "145", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TJ-SU", 
+    "name": "Sughd", 
+    "countryAlpha3": "TJK", 
+    "countryAlpha2": "TJ", 
+    "categoryId": "145", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TJ-GB", 
+    "name": "K\u016dhistoni Badakhshon", 
+    "countryAlpha3": "TJK", 
+    "countryAlpha2": "TJ", 
+    "categoryId": "315", 
+    "categoryName": "autonomous region"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "alpha3": "SY-HL", 
+    "name": "\u1e28alab", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-HM", 
+    "name": "\u1e28am\u0101h", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-DI", 
+    "name": "Dimashq", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-ID", 
+    "name": "Idlib", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-DY", 
+    "name": "Dayr az Zawr", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-LA", 
+    "name": "Al L\u0101dhiq\u012byah", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-RA", 
+    "name": "Ar Raqqah", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-QU", 
+    "name": "Al Qunay\u0163irah", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-SU", 
+    "name": "As Suwayd\u0101'", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-DR", 
+    "name": "Dar'\u0101", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-HI", 
+    "name": "\u1e28im\u015f", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-RD", 
+    "name": "R\u012bf Dimashq", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SY-TA", 
+    "name": "\u0162ar\u0163\u016bs", 
+    "countryAlpha3": "SYR", 
+    "countryAlpha2": "SY", 
+    "categoryId": "251", 
+    "categoryName": "province"
+  }
+]

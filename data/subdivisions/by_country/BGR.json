@@ -1,0 +1,218 @@
+[
+  {
+    "alpha3": "BG-06", 
+    "name": "Vratsa", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-07", 
+    "name": "Gabrovo", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-08", 
+    "name": "Dobrich", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-26", 
+    "name": "Haskovo", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-04", 
+    "name": "Veliko Tarnovo", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-09", 
+    "name": "Kardzhali", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-15", 
+    "name": "Pleven", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-16", 
+    "name": "Plovdiv", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-28", 
+    "name": "Yambol", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-13", 
+    "name": "Pazardzhik", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-18", 
+    "name": "Ruse", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-21", 
+    "name": "Smolyan", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-22", 
+    "name": "Sofia (stolitsa)", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-27", 
+    "name": "Shumen", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-02", 
+    "name": "Burgas", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-14", 
+    "name": "Pernik", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-19", 
+    "name": "Silistra", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-25", 
+    "name": "Targovishte", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-03", 
+    "name": "Varna", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-24", 
+    "name": "Stara Zagora", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-01", 
+    "name": "Blagoevgrad", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-10", 
+    "name": "Kyustendil", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-12", 
+    "name": "Montana", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-20", 
+    "name": "Sliven", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-23", 
+    "name": "Sofia", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-11", 
+    "name": "Lovech", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BG-17", 
+    "name": "Razgrad", 
+    "countryAlpha3": "BGR", 
+    "countryAlpha2": "BG", 
+    "categoryId": "361", 
+    "categoryName": "region"
+  }
+]

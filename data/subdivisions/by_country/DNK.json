@@ -1,0 +1,34 @@
+[
+  {
+    "alpha3": "DK-82", 
+    "name": "Midtjylland", 
+    "countryAlpha3": "DNK", 
+    "countryAlpha2": "DK", 
+    "categoryId": "319", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DK-85", 
+    "name": "Sj\u00e6lland", 
+    "countryAlpha3": "DNK", 
+    "countryAlpha2": "DK", 
+    "categoryId": "319", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DK-81", 
+    "name": "Nordjylland", 
+    "countryAlpha3": "DNK", 
+    "countryAlpha2": "DK", 
+    "categoryId": "319", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DK-84", 
+    "name": "Hovedstaden", 
+    "countryAlpha3": "DNK", 
+    "countryAlpha2": "DK", 
+    "categoryId": "319", 
+    "categoryName": "region"
+  }
+]

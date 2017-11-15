@@ -1,0 +1,74 @@
+[
+  {
+    "alpha3": "SS-JG", 
+    "name": "Jonglei", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-LK", 
+    "name": "Lakes", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-BW", 
+    "name": "Western Bahr el  Ghazal", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-NU", 
+    "name": "Upper Nile", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-UY", 
+    "name": "Unity", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-BN", 
+    "name": "Northern Bahr el Ghazal", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-WR", 
+    "name": "Warrap", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-EE", 
+    "name": "Eastern Equatoria", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SS-EC", 
+    "name": "Central Equatoria", 
+    "countryAlpha3": "SSD", 
+    "countryAlpha2": "SS", 
+    "categoryId": "306", 
+    "categoryName": "state"
+  }
+]

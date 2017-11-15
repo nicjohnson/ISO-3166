@@ -1,0 +1,114 @@
+[
+  {
+    "alpha3": "LR-GB", 
+    "name": "Grand Bassa", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-GG", 
+    "name": "Grand Gedeh", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-LO", 
+    "name": "Lofa", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-RI", 
+    "name": "River Cess", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-CM", 
+    "name": "Grand Cape Mount", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-GP", 
+    "name": "Gbarpolu", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-MG", 
+    "name": "Margibi", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-BG", 
+    "name": "Bong", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-MY", 
+    "name": "Maryland", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-NI", 
+    "name": "Nimba", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-SI", 
+    "name": "Sinoe", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-RG", 
+    "name": "River Gee", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-MO", 
+    "name": "Montserrado", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LR-GK", 
+    "name": "Grand Kru", 
+    "countryAlpha3": "LBR", 
+    "countryAlpha2": "LR", 
+    "categoryId": "377", 
+    "categoryName": "county"
+  }
+]

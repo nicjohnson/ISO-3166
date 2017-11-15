@@ -1,0 +1,34 @@
+[
+  {
+    "alpha3": "SG-02", 
+    "name": "North East", 
+    "countryAlpha3": "SGP", 
+    "countryAlpha2": "SG", 
+    "categoryId": "215", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SG-03", 
+    "name": "North West", 
+    "countryAlpha3": "SGP", 
+    "countryAlpha2": "SG", 
+    "categoryId": "215", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SG-04", 
+    "name": "South East", 
+    "countryAlpha3": "SGP", 
+    "countryAlpha2": "SG", 
+    "categoryId": "215", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SG-01", 
+    "name": "Central Singapore", 
+    "countryAlpha3": "SGP", 
+    "countryAlpha2": "SG", 
+    "categoryId": "215", 
+    "categoryName": "district"
+  }
+]

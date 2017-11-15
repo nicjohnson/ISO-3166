@@ -1,0 +1,58 @@
+[
+  {
+    "alpha3": "SZ-HH", 
+    "name": "Hhohho", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SZ-MA", 
+    "name": "Manzini", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SZ-MA", 
+    "name": "Manzini", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SZ-SH", 
+    "name": "Shiselweni", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SZ-SH", 
+    "name": "Shiselweni", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SZ-LU", 
+    "name": "Lubombo", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SZ-LU", 
+    "name": "Lubombo", 
+    "countryAlpha3": "SWZ", 
+    "countryAlpha2": "SZ", 
+    "categoryId": "166", 
+    "categoryName": "district"
+  }
+]

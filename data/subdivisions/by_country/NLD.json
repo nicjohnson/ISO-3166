@@ -1,0 +1,138 @@
+[
+  {
+    "alpha3": "NL-AW", 
+    "name": "Aruba (see also separate country code entry under AW)", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "398", 
+    "categoryName": "country"
+  }, 
+  {
+    "alpha3": "NL-SX", 
+    "name": "Sint Maarten (see also separate country code entry under SX)", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "398", 
+    "categoryName": "country"
+  }, 
+  {
+    "alpha3": "NL-BQ3", 
+    "name": "Sint Eustatius (see also separate country code entry under BQ)", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "413", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "NL-BQ1", 
+    "name": "Bonaire (see also separate country code entry under BQ)", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "413", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "NL-BQ2", 
+    "name": "Saba (see also separate country code entry under BQ)", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "413", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "NL-NB", 
+    "name": "Noord-Brabant", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-NH", 
+    "name": "Noord-Holland", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-ZH", 
+    "name": "Zuid-Holland", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-GR", 
+    "name": "Groningen", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-LI", 
+    "name": "Limburg", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-OV", 
+    "name": "Overijssel", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-DR", 
+    "name": "Drenthe", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-GE", 
+    "name": "Gelderland", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-UT", 
+    "name": "Utrecht", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-FL", 
+    "name": "Flevoland", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-FR", 
+    "name": "Frysl\u00e2n", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "NL-ZE", 
+    "name": "Zeeland", 
+    "countryAlpha3": "NLD", 
+    "countryAlpha2": "NL", 
+    "categoryId": "387", 
+    "categoryName": "province"
+  }
+]

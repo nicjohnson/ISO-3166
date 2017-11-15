@@ -1,0 +1,66 @@
+[
+  {
+    "alpha3": "BO-L", 
+    "name": "La Paz", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-B", 
+    "name": "El Beni", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-O", 
+    "name": "Oruro", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-S", 
+    "name": "Santa Cruz", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-P", 
+    "name": "Potos\u00ed", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-T", 
+    "name": "Tarija", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-H", 
+    "name": "Chuquisaca", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BO-N", 
+    "name": "Pando", 
+    "countryAlpha3": "BOL", 
+    "countryAlpha2": "BO", 
+    "categoryId": "231", 
+    "categoryName": "department"
+  }
+]

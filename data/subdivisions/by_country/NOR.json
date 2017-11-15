@@ -1,0 +1,346 @@
+[
+  {
+    "alpha3": "NO-11", 
+    "name": "Rogaland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-15", 
+    "name": "M\u00f8re og Romsdal", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-15", 
+    "name": "M\u00f8re og Romsdal", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-04", 
+    "name": "Hedmark", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-04", 
+    "name": "Hedmark", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-12", 
+    "name": "Hordaland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-12", 
+    "name": "Hordaland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-14", 
+    "name": "Sogn og Fjordane", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-14", 
+    "name": "Sogn og Fjordane", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-02", 
+    "name": "Akershus", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-02", 
+    "name": "Akershus", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-03", 
+    "name": "Oslo", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-03", 
+    "name": "Oslo", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-05", 
+    "name": "Oppland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-05", 
+    "name": "Oppland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-07", 
+    "name": "Vestfold", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-07", 
+    "name": "Vestfold", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-20", 
+    "name": "Finnm\u00e1rku", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-20", 
+    "name": "Finnmark", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-20", 
+    "name": "Finnmark", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-01", 
+    "name": "\u00d8stfold", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-01", 
+    "name": "\u00d8stfold", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-10", 
+    "name": "Vest-Agder", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-10", 
+    "name": "Vest-Agder", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-19", 
+    "name": "Romsa", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-19", 
+    "name": "Troms", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-19", 
+    "name": "Troms", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-08", 
+    "name": "Telemark", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-08", 
+    "name": "Telemark", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-06", 
+    "name": "Buskerud", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-06", 
+    "name": "Buskerud", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-09", 
+    "name": "Aust-Agder", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-09", 
+    "name": "Aust-Agder", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-16", 
+    "name": "S\u00f8r-Tr\u00f8ndelag", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-16", 
+    "name": "S\u00f8r-Tr\u00f8ndelag", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-17", 
+    "name": "Nord-Tr\u00f8ndelag", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-17", 
+    "name": "Nord-Tr\u00f8ndelag", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-18", 
+    "name": "Nordland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-18", 
+    "name": "Nordland", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "257", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "NO-22", 
+    "name": "Jan Mayen (Arctic Region) (see also separate country code entry under SJ)", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "345", 
+    "categoryName": "arctic region"
+  }, 
+  {
+    "alpha3": "NO-22", 
+    "name": "Jan Mayen (Arctic Region) (see also separate country code entry under SJ)", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "345", 
+    "categoryName": "arctic region"
+  }, 
+  {
+    "alpha3": "NO-21", 
+    "name": "Svalbard (Arctic Region) (see also separate country code entry under SJ)", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "345", 
+    "categoryName": "arctic region"
+  }, 
+  {
+    "alpha3": "NO-21", 
+    "name": "Svalbard (Arctic Region) (see also separate country code entry under SJ)", 
+    "countryAlpha3": "NOR", 
+    "countryAlpha2": "NO", 
+    "categoryId": "345", 
+    "categoryName": "arctic region"
+  }
+]

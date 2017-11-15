@@ -1,0 +1,154 @@
+[
+  {
+    "alpha3": "CM-SU", 
+    "name": "Sud", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-SW", 
+    "name": "Sud-Ouest", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-SW", 
+    "name": "South-West", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-NW", 
+    "name": "Nord-Ouest", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-NW", 
+    "name": "North-West", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-OU", 
+    "name": "West", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-OU", 
+    "name": "Ouest", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-AD", 
+    "name": "Adamaoua", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-AD", 
+    "name": "Adamaoua", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-LT", 
+    "name": "Littoral", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-LT", 
+    "name": "Littoral", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-NO", 
+    "name": "Nord", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-NO", 
+    "name": "North", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-CE", 
+    "name": "Centre", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-CE", 
+    "name": "Centre", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-EN", 
+    "name": "Extr\u00eame-Nord", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-EN", 
+    "name": "Far North", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-ES", 
+    "name": "East", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-ES", 
+    "name": "Est", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }
+]

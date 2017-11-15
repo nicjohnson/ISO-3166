@@ -1,0 +1,250 @@
+[
+  {
+    "alpha3": "PS-KYS", 
+    "name": "Kh\u0101n Y\u016bnis", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-DEB", 
+    "name": "Deir El Balah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-DEB", 
+    "name": "Dayr al Bala\u1e29", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-QQA", 
+    "name": "Qalqilya", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-QQA", 
+    "name": "Qalq\u012blyah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-RFH", 
+    "name": "Rafah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-RFH", 
+    "name": "Rafa\u1e29", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-HBN", 
+    "name": "Hebron", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-HBN", 
+    "name": "Al Khal\u012bl", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-JEN", 
+    "name": "Jenin", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-JEN", 
+    "name": "Jan\u012bn", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-NGZ", 
+    "name": "North Gaza", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-NGZ", 
+    "name": "Sham\u0101l Ghazzah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-RBH", 
+    "name": "Ramallah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-RBH", 
+    "name": "R\u0101m All\u0101h wal B\u012brah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-TBS", 
+    "name": "Tubas", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-TBS", 
+    "name": "\u0162\u016bb\u0101s", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-GZA", 
+    "name": "Gaza", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-GZA", 
+    "name": "Ghazzah", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-JRH", 
+    "name": "Jericho and Al Aghwar", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-JRH", 
+    "name": "Ar\u012b\u1e29\u0101 wal Aghw\u0101r", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-NBS", 
+    "name": "Nablus", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-NBS", 
+    "name": "N\u0101blus", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-BTH", 
+    "name": "Bethlehem", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-BTH", 
+    "name": "Bayt La\u1e29m", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-JEM", 
+    "name": "Jerusalem", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-JEM", 
+    "name": "Al Quds", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-SLT", 
+    "name": "Salfit", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-SLT", 
+    "name": "Salf\u012bt", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-TKM", 
+    "name": "Tulkarm", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "PS-TKM", 
+    "name": "\u0162\u016blkarm", 
+    "countryAlpha3": "PSE", 
+    "countryAlpha2": "PS", 
+    "categoryId": "349", 
+    "categoryName": "governorate"
+  }
+]

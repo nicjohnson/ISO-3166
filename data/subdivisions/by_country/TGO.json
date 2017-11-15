@@ -1,0 +1,34 @@
+[
+  {
+    "alpha3": "TG-K", 
+    "name": "Kara", 
+    "countryAlpha3": "TGO", 
+    "countryAlpha2": "TG", 
+    "categoryId": "252", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TG-C", 
+    "name": "Centrale", 
+    "countryAlpha3": "TGO", 
+    "countryAlpha2": "TG", 
+    "categoryId": "252", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TG-P", 
+    "name": "Plateaux", 
+    "countryAlpha3": "TGO", 
+    "countryAlpha2": "TG", 
+    "categoryId": "252", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TG-S", 
+    "name": "Savannes", 
+    "countryAlpha3": "TGO", 
+    "countryAlpha2": "TG", 
+    "categoryId": "252", 
+    "categoryName": "region"
+  }
+]

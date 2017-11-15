@@ -1,0 +1,330 @@
+[
+  {
+    "alpha3": "RO-AR", 
+    "name": "Arad", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BT", 
+    "name": "Boto\u0219ani", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-CJ", 
+    "name": "Cluj", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-SB", 
+    "name": "Sibiu", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BH", 
+    "name": "Bihor", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-IF", 
+    "name": "Ilfov", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-IS", 
+    "name": "Ia\u0219i", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-VS", 
+    "name": "Vaslui", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-GL", 
+    "name": "Gala\u021bi", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-SM", 
+    "name": "Satu Mare", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-SV", 
+    "name": "Suceava", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-TR", 
+    "name": "Teleorman", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-VL", 
+    "name": "V\u00e2lcea", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-VN", 
+    "name": "Vrancea", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BR", 
+    "name": "Br\u0103ila", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-CT", 
+    "name": "Constan\u021ba", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-IL", 
+    "name": "Ialomi\u021ba", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-MH", 
+    "name": "Mehedin\u021bi", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-MM", 
+    "name": "Maramure\u0219", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-OT", 
+    "name": "Olt", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-PH", 
+    "name": "Prahova", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BZ", 
+    "name": "Buz\u0103u", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-DJ", 
+    "name": "Dolj", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-HD", 
+    "name": "Hunedoara", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-HR", 
+    "name": "Harghita", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-TM", 
+    "name": "Timi\u0219", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-AG", 
+    "name": "Arge\u0219", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BC", 
+    "name": "Bac\u0103u", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-GJ", 
+    "name": "Gorj", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-SJ", 
+    "name": "S\u0103laj", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BV", 
+    "name": "Bra\u0219ov", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-GR", 
+    "name": "Giurgiu", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-NT", 
+    "name": "Neam\u021b", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-TL", 
+    "name": "Tulcea", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-BN", 
+    "name": "Bistri\u021ba-N\u0103s\u0103ud", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-CL", 
+    "name": "C\u0103l\u0103ra\u0219i", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-CS", 
+    "name": "Cara\u0219-Severin", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-CV", 
+    "name": "Covasna", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-DB", 
+    "name": "D\u00e2mbovi\u021ba", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-MS", 
+    "name": "Mure\u0219", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "296", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "RO-B", 
+    "name": "Bucure\u0219ti", 
+    "countryAlpha3": "ROU", 
+    "countryAlpha2": "RO", 
+    "categoryId": "308", 
+    "categoryName": "municipality"
+  }
+]

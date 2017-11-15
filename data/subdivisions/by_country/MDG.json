@@ -1,0 +1,42 @@
+[
+  {
+    "alpha3": "MG-U", 
+    "name": "Toliara", 
+    "countryAlpha3": "MDG", 
+    "countryAlpha2": "MG", 
+    "categoryId": "213", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MG-T", 
+    "name": "Antananarivo", 
+    "countryAlpha3": "MDG", 
+    "countryAlpha2": "MG", 
+    "categoryId": "213", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MG-A", 
+    "name": "Toamasina", 
+    "countryAlpha3": "MDG", 
+    "countryAlpha2": "MG", 
+    "categoryId": "213", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MG-F", 
+    "name": "Fianarantsoa", 
+    "countryAlpha3": "MDG", 
+    "countryAlpha2": "MG", 
+    "categoryId": "213", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MG-M", 
+    "name": "Mahajanga", 
+    "countryAlpha3": "MDG", 
+    "countryAlpha2": "MG", 
+    "categoryId": "213", 
+    "categoryName": "province"
+  }
+]

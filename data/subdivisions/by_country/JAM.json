@@ -1,0 +1,106 @@
+[
+  {
+    "alpha3": "JM-13", 
+    "name": "Clarendon", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-01", 
+    "name": "Kingston", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-12", 
+    "name": "Manchester", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-14", 
+    "name": "Saint Catherine", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-10", 
+    "name": "Westmoreland", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-11", 
+    "name": "Saint Elizabeth", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-07", 
+    "name": "Trelawny", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-02", 
+    "name": "Saint Andrew", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-03", 
+    "name": "Saint Thomas", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-08", 
+    "name": "Saint James", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-09", 
+    "name": "Hanover", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-04", 
+    "name": "Portland", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "JM-05", 
+    "name": "Saint Mary", 
+    "countryAlpha3": "JAM", 
+    "countryAlpha2": "JM", 
+    "categoryId": "118", 
+    "categoryName": "parish"
+  }
+]

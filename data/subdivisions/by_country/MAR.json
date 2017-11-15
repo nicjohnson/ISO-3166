@@ -1,0 +1,626 @@
+[
+  {
+    "alpha3": "MA-RAB", 
+    "name": "Rabat", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-SKH", 
+    "name": "Skhirate-T\u00e9mara", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-SAL", 
+    "name": "Sal\u00e9", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-AOU", 
+    "name": "Aousserd (EH)", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-FES", 
+    "name": "F\u00e8s-Dar-Dbibegh", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-SYB", 
+    "name": "Sidi Youssef Ben Ali", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-MMN", 
+    "name": "Marrakech-Menara", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-MMD", 
+    "name": "Marrakech-Medina", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-TET", 
+    "name": "T\u00e9touan", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-FAH", 
+    "name": "Fahs-Beni Makada", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-TNG", 
+    "name": "Tanger-Assilah", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-MEK", 
+    "name": "Mekn\u00e8s", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-MOH", 
+    "name": "Mohammadia", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-CAS", 
+    "name": "Casablanca", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-AGD", 
+    "name": "Agadir-Ida-Outanane", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-INE", 
+    "name": "Inezgane-Ait Melloul", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "161", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "MA-04", 
+    "name": "L'Oriental", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-07", 
+    "name": "Rabat-Sal\u00e9-Zemmour-Zaer", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-16", 
+    "name": "Oued ed Dahab-Lagouira (EH)", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-05", 
+    "name": "F\u00e8s-Boulemane", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-11", 
+    "name": "Marrakech-Tensift-Al Haouz", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-15", 
+    "name": "La\u00e2youne-Boujdour-Sakia el Hamra", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-01", 
+    "name": "Tanger-T\u00e9touan", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-09", 
+    "name": "Chaouia-Ouardigha", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-02", 
+    "name": "Gharb-Chrarda-Beni Hssen", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-06", 
+    "name": "Mekn\u00e8s-Tafilalet", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-10", 
+    "name": "Doukkala-Abda", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-14", 
+    "name": "Guelmim-Es Semara", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-03", 
+    "name": "Taza-Al Hoceima-Taounate", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-08", 
+    "name": "Grand Casablanca", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-12", 
+    "name": "Tadla-Azilal", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-13", 
+    "name": "Sous-Massa-Draa", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "287", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MA-JRA", 
+    "name": "Jrada", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-FIG", 
+    "name": "Figuig", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-NAD", 
+    "name": "Nador", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TAI", 
+    "name": "Taourirt", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-BER", 
+    "name": "Berkane", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-KHE", 
+    "name": "Khemisset", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-OUD", 
+    "name": "Oued ed Dahab (EH)", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-SEF", 
+    "name": "Sefrou", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-BOM", 
+    "name": "Boulemane", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-MOU", 
+    "name": "Moulay Yacoub", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-ESI", 
+    "name": "Essaouira", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-HAO", 
+    "name": "Al Haouz", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-CHI", 
+    "name": "Chichaoua", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-KES", 
+    "name": "Kelaat es Sraghna", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-BOD", 
+    "name": "Boujdour (EH)", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-LAA", 
+    "name": "La\u00e2youne", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-LAR", 
+    "name": "Larache", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-CHE", 
+    "name": "Chefchaouen", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-KHO", 
+    "name": "Khouribga", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-SET", 
+    "name": "Settat", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-BES", 
+    "name": "Ben Slimane", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-KEN", 
+    "name": "K\u00e9nitra", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-SIK", 
+    "name": "Sidi Kacem", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-KHN", 
+    "name": "Khenifra", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-IFR", 
+    "name": "Ifrane", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-HAJ", 
+    "name": "El Hajeb", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-ERR", 
+    "name": "Errachidia", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-SAF", 
+    "name": "Safi", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-JDI", 
+    "name": "El Jadida", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TNT", 
+    "name": "Tan-Tan", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-GUE", 
+    "name": "Guelmim", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TAT", 
+    "name": "Tata", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-ASZ", 
+    "name": "Assa-Zag", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-ESM", 
+    "name": "Es Smara (EH)", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TAZ", 
+    "name": "Taza", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-HOC", 
+    "name": "Al Hoce\u00efma", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TAO", 
+    "name": "Taounate", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-MED", 
+    "name": "M\u00e9diouna", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-NOU", 
+    "name": "Nouaceur", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-AZI", 
+    "name": "Azilal", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-BEM", 
+    "name": "Beni Mellal", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TAR", 
+    "name": "Taroudant", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-TIZ", 
+    "name": "Tiznit", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-CHT", 
+    "name": "Chtouka-Ait Baha", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-OUA", 
+    "name": "Ouarzazate", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MA-ZAG", 
+    "name": "Zagora", 
+    "countryAlpha3": "MAR", 
+    "countryAlpha2": "MA", 
+    "categoryId": "249", 
+    "categoryName": "province"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "alpha3": "KN-K", 
+    "name": "Saint Kitts", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "432", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "KN-10", 
+    "name": "Saint Paul Charlestown", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-04", 
+    "name": "Saint George Gingerland", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-05", 
+    "name": "Saint James Windward", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-07", 
+    "name": "Saint John Figtree", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-12", 
+    "name": "Saint Thomas Lowland", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-02", 
+    "name": "Saint Anne Sandy Point", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-11", 
+    "name": "Saint Peter Basseterre", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-01", 
+    "name": "Christ Church Nichola Town", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-15", 
+    "name": "Trinity Palmetto Point", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-06", 
+    "name": "Saint John Capisterre", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-09", 
+    "name": "Saint Paul Capisterre", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-13", 
+    "name": "Saint Thomas Middle Island", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-03", 
+    "name": "Saint George Basseterre", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "KN-08", 
+    "name": "Saint Mary Cayon", 
+    "countryAlpha3": "KNA", 
+    "countryAlpha2": "KN", 
+    "categoryId": "375", 
+    "categoryName": "parish"
+  }
+]

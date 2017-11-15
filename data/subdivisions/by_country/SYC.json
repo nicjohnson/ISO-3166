@@ -1,0 +1,594 @@
+[
+  {
+    "alpha3": "SC-03", 
+    "name": "Anse Etoile", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-03", 
+    "name": "Anse \u00c9toile", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-06", 
+    "name": "Baie Lazare", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-06", 
+    "name": "Be Lazar", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-06", 
+    "name": "Baie Lazare", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-24", 
+    "name": "Les Mamelles", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-24", 
+    "name": "Lemamel", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-24", 
+    "name": "Les Mamelles", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-08", 
+    "name": "Beau Vallon", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-08", 
+    "name": "Bovalon", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-08", 
+    "name": "Beau Vallon", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-19", 
+    "name": "Plaisance", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-19", 
+    "name": "Plaisance", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-19", 
+    "name": "Plezans", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-12", 
+    "name": "Glacis", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-12", 
+    "name": "Glasi", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-12", 
+    "name": "Glacis", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-13", 
+    "name": "Grand'Anse Mah\u00e9", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-13", 
+    "name": "Grand Anse Mahe", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-13", 
+    "name": "Grand Ans Mae", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-04", 
+    "name": "O Kap", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-04", 
+    "name": "Au Cap", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-04", 
+    "name": "Au Cap", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-17", 
+    "name": "Mont Buxton", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-17", 
+    "name": "Mon Bikston", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-17", 
+    "name": "Mont Buxton", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-15", 
+    "name": "Ladig", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-15", 
+    "name": "La Digue", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-15", 
+    "name": "La Digue", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-20", 
+    "name": "Pwent Lari", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-20", 
+    "name": "Pointe La Rue", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-20", 
+    "name": "Pointe Larue", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-21", 
+    "name": "Port Glaud", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-21", 
+    "name": "Port Glaud", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-21", 
+    "name": "Porglo", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-23", 
+    "name": "Takamaka", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-23", 
+    "name": "Takamaka", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-23", 
+    "name": "Takamaka", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-05", 
+    "name": "Ans Royal", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-05", 
+    "name": "Anse Royale", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-05", 
+    "name": "Anse Royale", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-07", 
+    "name": "Be Sent Ann", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-07", 
+    "name": "Baie Sainte-Anne", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-07", 
+    "name": "Baie Sainte Anne", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-10", 
+    "name": "Bel Ombre", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-10", 
+    "name": "Bel Ombre", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-10", 
+    "name": "Belonm", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-11", 
+    "name": "Cascade", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-11", 
+    "name": "Cascade", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-11", 
+    "name": "Kaskad", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-16", 
+    "name": "English River", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-16", 
+    "name": "Larivyer Anglez", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-16", 
+    "name": "La Rivi\u00e8re Anglaise", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-18", 
+    "name": "Mont Fleuri", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-18", 
+    "name": "Mont Fleuri", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-18", 
+    "name": "Mon Fleri", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-25", 
+    "name": "Roche Ca\u00efman", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-25", 
+    "name": "Roche Caiman", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-25", 
+    "name": "Ros Kaiman", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-01", 
+    "name": "Ans o Pen", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-01", 
+    "name": "Anse aux Pins", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-01", 
+    "name": "Anse aux Pins", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-02", 
+    "name": "Anse Boileau", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-02", 
+    "name": "Ans Bwalo", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-02", 
+    "name": "Anse Boileau", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-09", 
+    "name": "Beler", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-09", 
+    "name": "Bel Air", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-09", 
+    "name": "Bel Air", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-14", 
+    "name": "Grand'Anse Praslin", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-14", 
+    "name": "Grand Ans Pralen", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-14", 
+    "name": "Grand Anse Praslin", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-22", 
+    "name": "Saint Louis", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-22", 
+    "name": "Saint-Louis", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SC-22", 
+    "name": "Sen Lwi", 
+    "countryAlpha3": "SYC", 
+    "countryAlpha2": "SC", 
+    "categoryId": "164", 
+    "categoryName": "district"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "alpha3": "SO-GE", 
+    "name": "Gedo", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-JH", 
+    "name": "Jubbada Hoose", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-NU", 
+    "name": "Nugaal", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-TO", 
+    "name": "Togdheer", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-GA", 
+    "name": "Galguduud", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-BY", 
+    "name": "Bay", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-JD", 
+    "name": "Jubbada Dhexe", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-MU", 
+    "name": "Mudug", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-SA", 
+    "name": "Sanaag", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-SD", 
+    "name": "Shabeellaha Dhexe", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-SO", 
+    "name": "Sool", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-WO", 
+    "name": "Woqooyi Galbeed", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-BK", 
+    "name": "Bakool", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-BR", 
+    "name": "Bari", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-HI", 
+    "name": "Hiiraan", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-SH", 
+    "name": "Shabeellaha Hoose", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SO-BN", 
+    "name": "Banaadir", 
+    "countryAlpha3": "SOM", 
+    "countryAlpha2": "SO", 
+    "categoryId": "303", 
+    "categoryName": "region"
+  }
+]

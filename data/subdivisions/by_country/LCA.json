@@ -1,0 +1,74 @@
+[
+  {
+    "alpha3": "LC-06", 
+    "name": "Gros Islet", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-03", 
+    "name": "Choiseul", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-02", 
+    "name": "Castries", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-05", 
+    "name": "Dennery", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-08", 
+    "name": "Micoud", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-12", 
+    "name": "Canaries", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-07", 
+    "name": "Laborie", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-10", 
+    "name": "Soufri\u00e8re", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "LC-11", 
+    "name": "Vieux Fort", 
+    "countryAlpha3": "LCA", 
+    "countryAlpha2": "LC", 
+    "categoryId": "376", 
+    "categoryName": "district"
+  }
+]

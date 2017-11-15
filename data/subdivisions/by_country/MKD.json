@@ -1,0 +1,562 @@
+[
+  {
+    "alpha3": "MK-33", 
+    "name": "Zrnovci", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-49", 
+    "name": "Lozovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-52", 
+    "name": "Makedonski Brod", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-59", 
+    "name": "Petrovec", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-70", 
+    "name": "Sopi\u0161te", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-82", 
+    "name": "\u010cu\u010der Sandevo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-85", 
+    "name": "Skopje", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-05", 
+    "name": "Bogdanci", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-08", 
+    "name": "Brvenica", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-14", 
+    "name": "Vinica", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-21", 
+    "name": "Debar", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-23", 
+    "name": "Del\u010devo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-27", 
+    "name": "Dolneni", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-32", 
+    "name": "Zelenikovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-37", 
+    "name": "Karbinci", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-55", 
+    "name": "Novaci", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-64", 
+    "name": "Radovi\u0161", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-71", 
+    "name": "Staro Nagori\u010dane", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-03", 
+    "name": "Berovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-10", 
+    "name": "Valandovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-11", 
+    "name": "Vasilevo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-26", 
+    "name": "Dojran", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-44", 
+    "name": "Kriva Palanka", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-54", 
+    "name": "Negotino", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-56", 
+    "name": "Novo Selo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-60", 
+    "name": "Peh\u010devo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-78", 
+    "name": "Centar \u017dupa", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-80", 
+    "name": "\u010ca\u0161ka", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-81", 
+    "name": "\u010ce\u0161inovo-Oble\u0161evo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-06", 
+    "name": "Bogovinje", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-16", 
+    "name": "Vrap\u010di\u0161te", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-25", 
+    "name": "Demir Hisar", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-35", 
+    "name": "Jegunovce", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-41", 
+    "name": "Kon\u010de", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-58", 
+    "name": "Ohrid", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-62", 
+    "name": "Prilep", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-73", 
+    "name": "Strumica", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-18", 
+    "name": "Gevgelija", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-22", 
+    "name": "Debarca", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-24", 
+    "name": "Demir Kapija", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-36", 
+    "name": "Kavadarci", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-43", 
+    "name": "Kratovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-50", 
+    "name": "Mavrovo i Rostu\u0161a", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-61", 
+    "name": "Plasnica", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-69", 
+    "name": "Sveti Nikole", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-34", 
+    "name": "Ilinden", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-42", 
+    "name": "Ko\u010dani", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-45", 
+    "name": "Krivoga\u0161tani", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-46", 
+    "name": "Kru\u0161evo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-48", 
+    "name": "Lipkovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-63", 
+    "name": "Probi\u0161tip", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-74", 
+    "name": "Studeni\u010dani", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-76", 
+    "name": "Tetovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-02", 
+    "name": "Ara\u010dinovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-04", 
+    "name": "Bitola", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-07", 
+    "name": "Bosilovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-19", 
+    "name": "Gostivar", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-30", 
+    "name": "\u017delino", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-40", 
+    "name": "Ki\u010devo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-51", 
+    "name": "Makedonska Kamenica", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-53", 
+    "name": "Mogila", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-66", 
+    "name": "Resen", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-67", 
+    "name": "Rosoman", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-75", 
+    "name": "Tearce", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-12", 
+    "name": "Vev\u010dani", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-20", 
+    "name": "Gradsko", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-47", 
+    "name": "Kumanovo", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-65", 
+    "name": "Rankovce", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-72", 
+    "name": "Struga", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "MK-83", 
+    "name": "\u0160tip", 
+    "countryAlpha3": "MKD", 
+    "countryAlpha2": "MK", 
+    "categoryId": "288", 
+    "categoryName": "municipality"
+  }
+]

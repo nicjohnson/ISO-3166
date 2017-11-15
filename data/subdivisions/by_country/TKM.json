@@ -1,0 +1,42 @@
+[
+  {
+    "alpha3": "TM-D", 
+    "name": "Da\u015foguz", 
+    "countryAlpha3": "TKM", 
+    "countryAlpha2": "TM", 
+    "categoryId": "425", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TM-L", 
+    "name": "Lebap", 
+    "countryAlpha3": "TKM", 
+    "countryAlpha2": "TM", 
+    "categoryId": "425", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TM-M", 
+    "name": "Mary", 
+    "countryAlpha3": "TKM", 
+    "countryAlpha2": "TM", 
+    "categoryId": "425", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TM-B", 
+    "name": "Balkan", 
+    "countryAlpha3": "TKM", 
+    "countryAlpha2": "TM", 
+    "categoryId": "425", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TM-A", 
+    "name": "Ahal", 
+    "countryAlpha3": "TKM", 
+    "countryAlpha2": "TM", 
+    "categoryId": "425", 
+    "categoryName": "region"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "alpha3": "BB-03", 
+    "name": "Saint George", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-05", 
+    "name": "Saint John", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-02", 
+    "name": "Saint Andrew", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-10", 
+    "name": "Saint Philip", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-11", 
+    "name": "Saint Thomas", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-08", 
+    "name": "Saint Michael", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-04", 
+    "name": "Saint James", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-09", 
+    "name": "Saint Peter", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-01", 
+    "name": "Christ Church", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "BB-06", 
+    "name": "Saint Joseph", 
+    "countryAlpha3": "BRB", 
+    "countryAlpha2": "BB", 
+    "categoryId": "430", 
+    "categoryName": "parish"
+  }
+]

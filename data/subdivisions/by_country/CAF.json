@@ -1,0 +1,266 @@
+[
+  {
+    "alpha3": "CF-BGF", 
+    "name": "Bangui", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "446", 
+    "categoryName": "commune"
+  }, 
+  {
+    "alpha3": "CF-BK", 
+    "name": "Basse-Kotto", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-BK", 
+    "name": "Do-K\u00f6t\u00f6", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-HM", 
+    "name": "T\u00f6-Mb\u00f6m\u00fc", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-HM", 
+    "name": "Haut-Mbomou", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-HS", 
+    "name": "T\u00f6-Sang\u00e4 / Mbaere-Kade\u00ef", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-HS", 
+    "name": "Haute-Sangha / Mamb\u00e9r\u00e9-Kad\u00e9\u00ef", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-LB", 
+    "name": "Lobaye", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-LB", 
+    "name": "Lob\u00e2ye", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-AC", 
+    "name": "Ouham", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-AC", 
+    "name": "W\u00e2mo", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-BB", 
+    "name": "Bam\u00efng\u00ef-Bangoran", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-BB", 
+    "name": "Bamingui-Bangoran", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-MP", 
+    "name": "\u00d6mb\u00ebl\u00e4-P\u00f6k\u00f6", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-MP", 
+    "name": "Ombella-Mpoko", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-HK", 
+    "name": "T\u00f6-K\u00f6t\u00f6", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-HK", 
+    "name": "Haute-Kotto", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-KG", 
+    "name": "Kem\u00f6-G\u00efr\u00efb\u00efng\u00ef", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-KG", 
+    "name": "K\u00e9mo-Gribingui", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-MB", 
+    "name": "Mb\u00f6m\u00fc", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-MB", 
+    "name": "Mbomou", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-NM", 
+    "name": "Nana-Mamb\u00e9r\u00e9", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-NM", 
+    "name": "Nan\u00e4-Mbaere", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-VK", 
+    "name": "Vakaga", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-VK", 
+    "name": "Vakaga", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-OP", 
+    "name": "W\u00e2mo-Pend\u00eb", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-OP", 
+    "name": "Ouham-Pend\u00e9", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-UK", 
+    "name": "W\u00e4k\u00e4", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-UK", 
+    "name": "Ouaka", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "339", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "CF-KB", 
+    "name": "Gribingui", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "194", 
+    "categoryName": "economic prefecture"
+  }, 
+  {
+    "alpha3": "CF-KB", 
+    "name": "G\u00efr\u00efb\u00efng\u00ef", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "194", 
+    "categoryName": "economic prefecture"
+  }, 
+  {
+    "alpha3": "CF-SE", 
+    "name": "Sangha", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "194", 
+    "categoryName": "economic prefecture"
+  }, 
+  {
+    "alpha3": "CF-SE", 
+    "name": "Sang\u00e4", 
+    "countryAlpha3": "CAF", 
+    "countryAlpha2": "CF", 
+    "categoryId": "194", 
+    "categoryName": "economic prefecture"
+  }
+]

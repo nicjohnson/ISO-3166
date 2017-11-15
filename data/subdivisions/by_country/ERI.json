@@ -1,0 +1,90 @@
+[
+  {
+    "alpha3": "ER-GB", 
+    "name": "Q\u0101sh-Barkah", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-MA", 
+    "name": "Al Awsa\u0163", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-MA", 
+    "name": "Ma\u2019\u012dkel", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-SK", 
+    "name": "Semienawi K\u2019eyy\u012d\u1e25 Ba\u1e25ri", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-SK", 
+    "name": "Shim\u0101l\u012b al Ba\u1e29r\u012b al A\u1e29mar", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-DK", 
+    "name": "Jan\u016bb\u012b al Ba\u1e29r\u012b al A\u1e29mar", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-DK", 
+    "name": "Debubawi K\u2019eyy\u012d\u1e25 Ba\u1e25ri", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-DU", 
+    "name": "Debub", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-DU", 
+    "name": "Al Jan\u016bb\u012b", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-AN", 
+    "name": "\u2018Anseba", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ER-AN", 
+    "name": "Ansab\u0101", 
+    "countryAlpha3": "ERI", 
+    "countryAlpha2": "ER", 
+    "categoryId": "317", 
+    "categoryName": "region"
+  }
+]

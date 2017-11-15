@@ -1,0 +1,42 @@
+[
+  {
+    "alpha3": "VC-04", 
+    "name": "Saint George", 
+    "countryAlpha3": "VCT", 
+    "countryAlpha2": "VC", 
+    "categoryId": "384", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "VC-01", 
+    "name": "Charlotte", 
+    "countryAlpha3": "VCT", 
+    "countryAlpha2": "VC", 
+    "categoryId": "384", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "VC-06", 
+    "name": "Grenadines", 
+    "countryAlpha3": "VCT", 
+    "countryAlpha2": "VC", 
+    "categoryId": "384", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "VC-02", 
+    "name": "Saint Andrew", 
+    "countryAlpha3": "VCT", 
+    "countryAlpha2": "VC", 
+    "categoryId": "384", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "VC-05", 
+    "name": "Saint Patrick", 
+    "countryAlpha3": "VCT", 
+    "countryAlpha2": "VC", 
+    "categoryId": "384", 
+    "categoryName": "parish"
+  }
+]

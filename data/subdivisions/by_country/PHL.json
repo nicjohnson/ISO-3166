@@ -1,0 +1,1562 @@
+[
+  {
+    "alpha3": "PH-41", 
+    "name": "Rehiyon ng Mimaropa", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-06", 
+    "name": "Western Visayas (Region VI)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-06", 
+    "name": "Rehiyon ng Kanlurang Bisaya", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-11", 
+    "name": "Davao (Region XI)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-11", 
+    "name": "Rehiyon ng Dabaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-13", 
+    "name": "Caraga (Region XIII)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-13", 
+    "name": "Rehiyon ng Karaga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-01", 
+    "name": "Ilocos (Region I)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-01", 
+    "name": "Rehiyon ng Iloko", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-03", 
+    "name": "Rehiyon ng Gitnang Luson", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-03", 
+    "name": "Central Luzon (Region III)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-08", 
+    "name": "Eastern Visayas (Region VIII)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-08", 
+    "name": "Rehiyon ng Silangang Bisaya", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-10", 
+    "name": "Northern Mindanao (Region X)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-10", 
+    "name": "Rehiyon ng Hilagang Mindanaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-00", 
+    "name": "National Capital Region", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-00", 
+    "name": "Pambansang Punong Rehiyon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-02", 
+    "name": "Cagayan Valley (Region II)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-02", 
+    "name": "Rehiyon ng Lambak ng Kagayan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-07", 
+    "name": "Rehiyon ng Gitnang Bisaya", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-07", 
+    "name": "Central Visayas (Region VII)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-05", 
+    "name": "Bicol (Region V)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-05", 
+    "name": "Rehiyon ng Bikol", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-09", 
+    "name": "Rehiyon ng Tangway ng Sambuwangga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-09", 
+    "name": "Zamboanga Peninsula (Region IX)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-12", 
+    "name": "Soccsksargen (Region XII)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-12", 
+    "name": "Rehiyon ng Soccsksargen", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-14", 
+    "name": "Nagsasariling Rehiyon ng Muslim sa Mindanaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-14", 
+    "name": "Autonomous Region in Muslim Mindanao (ARMM)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-15", 
+    "name": "Cordillera Administrative Region (CAR)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-15", 
+    "name": "Rehiyon ng Administratibo ng Kordilyera", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-40", 
+    "name": "Calabarzon (Region IV-A)", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-40", 
+    "name": "Rehiyon ng Calabarzon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "128", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PH-MDR", 
+    "name": "Silangang Mindoro", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MDR", 
+    "name": "Mindoro Oriental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-PLW", 
+    "name": "Palawan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-PLW", 
+    "name": "Palawan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ROM", 
+    "name": "Romblon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ROM", 
+    "name": "Romblon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MAD", 
+    "name": "Marinduke", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MAD", 
+    "name": "Marinduque", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MDC", 
+    "name": "Mindoro Occidental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MDC", 
+    "name": "Kanlurang Mindoro", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-GUI", 
+    "name": "Gimaras", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-GUI", 
+    "name": "Guimaras", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ILI", 
+    "name": "Iloilo", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ILI", 
+    "name": "Iloilo", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NEC", 
+    "name": "Negros Occidental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NEC", 
+    "name": "Kanlurang Negros", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AKL", 
+    "name": "Aklan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AKL", 
+    "name": "Aklan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ANT", 
+    "name": "Antike", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ANT", 
+    "name": "Antique", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAP", 
+    "name": "Capiz", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAP", 
+    "name": "Kapis", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SAR", 
+    "name": "Sarangani", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SAR", 
+    "name": "Sarangani", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DAO", 
+    "name": "Silangang Dabaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DAO", 
+    "name": "Davao Oriental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DAS", 
+    "name": "Timog Dabaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DAS", 
+    "name": "Davao del Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-COM", 
+    "name": "Lambak ng Kompostela", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-COM", 
+    "name": "Compostela Valley", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DAV", 
+    "name": "Hilagang Dabaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DAV", 
+    "name": "Davao del Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SCO", 
+    "name": "Timog Kotabato", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SCO", 
+    "name": "South Cotabato", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DVO", 
+    "name": "Kanlurang Dabaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DVO", 
+    "name": "Davao Occidental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SUR", 
+    "name": "Timog Surigaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SUR", 
+    "name": "Surigao del Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AGS", 
+    "name": "Agusan del Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AGS", 
+    "name": "Timog Agusan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AGN", 
+    "name": "Agusan del Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AGN", 
+    "name": "Hilagang Agusan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DIN", 
+    "name": "Dinagat Islands", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-DIN", 
+    "name": "Pulo ng Dinagat", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SUN", 
+    "name": "Hilagang Surigaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SUN", 
+    "name": "Surigao del Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ILN", 
+    "name": "Ilocos Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ILN", 
+    "name": "Hilagang Iloko", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LUN", 
+    "name": "La Union", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LUN", 
+    "name": "La Unyon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-PAN", 
+    "name": "Pangasinan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-PAN", 
+    "name": "Pangasinan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ILS", 
+    "name": "Timog Iloko", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ILS", 
+    "name": "Ilocos Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-PAM", 
+    "name": "Pampanga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-PAM", 
+    "name": "Pampanga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BUL", 
+    "name": "Bulakan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BUL", 
+    "name": "Bulacan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NUE", 
+    "name": "Nuweva Esiha", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NUE", 
+    "name": "Nueva Ecija", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-TAR", 
+    "name": "Tarlak", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-TAR", 
+    "name": "Tarlac", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZMB", 
+    "name": "Sambales", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZMB", 
+    "name": "Zambales", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AUR", 
+    "name": "Aurora", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-AUR", 
+    "name": "Aurora", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BAN", 
+    "name": "Bataan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BAN", 
+    "name": "Bataan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LEY", 
+    "name": "Leyte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LEY", 
+    "name": "Leyte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SLE", 
+    "name": "Southern Leyte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SLE", 
+    "name": "Katimogang Leyte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BIL", 
+    "name": "Biliran", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BIL", 
+    "name": "Biliran", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-EAS", 
+    "name": "Silangang Samar", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-EAS", 
+    "name": "Eastern Samar", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NSA", 
+    "name": "Northern Samar", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NSA", 
+    "name": "Hilagang Samar", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-WSA", 
+    "name": "Samar", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-WSA", 
+    "name": "Samar", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MSC", 
+    "name": "Misamis Occidental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MSC", 
+    "name": "Kanlurang Misamis", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAM", 
+    "name": "Kamigin", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAM", 
+    "name": "Camiguin", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BUK", 
+    "name": "Bukidnon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BUK", 
+    "name": "Bukidnon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MSR", 
+    "name": "Misamis Oriental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MSR", 
+    "name": "Silangang Misamis", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAG", 
+    "name": "Cagayan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAG", 
+    "name": "Kagayan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NUV", 
+    "name": "Nuweva Biskaya", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NUV", 
+    "name": "Nueva Vizcaya", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-QUI", 
+    "name": "Kirino", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-QUI", 
+    "name": "Quirino", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ISA", 
+    "name": "Isabela", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ISA", 
+    "name": "Isabela", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BTN", 
+    "name": "Batanes", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BTN", 
+    "name": "Batanes", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CEB", 
+    "name": "Sebu", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CEB", 
+    "name": "Cebu", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BOH", 
+    "name": "Bohol", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BOH", 
+    "name": "Bohol", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NER", 
+    "name": "Silangang Negros", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NER", 
+    "name": "Negros Oriental", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SIG", 
+    "name": "Siquijor", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SIG", 
+    "name": "Sikihor", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAN", 
+    "name": "Camarines Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAN", 
+    "name": "Hilagang Kamarines", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SOR", 
+    "name": "Sorsogon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SOR", 
+    "name": "Sorsogon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ALB", 
+    "name": "Albay", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ALB", 
+    "name": "Albay", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAS", 
+    "name": "Timog Kamarines", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAS", 
+    "name": "Camarines Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MAS", 
+    "name": "Masbate", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MAS", 
+    "name": "Masbate", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAT", 
+    "name": "Katanduwanes", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAT", 
+    "name": "Catanduanes", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZAS", 
+    "name": "Zamboanga del Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZAS", 
+    "name": "Timog Sambuwangga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZAN", 
+    "name": "Zamboanga del Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZAN", 
+    "name": "Hilagang Sambuwangga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZSI", 
+    "name": "Sambuwangga Sibugay", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ZSI", 
+    "name": "Zamboanga Sibugay", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BAS", 
+    "name": "Basilan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BAS", 
+    "name": "Basilan", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LAN", 
+    "name": "Lanao del Norte", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LAN", 
+    "name": "Hilagang Lanaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SUK", 
+    "name": "Sultan Kudarat", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SUK", 
+    "name": "Sultan Kudarat", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NCO", 
+    "name": "Cotabato", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-NCO", 
+    "name": "Kotabato", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-TAW", 
+    "name": "Tawi-Tawi", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-TAW", 
+    "name": "Tawi-Tawi", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SLU", 
+    "name": "Sulu", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-SLU", 
+    "name": "Sulu", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LAS", 
+    "name": "Lanao del Sur", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LAS", 
+    "name": "Timog Lanaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MAG", 
+    "name": "Magindanaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MAG", 
+    "name": "Maguindanao", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BEN", 
+    "name": "Benget", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BEN", 
+    "name": "Benguet", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MOU", 
+    "name": "Mountain Province", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-MOU", 
+    "name": "Lalawigang Bulubundukin", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-APA", 
+    "name": "Apayao", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-APA", 
+    "name": "Apayaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-IFU", 
+    "name": "Ipugaw", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-IFU", 
+    "name": "Ifugao", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-KAL", 
+    "name": "Kalinga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-KAL", 
+    "name": "Kalinga", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ABR", 
+    "name": "Abra", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-ABR", 
+    "name": "Abra", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-RIZ", 
+    "name": "Risal", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-RIZ", 
+    "name": "Rizal", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BTG", 
+    "name": "Batangas", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-BTG", 
+    "name": "Batangas", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAV", 
+    "name": "Cavite", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-CAV", 
+    "name": "Kabite", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LAG", 
+    "name": "Laguna", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-LAG", 
+    "name": "Laguna", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-QUE", 
+    "name": "Keson", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PH-QUE", 
+    "name": "Quezon", 
+    "countryAlpha3": "PHL", 
+    "countryAlpha2": "PH", 
+    "categoryId": "260", 
+    "categoryName": "province"
+  }
+]

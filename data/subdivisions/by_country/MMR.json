@@ -1,0 +1,114 @@
+[
+  {
+    "alpha3": "MM-07", 
+    "name": "Ayeyarwady", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-05", 
+    "name": "Tanintharyi", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-01", 
+    "name": "Sagaing", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-04", 
+    "name": "Mandalay", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-06", 
+    "name": "Yangon", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-03", 
+    "name": "Magway", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-02", 
+    "name": "Bago", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "163", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MM-16", 
+    "name": "Rakhine", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MM-11", 
+    "name": "Kachin", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MM-13", 
+    "name": "Kayin", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MM-15", 
+    "name": "Mon", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MM-17", 
+    "name": "Shan", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MM-12", 
+    "name": "Kayah", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MM-14", 
+    "name": "Chin", 
+    "countryAlpha3": "MMR", 
+    "countryAlpha2": "MM", 
+    "categoryId": "264", 
+    "categoryName": "state"
+  }
+]

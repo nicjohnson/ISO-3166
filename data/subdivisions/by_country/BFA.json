@@ -1,0 +1,458 @@
+[
+  {
+    "alpha3": "BF-01", 
+    "name": "Boucle du Mouhoun", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-10", 
+    "name": "Nord", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-02", 
+    "name": "Cascades", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-03", 
+    "name": "Centre", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-04", 
+    "name": "Centre-Est", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-06", 
+    "name": "Centre-Ouest", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-07", 
+    "name": "Centre-Sud", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-08", 
+    "name": "Est", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-09", 
+    "name": "Hauts-Bassins", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-11", 
+    "name": "Plateau-Central", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-12", 
+    "name": "Sahel", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-13", 
+    "name": "Sud-Ouest", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "192", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BF-NAM", 
+    "name": "Namentenga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BAM", 
+    "name": "Bam", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-SMT", 
+    "name": "Sanmatenga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BAN", 
+    "name": "Banwa", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-MOU", 
+    "name": "Mouhoun", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-NAY", 
+    "name": "Nayala", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-SOR", 
+    "name": "Sourou", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BAL", 
+    "name": "Bal\u00e9", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KOS", 
+    "name": "Kossi", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-YAT", 
+    "name": "Yatenga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-LOR", 
+    "name": "Loroum", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-PAS", 
+    "name": "Passor\u00e9", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-ZON", 
+    "name": "Zondoma", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-LER", 
+    "name": "L\u00e9raba", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-COM", 
+    "name": "Como\u00e9", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KAD", 
+    "name": "Kadiogo", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BLG", 
+    "name": "Boulgou", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KOT", 
+    "name": "Kouritenga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KOP", 
+    "name": "Koulp\u00e9logo", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-SIS", 
+    "name": "Sissili", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-ZIR", 
+    "name": "Ziro", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BLK", 
+    "name": "Boulkiemd\u00e9", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-SNG", 
+    "name": "Sangui\u00e9", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-ZOU", 
+    "name": "Zoundw\u00e9ogo", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-NAO", 
+    "name": "Nahouri", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BAZ", 
+    "name": "Baz\u00e8ga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-GOU", 
+    "name": "Gourma", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-GNA", 
+    "name": "Gnagna", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KMD", 
+    "name": "Komondjari", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KMP", 
+    "name": "Kompienga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-TAP", 
+    "name": "Tapoa", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-HOU", 
+    "name": "Houet", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-TUI", 
+    "name": "Tuy", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KEN", 
+    "name": "K\u00e9n\u00e9dougou", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-GAN", 
+    "name": "Ganzourgou", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-KOW", 
+    "name": "Kourw\u00e9ogo", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-OUB", 
+    "name": "Oubritenga", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-OUD", 
+    "name": "Oudalan", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-SOM", 
+    "name": "Soum", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-YAG", 
+    "name": "Yagha", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-SEN", 
+    "name": "S\u00e9no", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-PON", 
+    "name": "Poni", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-BGR", 
+    "name": "Bougouriba", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-NOU", 
+    "name": "Noumbiel", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BF-IOB", 
+    "name": "Ioba", 
+    "countryAlpha3": "BFA", 
+    "countryAlpha2": "BF", 
+    "categoryId": "235", 
+    "categoryName": "province"
+  }
+]

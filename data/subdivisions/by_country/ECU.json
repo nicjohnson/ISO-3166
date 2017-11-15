@@ -1,0 +1,186 @@
+[
+  {
+    "alpha3": "EC-R", 
+    "name": "Los R\u00edos", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-E", 
+    "name": "Esmeraldas", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-G", 
+    "name": "Guayas", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-X", 
+    "name": "Cotopaxi", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-Y", 
+    "name": "Pastaza", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-A", 
+    "name": "Azuay", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-D", 
+    "name": "Orellana", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-L", 
+    "name": "Loja", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-O", 
+    "name": "El Oro", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-SE", 
+    "name": "Santa Elena", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-Z", 
+    "name": "Zamora-Chinchipe", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-H", 
+    "name": "Chimborazo", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-SD", 
+    "name": "Santo Domingo de los Ts\u00e1chilas", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-I", 
+    "name": "Imbabura", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-M", 
+    "name": "Manab\u00ed", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-P", 
+    "name": "Pichincha", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-W", 
+    "name": "Gal\u00e1pagos", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-C", 
+    "name": "Carchi", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-F", 
+    "name": "Ca\u00f1ar", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-S", 
+    "name": "Morona-Santiago", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-U", 
+    "name": "Sucumb\u00edos", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-N", 
+    "name": "Napo", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "EC-T", 
+    "name": "Tungurahua", 
+    "countryAlpha3": "ECU", 
+    "countryAlpha2": "EC", 
+    "categoryId": "320", 
+    "categoryName": "province"
+  }
+]

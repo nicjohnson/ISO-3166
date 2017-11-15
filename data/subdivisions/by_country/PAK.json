@@ -1,0 +1,114 @@
+[
+  {
+    "alpha3": "PK-IS", 
+    "name": "Isl\u0101m\u0101b\u0101d", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "191", 
+    "categoryName": "federal capital territory"
+  }, 
+  {
+    "alpha3": "PK-IS", 
+    "name": "Islamabad", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "191", 
+    "categoryName": "federal capital territory"
+  }, 
+  {
+    "alpha3": "PK-BA", 
+    "name": "Balochistan", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-BA", 
+    "name": "Bal\u014dchist\u0101n", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-SD", 
+    "name": "Sindh", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-SD", 
+    "name": "Sindh", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-KP", 
+    "name": "Khyber Pakhtunkhwa", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-KP", 
+    "name": "Kha\u012bbar Pakht\u016bnkhw\u0101", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-PB", 
+    "name": "Punjab", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-PB", 
+    "name": "Panj\u0101b", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "261", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PK-GB", 
+    "name": "Gilgit-Baltist\u0101n", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "138", 
+    "categoryName": "Pakistan administered area"
+  }, 
+  {
+    "alpha3": "PK-GB", 
+    "name": "Gilgit-Baltistan", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "138", 
+    "categoryName": "Pakistan administered area"
+  }, 
+  {
+    "alpha3": "PK-JK", 
+    "name": "Azad Kashmir", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "138", 
+    "categoryName": "Pakistan administered area"
+  }, 
+  {
+    "alpha3": "PK-JK", 
+    "name": "\u0100z\u0101d Kashm\u012br", 
+    "countryAlpha3": "PAK", 
+    "countryAlpha2": "PK", 
+    "categoryId": "138", 
+    "categoryName": "Pakistan administered area"
+  }
+]

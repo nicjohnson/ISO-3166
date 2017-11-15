@@ -1,0 +1,74 @@
+[
+  {
+    "alpha3": "SB-WE", 
+    "name": "Western", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-CE", 
+    "name": "Central", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-ML", 
+    "name": "Malaita", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-MK", 
+    "name": "Makira-Ulawa", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-RB", 
+    "name": "Rennell and Bellona", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-GU", 
+    "name": "Guadalcanal", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-TE", 
+    "name": "Temotu", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-IS", 
+    "name": "Isabel", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "122", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SB-CT", 
+    "name": "Capital Territory (Honiara)", 
+    "countryAlpha3": "SLB", 
+    "countryAlpha2": "SB", 
+    "categoryId": "229", 
+    "categoryName": "capital territory"
+  }
+]

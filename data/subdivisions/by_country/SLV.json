@@ -1,0 +1,106 @@
+[
+  {
+    "alpha3": "SV-US", 
+    "name": "Usulut\u00e1n", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-CU", 
+    "name": "Cuscatl\u00e1n", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-SS", 
+    "name": "San Salvador", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-AH", 
+    "name": "Ahuachap\u00e1n", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-SA", 
+    "name": "Santa Ana", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-SO", 
+    "name": "Sonsonate", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-PA", 
+    "name": "La Paz", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-SM", 
+    "name": "San Miguel", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-CA", 
+    "name": "Caba\u00f1as", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-UN", 
+    "name": "La Uni\u00f3n", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-CH", 
+    "name": "Chalatenango", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-LI", 
+    "name": "La Libertad", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "SV-SV", 
+    "name": "San Vicente", 
+    "countryAlpha3": "SLV", 
+    "countryAlpha2": "SV", 
+    "categoryId": "379", 
+    "categoryName": "department"
+  }
+]

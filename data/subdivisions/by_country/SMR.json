@@ -1,0 +1,66 @@
+[
+  {
+    "alpha3": "SM-05", 
+    "name": "Fiorentino", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-03", 
+    "name": "Domagnano", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-06", 
+    "name": "Borgo Maggiore", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-08", 
+    "name": "Montegiardino", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-02", 
+    "name": "Chiesanuova", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-04", 
+    "name": "Faetano", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-09", 
+    "name": "Serravalle", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-07", 
+    "name": "San Marino", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }
+]

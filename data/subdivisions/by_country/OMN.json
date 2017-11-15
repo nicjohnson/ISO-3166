@@ -1,0 +1,82 @@
+[
+  {
+    "alpha3": "OM-WU", 
+    "name": "Al Wus\u0163\u00e1", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-ZA", 
+    "name": "Az\u0327 Z\u0327\u0101hirah", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-BJ", 
+    "name": "Jan\u016bb al B\u0101\u0163inah", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-BS", 
+    "name": "Sham\u0101l al B\u0101\u0163inah", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-SJ", 
+    "name": "Jan\u016bb ash Sharq\u012byah", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-SS", 
+    "name": "Sham\u0101l ash Sharq\u012byah", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-MA", 
+    "name": "Masqa\u0163", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-ZU", 
+    "name": "Z\u0327uf\u0101r", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-BU", 
+    "name": "Al Buraym\u012b", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "OM-MU", 
+    "name": "Musandam", 
+    "countryAlpha3": "OMN", 
+    "countryAlpha2": "OM", 
+    "categoryId": "399", 
+    "categoryName": "governorate"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "alpha3": "SN-MT", 
+    "name": "Matam", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-TC", 
+    "name": "Tambacounda", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-TH", 
+    "name": "Thi\u00e8s", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-SE", 
+    "name": "S\u00e9dhiou", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-DK", 
+    "name": "Dakar", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-KD", 
+    "name": "Kolda", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-SL", 
+    "name": "Saint-Louis", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-FK", 
+    "name": "Fatick", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-KA", 
+    "name": "Kaffrine", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-ZG", 
+    "name": "Ziguinchor", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-KL", 
+    "name": "Kaolack", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-KE", 
+    "name": "K\u00e9dougou", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SN-LG", 
+    "name": "Louga", 
+    "countryAlpha3": "SEN", 
+    "countryAlpha2": "SN", 
+    "categoryId": "175", 
+    "categoryName": "region"
+  }
+]

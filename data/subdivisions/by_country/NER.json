@@ -1,0 +1,58 @@
+[
+  {
+    "alpha3": "NE-1", 
+    "name": "Agadez", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-6", 
+    "name": "Tillab\u00e9ri", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-5", 
+    "name": "Tahoua", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-2", 
+    "name": "Diffa", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-7", 
+    "name": "Zinder", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-3", 
+    "name": "Dosso", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-4", 
+    "name": "Maradi", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }
+]

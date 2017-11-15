@@ -1,0 +1,154 @@
+[
+  {
+    "alpha3": "BT-42", 
+    "name": "Monggar", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-45", 
+    "name": "Samdrup Jongkhar", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-12", 
+    "name": "Chhukha", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-23", 
+    "name": "Punakha", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-24", 
+    "name": "Wangdue Phodrang", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-21", 
+    "name": "Tsirang", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-33", 
+    "name": "Bumthang", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-34", 
+    "name": "Zhemgang", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-31", 
+    "name": "Sarpang", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-14", 
+    "name": "Samtse", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-15", 
+    "name": "Thimphu", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-44", 
+    "name": "Lhuentse", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-TY", 
+    "name": "Trashi Yangtse", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-13", 
+    "name": "Haa", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-41", 
+    "name": "Trashigang", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-GA", 
+    "name": "Gasa", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-22", 
+    "name": "Dagana", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-32", 
+    "name": "Trongsa", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BT-43", 
+    "name": "Pemagatshel", 
+    "countryAlpha3": "BTN", 
+    "countryAlpha2": "BT", 
+    "categoryId": "152", 
+    "categoryName": "district"
+  }
+]

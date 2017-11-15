@@ -1,0 +1,242 @@
+[
+  {
+    "alpha3": "NZ-CIT", 
+    "name": "Chatham Islands Territory", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "440", 
+    "categoryName": "special island authority"
+  }, 
+  {
+    "alpha3": "NZ-AUK", 
+    "name": "T\u0101maki-makau-rau", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-AUK", 
+    "name": "Auckland", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-GIS", 
+    "name": "Gisborne", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-GIS", 
+    "name": "T\u016branga nui a Kiwa", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-HKB", 
+    "name": "Hawke's Bay", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-HKB", 
+    "name": "Te Matau a M\u0101ui", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-MWT", 
+    "name": "Manawatu Whanganui", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-MWT", 
+    "name": "Manawatu-Wanganui", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-BOP", 
+    "name": "Bay of Plenty", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-BOP", 
+    "name": "Te Moana a Toi Te Huatahi", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-CAN", 
+    "name": "Waitaha", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-CAN", 
+    "name": "Canterbury", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-MBH", 
+    "name": "Marlborough", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-NSN", 
+    "name": "Nelson", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-NSN", 
+    "name": "Whakat\u016b", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-NTL", 
+    "name": "Northland", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-NTL", 
+    "name": "Te Tai tokerau", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-TAS", 
+    "name": "Tasman", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-OTA", 
+    "name": "\u014c T\u0101kou", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-OTA", 
+    "name": "Otago", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-STL", 
+    "name": "Southland", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-STL", 
+    "name": "Murihiku", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-TKI", 
+    "name": "Taranaki", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-TKI", 
+    "name": "Taranaki", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-WKO", 
+    "name": "Waikato", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-WGN", 
+    "name": "Wellington", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-WGN", 
+    "name": "Te Whanga-nui-a-Tara", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-WTC", 
+    "name": "West Coast", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NZ-WTC", 
+    "name": "Te Taihau \u0101 uru", 
+    "countryAlpha3": "NZL", 
+    "countryAlpha2": "NZ", 
+    "categoryId": "388", 
+    "categoryName": "region"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "alpha3": "DJ-DJ", 
+    "name": "Djibouti", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "401", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "DJ-TA", 
+    "name": "Tadjourah", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-TA", 
+    "name": "T\u0101j\u016brah", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-OB", 
+    "name": "Awb\u016bk", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-OB", 
+    "name": "Obock", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-AR", 
+    "name": "Arta", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-AR", 
+    "name": "\u2018Art\u0101", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-DI", 
+    "name": "Dikh\u012bl", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-DI", 
+    "name": "Dikhil", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-AS", 
+    "name": "\u2018Al\u012b \u015eab\u012b\u1e29", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DJ-AS", 
+    "name": "Ali Sabieh", 
+    "countryAlpha3": "DJI", 
+    "countryAlpha2": "DJ", 
+    "categoryId": "218", 
+    "categoryName": "region"
+  }
+]

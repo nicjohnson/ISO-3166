@@ -1,0 +1,114 @@
+[
+  {
+    "alpha3": "TT-SIP", 
+    "name": "Siparia", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-MRC", 
+    "name": "Mayaro-Rio Claro", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-DMN", 
+    "name": "Diego Martin", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-TUP", 
+    "name": "Tunapuna-Piarco", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-CTT", 
+    "name": "Couva-Tabaquite-Talparo", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-PRT", 
+    "name": "Princes Town", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-SJL", 
+    "name": "San Juan-Laventille", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-SGE", 
+    "name": "Sangre Grande", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-POS", 
+    "name": "Port of Spain", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "167", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "TT-SFO", 
+    "name": "San Fernando", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "167", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "TT-ARI", 
+    "name": "Arima", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "167", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "TT-PTF", 
+    "name": "Point Fortin", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "167", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "TT-CHA", 
+    "name": "Chaguanas", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "167", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "TT-TOB", 
+    "name": "Tobago", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "463", 
+    "categoryName": "ward"
+  }
+]

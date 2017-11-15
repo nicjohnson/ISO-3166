@@ -1,0 +1,170 @@
+[
+  {
+    "alpha3": "ET-DD", 
+    "name": "Dir\u0113 Dawa", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "409", 
+    "categoryName": "administration"
+  }, 
+  {
+    "alpha3": "ET-AA", 
+    "name": "\u0100d\u012bs \u0100beba", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "409", 
+    "categoryName": "administration"
+  }, 
+  {
+    "alpha3": "ET-AA", 
+    "name": "Addis Ababa", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "409", 
+    "categoryName": "administration"
+  }, 
+  {
+    "alpha3": "ET-BE", 
+    "name": "B\u012bnshangul Gumuz", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-BE", 
+    "name": "Benshangul-Gumaz", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-HA", 
+    "name": "Harari People", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-HA", 
+    "name": "H\u0101rer\u012b Hizb", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-SO", 
+    "name": "Sumal\u0113", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-SO", 
+    "name": "Somali", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-GA", 
+    "name": "Gamb\u0113la Hizboch", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-GA", 
+    "name": "Gambela Peoples", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-AM", 
+    "name": "Amara", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-AM", 
+    "name": "\u0100mara", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-AF", 
+    "name": "Afar", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-AF", 
+    "name": "\u0100far", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-OR", 
+    "name": "Oromia", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-OR", 
+    "name": "Orom\u012bya", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-TI", 
+    "name": "Tigrai", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-TI", 
+    "name": "Tigray", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-SN", 
+    "name": "YeDebub Bih\u0113roch Bih\u0113reseboch na Hizboch", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "ET-SN", 
+    "name": "Southern Nations, Nationalities and Peoples", 
+    "countryAlpha3": "ETH", 
+    "countryAlpha2": "ET", 
+    "categoryId": "363", 
+    "categoryName": "state"
+  }
+]

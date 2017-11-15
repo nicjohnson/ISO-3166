@@ -1,0 +1,122 @@
+[
+  {
+    "alpha3": "CU-06", 
+    "name": "Cienfuegos", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-03", 
+    "name": "La Habana", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-07", 
+    "name": "Sancti Sp\u00edritus", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-12", 
+    "name": "Granma", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-05", 
+    "name": "Villa Clara", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-11", 
+    "name": "Holgu\u00edn", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-08", 
+    "name": "Ciego de \u00c1vila", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-09", 
+    "name": "Camag\u00fcey", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-10", 
+    "name": "Las Tunas", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-13", 
+    "name": "Santiago de Cuba", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-15", 
+    "name": "Artemisa", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-16", 
+    "name": "Mayabeque", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-01", 
+    "name": "Pinar del R\u00edo", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-14", 
+    "name": "Guant\u00e1namo", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-99", 
+    "name": "Isla de la Juventud", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "441", 
+    "categoryName": "special municipality"
+  }
+]

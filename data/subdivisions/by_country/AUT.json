@@ -1,0 +1,66 @@
+[
+  {
+    "alpha3": "AT-3", 
+    "name": "Nieder\u00f6sterreich", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-4", 
+    "name": "Ober\u00f6sterreich", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-5", 
+    "name": "Salzburg", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-8", 
+    "name": "Vorarlberg", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-1", 
+    "name": "Burgenland", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-7", 
+    "name": "Tirol", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-2", 
+    "name": "K\u00e4rnten", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AT-6", 
+    "name": "Steiermark", 
+    "countryAlpha3": "AUT", 
+    "countryAlpha2": "AT", 
+    "categoryId": "392", 
+    "categoryName": "state"
+  }
+]

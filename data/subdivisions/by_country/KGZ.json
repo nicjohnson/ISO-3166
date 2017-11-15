@@ -1,0 +1,210 @@
+[
+  {
+    "alpha3": "KG-N", 
+    "name": "Narynskaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-N", 
+    "name": "Naryn", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-Y", 
+    "name": "Issyk-Kul'skaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-Y", 
+    "name": "Issyk-Kul'skaja oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-Y", 
+    "name": "Ysyk-K\u00f6l", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-O", 
+    "name": "O\u0161skaja oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-O", 
+    "name": "Osh", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-O", 
+    "name": "Oshskaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-T", 
+    "name": "Talasskaja oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-T", 
+    "name": "Talasskaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-T", 
+    "name": "Talas", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-B", 
+    "name": "Batkenskaja oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-B", 
+    "name": "Batkenskaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-B", 
+    "name": "Batken", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-J", 
+    "name": "D\u017ealal-Abadskaja oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-J", 
+    "name": "Jalal-Abad", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-J", 
+    "name": "Dzhalal-Abadskaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-C", 
+    "name": "\u010cujskaja oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-C", 
+    "name": "Ch\u00fcy", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-C", 
+    "name": "Chuyskaya oblast'", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "328", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KG-GO", 
+    "name": "Osh", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "187", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KG-GO", 
+    "name": "Gorod Osh", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "187", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KG-GO", 
+    "name": "Gorod O\u0161", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "187", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KG-GB", 
+    "name": "Gorod Bi\u0161kek", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "187", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KG-GB", 
+    "name": "Gorod Bishkek", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "187", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KG-GB", 
+    "name": "Bishkek", 
+    "countryAlpha3": "KGZ", 
+    "countryAlpha2": "KG", 
+    "categoryId": "187", 
+    "categoryName": "city"
+  }
+]

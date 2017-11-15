@@ -1,0 +1,186 @@
+[
+  {
+    "alpha3": "CV-BV", 
+    "name": "Boa Vista", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-SL", 
+    "name": "Sal", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-TS", 
+    "name": "Tarrafal de S\u00e3o Nicolau", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-PA", 
+    "name": "Paul", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-RB", 
+    "name": "Ribeira Brava", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-PN", 
+    "name": "Porto Novo", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-RG", 
+    "name": "Ribeira Grande", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-MA", 
+    "name": "Maio", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-PR", 
+    "name": "Praia", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-RS", 
+    "name": "Ribeira Grande de Santiago", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-SS", 
+    "name": "S\u00e3o Salvador do Mundo", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-TA", 
+    "name": "Tarrafal", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-CR", 
+    "name": "Santa Cruz", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-SD", 
+    "name": "S\u00e3o Domingos", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-SF", 
+    "name": "S\u00e3o Filipe", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-CA", 
+    "name": "Santa Catarina", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-MO", 
+    "name": "Mosteiros", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-SM", 
+    "name": "S\u00e3o Miguel", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-SO", 
+    "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-CF", 
+    "name": "Santa Catarina do Fogo", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-BR", 
+    "name": "Brava", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "196", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CV-B", 
+    "name": "Ilhas de Barlavento", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "313", 
+    "categoryName": "geographical region"
+  }, 
+  {
+    "alpha3": "CV-S", 
+    "name": "Ilhas de Sotavento", 
+    "countryAlpha3": "CPV", 
+    "countryAlpha2": "CV", 
+    "categoryId": "313", 
+    "categoryName": "geographical region"
+  }
+]

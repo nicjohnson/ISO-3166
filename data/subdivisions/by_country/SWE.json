@@ -1,0 +1,162 @@
+[
+  {
+    "alpha3": "SE-C", 
+    "name": "Uppsala l\u00e4n [SE-03]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-H", 
+    "name": "Kalmar l\u00e4n [SE-08]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-M", 
+    "name": "Sk\u00e5ne l\u00e4n [SE-12]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-O", 
+    "name": "V\u00e4stra G\u00f6talands l\u00e4n [SE-14]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-X", 
+    "name": "G\u00e4vleborgs l\u00e4n [SE-21]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-K", 
+    "name": "Blekinge l\u00e4n [SE-10]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-U", 
+    "name": "V\u00e4stmanlands l\u00e4n [SE-19]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-W", 
+    "name": "Dalarnas l\u00e4n [SE-20]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-Y", 
+    "name": "V\u00e4sternorrlands l\u00e4n [SE-22]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-E", 
+    "name": "\u00d6sterg\u00f6tlands l\u00e4n [SE-05]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-AB", 
+    "name": "Stockholms l\u00e4n [SE-01]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-D", 
+    "name": "S\u00f6dermanlands l\u00e4n [SE-04]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-G", 
+    "name": "Kronobergs l\u00e4n [SE-07]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-Z", 
+    "name": "J\u00e4mtlands l\u00e4n [SE-23]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-I", 
+    "name": "Gotlands l\u00e4n [SE-09]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-N", 
+    "name": "Hallands l\u00e4n [SE-13]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-S", 
+    "name": "V\u00e4rmlands l\u00e4n [SE-17]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-T", 
+    "name": "\u00d6rebro l\u00e4n [SE-18]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-BD", 
+    "name": "Norrbottens l\u00e4n [SE-25]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "SE-F", 
+    "name": "J\u00f6nk\u00f6pings l\u00e4n [SE-06]", 
+    "countryAlpha3": "SWE", 
+    "countryAlpha2": "SE", 
+    "categoryId": "422", 
+    "categoryName": "county"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "alpha3": "PG-CPK", 
+    "name": "Chimbu", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-CPM", 
+    "name": "Central", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-MPM", 
+    "name": "Madang", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-WHM", 
+    "name": "Western Highlands", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-WPD", 
+    "name": "Western", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-ESW", 
+    "name": "East Sepik", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-GPK", 
+    "name": "Gulf", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-EBR", 
+    "name": "East New Britain", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-NIK", 
+    "name": "New Ireland", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-SAN", 
+    "name": "West Sepik", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-HLA", 
+    "name": "Hela", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-JWK", 
+    "name": "Jiwaka", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-EHG", 
+    "name": "Eastern Highlands", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-EPW", 
+    "name": "Enga", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-MRL", 
+    "name": "Manus", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-NPP", 
+    "name": "Northern", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-WBK", 
+    "name": "West New Britain", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-MBA", 
+    "name": "Milne Bay", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-MPL", 
+    "name": "Morobe", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-SHM", 
+    "name": "Southern Highlands", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "173", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PG-NSB", 
+    "name": "Bougainville", 
+    "countryAlpha3": "PNG", 
+    "countryAlpha2": "PG", 
+    "categoryId": "186", 
+    "categoryName": "autonomous region"
+  }
+]

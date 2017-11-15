@@ -1,0 +1,538 @@
+[
+  {
+    "alpha3": "AF-BAM", 
+    "name": "B\u0101my\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KAB", 
+    "name": "K\u0101bul", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KAB", 
+    "name": "K\u0101bul", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KAP", 
+    "name": "K\u0101p\u012bs\u0101", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KAP", 
+    "name": "K\u0101p\u012bs\u0101", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KHO", 
+    "name": "Kh\u014dst", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KHO", 
+    "name": "Kh\u014dst", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KNR", 
+    "name": "Kuna\u1e5f", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KNR", 
+    "name": "Kuna\u1e5f", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KAN", 
+    "name": "Kandah\u0101r", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KAN", 
+    "name": "Kandah\u0101r", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-LOG", 
+    "name": "L\u014dgar", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-LOG", 
+    "name": "L\u014dgar", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PIA", 
+    "name": "Paktiy\u0101", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PIA", 
+    "name": "Paktiy\u0101", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-SAM", 
+    "name": "Samang\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-SAM", 
+    "name": "Samang\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-URU", 
+    "name": "Uruzg\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-URU", 
+    "name": "Uruzg\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BDS", 
+    "name": "Badakhsh\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BDS", 
+    "name": "Badakhsh\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-FYB", 
+    "name": "F\u0101ry\u0101b", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-FYB", 
+    "name": "F\u0101ry\u0101b", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-JOW", 
+    "name": "Jowzj\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-JOW", 
+    "name": "Jowzj\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KDZ", 
+    "name": "Kunduz", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-KDZ", 
+    "name": "Kunduz", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-LAG", 
+    "name": "Laghm\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-LAG", 
+    "name": "Laghm\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-NIM", 
+    "name": "N\u012bmr\u014dz", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-NIM", 
+    "name": "N\u012bmr\u014dz", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BGL", 
+    "name": "Baghl\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BGL", 
+    "name": "Baghl\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-FRA", 
+    "name": "Far\u0101h", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-FRA", 
+    "name": "Far\u0101h", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-HEL", 
+    "name": "Helmand", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-HEL", 
+    "name": "Helmand", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PKA", 
+    "name": "Pakt\u012bk\u0101", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PKA", 
+    "name": "Pakt\u012bk\u0101", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-SAR", 
+    "name": "Sar-e Pul", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-SAR", 
+    "name": "Sar-e Pul", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BDG", 
+    "name": "B\u0101dgh\u012bs", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BDG", 
+    "name": "B\u0101dgh\u012bs", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-GHA", 
+    "name": "Ghazn\u012b", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-GHA", 
+    "name": "Ghazn\u012b", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PAN", 
+    "name": "Panjshayr", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PAN", 
+    "name": "Panjshayr", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-TAK", 
+    "name": "Takh\u0101r", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-TAK", 
+    "name": "Takh\u0101r", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-WAR", 
+    "name": "Wardak", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-WAR", 
+    "name": "Wardak", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BAL", 
+    "name": "Balkh", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-BAL", 
+    "name": "Balkh", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-GHO", 
+    "name": "Gh\u014dr", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-GHO", 
+    "name": "Gh\u014dr", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-DAY", 
+    "name": "D\u0101ykund\u012b", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-DAY", 
+    "name": "D\u0101ykund\u012b", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-HER", 
+    "name": "Her\u0101t", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-HER", 
+    "name": "Her\u0101t", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-NAN", 
+    "name": "Nangarh\u0101r", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-NAN", 
+    "name": "Nangarh\u0101r", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-NUR", 
+    "name": "N\u016brist\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-NUR", 
+    "name": "N\u016brist\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PAR", 
+    "name": "Parw\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-PAR", 
+    "name": "Parw\u0101n", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-ZAB", 
+    "name": "Z\u0101bul", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AF-ZAB", 
+    "name": "Z\u0101bul", 
+    "countryAlpha3": "AFG", 
+    "countryAlpha2": "AF", 
+    "categoryId": "321", 
+    "categoryName": "province"
+  }
+]

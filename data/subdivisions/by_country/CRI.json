@@ -1,0 +1,50 @@
+[
+  {
+    "alpha3": "CR-L", 
+    "name": "Lim\u00f3n", 
+    "countryAlpha3": "CRI", 
+    "countryAlpha2": "CR", 
+    "categoryId": "318", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CR-G", 
+    "name": "Guanacaste", 
+    "countryAlpha3": "CRI", 
+    "countryAlpha2": "CR", 
+    "categoryId": "318", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CR-P", 
+    "name": "Puntarenas", 
+    "countryAlpha3": "CRI", 
+    "countryAlpha2": "CR", 
+    "categoryId": "318", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CR-A", 
+    "name": "Alajuela", 
+    "countryAlpha3": "CRI", 
+    "countryAlpha2": "CR", 
+    "categoryId": "318", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CR-C", 
+    "name": "Cartago", 
+    "countryAlpha3": "CRI", 
+    "countryAlpha2": "CR", 
+    "categoryId": "318", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CR-SJ", 
+    "name": "San Jos\u00e9", 
+    "countryAlpha3": "CRI", 
+    "countryAlpha2": "CR", 
+    "categoryId": "318", 
+    "categoryName": "province"
+  }
+]

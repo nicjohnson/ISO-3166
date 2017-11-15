@@ -1,0 +1,58 @@
+[
+  {
+    "alpha3": "SK-TA", 
+    "name": "Trnavsk\u00fd kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SK-KI", 
+    "name": "Ko\u0161ick\u00fd kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SK-BC", 
+    "name": "Banskobystrick\u00fd kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SK-NI", 
+    "name": "Nitriansky kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SK-ZI", 
+    "name": "\u017dilinsk\u00fd kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SK-BL", 
+    "name": "Bratislavsk\u00fd kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "SK-TC", 
+    "name": "Tren\u010diansky kraj", 
+    "countryAlpha3": "SVK", 
+    "countryAlpha2": "SK", 
+    "categoryId": "250", 
+    "categoryName": "region"
+  }
+]

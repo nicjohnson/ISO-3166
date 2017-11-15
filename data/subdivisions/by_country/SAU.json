@@ -1,0 +1,98 @@
+[
+  {
+    "alpha3": "SA-05", 
+    "name": "Al Qa\u015f\u012bm", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-06", 
+    "name": "\u1e28\u0101'il", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-09", 
+    "name": "J\u0101z\u0101n", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-11", 
+    "name": "Al B\u0101\u1e29ah", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-12", 
+    "name": "Al Jawf", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-14", 
+    "name": "'As\u012br", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-08", 
+    "name": "Al \u1e28ud\u016bd ash Sham\u0101l\u012byah", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-03", 
+    "name": "Al Mad\u012bnah al Munawwarah", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-04", 
+    "name": "Ash Sharq\u012byah", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-10", 
+    "name": "Najr\u0101n", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-02", 
+    "name": "Makkah al Mukarramah", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SA-07", 
+    "name": "Tab\u016bk", 
+    "countryAlpha3": "SAU", 
+    "countryAlpha2": "SA", 
+    "categoryId": "214", 
+    "categoryName": "province"
+  }
+]

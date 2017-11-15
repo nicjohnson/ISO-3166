@@ -1,0 +1,402 @@
+[
+  {
+    "alpha3": "US-MI", 
+    "name": "Michigan", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-TN", 
+    "name": "Tennessee", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-GA", 
+    "name": "Georgia", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-KS", 
+    "name": "Kansas", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-MN", 
+    "name": "Minnesota", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-TX", 
+    "name": "Texas", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-AK", 
+    "name": "Alaska", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-AL", 
+    "name": "Alabama", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-CO", 
+    "name": "Colorado", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-KY", 
+    "name": "Kentucky", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NY", 
+    "name": "New York", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-RI", 
+    "name": "Rhode Island", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-SC", 
+    "name": "South Carolina", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-SD", 
+    "name": "South Dakota", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-WA", 
+    "name": "Washington", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-IA", 
+    "name": "Iowa", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-OH", 
+    "name": "Ohio", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-OR", 
+    "name": "Oregon", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-CA", 
+    "name": "California", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-DE", 
+    "name": "Delaware", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-HI", 
+    "name": "Hawaii", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-MA", 
+    "name": "Massachusetts", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-MT", 
+    "name": "Montana", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NC", 
+    "name": "North Carolina", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NE", 
+    "name": "Nebraska", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NJ", 
+    "name": "New Jersey", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-CT", 
+    "name": "Connecticut", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-FL", 
+    "name": "Florida", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-IN", 
+    "name": "Indiana", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-OK", 
+    "name": "Oklahoma", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-UT", 
+    "name": "Utah", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-WI", 
+    "name": "Wisconsin", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-WV", 
+    "name": "West Virginia", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-ID", 
+    "name": "Idaho", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-IL", 
+    "name": "Illinois", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-MD", 
+    "name": "Maryland", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-ME", 
+    "name": "Maine", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-MO", 
+    "name": "Missouri", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-MS", 
+    "name": "Mississippi", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NM", 
+    "name": "New Mexico", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-PA", 
+    "name": "Pennsylvania", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-VT", 
+    "name": "Vermont", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-WY", 
+    "name": "Wyoming", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-AZ", 
+    "name": "Arizona", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-LA", 
+    "name": "Louisiana", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-ND", 
+    "name": "North Dakota", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NH", 
+    "name": "New Hampshire", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-NV", 
+    "name": "Nevada", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-VA", 
+    "name": "Virginia", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "US-DC", 
+    "name": "District of Columbia", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "141", 
+    "categoryName": "district"
+  }
+]

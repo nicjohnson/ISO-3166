@@ -1,0 +1,138 @@
+[
+  {
+    "alpha3": "PY-12", 
+    "name": "\u00d1eembuc\u00fa", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-15", 
+    "name": "Presidente Hayes", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-3", 
+    "name": "Cordillera", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-8", 
+    "name": "Misiones", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-9", 
+    "name": "Paraguar\u00ed", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-19", 
+    "name": "Boquer\u00f3n", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-6", 
+    "name": "Caazap\u00e1", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-7", 
+    "name": "Itap\u00faa", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-4", 
+    "name": "Guair\u00e1", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-1", 
+    "name": "Concepci\u00f3n", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-5", 
+    "name": "Caaguaz\u00fa", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-13", 
+    "name": "Amambay", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-16", 
+    "name": "Alto Paraguay", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-2", 
+    "name": "San Pedro", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-10", 
+    "name": "Alto Paran\u00e1", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-11", 
+    "name": "Central", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "295", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "PY-ASU", 
+    "name": "Asunci\u00f3n", 
+    "countryAlpha3": "PRY", 
+    "countryAlpha2": "PY", 
+    "categoryId": "350", 
+    "categoryName": "capital"
+  }
+]

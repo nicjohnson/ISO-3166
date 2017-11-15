@@ -1,0 +1,330 @@
+[
+  {
+    "alpha3": "DO-20", 
+    "name": "Saman\u00e1", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-14", 
+    "name": "Mar\u00eda Trinidad S\u00e1nchez", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-06", 
+    "name": "Duarte", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-26", 
+    "name": "Santiago Rodr\u00edguez", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-27", 
+    "name": "Valverde", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-05", 
+    "name": "Dajab\u00f3n", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-15", 
+    "name": "Monte Cristi", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-09", 
+    "name": "Espaillat", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-18", 
+    "name": "Puerto Plata", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-25", 
+    "name": "Santiago", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-24", 
+    "name": "S\u00e1nchez Ram\u00edrez", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-13", 
+    "name": "La Vega", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-28", 
+    "name": "Monse\u00f1or Nouel", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-07", 
+    "name": "El\u00edas Pi\u00f1a", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-22", 
+    "name": "San Juan", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-03", 
+    "name": "Baoruco", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-16", 
+    "name": "Pedernales", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-04", 
+    "name": "Barahona", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-10", 
+    "name": "Independencia", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-23", 
+    "name": "San Pedro de Macor\u00eds", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-30", 
+    "name": "Hato Mayor", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-29", 
+    "name": "Monte Plata", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-32", 
+    "name": "Santo Domingo", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-17", 
+    "name": "Peravia", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-21", 
+    "name": "San Crist\u00f3bal", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-31", 
+    "name": "San Jos\u00e9 de Ocoa", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-02", 
+    "name": "Azua", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-11", 
+    "name": "La Altagracia", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-08", 
+    "name": "El Seibo", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-12", 
+    "name": "La Romana", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "105", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DO-01", 
+    "name": "Distrito Nacional (Santo Domingo)", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "183", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "DO-33", 
+    "name": "Cibao Nordeste", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-34", 
+    "name": "Cibao Noroeste", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-35", 
+    "name": "Cibao Norte", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-36", 
+    "name": "Cibao Sur", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-37", 
+    "name": "El Valle", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-38", 
+    "name": "Enriquillo", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-39", 
+    "name": "Higuamo", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-40", 
+    "name": "Ozama", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-41", 
+    "name": "Valdesia", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "DO-42", 
+    "name": "Yuma", 
+    "countryAlpha3": "DOM", 
+    "countryAlpha2": "DO", 
+    "categoryId": "449", 
+    "categoryName": "region"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "alpha3": "AO-CAB", 
+    "name": "Cabinda", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-CCU", 
+    "name": "Kuando Kubango", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-ZAI", 
+    "name": "Zaire", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-LNO", 
+    "name": "Lunda Norte", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-LSU", 
+    "name": "Lunda Sul", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-MOX", 
+    "name": "Moxico", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-NAM", 
+    "name": "Namibe", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-UIG", 
+    "name": "U\u00edge", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-CNO", 
+    "name": "Kwanza Norte", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-HUI", 
+    "name": "Hu\u00edla", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-LUA", 
+    "name": "Luanda", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-MAL", 
+    "name": "Malange", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-BGO", 
+    "name": "Bengo", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-BGU", 
+    "name": "Benguela", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-CNN", 
+    "name": "Cunene", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-CUS", 
+    "name": "Kwanza Sul", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AO-HUA", 
+    "name": "Huambo", 
+    "countryAlpha3": "AGO", 
+    "countryAlpha2": "AO", 
+    "categoryId": "155", 
+    "categoryName": "province"
+  }
+]

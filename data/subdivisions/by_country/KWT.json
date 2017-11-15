@@ -1,0 +1,42 @@
+[
+  {
+    "alpha3": "KW-FA", 
+    "name": "Al Farw\u0101n\u012byah", 
+    "countryAlpha3": "KWT", 
+    "countryAlpha2": "KW", 
+    "categoryId": "119", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "KW-HA", 
+    "name": "\u1e28awall\u012b", 
+    "countryAlpha3": "KWT", 
+    "countryAlpha2": "KW", 
+    "categoryId": "119", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "KW-KU", 
+    "name": "Al \u2018\u0100\u015fimah", 
+    "countryAlpha3": "KWT", 
+    "countryAlpha2": "KW", 
+    "categoryId": "119", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "KW-MU", 
+    "name": "Mub\u0101rak al Kab\u012br", 
+    "countryAlpha3": "KWT", 
+    "countryAlpha2": "KW", 
+    "categoryId": "119", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "KW-AH", 
+    "name": "Al A\u1e29mad\u012b", 
+    "countryAlpha3": "KWT", 
+    "countryAlpha2": "KW", 
+    "categoryId": "119", 
+    "categoryName": "governorate"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "alpha3": "IN-AR", 
+    "name": "Arunachal Pradesh", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-KA", 
+    "name": "Karnataka", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-KL", 
+    "name": "Kerala", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-MH", 
+    "name": "Maharashtra", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-OR", 
+    "name": "Odisha", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-BR", 
+    "name": "Bihar", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-TR", 
+    "name": "Tripura", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-WB", 
+    "name": "West Bengal", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-CT", 
+    "name": "Chhattisgarh", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-HR", 
+    "name": "Haryana", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-UP", 
+    "name": "Uttar Pradesh", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-HP", 
+    "name": "Himachal Pradesh", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-JH", 
+    "name": "Jharkhand", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-JK", 
+    "name": "Jammu and Kashmir", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-NL", 
+    "name": "Nagaland", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-GA", 
+    "name": "Goa", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-MZ", 
+    "name": "Mizoram", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-SK", 
+    "name": "Sikkim", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-UT", 
+    "name": "Uttarakhand", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-TG", 
+    "name": "Telangana", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-GJ", 
+    "name": "Gujarat", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-ML", 
+    "name": "Meghalaya", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-MP", 
+    "name": "Madhya Pradesh", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-AS", 
+    "name": "Assam", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-MN", 
+    "name": "Manipur", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-PB", 
+    "name": "Punjab", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-RJ", 
+    "name": "Rajasthan", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-TN", 
+    "name": "Tamil Nadu", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "373", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "IN-AN", 
+    "name": "Andaman and Nicobar Islands", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }, 
+  {
+    "alpha3": "IN-LD", 
+    "name": "Lakshadweep", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }, 
+  {
+    "alpha3": "IN-DD", 
+    "name": "Daman and Diu", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }, 
+  {
+    "alpha3": "IN-CH", 
+    "name": "Chandigarh", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }, 
+  {
+    "alpha3": "IN-PY", 
+    "name": "Puducherry", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }, 
+  {
+    "alpha3": "IN-DL", 
+    "name": "Delhi", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }, 
+  {
+    "alpha3": "IN-DN", 
+    "name": "Dadra and Nagar Haveli", 
+    "countryAlpha3": "IND", 
+    "countryAlpha2": "IN", 
+    "categoryId": "327", 
+    "categoryName": "Union territory"
+  }
+]

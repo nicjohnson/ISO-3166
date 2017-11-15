@@ -1,0 +1,66 @@
+[
+  {
+    "alpha3": "BA-BIH", 
+    "name": "Federacija Bosne i Hercegovine", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "237", 
+    "categoryName": "entity"
+  }, 
+  {
+    "alpha3": "BA-BIH", 
+    "name": "Federacija Bosne i Hercegovine", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "237", 
+    "categoryName": "entity"
+  }, 
+  {
+    "alpha3": "BA-SRP", 
+    "name": "Republika Srpska", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "237", 
+    "categoryName": "entity"
+  }, 
+  {
+    "alpha3": "BA-SRP", 
+    "name": "Republika Srpska", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "237", 
+    "categoryName": "entity"
+  }, 
+  {
+    "alpha3": "BA-SRP", 
+    "name": "Republika Srpska", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "237", 
+    "categoryName": "entity"
+  }, 
+  {
+    "alpha3": "BA-BRC", 
+    "name": "Br\u010dko distrikt", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "438", 
+    "categoryName": "district with special status"
+  }, 
+  {
+    "alpha3": "BA-BRC", 
+    "name": "Br\u010dko distrikt", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "438", 
+    "categoryName": "district with special status"
+  }, 
+  {
+    "alpha3": "BA-BRC", 
+    "name": "Br\u010dko distrikt", 
+    "countryAlpha3": "BIH", 
+    "countryAlpha2": "BA", 
+    "categoryId": "438", 
+    "categoryName": "district with special status"
+  }
+]

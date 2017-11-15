@@ -1,0 +1,58 @@
+[
+  {
+    "alpha3": "AG-10", 
+    "name": "Barbuda", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "298", 
+    "categoryName": "dependency"
+  }, 
+  {
+    "alpha3": "AG-04", 
+    "name": "Saint John", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "429", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "AG-03", 
+    "name": "Saint George", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "429", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "AG-06", 
+    "name": "Saint Paul", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "429", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "AG-07", 
+    "name": "Saint Peter", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "429", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "AG-08", 
+    "name": "Saint Philip", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "429", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "AG-05", 
+    "name": "Saint Mary", 
+    "countryAlpha3": "ATG", 
+    "countryAlpha2": "AG", 
+    "categoryId": "429", 
+    "categoryName": "parish"
+  }
+]

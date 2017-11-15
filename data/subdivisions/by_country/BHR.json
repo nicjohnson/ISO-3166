@@ -1,0 +1,26 @@
+[
+  {
+    "alpha3": "BH-17", 
+    "name": "Ash Sham\u0101l\u012byah", 
+    "countryAlpha3": "BHR", 
+    "countryAlpha2": "BH", 
+    "categoryId": "338", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "BH-14", 
+    "name": "Al Jan\u016bb\u012byah", 
+    "countryAlpha3": "BHR", 
+    "countryAlpha2": "BH", 
+    "categoryId": "338", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "BH-13", 
+    "name": "Al \u2018\u0100\u015fimah", 
+    "countryAlpha3": "BHR", 
+    "countryAlpha2": "BH", 
+    "categoryId": "338", 
+    "categoryName": "governorate"
+  }
+]

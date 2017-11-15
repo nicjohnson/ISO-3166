@@ -1,0 +1,618 @@
+[
+  {
+    "alpha3": "PE-LMA", 
+    "name": "Lima hatun llaqta", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "190", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "PE-LMA", 
+    "name": "Municipalidad Metropolitana de Lima", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "190", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "PE-CAJ", 
+    "name": "Kashamarka", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CAJ", 
+    "name": "Qajamarka", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CAJ", 
+    "name": "Cajamarca", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-JUN", 
+    "name": "Jun\u00edn", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-JUN", 
+    "name": "Junin", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-JUN", 
+    "name": "Hunin", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LOR", 
+    "name": "Luritu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LOR", 
+    "name": "Luritu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LOR", 
+    "name": "Loreto", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-UCA", 
+    "name": "Ucayali", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-UCA", 
+    "name": "Ukayali", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-UCA", 
+    "name": "Ukayali", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ICA", 
+    "name": "Ica", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ICA", 
+    "name": "Ika", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ICA", 
+    "name": "Ika", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LIM", 
+    "name": "Lima", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LIM", 
+    "name": "Lima", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LIM", 
+    "name": "Lima", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-MDD", 
+    "name": "Mayutata", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-MDD", 
+    "name": "Madre de Dios", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-MDD", 
+    "name": "Madre de Dios", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-AYA", 
+    "name": "Ayacucho", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-AYA", 
+    "name": "Ayakuchu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-AYA", 
+    "name": "Ayaquchu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-HUC", 
+    "name": "Hu\u00e1nuco", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-HUC", 
+    "name": "Wanuku", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-HUC", 
+    "name": "Wanuku", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ANC", 
+    "name": "Anqash", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ANC", 
+    "name": "Ankashu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ANC", 
+    "name": "Ancash", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-HUV", 
+    "name": "Wankawelika", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-HUV", 
+    "name": "Huancavelica", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-HUV", 
+    "name": "Wankawillka", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LAM", 
+    "name": "Lambayeque", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LAM", 
+    "name": "Lampalliqi", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LAM", 
+    "name": "Lambayeque", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-TAC", 
+    "name": "Tacna", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-TAC", 
+    "name": "Takna", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-TAC", 
+    "name": "Taqna", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-APU", 
+    "name": "Apurimaq", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-APU", 
+    "name": "Apurimaq", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-APU", 
+    "name": "Apur\u00edmac", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LAL", 
+    "name": "La Libertad", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LAL", 
+    "name": "La Libertad", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-LAL", 
+    "name": "Qispi kay", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PAS", 
+    "name": "Pasqu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PAS", 
+    "name": "Pasqu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PAS", 
+    "name": "Pasco", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PIU", 
+    "name": "Piwra", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PIU", 
+    "name": "Piura", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PIU", 
+    "name": "Piura", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CUS", 
+    "name": "Cusco", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CUS", 
+    "name": "Qusqu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CUS", 
+    "name": "Kusku", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-MOQ", 
+    "name": "Moquegua", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-MOQ", 
+    "name": "Muqiwa", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-MOQ", 
+    "name": "Moqwegwa", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PUN", 
+    "name": "Punu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PUN", 
+    "name": "Puno", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-PUN", 
+    "name": "Puno", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-SAM", 
+    "name": "San Martin", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-SAM", 
+    "name": "San Mart\u00edn", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-SAM", 
+    "name": "San Mart\u00edn", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CAL", 
+    "name": "El Callao", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CAL", 
+    "name": "Qallaw", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-CAL", 
+    "name": "Kallao", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-AMA", 
+    "name": "Amasunu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-AMA", 
+    "name": "Amarumayu", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-AMA", 
+    "name": "Amazonas", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ARE", 
+    "name": "Ariqipa", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ARE", 
+    "name": "Arikipa", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-ARE", 
+    "name": "Arequipa", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-TUM", 
+    "name": "Tumbes", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-TUM", 
+    "name": "Tumbes", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "PE-TUM", 
+    "name": "Tumpis", 
+    "countryAlpha3": "PER", 
+    "countryAlpha2": "PE", 
+    "categoryId": "127", 
+    "categoryName": "region"
+  }
+]

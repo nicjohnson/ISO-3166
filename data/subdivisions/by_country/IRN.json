@@ -1,0 +1,242 @@
+[
+  {
+    "alpha3": "IR-16", 
+    "name": "Kordest\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-19", 
+    "name": "G\u012bl\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-25", 
+    "name": "Yazd", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-01", 
+    "name": "\u0100z\u0304\u0101rb\u0101yj\u0101n-e Sh\u0101rq\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-13", 
+    "name": "S\u012bst\u0101n va Bal\u016bchest\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-20", 
+    "name": "Lorest\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-21", 
+    "name": "M\u0101zandar\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-26", 
+    "name": "Qom", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-05", 
+    "name": "\u012al\u0101m", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-17", 
+    "name": "Kerm\u0101nsh\u0101h", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-18", 
+    "name": "Kohg\u012bl\u016byeh va Bowyer A\u1e29mad", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-28", 
+    "name": "Qazv\u012bn", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-12", 
+    "name": "Semn\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-14", 
+    "name": "F\u0101rs", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-22", 
+    "name": "Markaz\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-24", 
+    "name": "Hamad\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-06", 
+    "name": "B\u016bshehr", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-27", 
+    "name": "Golest\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-30", 
+    "name": "Khor\u0101s\u0101n-e Ra\u1e95av\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-32", 
+    "name": "Alborz", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-02", 
+    "name": "\u0100z\u0304\u0101rb\u0101yj\u0101n-e Gh\u0101rb\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-04", 
+    "name": "E\u015ffah\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-07", 
+    "name": "Tehr\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-11", 
+    "name": "Zanj\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-15", 
+    "name": "Kerm\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-23", 
+    "name": "Hormozg\u0101n", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-29", 
+    "name": "Khor\u0101s\u0101n-e Jon\u016bb\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-31", 
+    "name": "Khor\u0101s\u0101n-e Shom\u0101l\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-03", 
+    "name": "Ardab\u012bl", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IR-08", 
+    "name": "Chah\u0101r Ma\u1e29\u0101l va Bakht\u012b\u0101r\u012b", 
+    "countryAlpha3": "IRN", 
+    "countryAlpha2": "IR", 
+    "categoryId": "418", 
+    "categoryName": "province"
+  }
+]

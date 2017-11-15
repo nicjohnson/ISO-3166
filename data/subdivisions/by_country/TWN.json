@@ -1,0 +1,170 @@
+[
+  {
+    "alpha3": "TW-CYI", 
+    "name": "Chiayi", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "136", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "TW-HSZ", 
+    "name": "Hsinchu", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "136", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "TW-TTT", 
+    "name": "Taitung", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-KIN", 
+    "name": "Kinmen", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-LIE", 
+    "name": "Lienchiang", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-CYQ", 
+    "name": "Chiayi", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-HUA", 
+    "name": "Hualien", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-PEN", 
+    "name": "Penghu", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-PIF", 
+    "name": "Pingtung", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-CHA", 
+    "name": "Changhua", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-ILA", 
+    "name": "Yilan", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-YUN", 
+    "name": "Yunlin", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-NAN", 
+    "name": "Nantou", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-HSQ", 
+    "name": "Hsinchu", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-MIA", 
+    "name": "Miaoli", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "344", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "TW-KHH", 
+    "name": "Kaohsiung", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "223", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "TW-TXG", 
+    "name": "Taichung", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "223", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "TW-TNN", 
+    "name": "Tainan", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "223", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "TW-TAO", 
+    "name": "Taoyuan", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "223", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "TW-NWT", 
+    "name": "New Taipei", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "223", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "TW-TPE", 
+    "name": "Taipei", 
+    "countryAlpha3": "TWN", 
+    "countryAlpha2": "TW", 
+    "categoryId": "223", 
+    "categoryName": "special municipality"
+  }
+]

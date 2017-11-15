@@ -1,0 +1,90 @@
+[
+  {
+    "alpha3": "BJ-DO", 
+    "name": "Donga", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-KO", 
+    "name": "Couffo", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-PL", 
+    "name": "Plateau", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-ZO", 
+    "name": "Zou", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-AK", 
+    "name": "Atacora", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-CO", 
+    "name": "Collines", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-BO", 
+    "name": "Borgou", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-OU", 
+    "name": "Ou\u00e9m\u00e9", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-LI", 
+    "name": "Littoral", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-AQ", 
+    "name": "Atlantique", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-MO", 
+    "name": "Mono", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }
+]

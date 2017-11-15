@@ -1,0 +1,66 @@
+[
+  {
+    "alpha3": "ML-1", 
+    "name": "Kayes", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-7", 
+    "name": "Gao", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-4", 
+    "name": "S\u00e9gou", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-6", 
+    "name": "Tombouctou", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-2", 
+    "name": "Koulikoro", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-5", 
+    "name": "Mopti", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-3", 
+    "name": "Sikasso", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "ML-8", 
+    "name": "Kidal", 
+    "countryAlpha3": "MLI", 
+    "countryAlpha2": "ML", 
+    "categoryId": "132", 
+    "categoryName": "region"
+  }
+]

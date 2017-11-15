@@ -1,0 +1,402 @@
+[
+  {
+    "alpha3": "KZ-AKM", 
+    "name": "Akmolinskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-AKM", 
+    "name": "Akmolinskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KZY", 
+    "name": "Kyzylordinskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KZY", 
+    "name": "Qyzylorda oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KZY", 
+    "name": "Kyzylordinskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-VOS", 
+    "name": "Vosto\u010dno-Kazahstanskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-VOS", 
+    "name": "Vostochno-Kazakhstanskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-VOS", 
+    "name": "Shyghys Qazaqstan oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ALM", 
+    "name": "Almaty oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ALM", 
+    "name": "Almatinskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ALM", 
+    "name": "Almatinskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-SEV", 
+    "name": "Severo-Kazakhstanskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-SEV", 
+    "name": "Severo-Kazahstanskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-SEV", 
+    "name": "Solt\u00fcstik Qazaqstan oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-YUZ", 
+    "name": "Ongt\u00fcstik Qazaqstan oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-YUZ", 
+    "name": "Ju\u017eno-Kazahstanskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-YUZ", 
+    "name": "Yuzhno-Kazakhstankaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ZAP", 
+    "name": "Zapadno-Kazahstanskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ZAP", 
+    "name": "Zapadno-Kazakhstanskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ZAP", 
+    "name": "Batys Qazaqstan oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KUS", 
+    "name": "Kostanayskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KUS", 
+    "name": "Kostanajskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KUS", 
+    "name": "Qostanay oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KAR", 
+    "name": "Qaraghandy oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KAR", 
+    "name": "Karagandinskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-KAR", 
+    "name": "Karagandinskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-PAV", 
+    "name": "Pavlodarskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-PAV", 
+    "name": "Pavlodarskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-PAV", 
+    "name": "Pavlodar oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-AKT", 
+    "name": "Aktjubinskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-AKT", 
+    "name": "Aqt\u00f6be oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-AKT", 
+    "name": "Aktyubinskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ATY", 
+    "name": "Atyrauskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ATY", 
+    "name": "Atyrauskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ATY", 
+    "name": "Atyra\u016b oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-MAN", 
+    "name": "Mangistauskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-MAN", 
+    "name": "Mangghysta\u016b oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-MAN", 
+    "name": "Mangystauskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ZHA", 
+    "name": "\u017dambylskaja oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ZHA", 
+    "name": "Zhambylskaya oblast'", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-ZHA", 
+    "name": "Zhambyl oblysy", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "330", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "KZ-BAY", 
+    "name": "Bajkonyr", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-BAY", 
+    "name": "Bayqongyr", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-BAY", 
+    "name": "Baykonyr", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-ALA", 
+    "name": "Almaty", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-ALA", 
+    "name": "Almaty", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-ALA", 
+    "name": "Almaty", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-AST", 
+    "name": "Astana", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-AST", 
+    "name": "Astana", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "KZ-AST", 
+    "name": "Astana", 
+    "countryAlpha3": "KAZ", 
+    "countryAlpha2": "KZ", 
+    "categoryId": "437", 
+    "categoryName": "city"
+  }
+]

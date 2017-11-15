@@ -1,0 +1,554 @@
+[
+  {
+    "alpha3": "JP-16", 
+    "name": "Toyama", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-17", 
+    "name": "Ishikawa", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-17", 
+    "name": "Isikawa", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-19", 
+    "name": "Yamanasi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-19", 
+    "name": "Yamanashi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-22", 
+    "name": "Sizuoka", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-22", 
+    "name": "Shizuoka", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-24", 
+    "name": "Mie", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-26", 
+    "name": "Kyoto", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-26", 
+    "name": "Ky\u00f4to", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-32", 
+    "name": "Shimane", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-32", 
+    "name": "Simane", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-36", 
+    "name": "Tokusima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-36", 
+    "name": "Tokushima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-44", 
+    "name": "Oita", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-44", 
+    "name": "\u00d4ita", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-03", 
+    "name": "Iwate", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-25", 
+    "name": "Shiga", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-25", 
+    "name": "Siga", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-28", 
+    "name": "Hyogo", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-28", 
+    "name": "Hy\u00f4go", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-41", 
+    "name": "Saga", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-10", 
+    "name": "Gunma", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-12", 
+    "name": "Tiba", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-12", 
+    "name": "Chiba", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-14", 
+    "name": "Kanagawa", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-39", 
+    "name": "Kochi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-39", 
+    "name": "K\u00f4ti", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-45", 
+    "name": "Miyazaki", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-20", 
+    "name": "Nagano", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-31", 
+    "name": "Tottori", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-38", 
+    "name": "Ehime", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-40", 
+    "name": "Hukuoka", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-40", 
+    "name": "Fukuoka", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-42", 
+    "name": "Nagasaki", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-02", 
+    "name": "Aomori", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-07", 
+    "name": "Hukusima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-07", 
+    "name": "Fukushima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-09", 
+    "name": "Totigi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-09", 
+    "name": "Tochigi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-18", 
+    "name": "Fukui", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-18", 
+    "name": "Hukui", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-21", 
+    "name": "Gihu", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-21", 
+    "name": "Gifu", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-34", 
+    "name": "Hiroshima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-34", 
+    "name": "Hirosima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-35", 
+    "name": "Yamaguchi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-35", 
+    "name": "Yamaguti", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-43", 
+    "name": "Kumamoto", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-46", 
+    "name": "Kagosima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-46", 
+    "name": "Kagoshima", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-47", 
+    "name": "Okinawa", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-01", 
+    "name": "Hokkaido", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-01", 
+    "name": "Hokkaid\u00f4", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-05", 
+    "name": "Akita", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-13", 
+    "name": "T\u00f4ky\u00f4", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-13", 
+    "name": "Tokyo", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-23", 
+    "name": "Aiti", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-23", 
+    "name": "Aichi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-29", 
+    "name": "Nara", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-30", 
+    "name": "Wakayama", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-33", 
+    "name": "Okayama", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-37", 
+    "name": "Kagawa", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-04", 
+    "name": "Miyagi", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-06", 
+    "name": "Yamagata", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-08", 
+    "name": "Ibaraki", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-15", 
+    "name": "Niigata", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-27", 
+    "name": "Osaka", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "JP-27", 
+    "name": "\u00d4saka", 
+    "countryAlpha3": "JPN", 
+    "countryAlpha2": "JP", 
+    "categoryId": "247", 
+    "categoryName": "prefecture"
+  }
+]

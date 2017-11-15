@@ -1,0 +1,250 @@
+[
+  {
+    "alpha3": "CH-UR", 
+    "name": "Uri", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-JU", 
+    "name": "Jura", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-LU", 
+    "name": "Luzern", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-SO", 
+    "name": "Solothurn", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-TG", 
+    "name": "Thurgau", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-BS", 
+    "name": "Basel-Stadt", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-SZ", 
+    "name": "Schwyz", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-ZG", 
+    "name": "Zug", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-AG", 
+    "name": "Aargau", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-BE", 
+    "name": "Bern", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-BE", 
+    "name": "Berne", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-FR", 
+    "name": "Freiburg", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-FR", 
+    "name": "Fribourg", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-NE", 
+    "name": "Neuch\u00e2tel", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-OW", 
+    "name": "Obwalden", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-TI", 
+    "name": "Ticino", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-VD", 
+    "name": "Vaud", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-AR", 
+    "name": "Appenzell Ausserrhoden", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-GE", 
+    "name": "Gen\u00e8ve", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-GL", 
+    "name": "Glarus", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-SG", 
+    "name": "Sankt Gallen", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-GR", 
+    "name": "Grigioni", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-GR", 
+    "name": "Grischun", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-GR", 
+    "name": "Grisons", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-GR", 
+    "name": "Graub\u00fcnden", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-NW", 
+    "name": "Nidwalden", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-SH", 
+    "name": "Schaffhausen", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-ZH", 
+    "name": "Z\u00fcrich", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-AI", 
+    "name": "Appenzell Innerrhoden", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-VS", 
+    "name": "Valais", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "CH-VS", 
+    "name": "Wallis", 
+    "countryAlpha3": "CHE", 
+    "countryAlpha2": "CH", 
+    "categoryId": "153", 
+    "categoryName": "canton"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "alpha3": "TL-AL", 
+    "name": "Aileu", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-OE", 
+    "name": "Oekusi-Ambenu", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-OE", 
+    "name": "Oecussi", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-ER", 
+    "name": "Ermera", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-ER", 
+    "name": "Ermera", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-BO", 
+    "name": "Bobonaru", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-BO", 
+    "name": "Bobonaro", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-CO", 
+    "name": "Cova Lima", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-CO", 
+    "name": "Kovalima", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-MF", 
+    "name": "Manufahi", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-MF", 
+    "name": "Manufahi", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-AN", 
+    "name": "Ainaru", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-AN", 
+    "name": "Ainaro", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-BA", 
+    "name": "Baucau", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-BA", 
+    "name": "Baukau", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-LA", 
+    "name": "Laut\u00e9m", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-LA", 
+    "name": "Lautem", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-VI", 
+    "name": "Viqueque", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-VI", 
+    "name": "Vikeke", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-DI", 
+    "name": "D\u00edli", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-DI", 
+    "name": "D\u00edli", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-LI", 
+    "name": "Likis\u00e1", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-LI", 
+    "name": "Liqui\u00e7a", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-MT", 
+    "name": "Manatutu", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "TL-MT", 
+    "name": "Manatuto", 
+    "countryAlpha3": "TLS", 
+    "countryAlpha2": "TL", 
+    "categoryId": "253", 
+    "categoryName": "district"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "alpha3": "GY-UD", 
+    "name": "Upper Demerara-Berbice", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-PM", 
+    "name": "Pomeroon-Supenaam", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-UT", 
+    "name": "Upper Takutu-Upper Essequibo", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-BA", 
+    "name": "Barima-Waini", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-CU", 
+    "name": "Cuyuni-Mazaruni", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-DE", 
+    "name": "Demerara-Mahaica", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-PT", 
+    "name": "Potaro-Siparuni", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-ES", 
+    "name": "Essequibo Islands-West Demerara", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GY-MA", 
+    "name": "Mahaica-Berbice", 
+    "countryAlpha3": "GUY", 
+    "countryAlpha2": "GY", 
+    "categoryId": "302", 
+    "categoryName": "region"
+  }
+]

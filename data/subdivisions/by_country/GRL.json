@@ -1,0 +1,26 @@
+[
+  {
+    "alpha3": "GL-KU", 
+    "name": "Kommune Kujalleq", 
+    "countryAlpha3": "GRL", 
+    "countryAlpha2": "GL", 
+    "categoryId": "243", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "GL-SM", 
+    "name": "Kommuneqarfik Sermersooq", 
+    "countryAlpha3": "GRL", 
+    "countryAlpha2": "GL", 
+    "categoryId": "243", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "GL-QA", 
+    "name": "Qaasuitsup Kommunia", 
+    "countryAlpha3": "GRL", 
+    "countryAlpha2": "GL", 
+    "categoryId": "243", 
+    "categoryName": "municipality"
+  }
+]

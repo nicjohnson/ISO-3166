@@ -1,0 +1,210 @@
+[
+  {
+    "alpha3": "BR-AC", 
+    "name": "Acre", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-AM", 
+    "name": "Amazonas", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-CE", 
+    "name": "Cear\u00e1", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-RR", 
+    "name": "Roraima", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-GO", 
+    "name": "Goi\u00e1s", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-MG", 
+    "name": "Minas Gerais", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-ES", 
+    "name": "Esp\u00edrito Santo", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-AP", 
+    "name": "Amap\u00e1", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-BA", 
+    "name": "Bahia", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-MS", 
+    "name": "Mato Grosso do Sul", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-PR", 
+    "name": "Paran\u00e1", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-RN", 
+    "name": "Rio Grande do Norte", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-MT", 
+    "name": "Mato Grosso", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-PB", 
+    "name": "Para\u00edba", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-PE", 
+    "name": "Pernambuco", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-RJ", 
+    "name": "Rio de Janeiro", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-RO", 
+    "name": "Rond\u00f4nia", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-SC", 
+    "name": "Santa Catarina", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-SP", 
+    "name": "S\u00e3o Paulo", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-AL", 
+    "name": "Alagoas", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-MA", 
+    "name": "Maranh\u00e3o", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-PA", 
+    "name": "Par\u00e1", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-PI", 
+    "name": "Piau\u00ed", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-RS", 
+    "name": "Rio Grande do Sul", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-SE", 
+    "name": "Sergipe", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "193", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "BR-DF", 
+    "name": "Distrito Federal", 
+    "countryAlpha3": "BRA", 
+    "countryAlpha2": "BR", 
+    "categoryId": "403", 
+    "categoryName": "federal district"
+  }
+]

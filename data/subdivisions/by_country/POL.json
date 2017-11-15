@@ -1,0 +1,122 @@
+[
+  {
+    "alpha3": "PL-DS", 
+    "name": "Dolno\u015bl\u0105skie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-PD", 
+    "name": "Podlaskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-SK", 
+    "name": "\u015awi\u0119tokrzyskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-SL", 
+    "name": "\u015al\u0105skie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-WN", 
+    "name": "Warmi\u0144sko-mazurskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-ZP", 
+    "name": "Zachodniopomorskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-LU", 
+    "name": "Lubelskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-MA", 
+    "name": "Ma\u0142opolskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-MZ", 
+    "name": "Mazowieckie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-LB", 
+    "name": "Lubuskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-PK", 
+    "name": "Podkarpackie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-PM", 
+    "name": "Pomorskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-KP", 
+    "name": "Kujawsko-pomorskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-OP", 
+    "name": "Opolskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-WP", 
+    "name": "Wielkopolskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }
+]

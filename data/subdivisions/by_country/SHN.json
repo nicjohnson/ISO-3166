@@ -1,0 +1,18 @@
+[
+  {
+    "alpha3": "SH-TA", 
+    "name": "Tristan da Cunha", 
+    "countryAlpha3": "SHN", 
+    "countryAlpha2": "SH", 
+    "categoryId": "230", 
+    "categoryName": "geographical entity"
+  }, 
+  {
+    "alpha3": "SH-HL", 
+    "name": "Saint Helena", 
+    "countryAlpha3": "SHN", 
+    "countryAlpha2": "SH", 
+    "categoryId": "230", 
+    "categoryName": "geographical entity"
+  }
+]

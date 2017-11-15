@@ -1,0 +1,618 @@
+[
+  {
+    "alpha3": "TH-12", 
+    "name": "Nonthaburi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-25", 
+    "name": "Prachin Buri", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-26", 
+    "name": "Nakhon Nayok", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-31", 
+    "name": "Buri Ram", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-33", 
+    "name": "Si Sa Ket", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-40", 
+    "name": "Khon Kaen", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-50", 
+    "name": "Chiang Mai", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-53", 
+    "name": "Uttaradit", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-62", 
+    "name": "Kamphaeng Phet", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-64", 
+    "name": "Sukhothai", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-76", 
+    "name": "Phetchaburi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-81", 
+    "name": "Krabi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-43", 
+    "name": "Nong Khai", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-51", 
+    "name": "Lamphun", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-57", 
+    "name": "Chiang Rai", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-63", 
+    "name": "Tak", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-70", 
+    "name": "Ratchaburi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-77", 
+    "name": "Prachuap Khiri Khan", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-82", 
+    "name": "Phangnga", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-92", 
+    "name": "Trang", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-93", 
+    "name": "Phatthalung", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-16", 
+    "name": "Lop Buri", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-24", 
+    "name": "Chachoengsao", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-35", 
+    "name": "Yasothon", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-39", 
+    "name": "Nong Bua Lam Phu", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-46", 
+    "name": "Kalasin", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-48", 
+    "name": "Nakhon Phanom", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-54", 
+    "name": "Phrae", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-66", 
+    "name": "Phichit", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-80", 
+    "name": "Nakhon Si Thammarat", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-14", 
+    "name": "Phra Nakhon Si Ayutthaya", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-20", 
+    "name": "Chon Buri", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-47", 
+    "name": "Sakon Nakhon", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-49", 
+    "name": "Mukdahan", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-52", 
+    "name": "Lampang", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-58", 
+    "name": "Mae Hong Son", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-61", 
+    "name": "Uthai Thani", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-85", 
+    "name": "Ranong", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-23", 
+    "name": "Trat", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-27", 
+    "name": "Sa Kaeo", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-37", 
+    "name": "Amnat Charoen", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-42", 
+    "name": "Loei", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-45", 
+    "name": "Roi Et", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-72", 
+    "name": "Suphan Buri", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-74", 
+    "name": "Samut Sakhon", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-84", 
+    "name": "Surat Thani", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-13", 
+    "name": "Pathum Thani", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-15", 
+    "name": "Ang Thong", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-18", 
+    "name": "Chai Nat", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-30", 
+    "name": "Nakhon Ratchasima", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-32", 
+    "name": "Surin", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-71", 
+    "name": "Kanchanaburi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-73", 
+    "name": "Nakhon Pathom", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-83", 
+    "name": "Phuket", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-86", 
+    "name": "Chumphon", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-91", 
+    "name": "Satun", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-38", 
+    "name": "Bueng Kan", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-21", 
+    "name": "Rayong", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-22", 
+    "name": "Chanthaburi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-55", 
+    "name": "Nan", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-56", 
+    "name": "Phayao", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-60", 
+    "name": "Nakhon Sawan", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-65", 
+    "name": "Phitsanulok", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-67", 
+    "name": "Phetchabun", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-94", 
+    "name": "Pattani", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-95", 
+    "name": "Yala", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-11", 
+    "name": "Samut Prakan", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-17", 
+    "name": "Sing Buri", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-19", 
+    "name": "Saraburi", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-34", 
+    "name": "Ubon Ratchathani", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-36", 
+    "name": "Chaiyaphum", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-41", 
+    "name": "Udon Thani", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-44", 
+    "name": "Maha Sarakham", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-75", 
+    "name": "Samut Songkhram", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-90", 
+    "name": "Songkhla", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-96", 
+    "name": "Narathiwat", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "291", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TH-10", 
+    "name": "Krung Thep Maha Nakhon", 
+    "countryAlpha3": "THA", 
+    "countryAlpha2": "TH", 
+    "categoryId": "134", 
+    "categoryName": "metropolitan administration"
+  }
+]

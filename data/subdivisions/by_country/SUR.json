@@ -1,0 +1,74 @@
+[
+  {
+    "alpha3": "SR-CM", 
+    "name": "Commewijne", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-MA", 
+    "name": "Marowijne", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-SA", 
+    "name": "Saramacca", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-CR", 
+    "name": "Coronie", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-PM", 
+    "name": "Paramaribo", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-BR", 
+    "name": "Brokopondo", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-NI", 
+    "name": "Nickerie", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-PR", 
+    "name": "Para", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-SI", 
+    "name": "Sipaliwini", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }
+]

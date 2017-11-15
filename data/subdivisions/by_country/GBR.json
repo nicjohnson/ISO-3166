@@ -1,0 +1,1738 @@
+[
+  {
+    "alpha3": "GB-ANN", 
+    "name": "Antrim and Newtownabbey", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-AND", 
+    "name": "Ards and North Down", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-ABC", 
+    "name": "Armagh, Banbridge and Craigavon", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-CCG", 
+    "name": "Causeway Coast and Glens", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-DRS", 
+    "name": "Derry and Strabane", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-FMO", 
+    "name": "Fermanagh and Omagh", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-LBC", 
+    "name": "Lisburn and Castlereagh", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-MEA", 
+    "name": "Mid and East Antrim", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-MUL", 
+    "name": "Mid Ulster", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-NMD", 
+    "name": "Newry, Mourne and Down", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "283", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "GB-LND", 
+    "name": "London, City of", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "402", 
+    "categoryName": "city corporation"
+  }, 
+  {
+    "alpha3": "GB-HRT", 
+    "name": "Hertfordshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-LEC", 
+    "name": "Leicestershire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-SFK", 
+    "name": "Suffolk", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-SRY", 
+    "name": "Surrey", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-WOR", 
+    "name": "Worcestershire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-WSX", 
+    "name": "West Sussex", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-HAM", 
+    "name": "Hampshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-NYK", 
+    "name": "North Yorkshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-OXF", 
+    "name": "Oxfordshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-DEV", 
+    "name": "Devon", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-GLS", 
+    "name": "Gloucestershire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-ESS", 
+    "name": "Essex", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-KEN", 
+    "name": "Kent", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-WAR", 
+    "name": "Warwickshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-DBY", 
+    "name": "Derbyshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-DOR", 
+    "name": "Dorset", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-LAN", 
+    "name": "Lancashire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-LIN", 
+    "name": "Lincolnshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-STS", 
+    "name": "Staffordshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-CMA", 
+    "name": "Cumbria", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-ESX", 
+    "name": "East Sussex", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-NTH", 
+    "name": "Northamptonshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-NTT", 
+    "name": "Nottinghamshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-SOM", 
+    "name": "Somerset", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-BKM", 
+    "name": "Buckinghamshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-CAM", 
+    "name": "Cambridgeshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-NFK", 
+    "name": "Norfolk", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "113", 
+    "categoryName": "two-tier county"
+  }, 
+  {
+    "alpha3": "GB-BAS", 
+    "name": "Bath and North East Somerset", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BPL", 
+    "name": "Blackpool", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CHW", 
+    "name": "Cheshire West and Chester", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-STH", 
+    "name": "Southampton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-STT", 
+    "name": "Stockton-on-Tees", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-SWD", 
+    "name": "Swindon", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-TFW", 
+    "name": "Telford and Wrekin", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-WNM", 
+    "name": "Windsor and Maidenhead", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BMH", 
+    "name": "Bournemouth", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CHE", 
+    "name": "Cheshire East", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CON", 
+    "name": "Cornwall", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-RUT", 
+    "name": "Rutland", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-SLG", 
+    "name": "Slough", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-THR", 
+    "name": "Thurrock", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-TOB", 
+    "name": "Torbay", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-WIL", 
+    "name": "Wiltshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-YOR", 
+    "name": "York", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-DER", 
+    "name": "Derby", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-IOW", 
+    "name": "Isle of Wight", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NGM", 
+    "name": "Nottingham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-STE", 
+    "name": "Stoke-on-Trent", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-WOK", 
+    "name": "Wokingham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BNH", 
+    "name": "Brighton and Hove", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-DAL", 
+    "name": "Darlington", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-ERY", 
+    "name": "East Riding of Yorkshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-HPL", 
+    "name": "Hartlepool", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-LCE", 
+    "name": "Leicester", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-MDB", 
+    "name": "Middlesbrough", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NBL", 
+    "name": "Northumberland", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-POL", 
+    "name": "Poole", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-RCC", 
+    "name": "Redcar and Cleveland", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BBD", 
+    "name": "Blackburn with Darwen", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BRC", 
+    "name": "Bracknell Forest", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CBF", 
+    "name": "Central Bedfordshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-DUR", 
+    "name": "Durham County", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-HEF", 
+    "name": "Herefordshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-MDW", 
+    "name": "Medway", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-PTE", 
+    "name": "Peterborough", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-SOS", 
+    "name": "Southend-on-Sea", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BDF", 
+    "name": "Bedford", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BST", 
+    "name": "Bristol, City of", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-LUT", 
+    "name": "Luton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-MIK", 
+    "name": "Milton Keynes", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NLN", 
+    "name": "North Lincolnshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NSM", 
+    "name": "North Somerset", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-PLY", 
+    "name": "Plymouth", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-RDG", 
+    "name": "Reading", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-SHR", 
+    "name": "Shropshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-HAL", 
+    "name": "Halton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-KHL", 
+    "name": "Kingston upon Hull", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NEL", 
+    "name": "North East Lincolnshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-POR", 
+    "name": "Portsmouth", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-SGC", 
+    "name": "South Gloucestershire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-WBK", 
+    "name": "West Berkshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-WRT", 
+    "name": "Warrington", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-IOS", 
+    "name": "Isles of Scilly", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NWP", 
+    "name": "Newport [Casnewydd GB-CNW]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BGW", 
+    "name": "Blaenau Gwent", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CMN", 
+    "name": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-DEN", 
+    "name": "Denbighshire [Sir Ddinbych GB-DDB]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-FLN", 
+    "name": "Flintshire [Sir y Fflint GB-FFL]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-MTY", 
+    "name": "Merthyr Tydfil [Merthyr Tudful GB-MTU]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-POW", 
+    "name": "Powys", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-VGL", 
+    "name": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-AGY", 
+    "name": "Isle of Anglesey [Sir Ynys M\u00f4n GB-YNM]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CAY", 
+    "name": "Caerphilly [Caerffili GB-CAF]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-GWN", 
+    "name": "Gwynedd", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-WRX", 
+    "name": "Wrexham [Wrecsam GB-WRC]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CGN", 
+    "name": "Ceredigion [Sir Ceredigion]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-MON", 
+    "name": "Monmouthshire [Sir Fynwy GB-FYN]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-PEM", 
+    "name": "Pembrokeshire [Sir Benfro GB-BNF]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-TOF", 
+    "name": "Torfaen [Tor-faen]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CRF", 
+    "name": "Cardiff [Caerdydd GB-CRD]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-SWA", 
+    "name": "Swansea [Abertawe GB-ATA]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-BGE", 
+    "name": "Bridgend [Pen-y-bont ar Ogwr GB-POG]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-CWY", 
+    "name": "Conwy", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-NTL", 
+    "name": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-RCT", 
+    "name": "Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "284", 
+    "categoryName": "unitary authority"
+  }, 
+  {
+    "alpha3": "GB-HNS", 
+    "name": "Hounslow", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-KTT", 
+    "name": "Kingston upon Thames", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-BEX", 
+    "name": "Bexley", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-RIC", 
+    "name": "Richmond upon Thames", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-WFT", 
+    "name": "Waltham Forest", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-HCK", 
+    "name": "Hackney", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-HRW", 
+    "name": "Harrow", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-ISL", 
+    "name": "Islington", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-KEC", 
+    "name": "Kensington and Chelsea", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-LBH", 
+    "name": "Lambeth", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-BNE", 
+    "name": "Barnet", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-HAV", 
+    "name": "Havering", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-HIL", 
+    "name": "Hillingdon", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-MRT", 
+    "name": "Merton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-RDB", 
+    "name": "Redbridge", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-TWH", 
+    "name": "Tower Hamlets", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-ENF", 
+    "name": "Enfield", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-HMF", 
+    "name": "Hammersmith and Fulham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-LEW", 
+    "name": "Lewisham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-BEN", 
+    "name": "Brent", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-CMD", 
+    "name": "Camden", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-CRY", 
+    "name": "Croydon", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-NWM", 
+    "name": "Newham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-STN", 
+    "name": "Sutton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-BDG", 
+    "name": "Barking and Dagenham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-SWK", 
+    "name": "Southwark", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-WSM", 
+    "name": "Westminster", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-BRY", 
+    "name": "Bromley", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-EAL", 
+    "name": "Ealing", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-GRE", 
+    "name": "Greenwich", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-HRY", 
+    "name": "Haringey", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-WND", 
+    "name": "Wandsworth", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "370", 
+    "categoryName": "London borough"
+  }, 
+  {
+    "alpha3": "GB-BIR", 
+    "name": "Birmingham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-RCH", 
+    "name": "Rochdale", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-ROT", 
+    "name": "Rotherham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-BRD", 
+    "name": "Bradford", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-BUR", 
+    "name": "Bury", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-LIV", 
+    "name": "Liverpool", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SAW", 
+    "name": "Sandwell", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SHF", 
+    "name": "Sheffield", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-WKF", 
+    "name": "Wakefield", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-CLD", 
+    "name": "Calderdale", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-COV", 
+    "name": "Coventry", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-DUD", 
+    "name": "Dudley", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-LDS", 
+    "name": "Leeds", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-NET", 
+    "name": "Newcastle upon Tyne", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SLF", 
+    "name": "Salford", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SOL", 
+    "name": "Solihull", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-WLV", 
+    "name": "Wolverhampton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-BNS", 
+    "name": "Barnsley", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SFT", 
+    "name": "Sefton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SHN", 
+    "name": "St. Helens", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-TRF", 
+    "name": "Trafford", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-WLL", 
+    "name": "Walsall", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-GAT", 
+    "name": "Gateshead", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-KWL", 
+    "name": "Knowsley", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-TAM", 
+    "name": "Tameside", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-WGN", 
+    "name": "Wigan", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-BOL", 
+    "name": "Bolton", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-OLD", 
+    "name": "Oldham", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SKP", 
+    "name": "Stockport", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-DNC", 
+    "name": "Doncaster", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-KIR", 
+    "name": "Kirklees", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-MAN", 
+    "name": "Manchester", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-NTY", 
+    "name": "North Tyneside", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-SND", 
+    "name": "Sunderland", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-STY", 
+    "name": "South Tyneside", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-WRL", 
+    "name": "Wirral", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "369", 
+    "categoryName": "metropolitan district"
+  }, 
+  {
+    "alpha3": "GB-NIR", 
+    "name": "Northern Ireland", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "405", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GB-ANS", 
+    "name": "Angus", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-FAL", 
+    "name": "Falkirk", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-GLG", 
+    "name": "Glasgow City", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-MRY", 
+    "name": "Moray", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-DGY", 
+    "name": "Dumfries and Galloway", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ELN", 
+    "name": "East Lothian", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-SAY", 
+    "name": "South Ayrshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ABD", 
+    "name": "Aberdeenshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ELS", 
+    "name": "Eilean Siar", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-NAY", 
+    "name": "North Ayrshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-WLN", 
+    "name": "West Lothian", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-AGB", 
+    "name": "Argyll and Bute", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-CLK", 
+    "name": "Clackmannanshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-EDU", 
+    "name": "East Dunbartonshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-FIF", 
+    "name": "Fife", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-MLN", 
+    "name": "Midlothian", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ORK", 
+    "name": "Orkney Islands", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-SCB", 
+    "name": "Scottish Borders, The", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-SLK", 
+    "name": "South Lanarkshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-STG", 
+    "name": "Stirling", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ZET", 
+    "name": "Shetland Islands", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-WDU", 
+    "name": "West Dunbartonshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ABE", 
+    "name": "Aberdeen City", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-DND", 
+    "name": "Dundee City", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-EAY", 
+    "name": "East Ayrshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-ERW", 
+    "name": "East Renfrewshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-HLD", 
+    "name": "Highland", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-IVC", 
+    "name": "Inverclyde", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-PKN", 
+    "name": "Perth and Kinross", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-EDH", 
+    "name": "Edinburgh, City of", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-NLK", 
+    "name": "North Lanarkshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }, 
+  {
+    "alpha3": "GB-RFW", 
+    "name": "Renfrewshire", 
+    "countryAlpha3": "GBR", 
+    "countryAlpha2": "GB", 
+    "categoryId": "112", 
+    "categoryName": "council area"
+  }
+]

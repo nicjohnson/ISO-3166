@@ -1,0 +1,170 @@
+[
+  {
+    "alpha3": "LY-SB", 
+    "name": "Sabh\u0101", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-WA", 
+    "name": "Al W\u0101\u1e29\u0101t", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-BA", 
+    "name": "Bangh\u0101z\u012b", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-BU", 
+    "name": "Al Bu\u0163n\u0101n", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-DR", 
+    "name": "Darnah", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-JI", 
+    "name": "Al Jaf\u0101rah", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-MI", 
+    "name": "Mi\u015fr\u0101tah", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-NL", 
+    "name": "N\u0101l\u016bt", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-NQ", 
+    "name": "An Nuq\u0101\u0163 al Khams", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-SR", 
+    "name": "Surt", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-ZA", 
+    "name": "Az Z\u0101wiyah", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-JU", 
+    "name": "Al Jufrah", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-MB", 
+    "name": "Al Marqab", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-WD", 
+    "name": "W\u0101d\u012b al \u1e28ay\u0101t", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-GT", 
+    "name": "Gh\u0101t", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-TB", 
+    "name": "\u0162ar\u0101bulus", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-JA", 
+    "name": "Al Jabal al Akh\u1e11ar", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-KF", 
+    "name": "Al Kufrah", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-MQ", 
+    "name": "Murzuq", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-JG", 
+    "name": "Al Jabal al Gharb\u012b", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }, 
+  {
+    "alpha3": "LY-WS", 
+    "name": "W\u0101d\u012b ash Sh\u0101\u0163i\u2019", 
+    "countryAlpha3": "LBY", 
+    "countryAlpha2": "LY", 
+    "categoryId": "332", 
+    "categoryName": "popularate"
+  }
+]

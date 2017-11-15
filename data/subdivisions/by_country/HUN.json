@@ -1,0 +1,338 @@
+[
+  {
+    "alpha3": "HU-NY", 
+    "name": "Ny\u00edregyh\u00e1za", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-TB", 
+    "name": "Tatab\u00e1nya", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-MI", 
+    "name": "Miskolc", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-PS", 
+    "name": "P\u00e9cs", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-ST", 
+    "name": "Salg\u00f3tarj\u00e1n", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-BC", 
+    "name": "B\u00e9k\u00e9scsaba", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-DE", 
+    "name": "Debrecen", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-SN", 
+    "name": "Sopron", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-SD", 
+    "name": "Szeged", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-ZE", 
+    "name": "Zalaegerszeg", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-DU", 
+    "name": "Duna\u00fajv\u00e1ros", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-SF", 
+    "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-SS", 
+    "name": "Szeksz\u00e1rd", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-ER", 
+    "name": "\u00c9rd", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-NK", 
+    "name": "Nagykanizsa", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-EG", 
+    "name": "Eger", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-GY", 
+    "name": "Gy\u0151r", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-KM", 
+    "name": "Kecskem\u00e9t", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-HV", 
+    "name": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-KV", 
+    "name": "Kaposv\u00e1r", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-SH", 
+    "name": "Szombathely", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-SK", 
+    "name": "Szolnok", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-VM", 
+    "name": "Veszpr\u00e9m", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "245", 
+    "categoryName": "city of county right"
+  }, 
+  {
+    "alpha3": "HU-FE", 
+    "name": "Fej\u00e9r", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-GS", 
+    "name": "Gy\u0151r-Moson-Sopron", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-VA", 
+    "name": "Vas", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-BA", 
+    "name": "Baranya", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-CS", 
+    "name": "Csongr\u00e1d", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-HB", 
+    "name": "Hajd\u00fa-Bihar", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-PE", 
+    "name": "Pest", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-SO", 
+    "name": "Somogy", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-BE", 
+    "name": "B\u00e9k\u00e9s", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-JN", 
+    "name": "J\u00e1sz-Nagykun-Szolnok", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-VE", 
+    "name": "Veszpr\u00e9m", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-ZA", 
+    "name": "Zala", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-KE", 
+    "name": "Kom\u00e1rom-Esztergom", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-BZ", 
+    "name": "Borsod-Aba\u00faj-Zempl\u00e9n", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-NO", 
+    "name": "N\u00f3gr\u00e1d", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-BK", 
+    "name": "B\u00e1cs-Kiskun", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-HE", 
+    "name": "Heves", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-SZ", 
+    "name": "Szabolcs-Szatm\u00e1r-Bereg", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HU-TO", 
+    "name": "Tolna", 
+    "countryAlpha3": "HUN", 
+    "countryAlpha2": "HU", 
+    "categoryId": "204", 
+    "categoryName": "county"
+  }
+]

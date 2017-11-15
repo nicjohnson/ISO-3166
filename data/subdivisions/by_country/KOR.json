@@ -1,0 +1,130 @@
+[
+  {
+    "alpha3": "KR-43", 
+    "name": "Chungcheongbuk-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-44", 
+    "name": "Chungcheongnam-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-42", 
+    "name": "Gangwon-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-41", 
+    "name": "Gyeonggi-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-47", 
+    "name": "Gyeongsangbuk-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-48", 
+    "name": "Gyeongsangnam-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-45", 
+    "name": "Jeollabuk-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-46", 
+    "name": "Jeollanam-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-50", 
+    "name": "Sejong", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "453", 
+    "categoryName": "special self-governing city"
+  }, 
+  {
+    "alpha3": "KR-11", 
+    "name": "Seoul-teukbyeolsi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "226", 
+    "categoryName": "special city"
+  }, 
+  {
+    "alpha3": "KR-26", 
+    "name": "Busan-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-27", 
+    "name": "Daegu-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-30", 
+    "name": "Daejeon-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-29", 
+    "name": "Gwangju-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-28", 
+    "name": "Incheon-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-31", 
+    "name": "Ulsan-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }
+]

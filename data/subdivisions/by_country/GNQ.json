@@ -1,0 +1,210 @@
+[
+  {
+    "alpha3": "GQ-C", 
+    "name": "Regi\u00e3o Continental", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "300", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-C", 
+    "name": "R\u00e9gion Continentale", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "300", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-I", 
+    "name": "R\u00e9gion Insulaire", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "300", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-I", 
+    "name": "Regi\u00f3n Insular", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "300", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-I", 
+    "name": "Regi\u00e3o Insular", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "300", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-CS", 
+    "name": "Centro Sul", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-CS", 
+    "name": "Centro Sud", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-CS", 
+    "name": "Centro Sur", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-LI", 
+    "name": "Littoral", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-LI", 
+    "name": "Litoral", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-LI", 
+    "name": "Litoral", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-WN", 
+    "name": "Wele-Nzas", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-WN", 
+    "name": "Wele-Nzas", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-WN", 
+    "name": "Wele-Nzas", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-KN", 
+    "name": "Ki\u00e9-Ntem", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-KN", 
+    "name": "Ki\u00e9-Ntem", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-KN", 
+    "name": "Ki\u00e9-Ntem", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-AN", 
+    "name": "Annob\u00f3n", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-AN", 
+    "name": "Annobon", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-AN", 
+    "name": "Ano Bom", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BN", 
+    "name": "Bioko Norte", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BN", 
+    "name": "Bioko Nord", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BN", 
+    "name": "Bioko Norte", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BS", 
+    "name": "Bioko Sud", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BS", 
+    "name": "Bioko Sul", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BS", 
+    "name": "Bioko Sur", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }
+]

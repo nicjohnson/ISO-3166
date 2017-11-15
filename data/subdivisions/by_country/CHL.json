@@ -1,0 +1,114 @@
+[
+  {
+    "alpha3": "CL-AN", 
+    "name": "Antofagasta", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-RM", 
+    "name": "Regi\u00f3n Metropolitana de Santiago", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-TA", 
+    "name": "Tarapac\u00e1", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-BI", 
+    "name": "Biob\u00edo", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-AP", 
+    "name": "Arica y Parinacota", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-AT", 
+    "name": "Atacama", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-LL", 
+    "name": "Los Lagos", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-LR", 
+    "name": "Los R\u00edos", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-ML", 
+    "name": "Maule", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-AR", 
+    "name": "La Araucan\u00eda", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-LI", 
+    "name": "Libertador General Bernardo O'Higgins", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-AI", 
+    "name": "Ais\u00e9n del General Carlos Iba\u00f1ez del Campo", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-VS", 
+    "name": "Valpara\u00edso", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CL-CO", 
+    "name": "Coquimbo", 
+    "countryAlpha3": "CHL", 
+    "countryAlpha2": "CL", 
+    "categoryId": "364", 
+    "categoryName": "region"
+  }
+]

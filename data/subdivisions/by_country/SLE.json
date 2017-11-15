@@ -1,0 +1,26 @@
+[
+  {
+    "alpha3": "SL-S", 
+    "name": "Southern", 
+    "countryAlpha3": "SLE", 
+    "countryAlpha2": "SL", 
+    "categoryId": "424", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SL-N", 
+    "name": "Northern", 
+    "countryAlpha3": "SLE", 
+    "countryAlpha2": "SL", 
+    "categoryId": "424", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "SL-E", 
+    "name": "Eastern", 
+    "countryAlpha3": "SLE", 
+    "countryAlpha2": "SL", 
+    "categoryId": "424", 
+    "categoryName": "province"
+  }
+]

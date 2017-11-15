@@ -1,0 +1,138 @@
+[
+  {
+    "alpha3": "HN-LP", 
+    "name": "La Paz", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-SB", 
+    "name": "Santa B\u00e1rbara", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-CL", 
+    "name": "Col\u00f3n", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-YO", 
+    "name": "Yoro", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-VA", 
+    "name": "Valle", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-CM", 
+    "name": "Comayagua", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-LE", 
+    "name": "Lempira", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-CH", 
+    "name": "Choluteca", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-GD", 
+    "name": "Gracias a Dios", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-IB", 
+    "name": "Islas de la Bah\u00eda", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-OL", 
+    "name": "Olancho", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-EP", 
+    "name": "El Para\u00edso", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-AT", 
+    "name": "Atl\u00e1ntida", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-CR", 
+    "name": "Cort\u00e9s", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-FM", 
+    "name": "Francisco Moraz\u00e1n", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-IN", 
+    "name": "Intibuc\u00e1", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HN-OC", 
+    "name": "Ocotepeque", 
+    "countryAlpha3": "HND", 
+    "countryAlpha2": "HN", 
+    "categoryId": "203", 
+    "categoryName": "department"
+  }
+]

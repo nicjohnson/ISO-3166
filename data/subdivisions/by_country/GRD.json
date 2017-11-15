@@ -1,0 +1,50 @@
+[
+  {
+    "alpha3": "GD-02", 
+    "name": "Saint David", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "242", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "GD-05", 
+    "name": "Saint Mark", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "242", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "GD-01", 
+    "name": "Saint Andrew", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "242", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "GD-03", 
+    "name": "Saint George", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "242", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "GD-06", 
+    "name": "Saint Patrick", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "242", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "GD-10", 
+    "name": "Southern Grenadine Islands", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "351", 
+    "categoryName": "dependency"
+  }
+]
