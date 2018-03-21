@@ -1,45 +1,5 @@
 [
   {
-    "alpha3": "GR-H", 
-    "name": "Stere\u00e1 Ell\u00e1da", 
-    "countryAlpha3": "GRC", 
-    "countryAlpha2": "GR", 
-    "categoryId": "202", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "GR-A", 
-    "name": "Anatolik\u00ed Makedon\u00eda kai Thr\u00e1ki", 
-    "countryAlpha3": "GRC", 
-    "countryAlpha2": "GR", 
-    "categoryId": "202", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "GR-B", 
-    "name": "Kentrik\u00ed Makedon\u00eda", 
-    "countryAlpha3": "GRC", 
-    "countryAlpha2": "GR", 
-    "categoryId": "202", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "GR-F", 
-    "name": "Ion\u00eda N\u00edsia", 
-    "countryAlpha3": "GRC", 
-    "countryAlpha2": "GR", 
-    "categoryId": "202", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "GR-E", 
-    "name": "Thessal\u00eda", 
-    "countryAlpha3": "GRC", 
-    "countryAlpha2": "GR", 
-    "categoryId": "202", 
-    "categoryName": "administrative region"
-  }, 
-  {
     "alpha3": "GR-K", 
     "name": "Vore\u00edo Aiga\u00edo", 
     "countryAlpha3": "GRC", 
@@ -48,8 +8,8 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "GR-I", 
-    "name": "Attik\u00ed", 
+    "alpha3": "GR-G", 
+    "name": "Dytik\u00ed Ell\u00e1da", 
     "countryAlpha3": "GRC", 
     "countryAlpha2": "GR", 
     "categoryId": "202", 
@@ -72,16 +32,32 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "GR-G", 
-    "name": "Dytik\u00ed Ell\u00e1da", 
+    "alpha3": "GR-E", 
+    "name": "Thessal\u00eda", 
     "countryAlpha3": "GRC", 
     "countryAlpha2": "GR", 
     "categoryId": "202", 
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "GR-J", 
-    "name": "Peloponn\u00edsos", 
+    "alpha3": "GR-I", 
+    "name": "Attik\u00ed", 
+    "countryAlpha3": "GRC", 
+    "countryAlpha2": "GR", 
+    "categoryId": "202", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "GR-H", 
+    "name": "Stere\u00e1 Ell\u00e1da", 
+    "countryAlpha3": "GRC", 
+    "countryAlpha2": "GR", 
+    "categoryId": "202", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "GR-C", 
+    "name": "Dytik\u00ed Makedon\u00eda", 
     "countryAlpha3": "GRC", 
     "countryAlpha2": "GR", 
     "categoryId": "202", 
@@ -96,11 +72,35 @@
     "categoryName": "administrative region"
   }, 
   {
+    "alpha3": "GR-A", 
+    "name": "Anatolik\u00ed Makedon\u00eda kai Thr\u00e1ki", 
+    "countryAlpha3": "GRC", 
+    "countryAlpha2": "GR", 
+    "categoryId": "202", 
+    "categoryName": "administrative region"
+  }, 
+  {
     "alpha3": "GR-69", 
     "name": "\u00c1gion \u00d3ros", 
     "countryAlpha3": "GRC", 
     "countryAlpha2": "GR", 
     "categoryId": "185", 
     "categoryName": "self-governed part"
+  }, 
+  {
+    "alpha3": "GR-J", 
+    "name": "Peloponn\u00edsos", 
+    "countryAlpha3": "GRC", 
+    "countryAlpha2": "GR", 
+    "categoryId": "202", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "GR-B", 
+    "name": "Kentrik\u00ed Makedon\u00eda", 
+    "countryAlpha3": "GRC", 
+    "countryAlpha2": "GR", 
+    "categoryId": "202", 
+    "categoryName": "administrative region"
   }
 ]

@@ -1,63 +1,7 @@
 [
   {
-    "alpha3": "HT-NO", 
-    "name": "N\u00f2dw\u00e8s", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-NE", 
-    "name": "N\u00f2d\u00e8s", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-NE", 
-    "name": "Nord-Est", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-OU", 
-    "name": "Lw\u00e8s", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-OU", 
-    "name": "Ouest", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-GA", 
-    "name": "Grandans", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-GA", 
-    "name": "Grande\u2019Anse", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-ND", 
-    "name": "N\u00f2", 
+    "alpha3": "HT-NI", 
+    "name": "Nippes", 
     "countryAlpha3": "HTI", 
     "countryAlpha2": "HT", 
     "categoryId": "116", 
@@ -72,16 +16,40 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "HT-SD", 
-    "name": "Sid", 
+    "alpha3": "HT-AR", 
+    "name": "Artibonite", 
     "countryAlpha3": "HTI", 
     "countryAlpha2": "HT", 
     "categoryId": "116", 
     "categoryName": "department"
   }, 
   {
-    "alpha3": "HT-SD", 
-    "name": "Sud", 
+    "alpha3": "HT-GA", 
+    "name": "Grande\u2019Anse", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-NE", 
+    "name": "N\u00f2d\u00e8s", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-NO", 
+    "name": "Nord-Ouest", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-CE", 
+    "name": "Centre", 
     "countryAlpha3": "HTI", 
     "countryAlpha2": "HT", 
     "categoryId": "116", 
@@ -90,38 +58,6 @@
   {
     "alpha3": "HT-SE", 
     "name": "Sud-Est", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-SE", 
-    "name": "Sid\u00e8s", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-NI", 
-    "name": "Nip", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-NI", 
-    "name": "Nippes", 
-    "countryAlpha3": "HTI", 
-    "countryAlpha2": "HT", 
-    "categoryId": "116", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "HT-AR", 
-    "name": "Artibonite", 
     "countryAlpha3": "HTI", 
     "countryAlpha2": "HT", 
     "categoryId": "116", 
@@ -144,8 +80,72 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "HT-CE", 
-    "name": "Centre", 
+    "alpha3": "HT-ND", 
+    "name": "N\u00f2", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-SD", 
+    "name": "Sid", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-OU", 
+    "name": "Lw\u00e8s", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-OU", 
+    "name": "Ouest", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-NE", 
+    "name": "Nord-Est", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-GA", 
+    "name": "Grandans", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-NO", 
+    "name": "N\u00f2dw\u00e8s", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-NI", 
+    "name": "Nip", 
+    "countryAlpha3": "HTI", 
+    "countryAlpha2": "HT", 
+    "categoryId": "116", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "HT-SE", 
+    "name": "Sid\u00e8s", 
     "countryAlpha3": "HTI", 
     "countryAlpha2": "HT", 
     "categoryId": "116", 

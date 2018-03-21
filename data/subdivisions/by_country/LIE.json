@@ -1,5 +1,37 @@
 [
   {
+    "alpha3": "LI-05", 
+    "name": "Planken", 
+    "countryAlpha3": "LIE", 
+    "countryAlpha2": "LI", 
+    "categoryId": "331", 
+    "categoryName": "commune"
+  }, 
+  {
+    "alpha3": "LI-09", 
+    "name": "Triesen", 
+    "countryAlpha3": "LIE", 
+    "countryAlpha2": "LI", 
+    "categoryId": "331", 
+    "categoryName": "commune"
+  }, 
+  {
+    "alpha3": "LI-10", 
+    "name": "Triesenberg", 
+    "countryAlpha3": "LIE", 
+    "countryAlpha2": "LI", 
+    "categoryId": "331", 
+    "categoryName": "commune"
+  }, 
+  {
+    "alpha3": "LI-02", 
+    "name": "Eschen", 
+    "countryAlpha3": "LIE", 
+    "countryAlpha2": "LI", 
+    "categoryId": "331", 
+    "categoryName": "commune"
+  }, 
+  {
     "alpha3": "LI-08", 
     "name": "Schellenberg", 
     "countryAlpha3": "LIE", 
@@ -24,46 +56,6 @@
     "categoryName": "commune"
   }, 
   {
-    "alpha3": "LI-03", 
-    "name": "Gamprin", 
-    "countryAlpha3": "LIE", 
-    "countryAlpha2": "LI", 
-    "categoryId": "331", 
-    "categoryName": "commune"
-  }, 
-  {
-    "alpha3": "LI-05", 
-    "name": "Planken", 
-    "countryAlpha3": "LIE", 
-    "countryAlpha2": "LI", 
-    "categoryId": "331", 
-    "categoryName": "commune"
-  }, 
-  {
-    "alpha3": "LI-06", 
-    "name": "Ruggell", 
-    "countryAlpha3": "LIE", 
-    "countryAlpha2": "LI", 
-    "categoryId": "331", 
-    "categoryName": "commune"
-  }, 
-  {
-    "alpha3": "LI-01", 
-    "name": "Balzers", 
-    "countryAlpha3": "LIE", 
-    "countryAlpha2": "LI", 
-    "categoryId": "331", 
-    "categoryName": "commune"
-  }, 
-  {
-    "alpha3": "LI-09", 
-    "name": "Triesen", 
-    "countryAlpha3": "LIE", 
-    "countryAlpha2": "LI", 
-    "categoryId": "331", 
-    "categoryName": "commune"
-  }, 
-  {
     "alpha3": "LI-07", 
     "name": "Schaan", 
     "countryAlpha3": "LIE", 
@@ -72,8 +64,16 @@
     "categoryName": "commune"
   }, 
   {
-    "alpha3": "LI-10", 
-    "name": "Triesenberg", 
+    "alpha3": "LI-03", 
+    "name": "Gamprin", 
+    "countryAlpha3": "LIE", 
+    "countryAlpha2": "LI", 
+    "categoryId": "331", 
+    "categoryName": "commune"
+  }, 
+  {
+    "alpha3": "LI-01", 
+    "name": "Balzers", 
     "countryAlpha3": "LIE", 
     "countryAlpha2": "LI", 
     "categoryId": "331", 

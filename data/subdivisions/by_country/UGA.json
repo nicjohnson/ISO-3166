@@ -1,727 +1,7 @@
 [
   {
-    "alpha3": "UG-E", 
-    "name": "Eastern", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "254", 
-    "categoryName": "geographical region"
-  }, 
-  {
-    "alpha3": "UG-N", 
-    "name": "Northern", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "254", 
-    "categoryName": "geographical region"
-  }, 
-  {
-    "alpha3": "UG-W", 
-    "name": "Western", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "254", 
-    "categoryName": "geographical region"
-  }, 
-  {
-    "alpha3": "UG-C", 
-    "name": "Central", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "254", 
-    "categoryName": "geographical region"
-  }, 
-  {
-    "alpha3": "UG-202", 
-    "name": "Busia", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-207", 
-    "name": "Katakwi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-205", 
-    "name": "Kamuli", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-208", 
-    "name": "Kumi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-222", 
-    "name": "Kaliro", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-203", 
-    "name": "Iganga", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-206", 
-    "name": "Kapchorwa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-213", 
-    "name": "Kaberamaido", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-214", 
-    "name": "Mayuge", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-215", 
-    "name": "Sironko", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-218", 
-    "name": "Bududa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-219", 
-    "name": "Bukedea", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-221", 
-    "name": "Butaleja", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-216", 
-    "name": "Amuria", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-220", 
-    "name": "Bukwa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-201", 
-    "name": "Bugiri", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-211", 
-    "name": "Soroti", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-217", 
-    "name": "Budaka", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-204", 
-    "name": "Jinja", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-209", 
-    "name": "Mbale", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-212", 
-    "name": "Tororo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-223", 
-    "name": "Manafwa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-224", 
-    "name": "Namutumba", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-225", 
-    "name": "Bulambuli", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-226", 
-    "name": "Buyende", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-227", 
-    "name": "Kibuku", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-228", 
-    "name": "Kween", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-229", 
-    "name": "Luuka", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-230", 
-    "name": "Namayingo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-231", 
-    "name": "Ngora", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-232", 
-    "name": "Serere", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-210", 
-    "name": "Pallisa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-301", 
-    "name": "Adjumani", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-308", 
-    "name": "Moroto", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-314", 
-    "name": "Abim", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-315", 
-    "name": "Amolatar", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-317", 
-    "name": "Dokolo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-316", 
-    "name": "Amuru", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-320", 
-    "name": "Maracha", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-305", 
-    "name": "Kitgum", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-307", 
-    "name": "Lira", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-321", 
-    "name": "Oyam", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-302", 
-    "name": "Apac", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-303", 
-    "name": "Arua", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-311", 
-    "name": "Nakapiripirit", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-304", 
-    "name": "Gulu", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-312", 
-    "name": "Pader", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-319", 
-    "name": "Koboko", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-322", 
-    "name": "Agago", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-323", 
-    "name": "Alebtong", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-324", 
-    "name": "Amudat", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-325", 
-    "name": "Kole", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-326", 
-    "name": "Lamwo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-327", 
-    "name": "Napak", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "UG-328", 
     "name": "Nwoya", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-329", 
-    "name": "Otuke", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-330", 
-    "name": "Zombo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-306", 
-    "name": "Kotido", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-309", 
-    "name": "Moyo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-310", 
-    "name": "Nebbi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-313", 
-    "name": "Yumbe", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-318", 
-    "name": "Kaabong", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-411", 
-    "name": "Ntungamo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-413", 
-    "name": "Kamwenge", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-416", 
-    "name": "Buliisa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-414", 
-    "name": "Kanungu", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-417", 
-    "name": "Ibanda", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-418", 
-    "name": "Isingiro", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-405", 
-    "name": "Kabarole", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-407", 
-    "name": "Kibaale", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-409", 
-    "name": "Masindi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-412", 
-    "name": "Rukungiri", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-402", 
-    "name": "Bushenyi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-406", 
-    "name": "Kasese", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-408", 
-    "name": "Kisoro", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-410", 
-    "name": "Mbarara", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-404", 
-    "name": "Kabale", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-420", 
-    "name": "Buhweju", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-421", 
-    "name": "Kiryandongo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-422", 
-    "name": "Kyegegwa", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-423", 
-    "name": "Mitooma", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-424", 
-    "name": "Ntoroko", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-425", 
-    "name": "Rubirizi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-426", 
-    "name": "Sheema", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-401", 
-    "name": "Bundibugyo", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-403", 
-    "name": "Hoima", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-415", 
-    "name": "Kyenjojo", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
@@ -736,88 +16,32 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-109", 
-    "name": "Nakasongola", 
+    "alpha3": "UG-325", 
+    "name": "Kole", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-110", 
-    "name": "Rakai", 
+    "alpha3": "UG-425", 
+    "name": "Rubirizi", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-112", 
-    "name": "Kayunga", 
+    "alpha3": "UG-N", 
+    "name": "Northern", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
+    "categoryId": "254", 
+    "categoryName": "geographical region"
   }, 
   {
-    "alpha3": "UG-113", 
-    "name": "Wakiso", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-105", 
-    "name": "Masaka", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-115", 
-    "name": "Mityana", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-108", 
-    "name": "Mukono", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-111", 
-    "name": "Sembabule", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-114", 
-    "name": "Lyantonde", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-103", 
-    "name": "Kiboga", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-116", 
-    "name": "Nakaseke", 
+    "alpha3": "UG-303", 
+    "name": "Arua", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
@@ -832,64 +56,32 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-118", 
-    "name": "Bukomansibi", 
+    "alpha3": "UG-206", 
+    "name": "Kapchorwa", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-119", 
-    "name": "Butambala", 
+    "alpha3": "UG-215", 
+    "name": "Sironko", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-120", 
-    "name": "Buvuma", 
+    "alpha3": "UG-405", 
+    "name": "Kabarole", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-121", 
-    "name": "Gomba", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-101", 
-    "name": "Kalangala", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-106", 
-    "name": "Mpigi", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-122", 
-    "name": "Kalungu", 
-    "countryAlpha3": "UGA", 
-    "countryAlpha2": "UG", 
-    "categoryId": "334", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "UG-123", 
-    "name": "Kyankwanzi", 
+    "alpha3": "UG-417", 
+    "name": "Ibanda", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 
@@ -904,6 +96,86 @@
     "categoryName": "district"
   }, 
   {
+    "alpha3": "UG-107", 
+    "name": "Mubende", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-213", 
+    "name": "Kaberamaido", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-403", 
+    "name": "Hoima", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-229", 
+    "name": "Luuka", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-406", 
+    "name": "Kasese", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-407", 
+    "name": "Kibaale", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-123", 
+    "name": "Kyankwanzi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-102", 
+    "name": "Kampala", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "459", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "UG-201", 
+    "name": "Bugiri", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-205", 
+    "name": "Kamuli", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "UG-104", 
     "name": "Luwero", 
     "countryAlpha3": "UGA", 
@@ -912,8 +184,736 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "UG-107", 
-    "name": "Mubende", 
+    "alpha3": "UG-113", 
+    "name": "Wakiso", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-306", 
+    "name": "Kotido", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-218", 
+    "name": "Bududa", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-231", 
+    "name": "Ngora", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-C", 
+    "name": "Central", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "254", 
+    "categoryName": "geographical region"
+  }, 
+  {
+    "alpha3": "UG-418", 
+    "name": "Isingiro", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-413", 
+    "name": "Kamwenge", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-410", 
+    "name": "Mbarara", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-217", 
+    "name": "Budaka", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-232", 
+    "name": "Serere", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-221", 
+    "name": "Butaleja", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-119", 
+    "name": "Butambala", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-202", 
+    "name": "Busia", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-422", 
+    "name": "Kyegegwa", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-302", 
+    "name": "Apac", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-307", 
+    "name": "Lira", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-415", 
+    "name": "Kyenjojo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-309", 
+    "name": "Moyo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-412", 
+    "name": "Rukungiri", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-220", 
+    "name": "Bukwa", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-424", 
+    "name": "Ntoroko", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-219", 
+    "name": "Bukedea", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-203", 
+    "name": "Iganga", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-230", 
+    "name": "Namayingo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-120", 
+    "name": "Buvuma", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-212", 
+    "name": "Tororo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-414", 
+    "name": "Kanungu", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-308", 
+    "name": "Moroto", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-110", 
+    "name": "Rakai", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-115", 
+    "name": "Mityana", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-122", 
+    "name": "Kalungu", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-106", 
+    "name": "Mpigi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-330", 
+    "name": "Zombo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-105", 
+    "name": "Masaka", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-112", 
+    "name": "Kayunga", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-118", 
+    "name": "Bukomansibi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-326", 
+    "name": "Lamwo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-315", 
+    "name": "Amolatar", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-409", 
+    "name": "Masindi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-305", 
+    "name": "Kitgum", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-228", 
+    "name": "Kween", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-211", 
+    "name": "Soroti", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-404", 
+    "name": "Kabale", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-311", 
+    "name": "Nakapiripirit", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-416", 
+    "name": "Buliisa", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-214", 
+    "name": "Mayuge", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-225", 
+    "name": "Bulambuli", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-101", 
+    "name": "Kalangala", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-316", 
+    "name": "Amuru", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-329", 
+    "name": "Otuke", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-227", 
+    "name": "Kibuku", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-402", 
+    "name": "Bushenyi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-312", 
+    "name": "Pader", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-301", 
+    "name": "Adjumani", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-320", 
+    "name": "Maracha", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-208", 
+    "name": "Kumi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-W", 
+    "name": "Western", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "254", 
+    "categoryName": "geographical region"
+  }, 
+  {
+    "alpha3": "UG-310", 
+    "name": "Nebbi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-114", 
+    "name": "Lyantonde", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-323", 
+    "name": "Alebtong", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-222", 
+    "name": "Kaliro", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-223", 
+    "name": "Manafwa", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-322", 
+    "name": "Agago", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-109", 
+    "name": "Nakasongola", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-207", 
+    "name": "Katakwi", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-317", 
+    "name": "Dokolo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-327", 
+    "name": "Napak", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-E", 
+    "name": "Eastern", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "254", 
+    "categoryName": "geographical region"
+  }, 
+  {
+    "alpha3": "UG-121", 
+    "name": "Gomba", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-321", 
+    "name": "Oyam", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-209", 
+    "name": "Mbale", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-116", 
+    "name": "Nakaseke", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-411", 
+    "name": "Ntungamo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-226", 
+    "name": "Buyende", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-210", 
+    "name": "Pallisa", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-204", 
+    "name": "Jinja", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-224", 
+    "name": "Namutumba", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-216", 
+    "name": "Amuria", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-314", 
+    "name": "Abim", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-423", 
+    "name": "Mitooma", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-401", 
+    "name": "Bundibugyo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-408", 
+    "name": "Kisoro", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-319", 
+    "name": "Koboko", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-108", 
+    "name": "Mukono", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-426", 
+    "name": "Sheema", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-420", 
+    "name": "Buhweju", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-111", 
+    "name": "Sembabule", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-324", 
+    "name": "Amudat", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-318", 
+    "name": "Kaabong", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-103", 
+    "name": "Kiboga", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-421", 
+    "name": "Kiryandongo", 
+    "countryAlpha3": "UGA", 
+    "countryAlpha2": "UG", 
+    "categoryId": "334", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "UG-304", 
+    "name": "Gulu", 
     "countryAlpha3": "UGA", 
     "countryAlpha2": "UG", 
     "categoryId": "334", 

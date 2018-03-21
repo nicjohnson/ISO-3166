@@ -1,7 +1,7 @@
 [
   {
-    "alpha3": "CI-CM", 
-    "name": "Como\u00e9", 
+    "alpha3": "CI-BS", 
+    "name": "Bas-Sassandra", 
     "countryAlpha3": "CIV", 
     "countryAlpha2": "CI", 
     "categoryId": "461", 
@@ -16,8 +16,24 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CI-GD", 
-    "name": "G\u00f4h-Djiboua", 
+    "alpha3": "CI-WR", 
+    "name": "Woroba", 
+    "countryAlpha3": "CIV", 
+    "countryAlpha2": "CI", 
+    "categoryId": "461", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CI-AB", 
+    "name": "Abidjan", 
+    "countryAlpha3": "CIV", 
+    "countryAlpha2": "CI", 
+    "categoryId": "460", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "CI-SV", 
+    "name": "Savanes", 
     "countryAlpha3": "CIV", 
     "countryAlpha2": "CI", 
     "categoryId": "461", 
@@ -26,6 +42,38 @@
   {
     "alpha3": "CI-LC", 
     "name": "Lacs", 
+    "countryAlpha3": "CIV", 
+    "countryAlpha2": "CI", 
+    "categoryId": "461", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CI-YM", 
+    "name": "Yamoussoukro", 
+    "countryAlpha3": "CIV", 
+    "countryAlpha2": "CI", 
+    "categoryId": "460", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "CI-ZZ", 
+    "name": "Zanzan", 
+    "countryAlpha3": "CIV", 
+    "countryAlpha2": "CI", 
+    "categoryId": "461", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CI-VB", 
+    "name": "Vall\u00e9e du Bandama", 
+    "countryAlpha3": "CIV", 
+    "countryAlpha2": "CI", 
+    "categoryId": "461", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CI-GD", 
+    "name": "G\u00f4h-Djiboua", 
     "countryAlpha3": "CIV", 
     "countryAlpha2": "CI", 
     "categoryId": "461", 
@@ -54,53 +102,5 @@
     "countryAlpha2": "CI", 
     "categoryId": "461", 
     "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CI-SV", 
-    "name": "Savanes", 
-    "countryAlpha3": "CIV", 
-    "countryAlpha2": "CI", 
-    "categoryId": "461", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CI-VB", 
-    "name": "Vall\u00e9e du Bandama", 
-    "countryAlpha3": "CIV", 
-    "countryAlpha2": "CI", 
-    "categoryId": "461", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CI-WR", 
-    "name": "Woroba", 
-    "countryAlpha3": "CIV", 
-    "countryAlpha2": "CI", 
-    "categoryId": "461", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CI-ZZ", 
-    "name": "Zanzan", 
-    "countryAlpha3": "CIV", 
-    "countryAlpha2": "CI", 
-    "categoryId": "461", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CI-AB", 
-    "name": "Abidjan", 
-    "countryAlpha3": "CIV", 
-    "countryAlpha2": "CI", 
-    "categoryId": "460", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "CI-YM", 
-    "name": "Yamoussoukro", 
-    "countryAlpha3": "CIV", 
-    "countryAlpha2": "CI", 
-    "categoryId": "460", 
-    "categoryName": "autonomous district"
   }
 ]

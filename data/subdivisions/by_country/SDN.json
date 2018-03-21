@@ -1,103 +1,7 @@
 [
   {
-    "alpha3": "SD-DC", 
-    "name": "Central Darfur", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KA", 
-    "name": "Kassala", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KA", 
-    "name": "Kassal\u0101", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KN", 
-    "name": "Shiam\u0101l Kurduf\u0101n", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KN", 
-    "name": "North Kordofan", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KS", 
-    "name": "Jan\u016bb Kurduf\u0101n", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KS", 
-    "name": "South Kordofan", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-NB", 
-    "name": "An N\u012bl al Azraq", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-NB", 
-    "name": "Blue Nile", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-NR", 
-    "name": "River Nile", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-NR", 
-    "name": "Nahr an N\u012bl", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-GD", 
-    "name": "Gedaref", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-GD", 
-    "name": "Al Qa\u1e11\u0101rif", 
+    "alpha3": "SD-DW", 
+    "name": "Gharb D\u0101rf\u016br", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
@@ -112,8 +16,40 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-RS", 
-    "name": "Red Sea", 
+    "alpha3": "SD-DC", 
+    "name": "Wasa\u0163 D\u0101rf\u016br Z\u0101linjay", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KN", 
+    "name": "North Kordofan", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-NB", 
+    "name": "An N\u012bl al Azraq", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KA", 
+    "name": "Kassal\u0101", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KS", 
+    "name": "Jan\u016bb Kurduf\u0101n", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
@@ -128,96 +64,16 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-GK", 
-    "name": "West Kordofan", 
+    "alpha3": "SD-NW", 
+    "name": "An N\u012bl al Abya\u1e11", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-NO", 
-    "name": "Ash Sham\u0101l\u012byah", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-NO", 
-    "name": "Northern", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-DS", 
-    "name": "South Darfur", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-DS", 
-    "name": "Jan\u016bb D\u0101rf\u016br", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-SI", 
-    "name": "Sinn\u0101r", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-SI", 
-    "name": "Sennar", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-DE", 
-    "name": "East Darfur", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-DE", 
-    "name": "Sharq D\u0101rf\u016br", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KH", 
-    "name": "Khartoum", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-KH", 
-    "name": "Al Khar\u0163\u016bm", 
-    "countryAlpha3": "SDN", 
-    "countryAlpha2": "SD", 
-    "categoryId": "395", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "SD-DN", 
-    "name": "North Darfur", 
+    "alpha3": "SD-NR", 
+    "name": "Nahr an N\u012bl", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
@@ -232,16 +88,96 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-DW", 
-    "name": "Gharb D\u0101rf\u016br", 
+    "alpha3": "SD-DC", 
+    "name": "Central Darfur", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-DW", 
-    "name": "West Darfur", 
+    "alpha3": "SD-DS", 
+    "name": "Jan\u016bb D\u0101rf\u016br", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-GD", 
+    "name": "Al Qa\u1e11\u0101rif", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KN", 
+    "name": "Shiam\u0101l Kurduf\u0101n", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-NB", 
+    "name": "Blue Nile", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-RS", 
+    "name": "Red Sea", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-NO", 
+    "name": "Ash Sham\u0101l\u012byah", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KH", 
+    "name": "Khartoum", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-GD", 
+    "name": "Gedaref", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-DE", 
+    "name": "Sharq D\u0101rf\u016br", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-SI", 
+    "name": "Sennar", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-DN", 
+    "name": "North Darfur", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
@@ -256,8 +192,40 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-GZ", 
-    "name": "Gezira", 
+    "alpha3": "SD-DW", 
+    "name": "West Darfur", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-NR", 
+    "name": "River Nile", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-NO", 
+    "name": "Northern", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KH", 
+    "name": "Al Khar\u0163\u016bm", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-DS", 
+    "name": "South Darfur", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 
@@ -272,8 +240,40 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "SD-NW", 
-    "name": "An N\u012bl al Abya\u1e11", 
+    "alpha3": "SD-GK", 
+    "name": "West Kordofan", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-KS", 
+    "name": "South Kordofan", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-GZ", 
+    "name": "Gezira", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-DE", 
+    "name": "East Darfur", 
+    "countryAlpha3": "SDN", 
+    "countryAlpha2": "SD", 
+    "categoryId": "395", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "SD-SI", 
+    "name": "Sinn\u0101r", 
     "countryAlpha3": "SDN", 
     "countryAlpha2": "SD", 
     "categoryId": "395", 

@@ -1,5 +1,61 @@
 [
   {
+    "alpha3": "BI-BR", 
+    "name": "Bururi", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BI-RY", 
+    "name": "Ruyigi", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BI-KR", 
+    "name": "Karuzi", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BI-MU", 
+    "name": "Muramvya", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BI-CA", 
+    "name": "Cankuzo", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BI-RT", 
+    "name": "Rutana", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BI-MA", 
+    "name": "Makamba", 
+    "countryAlpha3": "BDI", 
+    "countryAlpha2": "BI", 
+    "categoryId": "275", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "BI-BB", 
     "name": "Bubanza", 
     "countryAlpha3": "BDI", 
@@ -8,56 +64,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BI-BM", 
-    "name": "Bujumbura Mairie", 
+    "alpha3": "BI-BL", 
+    "name": "Bujumbura Rural", 
     "countryAlpha3": "BDI", 
     "countryAlpha2": "BI", 
     "categoryId": "275", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BI-BM", 
-    "name": "Bujumbura Mairie", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-KR", 
-    "name": "Karuzi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-KR", 
-    "name": "Karuzi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MY", 
-    "name": "Muyinga", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MY", 
-    "name": "Muyinga", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-RM", 
-    "name": "Rumonge", 
+    "alpha3": "BI-NG", 
+    "name": "Ngozi", 
     "countryAlpha3": "BDI", 
     "countryAlpha2": "BI", 
     "categoryId": "275", 
@@ -80,24 +96,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BI-KI", 
-    "name": "Kirundo", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-BR", 
-    "name": "Bururi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-BR", 
-    "name": "Bururi", 
+    "alpha3": "BI-GI", 
+    "name": "Gitega", 
     "countryAlpha3": "BDI", 
     "countryAlpha2": "BI", 
     "categoryId": "275", 
@@ -112,94 +112,6 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BI-CI", 
-    "name": "Cibitoke", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-GI", 
-    "name": "Gitega", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-GI", 
-    "name": "Gitega", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MA", 
-    "name": "Makamba", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MA", 
-    "name": "Makamba", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MU", 
-    "name": "Muramvya", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MU", 
-    "name": "Muramvya", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-NG", 
-    "name": "Ngozi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-NG", 
-    "name": "Ngozi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-RY", 
-    "name": "Ruyigi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-RY", 
-    "name": "Ruyigi", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "BI-KY", 
     "name": "Kayanza", 
     "countryAlpha3": "BDI", 
@@ -208,8 +120,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BI-KY", 
-    "name": "Kayanza", 
+    "alpha3": "BI-MY", 
+    "name": "Muyinga", 
     "countryAlpha3": "BDI", 
     "countryAlpha2": "BI", 
     "categoryId": "275", 
@@ -218,62 +130,6 @@
   {
     "alpha3": "BI-MW", 
     "name": "Mwaro", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-MW", 
-    "name": "Mwaro", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-CA", 
-    "name": "Cankuzo", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-CA", 
-    "name": "Cankuzo", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-BL", 
-    "name": "Bujumbura Rural", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-BL", 
-    "name": "Bujumbura Rural", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-RT", 
-    "name": "Rutana", 
-    "countryAlpha3": "BDI", 
-    "countryAlpha2": "BI", 
-    "categoryId": "275", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BI-RT", 
-    "name": "Rutana", 
     "countryAlpha3": "BDI", 
     "countryAlpha2": "BI", 
     "categoryId": "275", 

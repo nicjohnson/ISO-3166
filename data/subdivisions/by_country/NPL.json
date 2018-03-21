@@ -1,43 +1,11 @@
 [
   {
-    "alpha3": "NP-1", 
-    "name": "Madhyamanchal", 
+    "alpha3": "NP-SE", 
+    "name": "Seti", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
-  }, 
-  {
-    "alpha3": "NP-2", 
-    "name": "Madhya Pashchimanchal", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
-  }, 
-  {
-    "alpha3": "NP-2", 
-    "name": "Mid Western", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
-  }, 
-  {
-    "alpha3": "NP-3", 
-    "name": "Pashchimanchal", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
-  }, 
-  {
-    "alpha3": "NP-3", 
-    "name": "Western", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
+    "categoryId": "258", 
+    "categoryName": "zone"
   }, 
   {
     "alpha3": "NP-4", 
@@ -48,32 +16,48 @@
     "categoryName": "development region"
   }, 
   {
-    "alpha3": "NP-4", 
-    "name": "Eastern", 
+    "alpha3": "NP-KO", 
+    "name": "Kosi", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "258", 
+    "categoryName": "zone"
+  }, 
+  {
+    "alpha3": "NP-BH", 
+    "name": "Bheri", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "258", 
+    "categoryName": "zone"
+  }, 
+  {
+    "alpha3": "NP-2", 
+    "name": "Madhya Pashchimanchal", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
     "categoryId": "178", 
     "categoryName": "development region"
   }, 
   {
-    "alpha3": "NP-5", 
-    "name": "Sudur Pashchimanchal", 
+    "alpha3": "NP-SA", 
+    "name": "Sagarmatha", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
+    "categoryId": "258", 
+    "categoryName": "zone"
   }, 
   {
-    "alpha3": "NP-5", 
-    "name": "Far Western", 
+    "alpha3": "NP-MA", 
+    "name": "Mahakali", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
-    "categoryId": "178", 
-    "categoryName": "development region"
+    "categoryId": "258", 
+    "categoryName": "zone"
   }, 
   {
-    "alpha3": "NP-NA", 
-    "name": "Narayani", 
+    "alpha3": "NP-DH", 
+    "name": "Dhawalagiri", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
     "categoryId": "258", 
@@ -96,8 +80,56 @@
     "categoryName": "zone"
   }, 
   {
-    "alpha3": "NP-BH", 
-    "name": "Bheri", 
+    "alpha3": "NP-5", 
+    "name": "Sudur Pashchimanchal", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
+    "alpha3": "NP-NA", 
+    "name": "Narayani", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "258", 
+    "categoryName": "zone"
+  }, 
+  {
+    "alpha3": "NP-1", 
+    "name": "Central", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
+    "alpha3": "NP-1", 
+    "name": "Madhyamanchal", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
+    "alpha3": "NP-ME", 
+    "name": "Mechi", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "258", 
+    "categoryName": "zone"
+  }, 
+  {
+    "alpha3": "NP-3", 
+    "name": "Western", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
+    "alpha3": "NP-LU", 
+    "name": "Lumbini", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
     "categoryId": "258", 
@@ -112,6 +144,14 @@
     "categoryName": "zone"
   }, 
   {
+    "alpha3": "NP-5", 
+    "name": "Far Western", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
     "alpha3": "NP-RA", 
     "name": "Rapti", 
     "countryAlpha3": "NPL", 
@@ -120,64 +160,24 @@
     "categoryName": "zone"
   }, 
   {
+    "alpha3": "NP-2", 
+    "name": "Mid Western", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
+    "alpha3": "NP-3", 
+    "name": "Pashchimanchal", 
+    "countryAlpha3": "NPL", 
+    "countryAlpha2": "NP", 
+    "categoryId": "178", 
+    "categoryName": "development region"
+  }, 
+  {
     "alpha3": "NP-GA", 
     "name": "Gandaki", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-LU", 
-    "name": "Lumbini", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-DH", 
-    "name": "Dhawalagiri", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-KO", 
-    "name": "Kosi", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-SA", 
-    "name": "Sagarmatha", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-ME", 
-    "name": "Mechi", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-SE", 
-    "name": "Seti", 
-    "countryAlpha3": "NPL", 
-    "countryAlpha2": "NP", 
-    "categoryId": "258", 
-    "categoryName": "zone"
-  }, 
-  {
-    "alpha3": "NP-MA", 
-    "name": "Mahakali", 
     "countryAlpha3": "NPL", 
     "countryAlpha2": "NP", 
     "categoryId": "258", 

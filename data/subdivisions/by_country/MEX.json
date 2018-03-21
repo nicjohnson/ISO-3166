@@ -1,23 +1,31 @@
 [
   {
-    "alpha3": "MX-AGU", 
-    "name": "Aguascalientes", 
+    "alpha3": "MX-CMX", 
+    "name": "Ciudad de Mexico", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-BCN", 
-    "name": "Baja California", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
+    "categoryId": "341", 
+    "categoryName": "federal district"
   }, 
   {
     "alpha3": "MX-CAM", 
     "name": "Campeche", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-SON", 
+    "name": "Sonora", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-COL", 
+    "name": "Colima", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
@@ -32,30 +40,6 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-MOR", 
-    "name": "Morelos", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-BCS", 
-    "name": "Baja California Sur", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-GRO", 
-    "name": "Guerrero", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
     "alpha3": "MX-HID", 
     "name": "Hidalgo", 
     "countryAlpha3": "MEX", 
@@ -64,8 +48,24 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-SON", 
-    "name": "Sonora", 
+    "alpha3": "MX-MOR", 
+    "name": "Morelos", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-SLP", 
+    "name": "San Luis Potos\u00ed", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-CHP", 
+    "name": "Chiapas", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
@@ -88,72 +88,40 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-COL", 
-    "name": "Colima", 
+    "alpha3": "MX-YUC", 
+    "name": "Yucat\u00e1n", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-DUR", 
-    "name": "Durango", 
+    "alpha3": "MX-GRO", 
+    "name": "Guerrero", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-QUE", 
-    "name": "Quer\u00e9taro", 
+    "alpha3": "MX-AGU", 
+    "name": "Aguascalientes", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-SIN", 
-    "name": "Sinaloa", 
+    "alpha3": "MX-BCN", 
+    "name": "Baja California", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-VER", 
-    "name": "Veracruz de Ignacio de la Llave", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-CHP", 
-    "name": "Chiapas", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-JAL", 
-    "name": "Jalisco", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-PUE", 
-    "name": "Puebla", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-ROO", 
-    "name": "Quintana Roo", 
+    "alpha3": "MX-BCS", 
+    "name": "Baja California Sur", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
@@ -168,16 +136,16 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-MEX", 
-    "name": "M\u00e9xico", 
+    "alpha3": "MX-PUE", 
+    "name": "Puebla", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-NAY", 
-    "name": "Nayarit", 
+    "alpha3": "MX-QUE", 
+    "name": "Quer\u00e9taro", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
@@ -192,8 +160,16 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-SLP", 
-    "name": "San Luis Potos\u00ed", 
+    "alpha3": "MX-SIN", 
+    "name": "Sinaloa", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-ROO", 
+    "name": "Quintana Roo", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
@@ -208,16 +184,48 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-CHH", 
-    "name": "Chihuahua", 
+    "alpha3": "MX-JAL", 
+    "name": "Jalisco", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-NLE", 
-    "name": "Nuevo Le\u00f3n", 
+    "alpha3": "MX-NAY", 
+    "name": "Nayarit", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-DUR", 
+    "name": "Durango", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-VER", 
+    "name": "Veracruz de Ignacio de la Llave", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-MEX", 
+    "name": "M\u00e9xico", 
+    "countryAlpha3": "MEX", 
+    "countryAlpha2": "MX", 
+    "categoryId": "239", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MX-MIC", 
+    "name": "Michoac\u00e1n de Ocampo", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 
@@ -232,16 +240,8 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MX-YUC", 
-    "name": "Yucat\u00e1n", 
-    "countryAlpha3": "MEX", 
-    "countryAlpha2": "MX", 
-    "categoryId": "239", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MX-MIC", 
-    "name": "Michoac\u00e1n de Ocampo", 
+    "alpha3": "MX-CHH", 
+    "name": "Chihuahua", 
     "countryAlpha3": "MEX", 
     "countryAlpha2": "MX", 
     "categoryId": "239", 

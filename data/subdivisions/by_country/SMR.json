@@ -1,15 +1,7 @@
 [
   {
-    "alpha3": "SM-05", 
-    "name": "Fiorentino", 
-    "countryAlpha3": "SMR", 
-    "countryAlpha2": "SM", 
-    "categoryId": "165", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "SM-03", 
-    "name": "Domagnano", 
+    "alpha3": "SM-08", 
+    "name": "Montegiardino", 
     "countryAlpha3": "SMR", 
     "countryAlpha2": "SM", 
     "categoryId": "165", 
@@ -24,16 +16,16 @@
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "SM-08", 
-    "name": "Montegiardino", 
+    "alpha3": "SM-07", 
+    "name": "San Marino", 
     "countryAlpha3": "SMR", 
     "countryAlpha2": "SM", 
     "categoryId": "165", 
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "SM-02", 
-    "name": "Chiesanuova", 
+    "alpha3": "SM-05", 
+    "name": "Fiorentino", 
     "countryAlpha3": "SMR", 
     "countryAlpha2": "SM", 
     "categoryId": "165", 
@@ -48,16 +40,24 @@
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "SM-09", 
-    "name": "Serravalle", 
+    "alpha3": "SM-03", 
+    "name": "Domagnano", 
     "countryAlpha3": "SMR", 
     "countryAlpha2": "SM", 
     "categoryId": "165", 
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "SM-07", 
-    "name": "San Marino", 
+    "alpha3": "SM-01", 
+    "name": "Acquaviva", 
+    "countryAlpha3": "SMR", 
+    "countryAlpha2": "SM", 
+    "categoryId": "165", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "SM-02", 
+    "name": "Chiesanuova", 
     "countryAlpha3": "SMR", 
     "countryAlpha2": "SM", 
     "categoryId": "165", 

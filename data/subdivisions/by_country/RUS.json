@@ -1,115 +1,27 @@
 [
   {
-    "alpha3": "RU-SPE", 
-    "name": "Sankt-Peterburg", 
+    "alpha3": "RU-BA", 
+    "name": "Bashkortostan, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "311", 
-    "categoryName": "autonomous city"
+    "categoryId": "433", 
+    "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-MOW", 
-    "name": "Moskva", 
+    "alpha3": "RU-KOS", 
+    "name": "Kostromskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "311", 
-    "categoryName": "autonomous city"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-MOW", 
-    "name": "Moskva", 
+    "alpha3": "RU-BRY", 
+    "name": "Brjanskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "311", 
-    "categoryName": "autonomous city"
-  }, 
-  {
-    "alpha3": "RU-YEV", 
-    "name": "Yevreyskaya avtonomnaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "355", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "RU-YEV", 
-    "name": "Evrejskaja avtonomnaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "355", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "RU-KYA", 
-    "name": "Krasnojarskij kraj", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-KYA", 
-    "name": "Krasnoyarskiy kray", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-PRI", 
-    "name": "Primorskij kraj", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-PRI", 
-    "name": "Primorskiy kray", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-KAM", 
-    "name": "Kamchatskiy kray", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-KAM", 
-    "name": "Kam\u010datskij kraj", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-KHA", 
-    "name": "Khabarovskiy kray", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-KHA", 
-    "name": "Habarovskij kraj", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
-  }, 
-  {
-    "alpha3": "RU-ALT", 
-    "name": "Altajskij kraj", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
     "alpha3": "RU-ALT", 
@@ -120,132 +32,76 @@
     "categoryName": "administrative territory"
   }, 
   {
-    "alpha3": "RU-KDA", 
-    "name": "Krasnodarskiy kray", 
+    "alpha3": "RU-BA", 
+    "name": "Ba\u0161kortostan, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "433", 
+    "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-KDA", 
-    "name": "Krasnodarskij kraj", 
+    "alpha3": "RU-VLA", 
+    "name": "Vladimirskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-STA", 
-    "name": "Stavropol'skiy kray", 
+    "alpha3": "RU-YAR", 
+    "name": "Yaroslavskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-STA", 
-    "name": "Stavropol'skij kraj", 
+    "alpha3": "RU-TVE", 
+    "name": "Tverskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-ZAB", 
-    "name": "Zabaykal'skiy kray", 
+    "alpha3": "RU-TY", 
+    "name": "Tyva, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "433", 
+    "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-ZAB", 
-    "name": "Zabajkal'skij kraj", 
+    "alpha3": "RU-KOS", 
+    "name": "Kostromskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-PER", 
-    "name": "Permskiy kray", 
+    "alpha3": "RU-PNZ", 
+    "name": "Penzenskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-PER", 
-    "name": "Permskij kraj", 
+    "alpha3": "RU-SA", 
+    "name": "Saha, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "396", 
-    "categoryName": "administrative territory"
+    "categoryId": "433", 
+    "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-NEN", 
-    "name": "Nenetskiy avtonomnyy okrug", 
+    "alpha3": "RU-NVS", 
+    "name": "Novosibirskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-NEN", 
-    "name": "Neneckij avtonomnyj okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-KHM", 
-    "name": "Khanty-Mansiyskiy avtonomnyy okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-KHM", 
-    "name": "Hanty-Mansijskij avtonomnyj okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-CHU", 
-    "name": "Chukotskiy avtonomnyy okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-CHU", 
-    "name": "\u010cukotskij avtonomnyj okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-YAN", 
-    "name": "Jamalo-Neneckij avtonomnyj okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
-  }, 
-  {
-    "alpha3": "RU-YAN", 
-    "name": "Yamalo-Nenetskiy avtonomnyy okrug", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "309", 
-    "categoryName": "autonomous district"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
     "alpha3": "RU-VGG", 
@@ -256,104 +112,32 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-VGG", 
-    "name": "Volgogradskaya oblast'", 
+    "alpha3": "RU-SAM", 
+    "name": "Samarskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "290", 
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-ARK", 
-    "name": "Arkhangel'skaya oblast'", 
+    "alpha3": "RU-YEV", 
+    "name": "Yevreyskaya avtonomnaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "355", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "RU-TOM", 
+    "name": "Tomskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "290", 
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-ARK", 
-    "name": "Arhangel'skaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KGD", 
-    "name": "Kaliningradskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KGD", 
-    "name": "Kaliningradskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ROS", 
-    "name": "Rostovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ROS", 
-    "name": "Rostovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SAR", 
-    "name": "Saratovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SAR", 
-    "name": "Saratovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-IRK", 
-    "name": "Irkutskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-IRK", 
-    "name": "Irkutskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-MAG", 
-    "name": "Magadanskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-MAG", 
-    "name": "Magadanskaja oblast'", 
+    "alpha3": "RU-KEM", 
+    "name": "Kemerovskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "290", 
@@ -368,8 +152,632 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-NGR", 
-    "name": "Novgorodskaya oblast'", 
+    "alpha3": "RU-KGN", 
+    "name": "Kurganskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KAM", 
+    "name": "Kam\u010datskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-KIR", 
+    "name": "Kirovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-TOM", 
+    "name": "Tomskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-AL", 
+    "name": "Altay, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-NVS", 
+    "name": "Novosibirskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SMO", 
+    "name": "Smolenskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-IRK", 
+    "name": "Irkutskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-DA", 
+    "name": "Dagestan, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-IVA", 
+    "name": "Ivanovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KAM", 
+    "name": "Kamchatskiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-CE", 
+    "name": "Chechenskaya Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-ZAB", 
+    "name": "Zabajkal'skij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-KL", 
+    "name": "Kalmykiya, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-KDA", 
+    "name": "Krasnodarskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-AST", 
+    "name": "Astrakhanskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-MOS", 
+    "name": "Moskovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KR", 
+    "name": "Karelija, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-VOR", 
+    "name": "Voronezhskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-AMU", 
+    "name": "Amurskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KHA", 
+    "name": "Habarovskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-BEL", 
+    "name": "Belgorodskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KK", 
+    "name": "Khakasiya, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-TUL", 
+    "name": "Tul'skaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SAR", 
+    "name": "Saratovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-ME", 
+    "name": "Mariy El, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-MAG", 
+    "name": "Magadanskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-TAM", 
+    "name": "Tambovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-BU", 
+    "name": "Buryatiya, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-ORE", 
+    "name": "Orenburgskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SAK", 
+    "name": "Sakhalinskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-TUL", 
+    "name": "Tul'skaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-VLA", 
+    "name": "Vladimirskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KRS", 
+    "name": "Kurskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KRS", 
+    "name": "Kurskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-CHU", 
+    "name": "Chukotskiy avtonomnyy okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-ME", 
+    "name": "Marij \u00c8l, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-RYA", 
+    "name": "Rjazanskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-IN", 
+    "name": "Ingushetiya, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-ULY", 
+    "name": "Ul'janovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-MAG", 
+    "name": "Magadanskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KO", 
+    "name": "Komi, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-PER", 
+    "name": "Permskiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-SVE", 
+    "name": "Sverdlovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-MO", 
+    "name": "Mordoviya, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-PRI", 
+    "name": "Primorskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-RYA", 
+    "name": "Ryazanskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KK", 
+    "name": "Hakasija, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-MOW", 
+    "name": "Moskva", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "311", 
+    "categoryName": "autonomous city"
+  }, 
+  {
+    "alpha3": "RU-TVE", 
+    "name": "Tverskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-TAM", 
+    "name": "Tambovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-OMS", 
+    "name": "Omskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KB", 
+    "name": "Kabardino-Balkarskaja Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-ARK", 
+    "name": "Arhangel'skaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-PSK", 
+    "name": "Pskovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KGD", 
+    "name": "Kaliningradskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-OMS", 
+    "name": "Omskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-BU", 
+    "name": "Burjatija, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-SE", 
+    "name": "Severnaya Osetiya, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-KYA", 
+    "name": "Krasnojarskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-CE", 
+    "name": "\u010ce\u010denskaja Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-AST", 
+    "name": "Astrahanskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SAK", 
+    "name": "Sahalinskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SA", 
+    "name": "Sakha, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-ARK", 
+    "name": "Arkhangel'skaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-MOS", 
+    "name": "Moskovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-VOR", 
+    "name": "Vorone\u017eskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-STA", 
+    "name": "Stavropol'skiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-YAN", 
+    "name": "Jamalo-Neneckij avtonomnyj okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-BRY", 
+    "name": "Bryanskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-PRI", 
+    "name": "Primorskiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-ROS", 
+    "name": "Rostovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-VLG", 
+    "name": "Vologodskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KHA", 
+    "name": "Khabarovskiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-KHM", 
+    "name": "Khanty-Mansiyskiy avtonomnyy okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-NEN", 
+    "name": "Neneckij avtonomnyj okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-MO", 
+    "name": "Mordovija, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-ULY", 
+    "name": "Ul'yanovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-CHE", 
+    "name": "Chelyabinskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "290", 
@@ -392,118 +800,6 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-ORE", 
-    "name": "Orenburgskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ORE", 
-    "name": "Orenburgskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ORL", 
-    "name": "Orlovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ORL", 
-    "name": "Orlovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-PSK", 
-    "name": "Pskovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-PSK", 
-    "name": "Pskovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SVE", 
-    "name": "Sverdlovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SVE", 
-    "name": "Sverdlovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TYU", 
-    "name": "Tyumenskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TYU", 
-    "name": "Tjumenskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-IVA", 
-    "name": "Ivanovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-IVA", 
-    "name": "Ivanovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KEM", 
-    "name": "Kemerovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KEM", 
-    "name": "Kemerovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
     "alpha3": "RU-LIP", 
     "name": "Lipeckaja oblast'", 
     "countryAlpha3": "RUS", 
@@ -512,376 +808,8 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-LIP", 
-    "name": "Lipetskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-PNZ", 
-    "name": "Penzenskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-PNZ", 
-    "name": "Penzenskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SMO", 
-    "name": "Smolenskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SMO", 
-    "name": "Smolenskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-VLG", 
-    "name": "Vologodskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-VLG", 
-    "name": "Vologodskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-AST", 
-    "name": "Astrakhanskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-AST", 
-    "name": "Astrahanskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-BEL", 
-    "name": "Belgorodskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-BEL", 
-    "name": "Belgorodskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KRS", 
-    "name": "Kurskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KRS", 
-    "name": "Kurskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-RYA", 
-    "name": "Rjazanskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-RYA", 
-    "name": "Ryazanskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SAK", 
-    "name": "Sahalinskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SAK", 
-    "name": "Sakhalinskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TOM", 
-    "name": "Tomskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TOM", 
-    "name": "Tomskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TUL", 
-    "name": "Tul'skaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TUL", 
-    "name": "Tul'skaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ULY", 
-    "name": "Ul'janovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-ULY", 
-    "name": "Ul'yanovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-VLA", 
-    "name": "Vladimirskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-VLA", 
-    "name": "Vladimirskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-VOR", 
-    "name": "Vorone\u017eskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-VOR", 
-    "name": "Voronezhskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-BRY", 
-    "name": "Bryanskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-BRY", 
-    "name": "Brjanskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-CHE", 
-    "name": "\u010celjabinskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-CHE", 
-    "name": "Chelyabinskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KGN", 
-    "name": "Kurganskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KGN", 
-    "name": "Kurganskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KIR", 
-    "name": "Kirovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KIR", 
-    "name": "Kirovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-MOS", 
-    "name": "Moskovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-MOS", 
-    "name": "Moskovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SAM", 
-    "name": "Samarskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-SAM", 
-    "name": "Samarskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TAM", 
-    "name": "Tambovskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TAM", 
-    "name": "Tambovskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-YAR", 
-    "name": "Jaroslavskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-YAR", 
-    "name": "Yaroslavskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-AMU", 
-    "name": "Amurskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-AMU", 
-    "name": "Amurskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KOS", 
-    "name": "Kostromskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KOS", 
-    "name": "Kostromskaja oblast'", 
+    "alpha3": "RU-IRK", 
+    "name": "Irkutskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "290", 
@@ -896,192 +824,32 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-MUR", 
-    "name": "Murmanskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-OMS", 
-    "name": "Omskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-OMS", 
-    "name": "Omskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KLU", 
-    "name": "Kalu\u017eskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-KLU", 
-    "name": "Kaluzhskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-LEN", 
-    "name": "Leningradskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-LEN", 
-    "name": "Leningradskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-NVS", 
-    "name": "Novosibirskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-NVS", 
-    "name": "Novosibirskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TVE", 
-    "name": "Tverskaja oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-TVE", 
-    "name": "Tverskaya oblast'", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "290", 
-    "categoryName": "administrative region"
-  }, 
-  {
-    "alpha3": "RU-AL", 
-    "name": "Altaj, Respublika", 
+    "alpha3": "RU-IN", 
+    "name": "Ingu\u0161etija, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-AL", 
-    "name": "Altay, Respublika", 
+    "alpha3": "RU-ORE", 
+    "name": "Orenburgskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-CE", 
-    "name": "\u010ce\u010denskaja Respublika", 
+    "alpha3": "RU-KGD", 
+    "name": "Kaliningradskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-CE", 
-    "name": "Chechenskaya Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-KB", 
-    "name": "Kabardino-Balkarskaya Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-KB", 
-    "name": "Kabardino-Balkarskaja Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-KO", 
-    "name": "Komi, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-KO", 
-    "name": "Komi, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-SE", 
-    "name": "Severnaya Osetiya, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-SE", 
-    "name": "Severnaja Osetija, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-UD", 
-    "name": "Udmurtskaya Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
     "alpha3": "RU-UD", 
     "name": "Udmurtskaja Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-CU", 
-    "name": "\u010cuva\u0161skaja Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
@@ -1096,116 +864,36 @@
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-DA", 
-    "name": "Dagestan, Respublika", 
+    "alpha3": "RU-SE", 
+    "name": "Severnaja Osetija, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-DA", 
-    "name": "Dagestan, Respublika", 
+    "alpha3": "RU-PSK", 
+    "name": "Pskovskaya oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-KK", 
-    "name": "Hakasija, Respublika", 
+    "alpha3": "RU-LEN", 
+    "name": "Leningradskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-KK", 
-    "name": "Khakasiya, Respublika", 
+    "alpha3": "RU-BEL", 
+    "name": "Belgorodskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-ME", 
-    "name": "Mariy El, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-ME", 
-    "name": "Marij \u00c8l, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-MO", 
-    "name": "Mordoviya, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-MO", 
-    "name": "Mordovija, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-SA", 
-    "name": "Saha, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-SA", 
-    "name": "Sakha, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-BU", 
-    "name": "Buryatiya, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-BU", 
-    "name": "Burjatija, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-IN", 
-    "name": "Ingu\u0161etija, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-IN", 
-    "name": "Ingushetiya, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
     "alpha3": "RU-KR", 
@@ -1216,56 +904,40 @@
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-KR", 
-    "name": "Karelija, Respublika", 
+    "alpha3": "RU-PNZ", 
+    "name": "Penzenskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-ORL", 
+    "name": "Orlovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KB", 
+    "name": "Kabardino-Balkarskaya Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-TA", 
-    "name": "Tatarstan, Respublika", 
+    "alpha3": "RU-KLU", 
+    "name": "Kalu\u017eskaja oblast'", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
+    "categoryId": "290", 
+    "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "RU-TA", 
-    "name": "Tatarstan, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-KL", 
-    "name": "Kalmykija, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-KL", 
-    "name": "Kalmykiya, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-TY", 
-    "name": "Tyva, Respublika", 
-    "countryAlpha3": "RUS", 
-    "countryAlpha2": "RU", 
-    "categoryId": "433", 
-    "categoryName": "republic"
-  }, 
-  {
-    "alpha3": "RU-TY", 
-    "name": "Tyva, Respublika", 
+    "alpha3": "RU-UD", 
+    "name": "Udmurtskaya Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
@@ -1280,6 +952,86 @@
     "categoryName": "republic"
   }, 
   {
+    "alpha3": "RU-ZAB", 
+    "name": "Zabaykal'skiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-SAM", 
+    "name": "Samarskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KIR", 
+    "name": "Kirovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-LEN", 
+    "name": "Leningradskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SAR", 
+    "name": "Saratovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-LIP", 
+    "name": "Lipetskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-VLG", 
+    "name": "Vologodskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-CU", 
+    "name": "\u010cuva\u0161skaja Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-SMO", 
+    "name": "Smolenskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-YEV", 
+    "name": "Evrejskaja avtonomnaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "355", 
+    "categoryName": "autonomous region"
+  }, 
+  {
     "alpha3": "RU-AD", 
     "name": "Adygeja, Respublika", 
     "countryAlpha3": "RUS", 
@@ -1288,16 +1040,128 @@
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-BA", 
-    "name": "Ba\u0161kortostan, Respublika", 
+    "alpha3": "RU-ALT", 
+    "name": "Altajskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-TYU", 
+    "name": "Tjumenskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-NEN", 
+    "name": "Nenetskiy avtonomnyy okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-VGG", 
+    "name": "Volgogradskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-ORL", 
+    "name": "Orlovskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KGN", 
+    "name": "Kurganskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KYA", 
+    "name": "Krasnoyarskiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-PER", 
+    "name": "Permskij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-IVA", 
+    "name": "Ivanovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-ROS", 
+    "name": "Rostovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KEM", 
+    "name": "Kemerovskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-AL", 
+    "name": "Altaj, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-BA", 
-    "name": "Bashkortostan, Respublika", 
+    "alpha3": "RU-TYU", 
+    "name": "Tyumenskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KDA", 
+    "name": "Krasnodarskiy kray", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-KHM", 
+    "name": "Hanty-Mansijskij avtonomnyj okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-KC", 
+    "name": "Kara\u010daevo-\u010cerkesskaja Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
@@ -1312,11 +1176,99 @@
     "categoryName": "republic"
   }, 
   {
-    "alpha3": "RU-KC", 
-    "name": "Kara\u010daevo-\u010cerkesskaja Respublika", 
+    "alpha3": "RU-CHU", 
+    "name": "\u010cukotskij avtonomnyj okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
+  }, 
+  {
+    "alpha3": "RU-STA", 
+    "name": "Stavropol'skij kraj", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "396", 
+    "categoryName": "administrative territory"
+  }, 
+  {
+    "alpha3": "RU-KLU", 
+    "name": "Kaluzhskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-YAR", 
+    "name": "Jaroslavskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-CHE", 
+    "name": "\u010celjabinskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-KL", 
+    "name": "Kalmykija, Respublika", 
     "countryAlpha3": "RUS", 
     "countryAlpha2": "RU", 
     "categoryId": "433", 
     "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-AMU", 
+    "name": "Amurskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-TA", 
+    "name": "Tatarstan, Respublika", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "433", 
+    "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "RU-NGR", 
+    "name": "Novgorodskaya oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-SPE", 
+    "name": "Sankt-Peterburg", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "311", 
+    "categoryName": "autonomous city"
+  }, 
+  {
+    "alpha3": "RU-MUR", 
+    "name": "Murmanskaja oblast'", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "290", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "RU-YAN", 
+    "name": "Yamalo-Nenetskiy avtonomnyy okrug", 
+    "countryAlpha3": "RUS", 
+    "countryAlpha2": "RU", 
+    "categoryId": "309", 
+    "categoryName": "autonomous district"
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "alpha3": "LU-CA", 
-    "name": "Kapellen", 
+    "alpha3": "LU-WI", 
+    "name": "Wiltz", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-CA", 
-    "name": "Capellen", 
+    "alpha3": "LU-RM", 
+    "name": "Remich", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
@@ -24,56 +24,8 @@
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-CL", 
-    "name": "Clervaux", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-CL", 
-    "name": "Klierf", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-DI", 
-    "name": "Diekirch", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-DI", 
-    "name": "Diekirch", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-DI", 
-    "name": "Diekrech", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-EC", 
-    "name": "Echternach", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-EC", 
-    "name": "Echternach", 
+    "alpha3": "LU-GR", 
+    "name": "Grevenmacher", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
@@ -88,54 +40,6 @@
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-ES", 
-    "name": "Esch an der Alzette", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-ES", 
-    "name": "Esch-sur-Alzette", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-ES", 
-    "name": "Esch-Uelzecht", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-GR", 
-    "name": "Gr\u00e9ivemaacher", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-GR", 
-    "name": "Grevenmacher", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-GR", 
-    "name": "Grevenmacher", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
     "alpha3": "LU-LU", 
     "name": "L\u00ebtzebuerg", 
     "countryAlpha3": "LUX", 
@@ -144,56 +48,8 @@
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-LU", 
-    "name": "Luxembourg", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-LU", 
-    "name": "Luxemburg", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
     "alpha3": "LU-ME", 
     "name": "Mersch", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-ME", 
-    "name": "Mersch", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-ME", 
-    "name": "Miersch", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-RD", 
-    "name": "Redange", 
-    "countryAlpha3": "LUX", 
-    "countryAlpha2": "LU", 
-    "categoryId": "462", 
-    "categoryName": "canton"
-  }, 
-  {
-    "alpha3": "LU-RD", 
-    "name": "Redingen", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
@@ -208,24 +64,32 @@
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-RM", 
-    "name": "R\u00e9imech", 
+    "alpha3": "LU-EC", 
+    "name": "Echternach", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-RM", 
-    "name": "Remich", 
+    "alpha3": "LU-RD", 
+    "name": "Redange", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-RM", 
-    "name": "Remich", 
+    "alpha3": "LU-LU", 
+    "name": "Luxembourg", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-ES", 
+    "name": "Esch an der Alzette", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
@@ -240,32 +104,32 @@
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-VD", 
-    "name": "Vianden", 
+    "alpha3": "LU-RM", 
+    "name": "R\u00e9imech", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-VD", 
-    "name": "Vianden", 
+    "alpha3": "LU-CA", 
+    "name": "Kapellen", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-WI", 
-    "name": "Wiltz", 
+    "alpha3": "LU-DI", 
+    "name": "Diekrech", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
     "categoryName": "canton"
   }, 
   {
-    "alpha3": "LU-WI", 
-    "name": "Wiltz", 
+    "alpha3": "LU-ES", 
+    "name": "Esch-sur-Alzette", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 
@@ -274,6 +138,78 @@
   {
     "alpha3": "LU-WI", 
     "name": "Wolz", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-DI", 
+    "name": "Diekirch", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-LU", 
+    "name": "Luxemburg", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-CL", 
+    "name": "Klierf", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-ES", 
+    "name": "Esch-Uelzecht", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-VD", 
+    "name": "Vianden", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-CL", 
+    "name": "Clervaux", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-ME", 
+    "name": "Miersch", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-CA", 
+    "name": "Capellen", 
+    "countryAlpha3": "LUX", 
+    "countryAlpha2": "LU", 
+    "categoryId": "462", 
+    "categoryName": "canton"
+  }, 
+  {
+    "alpha3": "LU-GR", 
+    "name": "Gr\u00e9ivemaacher", 
     "countryAlpha3": "LUX", 
     "countryAlpha2": "LU", 
     "categoryId": "462", 

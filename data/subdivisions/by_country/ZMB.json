@@ -1,47 +1,7 @@
 [
   {
-    "alpha3": "ZM-09", 
-    "name": "Lusaka", 
-    "countryAlpha3": "ZMB", 
-    "countryAlpha2": "ZM", 
-    "categoryId": "168", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZM-05", 
-    "name": "Northern", 
-    "countryAlpha3": "ZMB", 
-    "countryAlpha2": "ZM", 
-    "categoryId": "168", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZM-01", 
-    "name": "Western", 
-    "countryAlpha3": "ZMB", 
-    "countryAlpha2": "ZM", 
-    "categoryId": "168", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZM-02", 
-    "name": "Central", 
-    "countryAlpha3": "ZMB", 
-    "countryAlpha2": "ZM", 
-    "categoryId": "168", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "ZM-06", 
     "name": "North-Western", 
-    "countryAlpha3": "ZMB", 
-    "countryAlpha2": "ZM", 
-    "categoryId": "168", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZM-07", 
-    "name": "Southern", 
     "countryAlpha3": "ZMB", 
     "countryAlpha2": "ZM", 
     "categoryId": "168", 
@@ -56,8 +16,40 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ZM-10", 
-    "name": "Muchinga", 
+    "alpha3": "ZM-01", 
+    "name": "Western", 
+    "countryAlpha3": "ZMB", 
+    "countryAlpha2": "ZM", 
+    "categoryId": "168", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZM-08", 
+    "name": "Copperbelt", 
+    "countryAlpha3": "ZMB", 
+    "countryAlpha2": "ZM", 
+    "categoryId": "168", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZM-05", 
+    "name": "Northern", 
+    "countryAlpha3": "ZMB", 
+    "countryAlpha2": "ZM", 
+    "categoryId": "168", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZM-07", 
+    "name": "Southern", 
+    "countryAlpha3": "ZMB", 
+    "countryAlpha2": "ZM", 
+    "categoryId": "168", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZM-02", 
+    "name": "Central", 
     "countryAlpha3": "ZMB", 
     "countryAlpha2": "ZM", 
     "categoryId": "168", 
@@ -66,6 +58,14 @@
   {
     "alpha3": "ZM-03", 
     "name": "Eastern", 
+    "countryAlpha3": "ZMB", 
+    "countryAlpha2": "ZM", 
+    "categoryId": "168", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZM-10", 
+    "name": "Muchinga", 
     "countryAlpha3": "ZMB", 
     "countryAlpha2": "ZM", 
     "categoryId": "168", 

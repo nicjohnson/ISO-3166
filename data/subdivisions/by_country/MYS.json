@@ -1,31 +1,23 @@
 [
   {
-    "alpha3": "MY-13", 
-    "name": "Sarawak", 
+    "alpha3": "MY-16", 
+    "name": "Wilayah Persekutuan Putrajaya", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
-    "categoryId": "156", 
-    "categoryName": "state"
+    "categoryId": "147", 
+    "categoryName": "federal territory"
   }, 
   {
-    "alpha3": "MY-05", 
-    "name": "Negeri Sembilan", 
+    "alpha3": "MY-14", 
+    "name": "Wilayah Persekutuan Kuala Lumpur", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
-    "categoryId": "156", 
-    "categoryName": "state"
+    "categoryId": "147", 
+    "categoryName": "federal territory"
   }, 
   {
-    "alpha3": "MY-09", 
-    "name": "Perlis", 
-    "countryAlpha3": "MYS", 
-    "countryAlpha2": "MY", 
-    "categoryId": "156", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "MY-07", 
-    "name": "Pulau Pinang", 
+    "alpha3": "MY-11", 
+    "name": "Terengganu", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
     "categoryId": "156", 
@@ -40,8 +32,24 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MY-08", 
-    "name": "Perak", 
+    "alpha3": "MY-02", 
+    "name": "Kedah", 
+    "countryAlpha3": "MYS", 
+    "countryAlpha2": "MY", 
+    "categoryId": "156", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MY-15", 
+    "name": "Wilayah Persekutuan Labuan", 
+    "countryAlpha3": "MYS", 
+    "countryAlpha2": "MY", 
+    "categoryId": "147", 
+    "categoryName": "federal territory"
+  }, 
+  {
+    "alpha3": "MY-07", 
+    "name": "Pulau Pinang", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
     "categoryId": "156", 
@@ -56,8 +64,16 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MY-03", 
-    "name": "Kelantan", 
+    "alpha3": "MY-06", 
+    "name": "Pahang", 
+    "countryAlpha3": "MYS", 
+    "countryAlpha2": "MY", 
+    "categoryId": "156", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "MY-13", 
+    "name": "Sarawak", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
     "categoryId": "156", 
@@ -72,51 +88,35 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MY-02", 
-    "name": "Kedah", 
+    "alpha3": "MY-03", 
+    "name": "Kelantan", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
     "categoryId": "156", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MY-11", 
-    "name": "Terengganu", 
+    "alpha3": "MY-08", 
+    "name": "Perak", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
     "categoryId": "156", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MY-06", 
-    "name": "Pahang", 
+    "alpha3": "MY-12", 
+    "name": "Sabah", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
     "categoryId": "156", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "MY-14", 
-    "name": "Wilayah Persekutuan Kuala Lumpur", 
+    "alpha3": "MY-09", 
+    "name": "Perlis", 
     "countryAlpha3": "MYS", 
     "countryAlpha2": "MY", 
-    "categoryId": "147", 
-    "categoryName": "federal territory"
-  }, 
-  {
-    "alpha3": "MY-16", 
-    "name": "Wilayah Persekutuan Putrajaya", 
-    "countryAlpha3": "MYS", 
-    "countryAlpha2": "MY", 
-    "categoryId": "147", 
-    "categoryName": "federal territory"
-  }, 
-  {
-    "alpha3": "MY-15", 
-    "name": "Wilayah Persekutuan Labuan", 
-    "countryAlpha3": "MYS", 
-    "countryAlpha2": "MY", 
-    "categoryId": "147", 
-    "categoryName": "federal territory"
+    "categoryId": "156", 
+    "categoryName": "state"
   }
 ]

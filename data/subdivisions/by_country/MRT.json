@@ -1,103 +1,7 @@
 [
   {
-    "alpha3": "MR-09", 
-    "name": "Tagant", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-11", 
-    "name": "Tiris Zemmour", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-13", 
-    "name": "Nouakchott Ouest", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-13", 
-    "name": "Nuw\u0101ksh\u016b\u0163 al Gharb\u012byah", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-14", 
-    "name": "Nouakchott Nord", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-14", 
-    "name": "Nuw\u0101ksh\u016b\u0163 ash Sham\u0101l\u012byah", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-15", 
-    "name": "Nouakchott Sud", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-15", 
-    "name": "Nuw\u0101ksh\u016b\u0163 al Jan\u016bb\u012byah", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-01", 
-    "name": "Hodh ech Chargui", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-05", 
-    "name": "Brakna", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
     "alpha3": "MR-02", 
     "name": "Hodh el Gharbi", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-08", 
-    "name": "Dakhlet Nou\u00e2dhibou", 
-    "countryAlpha3": "MRT", 
-    "countryAlpha2": "MR", 
-    "categoryId": "289", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MR-03", 
-    "name": "Assaba", 
     "countryAlpha3": "MRT", 
     "countryAlpha2": "MR", 
     "categoryId": "289", 
@@ -112,8 +16,72 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "MR-04", 
-    "name": "Gorgol", 
+    "alpha3": "MR-14", 
+    "name": "Nouakchott Nord", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-13", 
+    "name": "Nuw\u0101ksh\u016b\u0163 al Gharb\u012byah", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-05", 
+    "name": "Brakna", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-03", 
+    "name": "Assaba", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-09", 
+    "name": "Tagant", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-06", 
+    "name": "Trarza", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-08", 
+    "name": "Dakhlet Nou\u00e2dhibou", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-14", 
+    "name": "Nuw\u0101ksh\u016b\u0163 ash Sham\u0101l\u012byah", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-01", 
+    "name": "Hodh ech Chargui", 
     "countryAlpha3": "MRT", 
     "countryAlpha2": "MR", 
     "categoryId": "289", 
@@ -128,8 +96,40 @@
     "categoryName": "region"
   }, 
   {
+    "alpha3": "MR-11", 
+    "name": "Tiris Zemmour", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-15", 
+    "name": "Nuw\u0101ksh\u016b\u0163 al Jan\u016bb\u012byah", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-15", 
+    "name": "Nouakchott Sud", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
     "alpha3": "MR-10", 
     "name": "Guidimaka", 
+    "countryAlpha3": "MRT", 
+    "countryAlpha2": "MR", 
+    "categoryId": "289", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MR-04", 
+    "name": "Gorgol", 
     "countryAlpha3": "MRT", 
     "countryAlpha2": "MR", 
     "categoryId": "289", 

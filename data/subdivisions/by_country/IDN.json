@@ -1,5 +1,21 @@
 [
   {
+    "alpha3": "ID-MA", 
+    "name": "Maluku", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-MU", 
+    "name": "Maluku Utara", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "ID-JK", 
     "name": "Jakarta Raya", 
     "countryAlpha3": "IDN", 
@@ -8,184 +24,8 @@
     "categoryName": "special district"
   }, 
   {
-    "alpha3": "ID-KA", 
-    "name": "Kalimantan", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-JW", 
-    "name": "Jawa", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-NU", 
-    "name": "Nusa Tenggara", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-SM", 
-    "name": "Sumatera", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-PP", 
-    "name": "Papua", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-ML", 
-    "name": "Maluku", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-SL", 
-    "name": "Sulawesi", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "159", 
-    "categoryName": "geographical unit"
-  }, 
-  {
-    "alpha3": "ID-KT", 
-    "name": "Kalimantan Tengah", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-KB", 
-    "name": "Kalimantan Barat", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-KS", 
-    "name": "Kalimantan Selatan", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-KI", 
-    "name": "Kalimantan Timur", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-KU", 
-    "name": "Kalimantan Utara", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-JI", 
-    "name": "Jawa Timur", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-BT", 
-    "name": "Banten", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-JB", 
-    "name": "Jawa Barat", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-JT", 
-    "name": "Jawa Tengah", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-NT", 
-    "name": "Nusa Tenggara Timur", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-NB", 
-    "name": "Nusa Tenggara Barat", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-BA", 
-    "name": "Bali", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-BE", 
-    "name": "Bengkulu", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-SB", 
-    "name": "Sumatera Barat", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-SU", 
-    "name": "Sumatera Utara", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-LA", 
-    "name": "Lampung", 
+    "alpha3": "ID-SS", 
+    "name": "Sumatera Selatan", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
@@ -200,24 +40,32 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ID-RI", 
-    "name": "Riau", 
+    "alpha3": "ID-PP", 
+    "name": "Papua", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "159", 
+    "categoryName": "geographical unit"
+  }, 
+  {
+    "alpha3": "ID-SG", 
+    "name": "Sulawesi Tenggara", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ID-SS", 
-    "name": "Sumatera Selatan", 
+    "alpha3": "ID-JW", 
+    "name": "Jawa", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
+    "categoryId": "159", 
+    "categoryName": "geographical unit"
   }, 
   {
-    "alpha3": "ID-BB", 
-    "name": "Kepulauan Bangka Belitung", 
+    "alpha3": "ID-SB", 
+    "name": "Sumatera Barat", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
@@ -226,6 +74,38 @@
   {
     "alpha3": "ID-JA", 
     "name": "Jambi", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-BE", 
+    "name": "Bengkulu", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-GO", 
+    "name": "Gorontalo", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-BA", 
+    "name": "Bali", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-KB", 
+    "name": "Kalimantan Barat", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
@@ -248,24 +128,24 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ID-MA", 
-    "name": "Maluku", 
+    "alpha3": "ID-KS", 
+    "name": "Kalimantan Selatan", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ID-MU", 
-    "name": "Maluku Utara", 
+    "alpha3": "ID-YO", 
+    "name": "Yogyakarta", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
-    "categoryId": "205", 
-    "categoryName": "province"
+    "categoryId": "269", 
+    "categoryName": "special region"
   }, 
   {
-    "alpha3": "ID-SA", 
-    "name": "Sulawesi Utara", 
+    "alpha3": "ID-SU", 
+    "name": "Sumatera Utara", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
@@ -280,6 +160,14 @@
     "categoryName": "province"
   }, 
   {
+    "alpha3": "ID-KI", 
+    "name": "Kalimantan Timur", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "ID-ST", 
     "name": "Sulawesi Tengah", 
     "countryAlpha3": "IDN", 
@@ -288,8 +176,128 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ID-SG", 
-    "name": "Sulawesi Tenggara", 
+    "alpha3": "ID-BB", 
+    "name": "Kepulauan Bangka Belitung", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-ML", 
+    "name": "Maluku", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "159", 
+    "categoryName": "geographical unit"
+  }, 
+  {
+    "alpha3": "ID-LA", 
+    "name": "Lampung", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-NU", 
+    "name": "Nusa Tenggara", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "159", 
+    "categoryName": "geographical unit"
+  }, 
+  {
+    "alpha3": "ID-NT", 
+    "name": "Nusa Tenggara Timur", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-JI", 
+    "name": "Jawa Timur", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-JB", 
+    "name": "Jawa Barat", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-NB", 
+    "name": "Nusa Tenggara Barat", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-KT", 
+    "name": "Kalimantan Tengah", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-SM", 
+    "name": "Sumatera", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "159", 
+    "categoryName": "geographical unit"
+  }, 
+  {
+    "alpha3": "ID-JT", 
+    "name": "Jawa Tengah", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-AC", 
+    "name": "Aceh", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "443", 
+    "categoryName": "autonomous province"
+  }, 
+  {
+    "alpha3": "ID-KU", 
+    "name": "Kalimantan Utara", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-SA", 
+    "name": "Sulawesi Utara", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "205", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ID-SL", 
+    "name": "Sulawesi", 
+    "countryAlpha3": "IDN", 
+    "countryAlpha2": "ID", 
+    "categoryId": "159", 
+    "categoryName": "geographical unit"
+  }, 
+  {
+    "alpha3": "ID-BT", 
+    "name": "Banten", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
@@ -304,19 +312,11 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ID-GO", 
-    "name": "Gorontalo", 
+    "alpha3": "ID-RI", 
+    "name": "Riau", 
     "countryAlpha3": "IDN", 
     "countryAlpha2": "ID", 
     "categoryId": "205", 
     "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ID-YO", 
-    "name": "Yogyakarta", 
-    "countryAlpha3": "IDN", 
-    "countryAlpha2": "ID", 
-    "categoryId": "269", 
-    "categoryName": "special region"
   }
 ]

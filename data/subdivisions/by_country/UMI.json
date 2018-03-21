@@ -1,39 +1,7 @@
 [
   {
-    "alpha3": "UM-84", 
-    "name": "Howland Island", 
-    "countryAlpha3": "UMI", 
-    "countryAlpha2": "UM", 
-    "categoryId": "255", 
-    "categoryName": "islands, groups of islands"
-  }, 
-  {
-    "alpha3": "UM-86", 
-    "name": "Jarvis Island", 
-    "countryAlpha3": "UMI", 
-    "countryAlpha2": "UM", 
-    "categoryId": "255", 
-    "categoryName": "islands, groups of islands"
-  }, 
-  {
-    "alpha3": "UM-79", 
-    "name": "Wake Island", 
-    "countryAlpha3": "UMI", 
-    "countryAlpha2": "UM", 
-    "categoryId": "255", 
-    "categoryName": "islands, groups of islands"
-  }, 
-  {
-    "alpha3": "UM-89", 
-    "name": "Kingman Reef", 
-    "countryAlpha3": "UMI", 
-    "countryAlpha2": "UM", 
-    "categoryId": "255", 
-    "categoryName": "islands, groups of islands"
-  }, 
-  {
-    "alpha3": "UM-76", 
-    "name": "Navassa Island", 
+    "alpha3": "UM-95", 
+    "name": "Palmyra Atoll", 
     "countryAlpha3": "UMI", 
     "countryAlpha2": "UM", 
     "categoryId": "255", 
@@ -56,8 +24,40 @@
     "categoryName": "islands, groups of islands"
   }, 
   {
-    "alpha3": "UM-95", 
-    "name": "Palmyra Atoll", 
+    "alpha3": "UM-86", 
+    "name": "Jarvis Island", 
+    "countryAlpha3": "UMI", 
+    "countryAlpha2": "UM", 
+    "categoryId": "255", 
+    "categoryName": "islands, groups of islands"
+  }, 
+  {
+    "alpha3": "UM-71", 
+    "name": "Midway Islands", 
+    "countryAlpha3": "UMI", 
+    "countryAlpha2": "UM", 
+    "categoryId": "255", 
+    "categoryName": "islands, groups of islands"
+  }, 
+  {
+    "alpha3": "UM-84", 
+    "name": "Howland Island", 
+    "countryAlpha3": "UMI", 
+    "countryAlpha2": "UM", 
+    "categoryId": "255", 
+    "categoryName": "islands, groups of islands"
+  }, 
+  {
+    "alpha3": "UM-76", 
+    "name": "Navassa Island", 
+    "countryAlpha3": "UMI", 
+    "countryAlpha2": "UM", 
+    "categoryId": "255", 
+    "categoryName": "islands, groups of islands"
+  }, 
+  {
+    "alpha3": "UM-79", 
+    "name": "Wake Island", 
     "countryAlpha3": "UMI", 
     "countryAlpha2": "UM", 
     "categoryId": "255", 

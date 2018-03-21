@@ -1,13 +1,5 @@
 [
   {
-    "alpha3": "VC-04", 
-    "name": "Saint George", 
-    "countryAlpha3": "VCT", 
-    "countryAlpha2": "VC", 
-    "categoryId": "384", 
-    "categoryName": "parish"
-  }, 
-  {
     "alpha3": "VC-01", 
     "name": "Charlotte", 
     "countryAlpha3": "VCT", 
@@ -24,8 +16,16 @@
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "VC-02", 
-    "name": "Saint Andrew", 
+    "alpha3": "VC-04", 
+    "name": "Saint George", 
+    "countryAlpha3": "VCT", 
+    "countryAlpha2": "VC", 
+    "categoryId": "384", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "VC-03", 
+    "name": "Saint David", 
     "countryAlpha3": "VCT", 
     "countryAlpha2": "VC", 
     "categoryId": "384", 

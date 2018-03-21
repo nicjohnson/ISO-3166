@@ -1,39 +1,31 @@
 [
   {
-    "alpha3": "IQ-MU", 
-    "name": "Al Muthann\u00e1", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-WA", 
-    "name": "W\u0101si\u0163", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-AR", 
-    "name": "Arb\u012bl", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-AR", 
-    "name": "Hewl\u00ear", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
     "alpha3": "IQ-SD", 
     "name": "\u015eal\u0101\u1e29 ad D\u012bn", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-NI", 
+    "name": "N\u012bnaw\u00e1", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-DA", 
+    "name": "Dihok", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-SU", 
+    "name": "Sl\u00eaman\u00ee", 
     "countryAlpha3": "IRQ", 
     "countryAlpha2": "IQ", 
     "categoryId": "160", 
@@ -48,16 +40,24 @@
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "IQ-AN", 
-    "name": "Al Anb\u0101r", 
+    "alpha3": "IQ-DQ", 
+    "name": "Dh\u012b Q\u0101r", 
     "countryAlpha3": "IRQ", 
     "countryAlpha2": "IQ", 
     "categoryId": "160", 
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "IQ-DQ", 
-    "name": "Dh\u012b Q\u0101r", 
+    "alpha3": "IQ-BG", 
+    "name": "Baghd\u0101d", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-WA", 
+    "name": "W\u0101si\u0163", 
     "countryAlpha3": "IRQ", 
     "countryAlpha2": "IQ", 
     "categoryId": "160", 
@@ -72,30 +72,6 @@
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "IQ-NA", 
-    "name": "An Najaf", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-KI", 
-    "name": "Kirk\u016bk", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-BA", 
-    "name": "Al Ba\u015frah", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
     "alpha3": "IQ-DA", 
     "name": "Dah\u016bk", 
     "countryAlpha3": "IRQ", 
@@ -104,8 +80,56 @@
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "IQ-DA", 
-    "name": "Dihok", 
+    "alpha3": "IQ-AN", 
+    "name": "Al Anb\u0101r", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-AR", 
+    "name": "Hewl\u00ear", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-MA", 
+    "name": "Mays\u0101n", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-AR", 
+    "name": "Arb\u012bl", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-MU", 
+    "name": "Al Muthann\u00e1", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-BB", 
+    "name": "B\u0101bil", 
+    "countryAlpha3": "IRQ", 
+    "countryAlpha2": "IQ", 
+    "categoryId": "160", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "IQ-KI", 
+    "name": "Kirk\u016bk", 
     "countryAlpha3": "IRQ", 
     "countryAlpha2": "IQ", 
     "categoryId": "160", 
@@ -128,32 +152,8 @@
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "IQ-SU", 
-    "name": "Sl\u00eaman\u00ee", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-NI", 
-    "name": "N\u012bnaw\u00e1", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-BG", 
-    "name": "Baghd\u0101d", 
-    "countryAlpha3": "IRQ", 
-    "countryAlpha2": "IQ", 
-    "categoryId": "160", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "IQ-MA", 
-    "name": "Mays\u0101n", 
+    "alpha3": "IQ-NA", 
+    "name": "An Najaf", 
     "countryAlpha3": "IRQ", 
     "countryAlpha2": "IQ", 
     "categoryId": "160", 

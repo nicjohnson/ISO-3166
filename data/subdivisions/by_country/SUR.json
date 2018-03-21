@@ -1,31 +1,7 @@
 [
   {
-    "alpha3": "SR-CM", 
-    "name": "Commewijne", 
-    "countryAlpha3": "SUR", 
-    "countryAlpha2": "SR", 
-    "categoryId": "123", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "SR-MA", 
-    "name": "Marowijne", 
-    "countryAlpha3": "SUR", 
-    "countryAlpha2": "SR", 
-    "categoryId": "123", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "SR-SA", 
-    "name": "Saramacca", 
-    "countryAlpha3": "SUR", 
-    "countryAlpha2": "SR", 
-    "categoryId": "123", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "SR-CR", 
-    "name": "Coronie", 
+    "alpha3": "SR-SI", 
+    "name": "Sipaliwini", 
     "countryAlpha3": "SUR", 
     "countryAlpha2": "SR", 
     "categoryId": "123", 
@@ -40,8 +16,32 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "SR-BR", 
-    "name": "Brokopondo", 
+    "alpha3": "SR-CR", 
+    "name": "Coronie", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-CM", 
+    "name": "Commewijne", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-WA", 
+    "name": "Wanica", 
+    "countryAlpha3": "SUR", 
+    "countryAlpha2": "SR", 
+    "categoryId": "123", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "SR-SA", 
+    "name": "Saramacca", 
     "countryAlpha3": "SUR", 
     "countryAlpha2": "SR", 
     "categoryId": "123", 
@@ -56,16 +56,16 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "SR-PR", 
-    "name": "Para", 
+    "alpha3": "SR-MA", 
+    "name": "Marowijne", 
     "countryAlpha3": "SUR", 
     "countryAlpha2": "SR", 
     "categoryId": "123", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "SR-SI", 
-    "name": "Sipaliwini", 
+    "alpha3": "SR-BR", 
+    "name": "Brokopondo", 
     "countryAlpha3": "SUR", 
     "countryAlpha2": "SR", 
     "categoryId": "123", 

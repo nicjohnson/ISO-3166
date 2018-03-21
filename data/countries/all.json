@@ -1,440 +1,422 @@
 [
   {
-    "alpha2": "PM", 
-    "alpha3": "SPM", 
+    "alpha2": "CT", 
+    "alpha3": "CTE", 
     "subdivisionCount": 0, 
-    "name": "Saint Pierre and Miquelon"
+    "name": "Canton and Enderbury Islands"
   }, 
   {
-    "alpha2": "AN", 
-    "alpha3": "ANT", 
+    "alpha2": "AI", 
+    "alpha3": "AFI", 
     "subdivisionCount": 0, 
-    "name": "Netherlands Antilles"
+    "name": "French Afars and Issas"
   }, 
   {
-    "alpha2": "DM", 
-    "alpha3": "DMA", 
-    "subdivisionCount": 10, 
-    "name": "Dominica"
-  }, 
-  {
-    "alpha2": "BM", 
-    "alpha3": "BMU", 
+    "alpha2": "AW", 
+    "alpha3": "ABW", 
     "subdivisionCount": 0, 
-    "name": "Bermuda"
+    "name": "Aruba"
   }, 
   {
-    "alpha2": "LY", 
-    "alpha3": "LBY", 
-    "subdivisionCount": 22, 
-    "name": "Libya"
-  }, 
-  {
-    "alpha2": "SK", 
-    "alpha3": "SKM", 
+    "alpha2": "RH", 
+    "alpha3": "RHO", 
     "subdivisionCount": 0, 
-    "name": "Sikkim"
+    "name": "Southern Rhodesia"
   }, 
   {
-    "alpha2": "MD", 
-    "alpha3": "MDA", 
-    "subdivisionCount": 37, 
-    "name": "Moldova (the Republic of)"
-  }, 
-  {
-    "alpha2": "MA", 
-    "alpha3": "MAR", 
-    "subdivisionCount": 79, 
-    "name": "Morocco"
-  }, 
-  {
-    "alpha2": "MH", 
-    "alpha3": "MHL", 
-    "subdivisionCount": 52, 
-    "name": "Marshall Islands"
-  }, 
-  {
-    "alpha2": "NQ", 
-    "alpha3": "ATN", 
-    "subdivisionCount": 0, 
-    "name": "Dronning Maud Land"
-  }, 
-  {
-    "alpha2": "CA", 
-    "alpha3": "CAN", 
-    "subdivisionCount": 26, 
-    "name": "Canada"
-  }, 
-  {
-    "alpha2": "ZM", 
-    "alpha3": "ZMB", 
-    "subdivisionCount": 10, 
-    "name": "Zambia"
-  }, 
-  {
-    "alpha2": "YT", 
-    "alpha3": "MYT", 
-    "subdivisionCount": 0, 
-    "name": "Mayotte"
-  }, 
-  {
-    "alpha2": "SX", 
-    "alpha3": "SXM", 
-    "subdivisionCount": 0, 
-    "name": "Sint Maarten (Dutch part)"
-  }, 
-  {
-    "alpha2": "NC", 
-    "alpha3": "NCL", 
-    "subdivisionCount": 0, 
-    "name": "New Caledonia"
-  }, 
-  {
-    "alpha2": "HM", 
-    "alpha3": "HMD", 
-    "subdivisionCount": 0, 
-    "name": "Heard Island and McDonald Islands"
-  }, 
-  {
-    "alpha2": "CO", 
-    "alpha3": "COL", 
-    "subdivisionCount": 33, 
-    "name": "Colombia"
-  }, 
-  {
-    "alpha2": "MS", 
-    "alpha3": "MSR", 
-    "subdivisionCount": 0, 
-    "name": "Montserrat"
-  }, 
-  {
-    "alpha2": "SE", 
-    "alpha3": "SWE", 
-    "subdivisionCount": 21, 
-    "name": "Sweden"
-  }, 
-  {
-    "alpha2": "MN", 
-    "alpha3": "MNG", 
-    "subdivisionCount": 22, 
-    "name": "Mongolia"
-  }, 
-  {
-    "alpha2": "BY", 
-    "alpha3": "BYS", 
-    "subdivisionCount": 0, 
-    "name": "Byelorussian SSR"
-  }, 
-  {
-    "alpha2": "CZ", 
-    "alpha3": "CZE", 
-    "subdivisionCount": 112, 
-    "name": "Czechia"
-  }, 
-  {
-    "alpha2": "CS", 
-    "alpha3": "CSK", 
-    "subdivisionCount": 0, 
-    "name": "Czechoslovakia"
-  }, 
-  {
-    "alpha2": "OM", 
-    "alpha3": "OMN", 
-    "subdivisionCount": 11, 
-    "name": "Oman"
-  }, 
-  {
-    "alpha2": "FI", 
-    "alpha3": "FIN", 
-    "subdivisionCount": 38, 
-    "name": "Finland"
-  }, 
-  {
-    "alpha2": "AU", 
-    "alpha3": "AUS", 
-    "subdivisionCount": 8, 
-    "name": "Australia"
-  }, 
-  {
-    "alpha2": "BG", 
-    "alpha3": "BGR", 
-    "subdivisionCount": 28, 
-    "name": "Bulgaria"
-  }, 
-  {
-    "alpha2": "LU", 
-    "alpha3": "LUX", 
-    "subdivisionCount": 36, 
-    "name": "Luxembourg"
-  }, 
-  {
-    "alpha2": "ER", 
-    "alpha3": "ERI", 
-    "subdivisionCount": 12, 
-    "name": "Eritrea"
-  }, 
-  {
-    "alpha2": "SO", 
-    "alpha3": "SOM", 
-    "subdivisionCount": 18, 
-    "name": "Somalia"
-  }, 
-  {
-    "alpha2": "AR", 
-    "alpha3": "ARG", 
-    "subdivisionCount": 24, 
-    "name": "Argentina"
-  }, 
-  {
-    "alpha2": "YE", 
-    "alpha3": "YEM", 
-    "subdivisionCount": 22, 
-    "name": "Yemen"
-  }, 
-  {
-    "alpha2": "PW", 
-    "alpha3": "PLW", 
-    "subdivisionCount": 32, 
-    "name": "Palau"
-  }, 
-  {
-    "alpha2": "IS", 
-    "alpha3": "ISL", 
-    "subdivisionCount": 8, 
-    "name": "Iceland"
-  }, 
-  {
-    "alpha2": "AM", 
-    "alpha3": "ARM", 
-    "subdivisionCount": 11, 
-    "name": "Armenia"
-  }, 
-  {
-    "alpha2": "LR", 
-    "alpha3": "LBR", 
-    "subdivisionCount": 15, 
-    "name": "Liberia"
-  }, 
-  {
-    "alpha2": "VI", 
-    "alpha3": "VIR", 
-    "subdivisionCount": 0, 
-    "name": "Virgin Islands (U.S.)"
-  }, 
-  {
-    "alpha2": "PG", 
-    "alpha3": "PNG", 
-    "subdivisionCount": 22, 
-    "name": "Papua New Guinea"
-  }, 
-  {
-    "alpha2": "JO", 
-    "alpha3": "JOR", 
-    "subdivisionCount": 12, 
-    "name": "Jordan"
-  }, 
-  {
-    "alpha2": "ZR", 
-    "alpha3": "ZAR", 
-    "subdivisionCount": 0, 
-    "name": "Zaire"
-  }, 
-  {
-    "alpha2": "BA", 
-    "alpha3": "BIH", 
-    "subdivisionCount": 9, 
-    "name": "Bosnia and Herzegovina"
-  }, 
-  {
-    "alpha2": "GE", 
-    "alpha3": "GEL", 
-    "subdivisionCount": 0, 
-    "name": "Gilbert and Ellice Islands"
-  }, 
-  {
-    "alpha2": "BE", 
-    "alpha3": "BEL", 
-    "subdivisionCount": 14, 
-    "name": "Belgium"
-  }, 
-  {
-    "alpha2": "IO", 
-    "alpha3": "IOT", 
-    "subdivisionCount": 0, 
-    "name": "British Indian Ocean Territory"
-  }, 
-  {
-    "alpha2": "MK", 
-    "alpha3": "MKD", 
-    "subdivisionCount": 71, 
-    "name": "Macedonia (the former Yugoslav Republic of)"
-  }, 
-  {
-    "alpha2": "GG", 
-    "alpha3": "GGY", 
-    "subdivisionCount": 0, 
-    "name": "Guernsey"
-  }, 
-  {
-    "alpha2": "AX", 
-    "alpha3": "ALA", 
-    "subdivisionCount": 0, 
-    "name": "\u00c5land Islands"
-  }, 
-  {
-    "alpha2": "LK", 
-    "alpha3": "LKA", 
-    "subdivisionCount": 102, 
-    "name": "Sri Lanka"
-  }, 
-  {
-    "alpha2": "BF", 
-    "alpha3": "BFA", 
-    "subdivisionCount": 58, 
-    "name": "Burkina Faso"
-  }, 
-  {
-    "alpha2": "TG", 
-    "alpha3": "TGO", 
-    "subdivisionCount": 5, 
-    "name": "Togo"
-  }, 
-  {
-    "alpha2": "DO", 
-    "alpha3": "DOM", 
-    "subdivisionCount": 42, 
-    "name": "Dominican Republic"
-  }, 
-  {
-    "alpha2": "GR", 
-    "alpha3": "GRC", 
-    "subdivisionCount": 14, 
-    "name": "Greece"
-  }, 
-  {
-    "alpha2": "NI", 
-    "alpha3": "NIC", 
+    "alpha2": "MU", 
+    "alpha3": "MUS", 
     "subdivisionCount": 17, 
-    "name": "Nicaragua"
+    "name": "Mauritius"
   }, 
   {
-    "alpha2": "KW", 
-    "alpha3": "KWT", 
-    "subdivisionCount": 6, 
-    "name": "Kuwait"
+    "alpha2": "NH", 
+    "alpha3": "NHB", 
+    "subdivisionCount": 0, 
+    "name": "New Hebrides"
   }, 
   {
-    "alpha2": "TD", 
-    "alpha3": "TCD", 
-    "subdivisionCount": 44, 
-    "name": "Chad"
+    "alpha2": "FQ", 
+    "alpha3": "ATF", 
+    "subdivisionCount": 0, 
+    "name": "French Southern and Antarctic Territories"
   }, 
   {
-    "alpha2": "SK", 
-    "alpha3": "SVK", 
-    "subdivisionCount": 8, 
-    "name": "Slovakia"
+    "alpha2": "TF", 
+    "alpha3": "ATF", 
+    "subdivisionCount": 0, 
+    "name": "French Southern Territories"
   }, 
   {
-    "alpha2": "NL", 
-    "alpha3": "NLD", 
+    "alpha2": "WS", 
+    "alpha3": "WSM", 
+    "subdivisionCount": 11, 
+    "name": "Samoa"
+  }, 
+  {
+    "alpha2": "YD", 
+    "alpha3": "YMD", 
+    "subdivisionCount": 0, 
+    "name": "Yemen, Democratic"
+  }, 
+  {
+    "alpha2": "NA", 
+    "alpha3": "NAM", 
+    "subdivisionCount": 14, 
+    "name": "Namibia"
+  }, 
+  {
+    "alpha2": "KZ", 
+    "alpha3": "KAZ", 
+    "subdivisionCount": 47, 
+    "name": "Kazakhstan"
+  }, 
+  {
+    "alpha2": "BW", 
+    "alpha3": "BWA", 
+    "subdivisionCount": 16, 
+    "name": "Botswana"
+  }, 
+  {
+    "alpha2": "SL", 
+    "alpha3": "SLE", 
+    "subdivisionCount": 4, 
+    "name": "Sierra Leone"
+  }, 
+  {
+    "alpha2": "NF", 
+    "alpha3": "NFK", 
+    "subdivisionCount": 0, 
+    "name": "Norfolk Island"
+  }, 
+  {
+    "alpha2": "TW", 
+    "alpha3": "TWN", 
+    "subdivisionCount": 22, 
+    "name": "Taiwan (Province of China)"
+  }, 
+  {
+    "alpha2": "MZ", 
+    "alpha3": "MOZ", 
+    "subdivisionCount": 11, 
+    "name": "Mozambique"
+  }, 
+  {
+    "alpha2": "ST", 
+    "alpha3": "STP", 
+    "subdivisionCount": 2, 
+    "name": "Sao Tome and Principe"
+  }, 
+  {
+    "alpha2": "SZ", 
+    "alpha3": "SWZ", 
+    "subdivisionCount": 4, 
+    "name": "Swaziland"
+  }, 
+  {
+    "alpha2": "AQ", 
+    "alpha3": "ATA", 
+    "subdivisionCount": 0, 
+    "name": "Antarctica"
+  }, 
+  {
+    "alpha2": "DJ", 
+    "alpha3": "DJI", 
+    "subdivisionCount": 12, 
+    "name": "Djibouti"
+  }, 
+  {
+    "alpha2": "AO", 
+    "alpha3": "AGO", 
     "subdivisionCount": 18, 
-    "name": "Netherlands"
+    "name": "Angola"
   }, 
   {
-    "alpha2": "GS", 
-    "alpha3": "SGS", 
+    "alpha2": "UY", 
+    "alpha3": "URY", 
+    "subdivisionCount": 19, 
+    "name": "Uruguay"
+  }, 
+  {
+    "alpha2": "TK", 
+    "alpha3": "TKL", 
     "subdivisionCount": 0, 
-    "name": "South Georgia and the South Sandwich Islands"
+    "name": "Tokelau"
   }, 
   {
-    "alpha2": "ML", 
-    "alpha3": "MLI", 
+    "alpha2": "GF", 
+    "alpha3": "GUF", 
+    "subdivisionCount": 0, 
+    "name": "French Guiana"
+  }, 
+  {
+    "alpha2": "BD", 
+    "alpha3": "BGD", 
+    "subdivisionCount": 72, 
+    "name": "Bangladesh"
+  }, 
+  {
+    "alpha2": "ES", 
+    "alpha3": "ESP", 
+    "subdivisionCount": 77, 
+    "name": "Spain"
+  }, 
+  {
+    "alpha2": "AT", 
+    "alpha3": "AUT", 
     "subdivisionCount": 9, 
-    "name": "Mali"
+    "name": "Austria"
   }, 
   {
-    "alpha2": "TT", 
-    "alpha3": "TTO", 
-    "subdivisionCount": 15, 
-    "name": "Trinidad and Tobago"
-  }, 
-  {
-    "alpha2": "IE", 
-    "alpha3": "IRL", 
-    "subdivisionCount": 60, 
-    "name": "Ireland"
-  }, 
-  {
-    "alpha2": "CH", 
-    "alpha3": "CHE", 
-    "subdivisionCount": 32, 
-    "name": "Switzerland"
-  }, 
-  {
-    "alpha2": "NZ", 
-    "alpha3": "NZL", 
-    "subdivisionCount": 31, 
-    "name": "New Zealand"
-  }, 
-  {
-    "alpha2": "EG", 
-    "alpha3": "EGY", 
-    "subdivisionCount": 27, 
-    "name": "Egypt"
-  }, 
-  {
-    "alpha2": "GQ", 
-    "alpha3": "GNQ", 
-    "subdivisionCount": 27, 
-    "name": "Equatorial Guinea"
-  }, 
-  {
-    "alpha2": "NP", 
-    "alpha3": "NPL", 
-    "subdivisionCount": 24, 
-    "name": "Nepal"
-  }, 
-  {
-    "alpha2": "BJ", 
-    "alpha3": "BEN", 
-    "subdivisionCount": 12, 
-    "name": "Benin"
-  }, 
-  {
-    "alpha2": "KM", 
-    "alpha3": "COM", 
-    "subdivisionCount": 12, 
-    "name": "Comoros"
-  }, 
-  {
-    "alpha2": "TN", 
-    "alpha3": "TUN", 
-    "subdivisionCount": 24, 
-    "name": "Tunisia"
-  }, 
-  {
-    "alpha2": "BQ", 
-    "alpha3": "ATB", 
+    "alpha2": "PZ", 
+    "alpha3": "PCZ", 
     "subdivisionCount": 0, 
-    "name": "British Antarctic Territory"
+    "name": "Panama Canal Zone"
   }, 
   {
-    "alpha2": "GD", 
-    "alpha3": "GRD", 
+    "alpha2": "GY", 
+    "alpha3": "GUY", 
+    "subdivisionCount": 10, 
+    "name": "Guyana"
+  }, 
+  {
+    "alpha2": "PK", 
+    "alpha3": "PAK", 
+    "subdivisionCount": 14, 
+    "name": "Pakistan"
+  }, 
+  {
+    "alpha2": "HT", 
+    "alpha3": "HTI", 
+    "subdivisionCount": 20, 
+    "name": "Haiti"
+  }, 
+  {
+    "alpha2": "MQ", 
+    "alpha3": "MTQ", 
+    "subdivisionCount": 0, 
+    "name": "Martinique"
+  }, 
+  {
+    "alpha2": "LA", 
+    "alpha3": "LAO", 
+    "subdivisionCount": 18, 
+    "name": "Lao People's Democratic Republic"
+  }, 
+  {
+    "alpha2": "CM", 
+    "alpha3": "CMR", 
+    "subdivisionCount": 17, 
+    "name": "Cameroon"
+  }, 
+  {
+    "alpha2": "FJ", 
+    "alpha3": "FJI", 
+    "subdivisionCount": 19, 
+    "name": "Fiji"
+  }, 
+  {
+    "alpha2": "CU", 
+    "alpha3": "CUB", 
+    "subdivisionCount": 16, 
+    "name": "Cuba"
+  }, 
+  {
+    "alpha2": "VE", 
+    "alpha3": "VEN", 
+    "subdivisionCount": 25, 
+    "name": "Venezuela (Bolivarian Republic of)"
+  }, 
+  {
+    "alpha2": "FR", 
+    "alpha3": "FRA", 
+    "subdivisionCount": 125, 
+    "name": "France"
+  }, 
+  {
+    "alpha2": "NE", 
+    "alpha3": "NER", 
+    "subdivisionCount": 8, 
+    "name": "Niger"
+  }, 
+  {
+    "alpha2": "CL", 
+    "alpha3": "CHL", 
+    "subdivisionCount": 15, 
+    "name": "Chile"
+  }, 
+  {
+    "alpha2": "FK", 
+    "alpha3": "FLK", 
+    "subdivisionCount": 0, 
+    "name": "Falkland Islands [Malvinas]"
+  }, 
+  {
+    "alpha2": "GA", 
+    "alpha3": "GAB", 
+    "subdivisionCount": 9, 
+    "name": "Gabon"
+  }, 
+  {
+    "alpha2": "NG", 
+    "alpha3": "NGA", 
+    "subdivisionCount": 37, 
+    "name": "Nigeria"
+  }, 
+  {
+    "alpha2": "CY", 
+    "alpha3": "CYP", 
+    "subdivisionCount": 11, 
+    "name": "Cyprus"
+  }, 
+  {
+    "alpha2": "AE", 
+    "alpha3": "ARE", 
     "subdivisionCount": 7, 
-    "name": "Grenada"
+    "name": "United Arab Emirates"
   }, 
   {
-    "alpha2": "IR", 
-    "alpha3": "IRN", 
-    "subdivisionCount": 31, 
-    "name": "Iran (Islamic Republic of)"
+    "alpha2": "AI", 
+    "alpha3": "AIA", 
+    "subdivisionCount": 0, 
+    "name": "Anguilla"
+  }, 
+  {
+    "alpha2": "PL", 
+    "alpha3": "POL", 
+    "subdivisionCount": 16, 
+    "name": "Poland"
+  }, 
+  {
+    "alpha2": "MV", 
+    "alpha3": "MDV", 
+    "subdivisionCount": 56, 
+    "name": "Maldives"
+  }, 
+  {
+    "alpha2": "BT", 
+    "alpha3": "BTN", 
+    "subdivisionCount": 20, 
+    "name": "Bhutan"
+  }, 
+  {
+    "alpha2": "ET", 
+    "alpha3": "ETH", 
+    "subdivisionCount": 22, 
+    "name": "Ethiopia"
+  }, 
+  {
+    "alpha2": "AF", 
+    "alpha3": "AFG", 
+    "subdivisionCount": 34, 
+    "name": "Afghanistan"
+  }, 
+  {
+    "alpha2": "GN", 
+    "alpha3": "GIN", 
+    "subdivisionCount": 41, 
+    "name": "Guinea"
+  }, 
+  {
+    "alpha2": "ME", 
+    "alpha3": "MNE", 
+    "subdivisionCount": 23, 
+    "name": "Montenegro"
+  }, 
+  {
+    "alpha2": "GH", 
+    "alpha3": "GHA", 
+    "subdivisionCount": 10, 
+    "name": "Ghana"
+  }, 
+  {
+    "alpha2": "SY", 
+    "alpha3": "SYR", 
+    "subdivisionCount": 14, 
+    "name": "Syrian Arab Republic"
+  }, 
+  {
+    "alpha2": "RO", 
+    "alpha3": "ROU", 
+    "subdivisionCount": 42, 
+    "name": "Romania"
+  }, 
+  {
+    "alpha2": "LB", 
+    "alpha3": "LBN", 
+    "subdivisionCount": 16, 
+    "name": "Lebanon"
+  }, 
+  {
+    "alpha2": "SV", 
+    "alpha3": "SLV", 
+    "subdivisionCount": 14, 
+    "name": "El Salvador"
+  }, 
+  {
+    "alpha2": "VC", 
+    "alpha3": "VCT", 
+    "subdivisionCount": 6, 
+    "name": "Saint Vincent and the Grenadines"
+  }, 
+  {
+    "alpha2": "MM", 
+    "alpha3": "MMR", 
+    "subdivisionCount": 15, 
+    "name": "Myanmar"
+  }, 
+  {
+    "alpha2": "RE", 
+    "alpha3": "REU", 
+    "subdivisionCount": 0, 
+    "name": "R\u00e9union"
+  }, 
+  {
+    "alpha2": "RS", 
+    "alpha3": "SRB", 
+    "subdivisionCount": 32, 
+    "name": "Serbia"
+  }, 
+  {
+    "alpha2": "GL", 
+    "alpha3": "GRL", 
+    "subdivisionCount": 4, 
+    "name": "Greenland"
+  }, 
+  {
+    "alpha2": "KG", 
+    "alpha3": "KGZ", 
+    "subdivisionCount": 27, 
+    "name": "Kyrgyzstan"
+  }, 
+  {
+    "alpha2": "LC", 
+    "alpha3": "LCA", 
+    "subdivisionCount": 10, 
+    "name": "Saint Lucia"
+  }, 
+  {
+    "alpha2": "VU", 
+    "alpha3": "VUT", 
+    "subdivisionCount": 6, 
+    "name": "Vanuatu"
+  }, 
+  {
+    "alpha2": "MT", 
+    "alpha3": "MLT", 
+    "subdivisionCount": 75, 
+    "name": "Malta"
+  }, 
+  {
+    "alpha2": "MG", 
+    "alpha3": "MDG", 
+    "subdivisionCount": 6, 
+    "name": "Madagascar"
   }, 
   {
     "alpha2": "NO", 
     "alpha3": "NOR", 
-    "subdivisionCount": 44, 
+    "subdivisionCount": 23, 
     "name": "Norway"
   }, 
   {
@@ -458,7 +440,7 @@
   {
     "alpha2": "BQ", 
     "alpha3": "BES", 
-    "subdivisionCount": 9, 
+    "subdivisionCount": 4, 
     "name": "Bonaire, Sint Eustatius and Saba"
   }, 
   {
@@ -488,7 +470,7 @@
   {
     "alpha2": "SC", 
     "alpha3": "SYC", 
-    "subdivisionCount": 75, 
+    "subdivisionCount": 57, 
     "name": "Seychelles"
   }, 
   {
@@ -548,7 +530,7 @@
   {
     "alpha2": "RU", 
     "alpha3": "RUS", 
-    "subdivisionCount": 166, 
+    "subdivisionCount": 160, 
     "name": "Russian Federation"
   }, 
   {
@@ -728,7 +710,7 @@
   {
     "alpha2": "TL", 
     "alpha3": "TLS", 
-    "subdivisionCount": 26, 
+    "subdivisionCount": 22, 
     "name": "Timor-Leste"
   }, 
   {
@@ -770,7 +752,7 @@
   {
     "alpha2": "ZA", 
     "alpha3": "ZAF", 
-    "subdivisionCount": 93, 
+    "subdivisionCount": 62, 
     "name": "South Africa"
   }, 
   {
@@ -794,7 +776,7 @@
   {
     "alpha2": "NR", 
     "alpha3": "NRU", 
-    "subdivisionCount": 28, 
+    "subdivisionCount": 14, 
     "name": "Nauru"
   }, 
   {
@@ -830,7 +812,7 @@
   {
     "alpha2": "LS", 
     "alpha3": "LSO", 
-    "subdivisionCount": 20, 
+    "subdivisionCount": 10, 
     "name": "Lesotho"
   }, 
   {
@@ -854,7 +836,7 @@
   {
     "alpha2": "BI", 
     "alpha3": "BDI", 
-    "subdivisionCount": 36, 
+    "subdivisionCount": 18, 
     "name": "Burundi"
   }, 
   {
@@ -914,7 +896,7 @@
   {
     "alpha2": "MW", 
     "alpha3": "MWI", 
-    "subdivisionCount": 62, 
+    "subdivisionCount": 34, 
     "name": "Malawi"
   }, 
   {
@@ -944,13 +926,13 @@
   {
     "alpha2": "TO", 
     "alpha3": "TON", 
-    "subdivisionCount": 10, 
+    "subdivisionCount": 5, 
     "name": "Tonga"
   }, 
   {
     "alpha2": "PH", 
     "alpha3": "PHL", 
-    "subdivisionCount": 196, 
+    "subdivisionCount": 169, 
     "name": "Philippines"
   }, 
   {
@@ -992,7 +974,7 @@
   {
     "alpha2": "BY", 
     "alpha3": "BLR", 
-    "subdivisionCount": 28, 
+    "subdivisionCount": 26, 
     "name": "Belarus"
   }, 
   {
@@ -1064,7 +1046,7 @@
   {
     "alpha2": "PE", 
     "alpha3": "PER", 
-    "subdivisionCount": 78, 
+    "subdivisionCount": 63, 
     "name": "Peru"
   }, 
   {
@@ -1100,7 +1082,7 @@
   {
     "alpha2": "BN", 
     "alpha3": "BRN", 
-    "subdivisionCount": 8, 
+    "subdivisionCount": 4, 
     "name": "Brunei Darussalam"
   }, 
   {
@@ -1148,7 +1130,7 @@
   {
     "alpha2": "CF", 
     "alpha3": "CAF", 
-    "subdivisionCount": 34, 
+    "subdivisionCount": 33, 
     "name": "Central African Republic"
   }, 
   {
@@ -1266,417 +1248,435 @@
     "name": "Germany"
   }, 
   {
-    "alpha2": "CT", 
-    "alpha3": "CTE", 
+    "alpha2": "PM", 
+    "alpha3": "SPM", 
     "subdivisionCount": 0, 
-    "name": "Canton and Enderbury Islands"
+    "name": "Saint Pierre and Miquelon"
   }, 
   {
-    "alpha2": "AI", 
-    "alpha3": "AFI", 
+    "alpha2": "AN", 
+    "alpha3": "ANT", 
     "subdivisionCount": 0, 
-    "name": "French Afars and Issas"
+    "name": "Netherlands Antilles"
   }, 
   {
-    "alpha2": "AW", 
-    "alpha3": "ABW", 
-    "subdivisionCount": 0, 
-    "name": "Aruba"
-  }, 
-  {
-    "alpha2": "RH", 
-    "alpha3": "RHO", 
-    "subdivisionCount": 0, 
-    "name": "Southern Rhodesia"
-  }, 
-  {
-    "alpha2": "MU", 
-    "alpha3": "MUS", 
-    "subdivisionCount": 17, 
-    "name": "Mauritius"
-  }, 
-  {
-    "alpha2": "NH", 
-    "alpha3": "NHB", 
-    "subdivisionCount": 0, 
-    "name": "New Hebrides"
-  }, 
-  {
-    "alpha2": "FQ", 
-    "alpha3": "ATF", 
-    "subdivisionCount": 0, 
-    "name": "French Southern and Antarctic Territories"
-  }, 
-  {
-    "alpha2": "TF", 
-    "alpha3": "ATF", 
-    "subdivisionCount": 0, 
-    "name": "French Southern Territories"
-  }, 
-  {
-    "alpha2": "WS", 
-    "alpha3": "WSM", 
-    "subdivisionCount": 22, 
-    "name": "Samoa"
-  }, 
-  {
-    "alpha2": "YD", 
-    "alpha3": "YMD", 
-    "subdivisionCount": 0, 
-    "name": "Yemen, Democratic"
-  }, 
-  {
-    "alpha2": "NA", 
-    "alpha3": "NAM", 
-    "subdivisionCount": 14, 
-    "name": "Namibia"
-  }, 
-  {
-    "alpha2": "KZ", 
-    "alpha3": "KAZ", 
-    "subdivisionCount": 51, 
-    "name": "Kazakhstan"
-  }, 
-  {
-    "alpha2": "BW", 
-    "alpha3": "BWA", 
-    "subdivisionCount": 16, 
-    "name": "Botswana"
-  }, 
-  {
-    "alpha2": "SL", 
-    "alpha3": "SLE", 
-    "subdivisionCount": 4, 
-    "name": "Sierra Leone"
-  }, 
-  {
-    "alpha2": "NF", 
-    "alpha3": "NFK", 
-    "subdivisionCount": 0, 
-    "name": "Norfolk Island"
-  }, 
-  {
-    "alpha2": "TW", 
-    "alpha3": "TWN", 
-    "subdivisionCount": 22, 
-    "name": "Taiwan (Province of China)"
-  }, 
-  {
-    "alpha2": "MZ", 
-    "alpha3": "MOZ", 
-    "subdivisionCount": 11, 
-    "name": "Mozambique"
-  }, 
-  {
-    "alpha2": "ST", 
-    "alpha3": "STP", 
-    "subdivisionCount": 2, 
-    "name": "Sao Tome and Principe"
-  }, 
-  {
-    "alpha2": "SZ", 
-    "alpha3": "SWZ", 
-    "subdivisionCount": 8, 
-    "name": "Swaziland"
-  }, 
-  {
-    "alpha2": "AQ", 
-    "alpha3": "ATA", 
-    "subdivisionCount": 0, 
-    "name": "Antarctica"
-  }, 
-  {
-    "alpha2": "DJ", 
-    "alpha3": "DJI", 
-    "subdivisionCount": 12, 
-    "name": "Djibouti"
-  }, 
-  {
-    "alpha2": "AO", 
-    "alpha3": "AGO", 
-    "subdivisionCount": 18, 
-    "name": "Angola"
-  }, 
-  {
-    "alpha2": "UY", 
-    "alpha3": "URY", 
-    "subdivisionCount": 19, 
-    "name": "Uruguay"
-  }, 
-  {
-    "alpha2": "TK", 
-    "alpha3": "TKL", 
-    "subdivisionCount": 0, 
-    "name": "Tokelau"
-  }, 
-  {
-    "alpha2": "GF", 
-    "alpha3": "GUF", 
-    "subdivisionCount": 0, 
-    "name": "French Guiana"
-  }, 
-  {
-    "alpha2": "BD", 
-    "alpha3": "BGD", 
-    "subdivisionCount": 72, 
-    "name": "Bangladesh"
-  }, 
-  {
-    "alpha2": "ES", 
-    "alpha3": "ESP", 
-    "subdivisionCount": 77, 
-    "name": "Spain"
-  }, 
-  {
-    "alpha2": "AT", 
-    "alpha3": "AUT", 
-    "subdivisionCount": 9, 
-    "name": "Austria"
-  }, 
-  {
-    "alpha2": "PZ", 
-    "alpha3": "PCZ", 
-    "subdivisionCount": 0, 
-    "name": "Panama Canal Zone"
-  }, 
-  {
-    "alpha2": "GY", 
-    "alpha3": "GUY", 
+    "alpha2": "DM", 
+    "alpha3": "DMA", 
     "subdivisionCount": 10, 
-    "name": "Guyana"
+    "name": "Dominica"
   }, 
   {
-    "alpha2": "PK", 
-    "alpha3": "PAK", 
-    "subdivisionCount": 15, 
-    "name": "Pakistan"
-  }, 
-  {
-    "alpha2": "HT", 
-    "alpha3": "HTI", 
-    "subdivisionCount": 20, 
-    "name": "Haiti"
-  }, 
-  {
-    "alpha2": "MQ", 
-    "alpha3": "MTQ", 
+    "alpha2": "BM", 
+    "alpha3": "BMU", 
     "subdivisionCount": 0, 
-    "name": "Martinique"
+    "name": "Bermuda"
   }, 
   {
-    "alpha2": "LA", 
-    "alpha3": "LAO", 
-    "subdivisionCount": 18, 
-    "name": "Lao People's Democratic Republic"
+    "alpha2": "LY", 
+    "alpha3": "LBY", 
+    "subdivisionCount": 22, 
+    "name": "Libya"
   }, 
   {
-    "alpha2": "CM", 
-    "alpha3": "CMR", 
-    "subdivisionCount": 20, 
-    "name": "Cameroon"
-  }, 
-  {
-    "alpha2": "FJ", 
-    "alpha3": "FJI", 
-    "subdivisionCount": 19, 
-    "name": "Fiji"
-  }, 
-  {
-    "alpha2": "CU", 
-    "alpha3": "CUB", 
-    "subdivisionCount": 16, 
-    "name": "Cuba"
-  }, 
-  {
-    "alpha2": "VE", 
-    "alpha3": "VEN", 
-    "subdivisionCount": 25, 
-    "name": "Venezuela (Bolivarian Republic of)"
-  }, 
-  {
-    "alpha2": "FR", 
-    "alpha3": "FRA", 
-    "subdivisionCount": 125, 
-    "name": "France"
-  }, 
-  {
-    "alpha2": "NE", 
-    "alpha3": "NER", 
-    "subdivisionCount": 8, 
-    "name": "Niger"
-  }, 
-  {
-    "alpha2": "CL", 
-    "alpha3": "CHL", 
-    "subdivisionCount": 15, 
-    "name": "Chile"
-  }, 
-  {
-    "alpha2": "FK", 
-    "alpha3": "FLK", 
+    "alpha2": "SK", 
+    "alpha3": "SKM", 
     "subdivisionCount": 0, 
-    "name": "Falkland Islands [Malvinas]"
+    "name": "Sikkim"
   }, 
   {
-    "alpha2": "GA", 
-    "alpha3": "GAB", 
-    "subdivisionCount": 9, 
-    "name": "Gabon"
-  }, 
-  {
-    "alpha2": "NG", 
-    "alpha3": "NGA", 
+    "alpha2": "MD", 
+    "alpha3": "MDA", 
     "subdivisionCount": 37, 
-    "name": "Nigeria"
+    "name": "Moldova (the Republic of)"
   }, 
   {
-    "alpha2": "CY", 
-    "alpha3": "CYP", 
-    "subdivisionCount": 12, 
-    "name": "Cyprus"
+    "alpha2": "MA", 
+    "alpha3": "MAR", 
+    "subdivisionCount": 79, 
+    "name": "Morocco"
   }, 
   {
-    "alpha2": "AE", 
-    "alpha3": "ARE", 
-    "subdivisionCount": 7, 
-    "name": "United Arab Emirates"
+    "alpha2": "MH", 
+    "alpha3": "MHL", 
+    "subdivisionCount": 26, 
+    "name": "Marshall Islands"
   }, 
   {
-    "alpha2": "AI", 
-    "alpha3": "AIA", 
+    "alpha2": "NQ", 
+    "alpha3": "ATN", 
     "subdivisionCount": 0, 
-    "name": "Anguilla"
+    "name": "Dronning Maud Land"
   }, 
   {
-    "alpha2": "PL", 
-    "alpha3": "POL", 
-    "subdivisionCount": 16, 
-    "name": "Poland"
-  }, 
-  {
-    "alpha2": "MV", 
-    "alpha3": "MDV", 
-    "subdivisionCount": 56, 
-    "name": "Maldives"
-  }, 
-  {
-    "alpha2": "BT", 
-    "alpha3": "BTN", 
+    "alpha2": "CA", 
+    "alpha3": "CAN", 
     "subdivisionCount": 20, 
-    "name": "Bhutan"
+    "name": "Canada"
   }, 
   {
-    "alpha2": "ET", 
-    "alpha3": "ETH", 
-    "subdivisionCount": 22, 
-    "name": "Ethiopia"
-  }, 
-  {
-    "alpha2": "AF", 
-    "alpha3": "AFG", 
-    "subdivisionCount": 68, 
-    "name": "Afghanistan"
-  }, 
-  {
-    "alpha2": "GN", 
-    "alpha3": "GIN", 
-    "subdivisionCount": 41, 
-    "name": "Guinea"
-  }, 
-  {
-    "alpha2": "ME", 
-    "alpha3": "MNE", 
-    "subdivisionCount": 23, 
-    "name": "Montenegro"
-  }, 
-  {
-    "alpha2": "GH", 
-    "alpha3": "GHA", 
+    "alpha2": "ZM", 
+    "alpha3": "ZMB", 
     "subdivisionCount": 10, 
-    "name": "Ghana"
+    "name": "Zambia"
   }, 
   {
-    "alpha2": "SY", 
-    "alpha3": "SYR", 
-    "subdivisionCount": 14, 
-    "name": "Syrian Arab Republic"
-  }, 
-  {
-    "alpha2": "RO", 
-    "alpha3": "ROU", 
-    "subdivisionCount": 42, 
-    "name": "Romania"
-  }, 
-  {
-    "alpha2": "LB", 
-    "alpha3": "LBN", 
-    "subdivisionCount": 16, 
-    "name": "Lebanon"
-  }, 
-  {
-    "alpha2": "SV", 
-    "alpha3": "SLV", 
-    "subdivisionCount": 14, 
-    "name": "El Salvador"
-  }, 
-  {
-    "alpha2": "VC", 
-    "alpha3": "VCT", 
-    "subdivisionCount": 6, 
-    "name": "Saint Vincent and the Grenadines"
-  }, 
-  {
-    "alpha2": "MM", 
-    "alpha3": "MMR", 
-    "subdivisionCount": 15, 
-    "name": "Myanmar"
-  }, 
-  {
-    "alpha2": "RE", 
-    "alpha3": "REU", 
+    "alpha2": "YT", 
+    "alpha3": "MYT", 
     "subdivisionCount": 0, 
-    "name": "R\u00e9union"
+    "name": "Mayotte"
   }, 
   {
-    "alpha2": "RS", 
-    "alpha3": "SRB", 
-    "subdivisionCount": 32, 
-    "name": "Serbia"
+    "alpha2": "SX", 
+    "alpha3": "SXM", 
+    "subdivisionCount": 0, 
+    "name": "Sint Maarten (Dutch part)"
   }, 
   {
-    "alpha2": "GL", 
-    "alpha3": "GRL", 
-    "subdivisionCount": 4, 
-    "name": "Greenland"
+    "alpha2": "NC", 
+    "alpha3": "NCL", 
+    "subdivisionCount": 0, 
+    "name": "New Caledonia"
   }, 
   {
-    "alpha2": "KG", 
-    "alpha3": "KGZ", 
-    "subdivisionCount": 27, 
-    "name": "Kyrgyzstan"
+    "alpha2": "HM", 
+    "alpha3": "HMD", 
+    "subdivisionCount": 0, 
+    "name": "Heard Island and McDonald Islands"
   }, 
   {
-    "alpha2": "LC", 
-    "alpha3": "LCA", 
-    "subdivisionCount": 10, 
-    "name": "Saint Lucia"
+    "alpha2": "CO", 
+    "alpha3": "COL", 
+    "subdivisionCount": 33, 
+    "name": "Colombia"
   }, 
   {
-    "alpha2": "VU", 
-    "alpha3": "VUT", 
+    "alpha2": "MS", 
+    "alpha3": "MSR", 
+    "subdivisionCount": 0, 
+    "name": "Montserrat"
+  }, 
+  {
+    "alpha2": "SE", 
+    "alpha3": "SWE", 
+    "subdivisionCount": 21, 
+    "name": "Sweden"
+  }, 
+  {
+    "alpha2": "MN", 
+    "alpha3": "MNG", 
+    "subdivisionCount": 22, 
+    "name": "Mongolia"
+  }, 
+  {
+    "alpha2": "BY", 
+    "alpha3": "BYS", 
+    "subdivisionCount": 0, 
+    "name": "Byelorussian SSR"
+  }, 
+  {
+    "alpha2": "CZ", 
+    "alpha3": "CZE", 
+    "subdivisionCount": 112, 
+    "name": "Czechia"
+  }, 
+  {
+    "alpha2": "CS", 
+    "alpha3": "CSK", 
+    "subdivisionCount": 0, 
+    "name": "Czechoslovakia"
+  }, 
+  {
+    "alpha2": "OM", 
+    "alpha3": "OMN", 
+    "subdivisionCount": 11, 
+    "name": "Oman"
+  }, 
+  {
+    "alpha2": "FI", 
+    "alpha3": "FIN", 
+    "subdivisionCount": 38, 
+    "name": "Finland"
+  }, 
+  {
+    "alpha2": "AU", 
+    "alpha3": "AUS", 
+    "subdivisionCount": 8, 
+    "name": "Australia"
+  }, 
+  {
+    "alpha2": "BG", 
+    "alpha3": "BGR", 
+    "subdivisionCount": 28, 
+    "name": "Bulgaria"
+  }, 
+  {
+    "alpha2": "LU", 
+    "alpha3": "LUX", 
+    "subdivisionCount": 28, 
+    "name": "Luxembourg"
+  }, 
+  {
+    "alpha2": "ER", 
+    "alpha3": "ERI", 
     "subdivisionCount": 12, 
-    "name": "Vanuatu"
+    "name": "Eritrea"
   }, 
   {
-    "alpha2": "MT", 
-    "alpha3": "MLT", 
-    "subdivisionCount": 136, 
-    "name": "Malta"
+    "alpha2": "SO", 
+    "alpha3": "SOM", 
+    "subdivisionCount": 18, 
+    "name": "Somalia"
   }, 
   {
-    "alpha2": "MG", 
-    "alpha3": "MDG", 
+    "alpha2": "AR", 
+    "alpha3": "ARG", 
+    "subdivisionCount": 24, 
+    "name": "Argentina"
+  }, 
+  {
+    "alpha2": "YE", 
+    "alpha3": "YEM", 
+    "subdivisionCount": 22, 
+    "name": "Yemen"
+  }, 
+  {
+    "alpha2": "PW", 
+    "alpha3": "PLW", 
+    "subdivisionCount": 16, 
+    "name": "Palau"
+  }, 
+  {
+    "alpha2": "IS", 
+    "alpha3": "ISL", 
+    "subdivisionCount": 8, 
+    "name": "Iceland"
+  }, 
+  {
+    "alpha2": "AM", 
+    "alpha3": "ARM", 
+    "subdivisionCount": 11, 
+    "name": "Armenia"
+  }, 
+  {
+    "alpha2": "LR", 
+    "alpha3": "LBR", 
+    "subdivisionCount": 15, 
+    "name": "Liberia"
+  }, 
+  {
+    "alpha2": "VI", 
+    "alpha3": "VIR", 
+    "subdivisionCount": 0, 
+    "name": "Virgin Islands (U.S.)"
+  }, 
+  {
+    "alpha2": "PG", 
+    "alpha3": "PNG", 
+    "subdivisionCount": 22, 
+    "name": "Papua New Guinea"
+  }, 
+  {
+    "alpha2": "JO", 
+    "alpha3": "JOR", 
+    "subdivisionCount": 12, 
+    "name": "Jordan"
+  }, 
+  {
+    "alpha2": "ZR", 
+    "alpha3": "ZAR", 
+    "subdivisionCount": 0, 
+    "name": "Zaire"
+  }, 
+  {
+    "alpha2": "BA", 
+    "alpha3": "BIH", 
+    "subdivisionCount": 3, 
+    "name": "Bosnia and Herzegovina"
+  }, 
+  {
+    "alpha2": "GE", 
+    "alpha3": "GEL", 
+    "subdivisionCount": 0, 
+    "name": "Gilbert and Ellice Islands"
+  }, 
+  {
+    "alpha2": "BE", 
+    "alpha3": "BEL", 
+    "subdivisionCount": 14, 
+    "name": "Belgium"
+  }, 
+  {
+    "alpha2": "IO", 
+    "alpha3": "IOT", 
+    "subdivisionCount": 0, 
+    "name": "British Indian Ocean Territory"
+  }, 
+  {
+    "alpha2": "MK", 
+    "alpha3": "MKD", 
+    "subdivisionCount": 71, 
+    "name": "Macedonia (the former Yugoslav Republic of)"
+  }, 
+  {
+    "alpha2": "GG", 
+    "alpha3": "GGY", 
+    "subdivisionCount": 0, 
+    "name": "Guernsey"
+  }, 
+  {
+    "alpha2": "AX", 
+    "alpha3": "ALA", 
+    "subdivisionCount": 0, 
+    "name": "\u00c5land Islands"
+  }, 
+  {
+    "alpha2": "LK", 
+    "alpha3": "LKA", 
+    "subdivisionCount": 99, 
+    "name": "Sri Lanka"
+  }, 
+  {
+    "alpha2": "BF", 
+    "alpha3": "BFA", 
+    "subdivisionCount": 58, 
+    "name": "Burkina Faso"
+  }, 
+  {
+    "alpha2": "TG", 
+    "alpha3": "TGO", 
+    "subdivisionCount": 5, 
+    "name": "Togo"
+  }, 
+  {
+    "alpha2": "DO", 
+    "alpha3": "DOM", 
+    "subdivisionCount": 42, 
+    "name": "Dominican Republic"
+  }, 
+  {
+    "alpha2": "GR", 
+    "alpha3": "GRC", 
+    "subdivisionCount": 14, 
+    "name": "Greece"
+  }, 
+  {
+    "alpha2": "NI", 
+    "alpha3": "NIC", 
+    "subdivisionCount": 17, 
+    "name": "Nicaragua"
+  }, 
+  {
+    "alpha2": "KW", 
+    "alpha3": "KWT", 
     "subdivisionCount": 6, 
-    "name": "Madagascar"
+    "name": "Kuwait"
+  }, 
+  {
+    "alpha2": "TD", 
+    "alpha3": "TCD", 
+    "subdivisionCount": 44, 
+    "name": "Chad"
+  }, 
+  {
+    "alpha2": "SK", 
+    "alpha3": "SVK", 
+    "subdivisionCount": 8, 
+    "name": "Slovakia"
+  }, 
+  {
+    "alpha2": "NL", 
+    "alpha3": "NLD", 
+    "subdivisionCount": 18, 
+    "name": "Netherlands"
+  }, 
+  {
+    "alpha2": "GS", 
+    "alpha3": "SGS", 
+    "subdivisionCount": 0, 
+    "name": "South Georgia and the South Sandwich Islands"
+  }, 
+  {
+    "alpha2": "ML", 
+    "alpha3": "MLI", 
+    "subdivisionCount": 9, 
+    "name": "Mali"
+  }, 
+  {
+    "alpha2": "TT", 
+    "alpha3": "TTO", 
+    "subdivisionCount": 15, 
+    "name": "Trinidad and Tobago"
+  }, 
+  {
+    "alpha2": "IE", 
+    "alpha3": "IRL", 
+    "subdivisionCount": 59, 
+    "name": "Ireland"
+  }, 
+  {
+    "alpha2": "CH", 
+    "alpha3": "CHE", 
+    "subdivisionCount": 32, 
+    "name": "Switzerland"
+  }, 
+  {
+    "alpha2": "NZ", 
+    "alpha3": "NZL", 
+    "subdivisionCount": 30, 
+    "name": "New Zealand"
+  }, 
+  {
+    "alpha2": "EG", 
+    "alpha3": "EGY", 
+    "subdivisionCount": 27, 
+    "name": "Egypt"
+  }, 
+  {
+    "alpha2": "GQ", 
+    "alpha3": "GNQ", 
+    "subdivisionCount": 21, 
+    "name": "Equatorial Guinea"
+  }, 
+  {
+    "alpha2": "NP", 
+    "alpha3": "NPL", 
+    "subdivisionCount": 24, 
+    "name": "Nepal"
+  }, 
+  {
+    "alpha2": "BJ", 
+    "alpha3": "BEN", 
+    "subdivisionCount": 12, 
+    "name": "Benin"
+  }, 
+  {
+    "alpha2": "KM", 
+    "alpha3": "COM", 
+    "subdivisionCount": 12, 
+    "name": "Comoros"
+  }, 
+  {
+    "alpha2": "TN", 
+    "alpha3": "TUN", 
+    "subdivisionCount": 24, 
+    "name": "Tunisia"
+  }, 
+  {
+    "alpha2": "BQ", 
+    "alpha3": "ATB", 
+    "subdivisionCount": 0, 
+    "name": "British Antarctic Territory"
+  }, 
+  {
+    "alpha2": "GD", 
+    "alpha3": "GRD", 
+    "subdivisionCount": 7, 
+    "name": "Grenada"
+  }, 
+  {
+    "alpha2": "IR", 
+    "alpha3": "IRN", 
+    "subdivisionCount": 31, 
+    "name": "Iran (Islamic Republic of)"
   }
 ]

@@ -1,31 +1,15 @@
 [
   {
-    "alpha3": "NE-1", 
-    "name": "Agadez", 
+    "alpha3": "NE-8", 
+    "name": "Niamey", 
     "countryAlpha3": "NER", 
     "countryAlpha2": "NE", 
-    "categoryId": "282", 
-    "categoryName": "region"
+    "categoryId": "110", 
+    "categoryName": "urban community"
   }, 
   {
-    "alpha3": "NE-6", 
-    "name": "Tillab\u00e9ri", 
-    "countryAlpha3": "NER", 
-    "countryAlpha2": "NE", 
-    "categoryId": "282", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NE-5", 
-    "name": "Tahoua", 
-    "countryAlpha3": "NER", 
-    "countryAlpha2": "NE", 
-    "categoryId": "282", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NE-2", 
-    "name": "Diffa", 
+    "alpha3": "NE-4", 
+    "name": "Maradi", 
     "countryAlpha3": "NER", 
     "countryAlpha2": "NE", 
     "categoryId": "282", 
@@ -48,8 +32,24 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "NE-4", 
-    "name": "Maradi", 
+    "alpha3": "NE-6", 
+    "name": "Tillab\u00e9ri", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-5", 
+    "name": "Tahoua", 
+    "countryAlpha3": "NER", 
+    "countryAlpha2": "NE", 
+    "categoryId": "282", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NE-1", 
+    "name": "Agadez", 
     "countryAlpha3": "NER", 
     "countryAlpha2": "NE", 
     "categoryId": "282", 

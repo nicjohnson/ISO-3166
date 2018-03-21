@@ -1,7 +1,15 @@
 [
   {
-    "alpha3": "TG-K", 
-    "name": "Kara", 
+    "alpha3": "TG-P", 
+    "name": "Plateaux", 
+    "countryAlpha3": "TGO", 
+    "countryAlpha2": "TG", 
+    "categoryId": "252", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TG-M", 
+    "name": "Maritime (R\u00e9gion)", 
     "countryAlpha3": "TGO", 
     "countryAlpha2": "TG", 
     "categoryId": "252", 
@@ -16,16 +24,8 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "TG-P", 
-    "name": "Plateaux", 
-    "countryAlpha3": "TGO", 
-    "countryAlpha2": "TG", 
-    "categoryId": "252", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "TG-S", 
-    "name": "Savannes", 
+    "alpha3": "TG-K", 
+    "name": "Kara", 
     "countryAlpha3": "TGO", 
     "countryAlpha2": "TG", 
     "categoryId": "252", 

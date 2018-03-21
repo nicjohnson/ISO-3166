@@ -1,55 +1,7 @@
 [
   {
-    "alpha3": "RW-01", 
-    "name": "Ville de Kigali", 
-    "countryAlpha3": "RWA", 
-    "countryAlpha2": "RW", 
-    "categoryId": "267", 
-    "categoryName": "city"
-  }, 
-  {
-    "alpha3": "RW-01", 
-    "name": "City of Kigali", 
-    "countryAlpha3": "RWA", 
-    "countryAlpha2": "RW", 
-    "categoryId": "267", 
-    "categoryName": "city"
-  }, 
-  {
-    "alpha3": "RW-05", 
-    "name": "Amajyepfo", 
-    "countryAlpha3": "RWA", 
-    "countryAlpha2": "RW", 
-    "categoryId": "343", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "RW-05", 
-    "name": "Southern", 
-    "countryAlpha3": "RWA", 
-    "countryAlpha2": "RW", 
-    "categoryId": "343", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "RW-05", 
-    "name": "Sud", 
-    "countryAlpha3": "RWA", 
-    "countryAlpha2": "RW", 
-    "categoryId": "343", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "RW-03", 
-    "name": "Amajyaruguru", 
-    "countryAlpha3": "RWA", 
-    "countryAlpha2": "RW", 
-    "categoryId": "343", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "RW-03", 
-    "name": "Nord", 
+    "alpha3": "RW-02", 
+    "name": "Iburasirazuba", 
     "countryAlpha3": "RWA", 
     "countryAlpha2": "RW", 
     "categoryId": "343", 
@@ -65,15 +17,63 @@
   }, 
   {
     "alpha3": "RW-02", 
-    "name": "Iburasirazuba", 
+    "name": "Est", 
     "countryAlpha3": "RWA", 
     "countryAlpha2": "RW", 
     "categoryId": "343", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "RW-02", 
-    "name": "Est", 
+    "alpha3": "RW-05", 
+    "name": "Southern", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-04", 
+    "name": "Ouest", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-05", 
+    "name": "Amajyepfo", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-03", 
+    "name": "Nord", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "343", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "RW-01", 
+    "name": "City of Kigali", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "267", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "RW-01", 
+    "name": "Ville de Kigali", 
+    "countryAlpha3": "RWA", 
+    "countryAlpha2": "RW", 
+    "categoryId": "267", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "RW-04", 
+    "name": "Iburengerazuba", 
     "countryAlpha3": "RWA", 
     "countryAlpha2": "RW", 
     "categoryId": "343", 
@@ -96,19 +96,19 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "RW-04", 
-    "name": "Iburengerazuba", 
+    "alpha3": "RW-03", 
+    "name": "Amajyaruguru", 
     "countryAlpha3": "RWA", 
     "countryAlpha2": "RW", 
     "categoryId": "343", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "RW-04", 
-    "name": "Ouest", 
+    "alpha3": "RW-01", 
+    "name": "Umujyi wa Kigali", 
     "countryAlpha3": "RWA", 
     "countryAlpha2": "RW", 
-    "categoryId": "343", 
-    "categoryName": "province"
+    "categoryId": "267", 
+    "categoryName": "city"
   }
 ]

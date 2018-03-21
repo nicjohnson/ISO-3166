@@ -1,5 +1,77 @@
 [
   {
+    "alpha3": "NR-06", 
+    "name": "Boe", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-03", 
+    "name": "Anetan", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-12", 
+    "name": "Nibok", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-11", 
+    "name": "Meneng", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-08", 
+    "name": "Denigomodu", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-07", 
+    "name": "Buada", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-14", 
+    "name": "Yaren", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-09", 
+    "name": "Ewa", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "NR-01", 
+    "name": "Aiwo", 
+    "countryAlpha3": "NRU", 
+    "countryAlpha2": "NR", 
+    "categoryId": "172", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "NR-05", 
     "name": "Baiti", 
     "countryAlpha3": "NRU", 
@@ -8,118 +80,6 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "NR-06", 
-    "name": "Boe", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-06", 
-    "name": "Boe", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-11", 
-    "name": "Meneng", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-11", 
-    "name": "Meneng", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-02", 
-    "name": "Anabar", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-02", 
-    "name": "Anabar", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-04", 
-    "name": "Anibare", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-04", 
-    "name": "Anibare", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-01", 
-    "name": "Aiwo", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-01", 
-    "name": "Aiwo", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-03", 
-    "name": "Anetan", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-03", 
-    "name": "Anetan", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-08", 
-    "name": "Denigomodu", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-08", 
-    "name": "Denigomodu", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "NR-10", 
     "name": "Ijuw", 
     "countryAlpha3": "NRU", 
@@ -128,80 +88,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "NR-10", 
-    "name": "Ijuw", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-09", 
-    "name": "Ewa", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-09", 
-    "name": "Ewa", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-12", 
-    "name": "Nibok", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-12", 
-    "name": "Nibok", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-14", 
-    "name": "Yaren", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-14", 
-    "name": "Yaren", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-07", 
-    "name": "Buada", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-07", 
-    "name": "Buada", 
-    "countryAlpha3": "NRU", 
-    "countryAlpha2": "NR", 
-    "categoryId": "172", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "NR-13", 
-    "name": "Uaboe", 
+    "alpha3": "NR-04", 
+    "name": "Anibare", 
     "countryAlpha3": "NRU", 
     "countryAlpha2": "NR", 
     "categoryId": "172", 

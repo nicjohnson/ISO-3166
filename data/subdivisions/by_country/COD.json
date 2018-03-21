@@ -1,19 +1,43 @@
 [
   {
-    "alpha3": "CD-MA", 
-    "name": "Maniema", 
+    "alpha3": "CD-TU", 
+    "name": "Tshuapa", 
     "countryAlpha3": "COD", 
     "countryAlpha2": "CD", 
     "categoryId": "278", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CD-BU", 
-    "name": "Bas-U\u00e9l\u00e9", 
+    "alpha3": "CD-SK", 
+    "name": "Sud-Kivu", 
     "countryAlpha3": "COD", 
     "countryAlpha2": "CD", 
     "categoryId": "278", 
     "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-KG", 
+    "name": "Kwango", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-LU", 
+    "name": "Lualaba", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-KN", 
+    "name": "Kinshasa", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "404", 
+    "categoryName": "city"
   }, 
   {
     "alpha3": "CD-EQ", 
@@ -24,8 +48,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CD-HK", 
-    "name": "Haut-Katanga", 
+    "alpha3": "CD-KL", 
+    "name": "Kwilu", 
     "countryAlpha3": "COD", 
     "countryAlpha2": "CD", 
     "categoryId": "278", 
@@ -40,8 +64,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CD-HU", 
-    "name": "Haut-U\u00e9l\u00e9", 
+    "alpha3": "CD-BU", 
+    "name": "Bas-U\u00e9l\u00e9", 
     "countryAlpha3": "COD", 
     "countryAlpha2": "CD", 
     "categoryId": "278", 
@@ -50,6 +74,102 @@
   {
     "alpha3": "CD-IT", 
     "name": "Ituri", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-HK", 
+    "name": "Haut-Katanga", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-MN", 
+    "name": "Mai-Ndombe", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-TO", 
+    "name": "Tshopo", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-SU", 
+    "name": "Sud-Ubangi", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-SA", 
+    "name": "Sankuru", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-BC", 
+    "name": "Kongo Central", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-NK", 
+    "name": "Nord-Kivu", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-MA", 
+    "name": "Maniema", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-LO", 
+    "name": "Lomami", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-MO", 
+    "name": "Mongala", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-KE", 
+    "name": "Kasa\u00ef Oriental", 
+    "countryAlpha3": "COD", 
+    "countryAlpha2": "CD", 
+    "categoryId": "278", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CD-HU", 
+    "name": "Haut-U\u00e9l\u00e9", 
     "countryAlpha3": "COD", 
     "countryAlpha2": "CD", 
     "categoryId": "278", 
@@ -72,128 +192,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CD-KG", 
-    "name": "Kwango", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-KL", 
-    "name": "Kwilu", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-LO", 
-    "name": "Lomami", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-LU", 
-    "name": "Lualaba", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-MN", 
-    "name": "Mai-Ndombe", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-MO", 
-    "name": "Mongala", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-NU", 
-    "name": "Nord-Ubangi", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-SA", 
-    "name": "Sankuru", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-SU", 
-    "name": "Sud-Ubangi", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "CD-TA", 
     "name": "Tanganyika", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-TO", 
-    "name": "Tshopo", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-TU", 
-    "name": "Tshuapa", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-BC", 
-    "name": "Kongo Central", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-SK", 
-    "name": "Sud-Kivu", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-NK", 
-    "name": "Nord-Kivu", 
-    "countryAlpha3": "COD", 
-    "countryAlpha2": "CD", 
-    "categoryId": "278", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CD-KE", 
-    "name": "Kasa\u00ef Oriental", 
     "countryAlpha3": "COD", 
     "countryAlpha2": "CD", 
     "categoryId": "278", 

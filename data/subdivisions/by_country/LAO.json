@@ -1,111 +1,7 @@
 [
   {
-    "alpha3": "LA-BK", 
-    "name": "Bok\u00e8o", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-AT", 
-    "name": "Attapu", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-BL", 
-    "name": "Bolikhamxai", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-CH", 
-    "name": "Champasak", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-LP", 
-    "name": "Louangphabang", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-OU", 
-    "name": "Oud\u00f4mxai", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-PH", 
-    "name": "Ph\u00f4ngsali", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-SL", 
-    "name": "Salavan", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-XA", 
-    "name": "Xaignabouli", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-XE", 
-    "name": "X\u00e9kong", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-XI", 
-    "name": "Xiangkhouang", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-SV", 
-    "name": "Savannakh\u00e9t", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-HO", 
-    "name": "Houaphan", 
-    "countryAlpha3": "LAO", 
-    "countryAlpha2": "LA", 
-    "categoryId": "285", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "LA-KH", 
-    "name": "Khammouan", 
+    "alpha3": "LA-LM", 
+    "name": "Louang Namtha", 
     "countryAlpha3": "LAO", 
     "countryAlpha2": "LA", 
     "categoryId": "285", 
@@ -120,8 +16,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "LA-LM", 
-    "name": "Louang Namtha", 
+    "alpha3": "LA-BK", 
+    "name": "Bok\u00e8o", 
     "countryAlpha3": "LAO", 
     "countryAlpha2": "LA", 
     "categoryId": "285", 
@@ -134,5 +30,109 @@
     "countryAlpha2": "LA", 
     "categoryId": "273", 
     "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "LA-XA", 
+    "name": "Xaignabouli", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-HO", 
+    "name": "Houaphan", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-BL", 
+    "name": "Bolikhamxai", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-SV", 
+    "name": "Savannakh\u00e9t", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-SL", 
+    "name": "Salavan", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-OU", 
+    "name": "Oud\u00f4mxai", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-KH", 
+    "name": "Khammouan", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-XS", 
+    "name": "Xais\u00f4mboun", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-XI", 
+    "name": "Xiangkhouang", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-AT", 
+    "name": "Attapu", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-XE", 
+    "name": "X\u00e9kong", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-PH", 
+    "name": "Ph\u00f4ngsali", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "LA-CH", 
+    "name": "Champasak", 
+    "countryAlpha3": "LAO", 
+    "countryAlpha2": "LA", 
+    "categoryId": "285", 
+    "categoryName": "province"
   }
 ]

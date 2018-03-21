@@ -8,22 +8,6 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "BJ-KO", 
-    "name": "Couffo", 
-    "countryAlpha3": "BEN", 
-    "countryAlpha2": "BJ", 
-    "categoryId": "276", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "BJ-PL", 
-    "name": "Plateau", 
-    "countryAlpha3": "BEN", 
-    "countryAlpha2": "BJ", 
-    "categoryId": "276", 
-    "categoryName": "department"
-  }, 
-  {
     "alpha3": "BJ-ZO", 
     "name": "Zou", 
     "countryAlpha3": "BEN", 
@@ -32,16 +16,8 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "BJ-AK", 
-    "name": "Atacora", 
-    "countryAlpha3": "BEN", 
-    "countryAlpha2": "BJ", 
-    "categoryId": "276", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "BJ-CO", 
-    "name": "Collines", 
+    "alpha3": "BJ-KO", 
+    "name": "Couffo", 
     "countryAlpha3": "BEN", 
     "countryAlpha2": "BJ", 
     "categoryId": "276", 
@@ -56,8 +32,24 @@
     "categoryName": "department"
   }, 
   {
+    "alpha3": "BJ-AL", 
+    "name": "Alibori", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
     "alpha3": "BJ-OU", 
     "name": "Ou\u00e9m\u00e9", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-AK", 
+    "name": "Atacora", 
     "countryAlpha3": "BEN", 
     "countryAlpha2": "BJ", 
     "categoryId": "276", 
@@ -80,8 +72,16 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "BJ-MO", 
-    "name": "Mono", 
+    "alpha3": "BJ-CO", 
+    "name": "Collines", 
+    "countryAlpha3": "BEN", 
+    "countryAlpha2": "BJ", 
+    "categoryId": "276", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "BJ-PL", 
+    "name": "Plateau", 
     "countryAlpha3": "BEN", 
     "countryAlpha2": "BJ", 
     "categoryId": "276", 

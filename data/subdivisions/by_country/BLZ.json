@@ -1,5 +1,21 @@
 [
   {
+    "alpha3": "BZ-TOL", 
+    "name": "Toledo", 
+    "countryAlpha3": "BLZ", 
+    "countryAlpha2": "BZ", 
+    "categoryId": "297", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BZ-CZL", 
+    "name": "Corozal", 
+    "countryAlpha3": "BLZ", 
+    "countryAlpha2": "BZ", 
+    "categoryId": "297", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "BZ-CY", 
     "name": "Cayo", 
     "countryAlpha3": "BLZ", 
@@ -16,24 +32,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BZ-CZL", 
-    "name": "Corozal", 
-    "countryAlpha3": "BLZ", 
-    "countryAlpha2": "BZ", 
-    "categoryId": "297", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "BZ-SC", 
     "name": "Stann Creek", 
-    "countryAlpha3": "BLZ", 
-    "countryAlpha2": "BZ", 
-    "categoryId": "297", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BZ-TOL", 
-    "name": "Toledo", 
     "countryAlpha3": "BLZ", 
     "countryAlpha2": "BZ", 
     "categoryId": "297", 

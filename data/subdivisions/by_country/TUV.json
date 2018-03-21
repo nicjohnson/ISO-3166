@@ -1,31 +1,7 @@
 [
   {
-    "alpha3": "TV-NKL", 
-    "name": "Nukulaelae", 
-    "countryAlpha3": "TUV", 
-    "countryAlpha2": "TV", 
-    "categoryId": "177", 
-    "categoryName": "island council"
-  }, 
-  {
-    "alpha3": "TV-NKF", 
-    "name": "Nukufetau", 
-    "countryAlpha3": "TUV", 
-    "countryAlpha2": "TV", 
-    "categoryId": "177", 
-    "categoryName": "island council"
-  }, 
-  {
     "alpha3": "TV-NMG", 
     "name": "Nanumaga", 
-    "countryAlpha3": "TUV", 
-    "countryAlpha2": "TV", 
-    "categoryId": "177", 
-    "categoryName": "island council"
-  }, 
-  {
-    "alpha3": "TV-NMA", 
-    "name": "Nanumea", 
     "countryAlpha3": "TUV", 
     "countryAlpha2": "TV", 
     "categoryId": "177", 
@@ -40,8 +16,16 @@
     "categoryName": "island council"
   }, 
   {
-    "alpha3": "TV-NIT", 
-    "name": "Niutao", 
+    "alpha3": "TV-NKF", 
+    "name": "Nukufetau", 
+    "countryAlpha3": "TUV", 
+    "countryAlpha2": "TV", 
+    "categoryId": "177", 
+    "categoryName": "island council"
+  }, 
+  {
+    "alpha3": "TV-NMA", 
+    "name": "Nanumea", 
     "countryAlpha3": "TUV", 
     "countryAlpha2": "TV", 
     "categoryId": "177", 
@@ -54,5 +38,21 @@
     "countryAlpha2": "TV", 
     "categoryId": "177", 
     "categoryName": "island council"
+  }, 
+  {
+    "alpha3": "TV-NKL", 
+    "name": "Nukulaelae", 
+    "countryAlpha3": "TUV", 
+    "countryAlpha2": "TV", 
+    "categoryId": "177", 
+    "categoryName": "island council"
+  }, 
+  {
+    "alpha3": "TV-FUN", 
+    "name": "Funafuti", 
+    "countryAlpha3": "TUV", 
+    "countryAlpha2": "TV", 
+    "categoryId": "307", 
+    "categoryName": "town council"
   }
 ]

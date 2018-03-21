@@ -1,7 +1,23 @@
 [
   {
-    "alpha3": "AM-AR", 
-    "name": "Ararat", 
+    "alpha3": "AM-SU", 
+    "name": "Syunik'", 
+    "countryAlpha3": "ARM", 
+    "countryAlpha2": "AM", 
+    "categoryId": "106", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "AM-ER", 
+    "name": "Erevan", 
+    "countryAlpha3": "ARM", 
+    "countryAlpha2": "AM", 
+    "categoryId": "189", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "AM-AV", 
+    "name": "Armavir", 
     "countryAlpha3": "ARM", 
     "countryAlpha2": "AM", 
     "categoryId": "106", 
@@ -16,8 +32,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "AM-AV", 
-    "name": "Armavir", 
+    "alpha3": "AM-VD", 
+    "name": "Vayo\u0107 Jor", 
+    "countryAlpha3": "ARM", 
+    "countryAlpha2": "AM", 
+    "categoryId": "106", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "AM-TV", 
+    "name": "Tavu\u0161", 
     "countryAlpha3": "ARM", 
     "countryAlpha2": "AM", 
     "categoryId": "106", 
@@ -40,30 +64,6 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "AM-SH", 
-    "name": "\u0160irak", 
-    "countryAlpha3": "ARM", 
-    "countryAlpha2": "AM", 
-    "categoryId": "106", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "AM-SU", 
-    "name": "Syunik'", 
-    "countryAlpha3": "ARM", 
-    "countryAlpha2": "AM", 
-    "categoryId": "106", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "AM-TV", 
-    "name": "Tavu\u0161", 
-    "countryAlpha3": "ARM", 
-    "countryAlpha2": "AM", 
-    "categoryId": "106", 
-    "categoryName": "region"
-  }, 
-  {
     "alpha3": "AM-LO", 
     "name": "Lo\u1e59i", 
     "countryAlpha3": "ARM", 
@@ -72,8 +72,8 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "AM-VD", 
-    "name": "Vayo\u0107 Jor", 
+    "alpha3": "AM-AR", 
+    "name": "Ararat", 
     "countryAlpha3": "ARM", 
     "countryAlpha2": "AM", 
     "categoryId": "106", 

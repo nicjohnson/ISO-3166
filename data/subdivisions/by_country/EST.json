@@ -1,31 +1,15 @@
 [
   {
-    "alpha3": "EE-39", 
-    "name": "Hiiumaa", 
+    "alpha3": "EE-86", 
+    "name": "V\u00f5rumaa", 
     "countryAlpha3": "EST", 
     "countryAlpha2": "EE", 
     "categoryId": "407", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "EE-78", 
-    "name": "Tartumaa", 
-    "countryAlpha3": "EST", 
-    "countryAlpha2": "EE", 
-    "categoryId": "407", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "EE-49", 
-    "name": "J\u00f5gevamaa", 
-    "countryAlpha3": "EST", 
-    "countryAlpha2": "EE", 
-    "categoryId": "407", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "EE-51", 
-    "name": "J\u00e4rvamaa", 
+    "alpha3": "EE-65", 
+    "name": "P\u00f5lvamaa", 
     "countryAlpha3": "EST", 
     "countryAlpha2": "EE", 
     "categoryId": "407", 
@@ -40,14 +24,6 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "EE-84", 
-    "name": "Viljandimaa", 
-    "countryAlpha3": "EST", 
-    "countryAlpha2": "EE", 
-    "categoryId": "407", 
-    "categoryName": "county"
-  }, 
-  {
     "alpha3": "EE-37", 
     "name": "Harjumaa", 
     "countryAlpha3": "EST", 
@@ -56,24 +32,8 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "EE-44", 
-    "name": "Ida-Virumaa", 
-    "countryAlpha3": "EST", 
-    "countryAlpha2": "EE", 
-    "categoryId": "407", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "EE-57", 
-    "name": "L\u00e4\u00e4nemaa", 
-    "countryAlpha3": "EST", 
-    "countryAlpha2": "EE", 
-    "categoryId": "407", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "EE-59", 
-    "name": "L\u00e4\u00e4ne-Virumaa", 
+    "alpha3": "EE-49", 
+    "name": "J\u00f5gevamaa", 
     "countryAlpha3": "EST", 
     "countryAlpha2": "EE", 
     "categoryId": "407", 
@@ -88,14 +48,6 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "EE-74", 
-    "name": "Saaremaa", 
-    "countryAlpha3": "EST", 
-    "countryAlpha2": "EE", 
-    "categoryId": "407", 
-    "categoryName": "county"
-  }, 
-  {
     "alpha3": "EE-82", 
     "name": "Valgamaa", 
     "countryAlpha3": "EST", 
@@ -104,8 +56,56 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "EE-86", 
-    "name": "V\u00f5rumaa", 
+    "alpha3": "EE-74", 
+    "name": "Saaremaa", 
+    "countryAlpha3": "EST", 
+    "countryAlpha2": "EE", 
+    "categoryId": "407", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "EE-57", 
+    "name": "L\u00e4\u00e4nemaa", 
+    "countryAlpha3": "EST", 
+    "countryAlpha2": "EE", 
+    "categoryId": "407", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "EE-84", 
+    "name": "Viljandimaa", 
+    "countryAlpha3": "EST", 
+    "countryAlpha2": "EE", 
+    "categoryId": "407", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "EE-44", 
+    "name": "Ida-Virumaa", 
+    "countryAlpha3": "EST", 
+    "countryAlpha2": "EE", 
+    "categoryId": "407", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "EE-51", 
+    "name": "J\u00e4rvamaa", 
+    "countryAlpha3": "EST", 
+    "countryAlpha2": "EE", 
+    "categoryId": "407", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "EE-59", 
+    "name": "L\u00e4\u00e4ne-Virumaa", 
+    "countryAlpha3": "EST", 
+    "countryAlpha2": "EE", 
+    "categoryId": "407", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "EE-39", 
+    "name": "Hiiumaa", 
     "countryAlpha3": "EST", 
     "countryAlpha2": "EE", 
     "categoryId": "407", 

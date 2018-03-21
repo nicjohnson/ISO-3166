@@ -16,14 +16,6 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KR-42", 
-    "name": "Gangwon-do", 
-    "countryAlpha3": "KOR", 
-    "countryAlpha2": "KR", 
-    "categoryId": "329", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "KR-41", 
     "name": "Gyeonggi-do", 
     "countryAlpha3": "KOR", 
@@ -32,44 +24,12 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KR-47", 
-    "name": "Gyeongsangbuk-do", 
+    "alpha3": "KR-49", 
+    "name": "Jeju-teukbyeoljachido", 
     "countryAlpha3": "KOR", 
     "countryAlpha2": "KR", 
-    "categoryId": "329", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KR-48", 
-    "name": "Gyeongsangnam-do", 
-    "countryAlpha3": "KOR", 
-    "countryAlpha2": "KR", 
-    "categoryId": "329", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KR-45", 
-    "name": "Jeollabuk-do", 
-    "countryAlpha3": "KOR", 
-    "countryAlpha2": "KR", 
-    "categoryId": "329", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KR-46", 
-    "name": "Jeollanam-do", 
-    "countryAlpha3": "KOR", 
-    "countryAlpha2": "KR", 
-    "categoryId": "329", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KR-50", 
-    "name": "Sejong", 
-    "countryAlpha3": "KOR", 
-    "countryAlpha2": "KR", 
-    "categoryId": "453", 
-    "categoryName": "special self-governing city"
+    "categoryId": "452", 
+    "categoryName": "special self-governing province"
   }, 
   {
     "alpha3": "KR-11", 
@@ -80,28 +40,28 @@
     "categoryName": "special city"
   }, 
   {
-    "alpha3": "KR-26", 
-    "name": "Busan-gwangyeoksi", 
+    "alpha3": "KR-46", 
+    "name": "Jeollanam-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-31", 
+    "name": "Ulsan-gwangyeoksi", 
     "countryAlpha3": "KOR", 
     "countryAlpha2": "KR", 
     "categoryId": "227", 
     "categoryName": "metropolitan city"
   }, 
   {
-    "alpha3": "KR-27", 
-    "name": "Daegu-gwangyeoksi", 
+    "alpha3": "KR-45", 
+    "name": "Jeollabuk-do", 
     "countryAlpha3": "KOR", 
     "countryAlpha2": "KR", 
-    "categoryId": "227", 
-    "categoryName": "metropolitan city"
-  }, 
-  {
-    "alpha3": "KR-30", 
-    "name": "Daejeon-gwangyeoksi", 
-    "countryAlpha3": "KOR", 
-    "countryAlpha2": "KR", 
-    "categoryId": "227", 
-    "categoryName": "metropolitan city"
+    "categoryId": "329", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "KR-29", 
@@ -120,11 +80,51 @@
     "categoryName": "metropolitan city"
   }, 
   {
-    "alpha3": "KR-31", 
-    "name": "Ulsan-gwangyeoksi", 
+    "alpha3": "KR-50", 
+    "name": "Sejong", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "453", 
+    "categoryName": "special self-governing city"
+  }, 
+  {
+    "alpha3": "KR-48", 
+    "name": "Gyeongsangnam-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-27", 
+    "name": "Daegu-gwangyeoksi", 
     "countryAlpha3": "KOR", 
     "countryAlpha2": "KR", 
     "categoryId": "227", 
     "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-42", 
+    "name": "Gangwon-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KR-30", 
+    "name": "Daejeon-gwangyeoksi", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "227", 
+    "categoryName": "metropolitan city"
+  }, 
+  {
+    "alpha3": "KR-47", 
+    "name": "Gyeongsangbuk-do", 
+    "countryAlpha3": "KOR", 
+    "countryAlpha2": "KR", 
+    "categoryId": "329", 
+    "categoryName": "province"
   }
 ]

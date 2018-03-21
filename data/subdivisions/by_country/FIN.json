@@ -1,79 +1,23 @@
 [
   {
-    "alpha3": "FI-02", 
-    "name": "Etel\u00e4-Karjala", 
+    "alpha3": "FI-04", 
+    "name": "Etel\u00e4-Savo", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-16", 
-    "name": "P\u00e4ij\u00e4nne-Tavastland", 
+    "alpha3": "FI-11", 
+    "name": "Birkaland", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-16", 
-    "name": "P\u00e4ij\u00e4t-H\u00e4me", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-06", 
-    "name": "Egentliga Tavastland", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-06", 
-    "name": "Kanta-H\u00e4me", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-08", 
-    "name": "Mellersta Finland", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-08", 
-    "name": "Keski-Suomi", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-13", 
-    "name": "Pohjois-Karjala", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-13", 
-    "name": "Norra Karelen", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-18", 
-    "name": "Nyland", 
+    "alpha3": "FI-07", 
+    "name": "Mellersta \u00d6sterbotten", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -88,8 +32,32 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-01", 
-    "name": "Ahvenanmaan maakunta", 
+    "alpha3": "FI-09", 
+    "name": "Kymmenedalen", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-17", 
+    "name": "Satakunta", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-02", 
+    "name": "Etel\u00e4-Karjala", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-13", 
+    "name": "Pohjois-Karjala", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -112,32 +80,8 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-15", 
-    "name": "Pohjois-Savo", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-14", 
-    "name": "Norra \u00d6sterbotten", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-14", 
-    "name": "Pohjois-Pohjanmaa", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-04", 
-    "name": "Etel\u00e4-Savo", 
+    "alpha3": "FI-03", 
+    "name": "Etel\u00e4-Pohjanmaa", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -152,32 +96,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-07", 
-    "name": "Mellersta \u00d6sterbotten", 
+    "alpha3": "FI-08", 
+    "name": "Keski-Suomi", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-07", 
-    "name": "Keski-Pohjanmaa", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-09", 
-    "name": "Kymmenedalen", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-09", 
-    "name": "Kymenlaakso", 
+    "alpha3": "FI-13", 
+    "name": "Norra Karelen", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -192,16 +120,56 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-11", 
-    "name": "Birkaland", 
+    "alpha3": "FI-14", 
+    "name": "Norra \u00d6sterbotten", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-12", 
-    "name": "Pohjanmaa", 
+    "alpha3": "FI-06", 
+    "name": "Egentliga Tavastland", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-09", 
+    "name": "Kymenlaakso", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-15", 
+    "name": "Pohjois-Savo", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-10", 
+    "name": "Lappland", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-16", 
+    "name": "P\u00e4ij\u00e4t-H\u00e4me", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-08", 
+    "name": "Mellersta Finland", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -210,6 +178,38 @@
   {
     "alpha3": "FI-12", 
     "name": "\u00d6sterbotten", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-18", 
+    "name": "Nyland", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-10", 
+    "name": "Lappi", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-05", 
+    "name": "Kainuu", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-03", 
+    "name": "S\u00f6dra \u00d6sterbotten", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -240,32 +240,48 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-17", 
-    "name": "Satakunta", 
+    "alpha3": "FI-14", 
+    "name": "Pohjois-Pohjanmaa", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-03", 
-    "name": "S\u00f6dra \u00d6sterbotten", 
+    "alpha3": "FI-01", 
+    "name": "Ahvenanmaan maakunta", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-03", 
-    "name": "Etel\u00e4-Pohjanmaa", 
+    "alpha3": "FI-06", 
+    "name": "Kanta-H\u00e4me", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "FI-05", 
-    "name": "Kainuu", 
+    "alpha3": "FI-16", 
+    "name": "P\u00e4ij\u00e4nne-Tavastland", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-12", 
+    "name": "Pohjanmaa", 
+    "countryAlpha3": "FIN", 
+    "countryAlpha2": "FI", 
+    "categoryId": "150", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "FI-02", 
+    "name": "S\u00f6dra Karelen", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 
@@ -274,22 +290,6 @@
   {
     "alpha3": "FI-05", 
     "name": "Kajanaland", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-10", 
-    "name": "Lappi", 
-    "countryAlpha3": "FIN", 
-    "countryAlpha2": "FI", 
-    "categoryId": "150", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "FI-10", 
-    "name": "Lappland", 
     "countryAlpha3": "FIN", 
     "countryAlpha2": "FI", 
     "categoryId": "150", 

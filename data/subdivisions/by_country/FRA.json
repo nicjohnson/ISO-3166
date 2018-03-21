@@ -1,215 +1,7 @@
 [
   {
-    "alpha3": "FR-LRE", 
-    "name": "La R\u00e9union", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "466", 
-    "categoryName": "overseas region"
-  }, 
-  {
-    "alpha3": "FR-MAY", 
-    "name": "Mayotte", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "466", 
-    "categoryName": "overseas region"
-  }, 
-  {
-    "alpha3": "FR-03", 
-    "name": "Allier", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-26", 
-    "name": "Dr\u00f4me", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-15", 
-    "name": "Cantal", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-07", 
-    "name": "Ard\u00e8che", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-01", 
-    "name": "Ain", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-38", 
-    "name": "Is\u00e8re", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-43", 
-    "name": "Haute-Loire", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-74", 
-    "name": "Haute-Savoie", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-69", 
-    "name": "Rh\u00f4ne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-42", 
-    "name": "Loire", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-63", 
-    "name": "Puy-de-D\u00f4me", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-73", 
-    "name": "Savoie", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-70", 
-    "name": "Haute-Sa\u00f4ne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-71", 
-    "name": "Sa\u00f4ne-et-Loire", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-21", 
-    "name": "C\u00f4te-d'Or", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-89", 
-    "name": "Yonne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-90", 
-    "name": "Territoire de Belfort", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-39", 
-    "name": "Jura", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-58", 
-    "name": "Ni\u00e8vre", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-25", 
-    "name": "Doubs", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-22", 
-    "name": "C\u00f4tes-d'Armor", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-29", 
-    "name": "Finist\u00e8re", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-56", 
-    "name": "Morbihan", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-35", 
-    "name": "Ille-et-Vilaine", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-41", 
-    "name": "Loir-et-Cher", 
+    "alpha3": "FR-12", 
+    "name": "Aveyron", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
@@ -224,102 +16,6 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-37", 
-    "name": "Indre-et-Loire", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-36", 
-    "name": "Indre", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-28", 
-    "name": "Eure-et-Loir", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-18", 
-    "name": "Cher", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-2A", 
-    "name": "Corse-du-Sud", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-2B", 
-    "name": "Haute-Corse", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-51", 
-    "name": "Marne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-55", 
-    "name": "Meuse", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-57", 
-    "name": "Moselle", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-67", 
-    "name": "Bas-Rhin", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-68", 
-    "name": "Haut-Rhin", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-10", 
-    "name": "Aube", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
     "alpha3": "FR-52", 
     "name": "Haute-Marne", 
     "countryAlpha3": "FRA", 
@@ -328,152 +24,56 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-54", 
-    "name": "Meurthe-et-Moselle", 
+    "alpha3": "FR-GP", 
+    "name": "Guadeloupe (see also separate country code entry under GP)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "158", 
+    "categoryName": "overseas department"
+  }, 
+  {
+    "alpha3": "FR-43", 
+    "name": "Haute-Loire", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-08", 
-    "name": "Ardennes", 
+    "alpha3": "FR-82", 
+    "name": "Tarn-et-Garonne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-88", 
-    "name": "Vosges", 
+    "alpha3": "FR-53", 
+    "name": "Mayenne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-62", 
-    "name": "Pas-de-Calais", 
+    "alpha3": "FR-YT", 
+    "name": "Mayotte (see also separate country code entry under YT)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "158", 
+    "categoryName": "overseas department"
+  }, 
+  {
+    "alpha3": "FR-41", 
+    "name": "Loir-et-Cher", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-02", 
-    "name": "Aisne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-80", 
-    "name": "Somme", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-59", 
-    "name": "Nord", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-60", 
-    "name": "Oise", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-77", 
-    "name": "Seine-et-Marne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-78", 
-    "name": "Yvelines", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-95", 
-    "name": "Val-d'Oise", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-92", 
-    "name": "Hauts-de-Seine", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-93", 
-    "name": "Seine-Saint-Denis", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-75", 
-    "name": "Paris", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-91", 
-    "name": "Essonne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-94", 
-    "name": "Val-de-Marne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-14", 
-    "name": "Calvados", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-76", 
-    "name": "Seine-Maritime", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-27", 
-    "name": "Eure", 
+    "alpha3": "FR-74", 
+    "name": "Haute-Savoie", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
@@ -488,6 +88,102 @@
     "categoryName": "metropolitan department"
   }, 
   {
+    "alpha3": "FR-42", 
+    "name": "Loire", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-2B", 
+    "name": "Haute-Corse", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-59", 
+    "name": "Nord", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-67", 
+    "name": "Bas-Rhin", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-55", 
+    "name": "Meuse", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-10", 
+    "name": "Aube", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-TF", 
+    "name": "Terres australes fran\u00e7aises (see also separate country code entry under TF)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-78", 
+    "name": "Yvelines", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-91", 
+    "name": "Essonne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-BL", 
+    "name": "Saint-Barth\u00e9lemy (see also separate country code entry under BL)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-04", 
+    "name": "Alpes-de-Haute-Provence", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-NOR", 
+    "name": "Normandie", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
     "alpha3": "FR-61", 
     "name": "Orne", 
     "countryAlpha3": "FRA", 
@@ -496,24 +192,152 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-16", 
-    "name": "Charente", 
+    "alpha3": "FR-MQ", 
+    "name": "Martinique (see also separate country code entry under MQ)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-30", 
+    "name": "Gard", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-24", 
-    "name": "Dordogne", 
+    "alpha3": "FR-49", 
+    "name": "Maine-et-Loire", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-79", 
-    "name": "Deux-S\u00e8vres", 
+    "alpha3": "FR-76", 
+    "name": "Seine-Maritime", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-PM", 
+    "name": "Saint-Pierre-et-Miquelon (see also separate country code entry under PM)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-26", 
+    "name": "Dr\u00f4me", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-22", 
+    "name": "C\u00f4tes-d'Armor", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-05", 
+    "name": "Hautes-Alpes", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-PAC", 
+    "name": "Provence-Alpes-C\u00f4te-d\u2019Azur", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-LRE", 
+    "name": "La R\u00e9union", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "466", 
+    "categoryName": "overseas region"
+  }, 
+  {
+    "alpha3": "FR-PDL", 
+    "name": "Pays-de-la-Loire", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-BRE", 
+    "name": "Bretagne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-90", 
+    "name": "Territoire de Belfort", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-77", 
+    "name": "Seine-et-Marne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-15", 
+    "name": "Cantal", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-ARA", 
+    "name": "Auvergne-Rh\u00f4ne-Alpes", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-32", 
+    "name": "Gers", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-14", 
+    "name": "Calvados", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-03", 
+    "name": "Allier", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
@@ -528,6 +352,142 @@
     "categoryName": "metropolitan department"
   }, 
   {
+    "alpha3": "FR-09", 
+    "name": "Ari\u00e8ge", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-IDF", 
+    "name": "\u00cele-de-France", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-81", 
+    "name": "Tarn", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-28", 
+    "name": "Eure-et-Loir", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-63", 
+    "name": "Puy-de-D\u00f4me", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-34", 
+    "name": "H\u00e9rault", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-HDF", 
+    "name": "Hauts-de-France", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-37", 
+    "name": "Indre-et-Loire", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-NC", 
+    "name": "Nouvelle-Cal\u00e9donie (see also separate country code entry under NC)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-70", 
+    "name": "Haute-Sa\u00f4ne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-46", 
+    "name": "Lot", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-69", 
+    "name": "Rh\u00f4ne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-07", 
+    "name": "Ard\u00e8che", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-58", 
+    "name": "Ni\u00e8vre", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-44", 
+    "name": "Loire-Atlantique", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-01", 
+    "name": "Ain", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-83", 
+    "name": "Var", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
     "alpha3": "FR-47", 
     "name": "Lot-et-Garonne", 
     "countryAlpha3": "FRA", 
@@ -536,20 +496,92 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-17", 
-    "name": "Charente-Maritime", 
+    "alpha3": "FR-48", 
+    "name": "Loz\u00e8re", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-86", 
-    "name": "Vienne", 
+    "alpha3": "FR-79", 
+    "name": "Deux-S\u00e8vres", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-54", 
+    "name": "Meurthe-et-Moselle", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-06", 
+    "name": "Alpes-Maritimes", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-25", 
+    "name": "Doubs", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-73", 
+    "name": "Savoie", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-23", 
+    "name": "Creuse", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-CP", 
+    "name": "Clipperton", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "305", 
+    "categoryName": "dependency"
+  }, 
+  {
+    "alpha3": "FR-27", 
+    "name": "Eure", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-39", 
+    "name": "Jura", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-GF", 
+    "name": "Guyane (fran\u00e7aise) (see also separate country code entry under GF)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
   }, 
   {
     "alpha3": "FR-33", 
@@ -568,8 +600,40 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-23", 
-    "name": "Creuse", 
+    "alpha3": "FR-66", 
+    "name": "Pyr\u00e9n\u00e9es-Orientales", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-92", 
+    "name": "Hauts-de-Seine", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-BFC", 
+    "name": "Bourgogne-Franche-Comt\u00e9", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-08", 
+    "name": "Ardennes", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-86", 
+    "name": "Vienne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
@@ -584,128 +648,48 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-87", 
-    "name": "Haute-Vienne", 
+    "alpha3": "FR-02", 
+    "name": "Aisne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-30", 
-    "name": "Gard", 
+    "alpha3": "FR-29", 
+    "name": "Finist\u00e8re", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-11", 
-    "name": "Aude", 
+    "alpha3": "FR-17", 
+    "name": "Charente-Maritime", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-48", 
-    "name": "Loz\u00e8re", 
+    "alpha3": "FR-71", 
+    "name": "Sa\u00f4ne-et-Loire", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-09", 
-    "name": "Ari\u00e8ge", 
+    "alpha3": "FR-CVL", 
+    "name": "Centre-Val de Loire", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
   }, 
   {
-    "alpha3": "FR-65", 
-    "name": "Hautes-Pyr\u00e9n\u00e9es", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-34", 
-    "name": "H\u00e9rault", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-46", 
-    "name": "Lot", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-82", 
-    "name": "Tarn-et-Garonne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-66", 
-    "name": "Pyr\u00e9n\u00e9es-Orientales", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-12", 
-    "name": "Aveyron", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-31", 
-    "name": "Haute-Garonne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-32", 
-    "name": "Gers", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-81", 
-    "name": "Tarn", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-53", 
-    "name": "Mayenne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-49", 
-    "name": "Maine-et-Loire", 
+    "alpha3": "FR-21", 
+    "name": "C\u00f4te-d'Or", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
@@ -720,48 +704,104 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-44", 
-    "name": "Loire-Atlantique", 
+    "alpha3": "FR-80", 
+    "name": "Somme", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-85", 
-    "name": "Vend\u00e9e", 
+    "alpha3": "FR-GUA", 
+    "name": "Guadeloupe", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "466", 
+    "categoryName": "overseas region"
+  }, 
+  {
+    "alpha3": "FR-65", 
+    "name": "Hautes-Pyr\u00e9n\u00e9es", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-04", 
-    "name": "Alpes-de-Haute-Provence", 
+    "alpha3": "FR-31", 
+    "name": "Haute-Garonne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-05", 
-    "name": "Hautes-Alpes", 
+    "alpha3": "FR-56", 
+    "name": "Morbihan", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-83", 
-    "name": "Var", 
+    "alpha3": "FR-PF", 
+    "name": "Polyn\u00e9sie fran\u00e7aise (see also separate country code entry under PF)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-NAQ", 
+    "name": "Nouvelle-Aquitaine", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "240", 
+    "categoryName": "metropolitan region"
+  }, 
+  {
+    "alpha3": "FR-35", 
+    "name": "Ille-et-Vilaine", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-06", 
-    "name": "Alpes-Maritimes", 
+    "alpha3": "FR-MF", 
+    "name": "Saint-Martin (see also separate country code entry under MF)", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
+  }, 
+  {
+    "alpha3": "FR-57", 
+    "name": "Moselle", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-62", 
+    "name": "Pas-de-Calais", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-88", 
+    "name": "Vosges", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-38", 
+    "name": "Is\u00e8re", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "151", 
@@ -776,22 +816,6 @@
     "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-13", 
-    "name": "Bouches-du-Rh\u00f4ne", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "151", 
-    "categoryName": "metropolitan department"
-  }, 
-  {
-    "alpha3": "FR-GP", 
-    "name": "Guadeloupe (see also separate country code entry under GP)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "158", 
-    "categoryName": "overseas department"
-  }, 
-  {
     "alpha3": "FR-RE", 
     "name": "La R\u00e9union (see also separate country code entry under RE)", 
     "countryAlpha3": "FRA", 
@@ -800,52 +824,36 @@
     "categoryName": "overseas department"
   }, 
   {
-    "alpha3": "FR-YT", 
-    "name": "Mayotte (see also separate country code entry under YT)", 
+    "alpha3": "FR-93", 
+    "name": "Seine-Saint-Denis", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "158", 
-    "categoryName": "overseas department"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-ARA", 
-    "name": "Auvergne-Rh\u00f4ne-Alpes", 
+    "alpha3": "FR-36", 
+    "name": "Indre", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-BFC", 
-    "name": "Bourgogne-Franche-Comt\u00e9", 
+    "alpha3": "FR-24", 
+    "name": "Dordogne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-BRE", 
-    "name": "Bretagne", 
+    "alpha3": "FR-13", 
+    "name": "Bouches-du-Rh\u00f4ne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
-  }, 
-  {
-    "alpha3": "FR-CVL", 
-    "name": "Centre-Val de Loire", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
-  }, 
-  {
-    "alpha3": "FR-COR", 
-    "name": "Corse", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
     "alpha3": "FR-GES", 
@@ -856,36 +864,52 @@
     "categoryName": "metropolitan region"
   }, 
   {
-    "alpha3": "FR-HDF", 
-    "name": "Hauts-de-France", 
+    "alpha3": "FR-WF", 
+    "name": "Wallis-et-Futuna (see also separate country code entry under WF)", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "368", 
+    "categoryName": "overseas territorial collectivity"
   }, 
   {
-    "alpha3": "FR-IDF", 
-    "name": "\u00cele-de-France", 
+    "alpha3": "FR-16", 
+    "name": "Charente", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-NOR", 
-    "name": "Normandie", 
+    "alpha3": "FR-89", 
+    "name": "Yonne", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
-    "alpha3": "FR-NAQ", 
-    "name": "Nouvelle-Aquitaine", 
+    "alpha3": "FR-2A", 
+    "name": "Corse-du-Sud", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-94", 
+    "name": "Val-de-Marne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-11", 
+    "name": "Aude", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
   }, 
   {
     "alpha3": "FR-OCC", 
@@ -896,99 +920,75 @@
     "categoryName": "metropolitan region"
   }, 
   {
-    "alpha3": "FR-PDL", 
-    "name": "Pays-de-la-Loire", 
+    "alpha3": "FR-85", 
+    "name": "Vend\u00e9e", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-87", 
+    "name": "Haute-Vienne", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-75", 
+    "name": "Paris", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-60", 
+    "name": "Oise", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-95", 
+    "name": "Val-d'Oise", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-18", 
+    "name": "Cher", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-68", 
+    "name": "Haut-Rhin", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "151", 
+    "categoryName": "metropolitan department"
+  }, 
+  {
+    "alpha3": "FR-MAY", 
+    "name": "Mayotte", 
+    "countryAlpha3": "FRA", 
+    "countryAlpha2": "FR", 
+    "categoryId": "466", 
+    "categoryName": "overseas region"
+  }, 
+  {
+    "alpha3": "FR-COR", 
+    "name": "Corse", 
     "countryAlpha3": "FRA", 
     "countryAlpha2": "FR", 
     "categoryId": "240", 
     "categoryName": "metropolitan region"
-  }, 
-  {
-    "alpha3": "FR-PAC", 
-    "name": "Provence-Alpes-C\u00f4te-d\u2019Azur", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "240", 
-    "categoryName": "metropolitan region"
-  }, 
-  {
-    "alpha3": "FR-CP", 
-    "name": "Clipperton", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "305", 
-    "categoryName": "dependency"
-  }, 
-  {
-    "alpha3": "FR-BL", 
-    "name": "Saint-Barth\u00e9lemy (see also separate country code entry under BL)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-PF", 
-    "name": "Polyn\u00e9sie fran\u00e7aise (see also separate country code entry under PF)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-MF", 
-    "name": "Saint-Martin (see also separate country code entry under MF)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-GF", 
-    "name": "Guyane (fran\u00e7aise) (see also separate country code entry under GF)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-MQ", 
-    "name": "Martinique (see also separate country code entry under MQ)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-NC", 
-    "name": "Nouvelle-Cal\u00e9donie (see also separate country code entry under NC)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-PM", 
-    "name": "Saint-Pierre-et-Miquelon (see also separate country code entry under PM)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-TF", 
-    "name": "Terres australes fran\u00e7aises (see also separate country code entry under TF)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
-  }, 
-  {
-    "alpha3": "FR-WF", 
-    "name": "Wallis-et-Futuna (see also separate country code entry under WF)", 
-    "countryAlpha3": "FRA", 
-    "countryAlpha2": "FR", 
-    "categoryId": "368", 
-    "categoryName": "overseas territorial collectivity"
   }
 ]

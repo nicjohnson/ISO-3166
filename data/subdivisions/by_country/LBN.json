@@ -1,79 +1,7 @@
 [
   {
-    "alpha3": "LB-NA", 
-    "name": "An Naba\u0163\u012byah", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-JL", 
-    "name": "Mont-Liban", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
     "alpha3": "LB-JL", 
     "name": "Jabal Lubn\u0101n", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-BA", 
-    "name": "Bayr\u016bt", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-BA", 
-    "name": "Beyrouth", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-BI", 
-    "name": "B\u00e9qaa", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-BI", 
-    "name": "Al Biq\u0101\u2018", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-AS", 
-    "name": "Ash Shim\u0101l", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-AS", 
-    "name": "Liban-Nord", 
-    "countryAlpha3": "LBN", 
-    "countryAlpha2": "LB", 
-    "categoryId": "208", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "LB-BH", 
-    "name": "B\u2018alabak-Al Hirmil", 
     "countryAlpha3": "LBN", 
     "countryAlpha2": "LB", 
     "categoryId": "208", 
@@ -96,8 +24,32 @@
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "LB-JA", 
-    "name": "Liban-Sud", 
+    "alpha3": "LB-BI", 
+    "name": "Al Biq\u0101\u2018", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-AK", 
+    "name": "\u2018Akk\u0101r", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-AS", 
+    "name": "Liban-Nord", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-JL", 
+    "name": "Mont-Liban", 
     "countryAlpha3": "LBN", 
     "countryAlpha2": "LB", 
     "categoryId": "208", 
@@ -112,8 +64,56 @@
     "categoryName": "governorate"
   }, 
   {
-    "alpha3": "LB-AK", 
-    "name": "\u2018Akk\u0101r", 
+    "alpha3": "LB-BH", 
+    "name": "B\u2018alabak-Al Hirmil", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-BA", 
+    "name": "Bayr\u016bt", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-NA", 
+    "name": "Nabat\u00eey\u00e9", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-BA", 
+    "name": "Beyrouth", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-BI", 
+    "name": "B\u00e9qaa", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-JA", 
+    "name": "Liban-Sud", 
+    "countryAlpha3": "LBN", 
+    "countryAlpha2": "LB", 
+    "categoryId": "208", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "LB-AS", 
+    "name": "Ash Shim\u0101l", 
     "countryAlpha3": "LBN", 
     "countryAlpha2": "LB", 
     "categoryId": "208", 

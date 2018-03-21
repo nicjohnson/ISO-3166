@@ -1,15 +1,15 @@
 [
   {
-    "alpha3": "KI-P", 
-    "name": "Phoenix Islands", 
+    "alpha3": "KI-G", 
+    "name": "Gilbert Islands", 
     "countryAlpha3": "KIR", 
     "countryAlpha2": "KI", 
     "categoryId": "431", 
     "categoryName": "group of islands (20 inhabited islands)"
   }, 
   {
-    "alpha3": "KI-G", 
-    "name": "Gilbert Islands", 
+    "alpha3": "KI-P", 
+    "name": "Phoenix Islands", 
     "countryAlpha3": "KIR", 
     "countryAlpha2": "KI", 
     "categoryId": "431", 

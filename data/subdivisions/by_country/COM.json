@@ -1,5 +1,21 @@
 [
   {
+    "alpha3": "KM-M", 
+    "name": "Mo\u00fbh\u00eel\u00ee", 
+    "countryAlpha3": "COM", 
+    "countryAlpha2": "KM", 
+    "categoryId": "174", 
+    "categoryName": "island"
+  }, 
+  {
+    "alpha3": "KM-A", 
+    "name": "Andjou\u00e2n", 
+    "countryAlpha3": "COM", 
+    "countryAlpha2": "KM", 
+    "categoryId": "174", 
+    "categoryName": "island"
+  }, 
+  {
     "alpha3": "KM-G", 
     "name": "Ngazidja", 
     "countryAlpha3": "COM", 
@@ -8,8 +24,8 @@
     "categoryName": "island"
   }, 
   {
-    "alpha3": "KM-G", 
-    "name": "Andjaz\u00eedja", 
+    "alpha3": "KM-A", 
+    "name": "Anjw\u0101n", 
     "countryAlpha3": "COM", 
     "countryAlpha2": "KM", 
     "categoryId": "174", 
@@ -18,6 +34,22 @@
   {
     "alpha3": "KM-G", 
     "name": "Anjaz\u012bjah", 
+    "countryAlpha3": "COM", 
+    "countryAlpha2": "KM", 
+    "categoryId": "174", 
+    "categoryName": "island"
+  }, 
+  {
+    "alpha3": "KM-A", 
+    "name": "Ndzuwani", 
+    "countryAlpha3": "COM", 
+    "countryAlpha2": "KM", 
+    "categoryId": "174", 
+    "categoryName": "island"
+  }, 
+  {
+    "alpha3": "KM-G", 
+    "name": "Grande Comore", 
     "countryAlpha3": "COM", 
     "countryAlpha2": "KM", 
     "categoryId": "174", 
@@ -33,23 +65,7 @@
   }, 
   {
     "alpha3": "KM-M", 
-    "name": "Moh\u00e9li", 
-    "countryAlpha3": "COM", 
-    "countryAlpha2": "KM", 
-    "categoryId": "174", 
-    "categoryName": "island"
-  }, 
-  {
-    "alpha3": "KM-M", 
     "name": "Mwali", 
-    "countryAlpha3": "COM", 
-    "countryAlpha2": "KM", 
-    "categoryId": "174", 
-    "categoryName": "island"
-  }, 
-  {
-    "alpha3": "KM-M", 
-    "name": "Mo\u00fbh\u00eel\u00ee", 
     "countryAlpha3": "COM", 
     "countryAlpha2": "KM", 
     "categoryId": "174", 
@@ -64,24 +80,8 @@
     "categoryName": "island"
   }, 
   {
-    "alpha3": "KM-A", 
-    "name": "Ndzuwani", 
-    "countryAlpha3": "COM", 
-    "countryAlpha2": "KM", 
-    "categoryId": "174", 
-    "categoryName": "island"
-  }, 
-  {
-    "alpha3": "KM-A", 
-    "name": "Andjou\u00e2n", 
-    "countryAlpha3": "COM", 
-    "countryAlpha2": "KM", 
-    "categoryId": "174", 
-    "categoryName": "island"
-  }, 
-  {
-    "alpha3": "KM-A", 
-    "name": "Anjw\u0101n", 
+    "alpha3": "KM-G", 
+    "name": "Andjaz\u00eedja", 
     "countryAlpha3": "COM", 
     "countryAlpha2": "KM", 
     "categoryId": "174", 

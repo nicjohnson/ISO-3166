@@ -1,87 +1,7 @@
 [
   {
-    "alpha3": "NI-ES", 
-    "name": "Estel\u00ed", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-MN", 
-    "name": "Managua", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-MS", 
-    "name": "Masaya", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-RI", 
-    "name": "Rivas", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-SJ", 
-    "name": "R\u00edo San Juan", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
     "alpha3": "NI-GR", 
     "name": "Granada", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-MD", 
-    "name": "Madriz", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-LE", 
-    "name": "Le\u00f3n", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-NS", 
-    "name": "Nueva Segovia", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-CI", 
-    "name": "Chinandega", 
-    "countryAlpha3": "NIC", 
-    "countryAlpha2": "NI", 
-    "categoryId": "111", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "NI-JI", 
-    "name": "Jinotega", 
     "countryAlpha3": "NIC", 
     "countryAlpha2": "NI", 
     "categoryId": "111", 
@@ -96,16 +16,64 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "NI-BO", 
-    "name": "Boaco", 
+    "alpha3": "NI-MS", 
+    "name": "Masaya", 
     "countryAlpha3": "NIC", 
     "countryAlpha2": "NI", 
     "categoryId": "111", 
     "categoryName": "department"
   }, 
   {
-    "alpha3": "NI-MT", 
-    "name": "Matagalpa", 
+    "alpha3": "NI-MD", 
+    "name": "Madriz", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-CA", 
+    "name": "Carazo", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-RI", 
+    "name": "Rivas", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-NS", 
+    "name": "Nueva Segovia", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-AS", 
+    "name": "Atl\u00e1ntico Sur", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "310", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "NI-ES", 
+    "name": "Estel\u00ed", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-LE", 
+    "name": "Le\u00f3n", 
     "countryAlpha3": "NIC", 
     "countryAlpha2": "NI", 
     "categoryId": "111", 
@@ -120,11 +88,43 @@
     "categoryName": "autonomous region"
   }, 
   {
-    "alpha3": "NI-AS", 
-    "name": "Atl\u00e1ntico Sur", 
+    "alpha3": "NI-MT", 
+    "name": "Matagalpa", 
     "countryAlpha3": "NIC", 
     "countryAlpha2": "NI", 
-    "categoryId": "310", 
-    "categoryName": "autonomous region"
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-MN", 
+    "name": "Managua", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-BO", 
+    "name": "Boaco", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-CI", 
+    "name": "Chinandega", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "NI-SJ", 
+    "name": "R\u00edo San Juan", 
+    "countryAlpha3": "NIC", 
+    "countryAlpha2": "NI", 
+    "categoryId": "111", 
+    "categoryName": "department"
   }
 ]

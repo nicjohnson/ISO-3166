@@ -1,23 +1,15 @@
 [
   {
-    "alpha3": "TT-SIP", 
-    "name": "Siparia", 
+    "alpha3": "TT-TOB", 
+    "name": "Tobago", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
-    "categoryId": "176", 
-    "categoryName": "region"
+    "categoryId": "463", 
+    "categoryName": "ward"
   }, 
   {
-    "alpha3": "TT-MRC", 
-    "name": "Mayaro-Rio Claro", 
-    "countryAlpha3": "TTO", 
-    "countryAlpha2": "TT", 
-    "categoryId": "176", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "TT-DMN", 
-    "name": "Diego Martin", 
+    "alpha3": "TT-SGE", 
+    "name": "Sangre Grande", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
     "categoryId": "176", 
@@ -32,40 +24,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "TT-CTT", 
-    "name": "Couva-Tabaquite-Talparo", 
+    "alpha3": "TT-PED", 
+    "name": "Penal-Debe", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
     "categoryId": "176", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "TT-PRT", 
-    "name": "Princes Town", 
-    "countryAlpha3": "TTO", 
-    "countryAlpha2": "TT", 
-    "categoryId": "176", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "TT-SJL", 
-    "name": "San Juan-Laventille", 
-    "countryAlpha3": "TTO", 
-    "countryAlpha2": "TT", 
-    "categoryId": "176", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "TT-SGE", 
-    "name": "Sangre Grande", 
-    "countryAlpha3": "TTO", 
-    "countryAlpha2": "TT", 
-    "categoryId": "176", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "TT-POS", 
-    "name": "Port of Spain", 
+    "alpha3": "TT-CHA", 
+    "name": "Chaguanas", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
     "categoryId": "167", 
@@ -80,6 +48,38 @@
     "categoryName": "municipality"
   }, 
   {
+    "alpha3": "TT-DMN", 
+    "name": "Diego Martin", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-SJL", 
+    "name": "San Juan-Laventille", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-PRT", 
+    "name": "Princes Town", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "TT-SIP", 
+    "name": "Siparia", 
+    "countryAlpha3": "TTO", 
+    "countryAlpha2": "TT", 
+    "categoryId": "176", 
+    "categoryName": "region"
+  }, 
+  {
     "alpha3": "TT-ARI", 
     "name": "Arima", 
     "countryAlpha3": "TTO", 
@@ -88,27 +88,27 @@
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "TT-PTF", 
-    "name": "Point Fortin", 
+    "alpha3": "TT-POS", 
+    "name": "Port of Spain", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
     "categoryId": "167", 
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "TT-CHA", 
-    "name": "Chaguanas", 
+    "alpha3": "TT-CTT", 
+    "name": "Couva-Tabaquite-Talparo", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
-    "categoryId": "167", 
-    "categoryName": "municipality"
+    "categoryId": "176", 
+    "categoryName": "region"
   }, 
   {
-    "alpha3": "TT-TOB", 
-    "name": "Tobago", 
+    "alpha3": "TT-MRC", 
+    "name": "Mayaro-Rio Claro", 
     "countryAlpha3": "TTO", 
     "countryAlpha2": "TT", 
-    "categoryId": "463", 
-    "categoryName": "ward"
+    "categoryId": "176", 
+    "categoryName": "region"
   }
 ]

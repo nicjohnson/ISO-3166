@@ -1,7 +1,39 @@
 [
   {
-    "alpha3": "DZ-26", 
-    "name": "M\u00e9d\u00e9a", 
+    "alpha3": "DZ-45", 
+    "name": "Naama", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-30", 
+    "name": "Ouargla", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-15", 
+    "name": "Tizi Ouzou", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-35", 
+    "name": "Boumerd\u00e8s", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-46", 
+    "name": "A\u00efn T\u00e9mouchent", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
@@ -10,6 +42,38 @@
   {
     "alpha3": "DZ-29", 
     "name": "Mascara", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-41", 
+    "name": "Souk Ahras", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-38", 
+    "name": "Tissemsilt", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-39", 
+    "name": "El Oued", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-22", 
+    "name": "Sidi Bel Abb\u00e8s", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
@@ -32,248 +96,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "DZ-06", 
-    "name": "B\u00e9ja\u00efa", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-11", 
-    "name": "Tamanrasset", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-13", 
-    "name": "Tlemcen", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-27", 
-    "name": "Mostaganem", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-40", 
-    "name": "Khenchela", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-03", 
-    "name": "Laghouat", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-09", 
-    "name": "Blida", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-14", 
-    "name": "Tiaret", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-15", 
-    "name": "Tizi Ouzou", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-19", 
-    "name": "S\u00e9tif", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-20", 
-    "name": "Sa\u00efda", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-35", 
-    "name": "Boumerd\u00e8s", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-41", 
-    "name": "Souk Ahras", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-42", 
-    "name": "Tipaza", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-44", 
-    "name": "A\u00efn Defla", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-02", 
-    "name": "Chlef", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "DZ-04", 
     "name": "Oum el Bouaghi", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-05", 
-    "name": "Batna", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-23", 
-    "name": "Annaba", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-39", 
-    "name": "El Oued", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-01", 
-    "name": "Adrar", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-08", 
-    "name": "B\u00e9char", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-16", 
-    "name": "Alger", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-28", 
-    "name": "M'sila", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-31", 
-    "name": "Oran", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-07", 
-    "name": "Biskra", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-24", 
-    "name": "Guelma", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-33", 
-    "name": "Illizi", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-36", 
-    "name": "El Tarf", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-38", 
-    "name": "Tissemsilt", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-45", 
-    "name": "Naama", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
@@ -288,48 +112,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "DZ-21", 
-    "name": "Skikda", 
+    "alpha3": "DZ-26", 
+    "name": "M\u00e9d\u00e9a", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "DZ-25", 
-    "name": "Constantine", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-32", 
-    "name": "El Bayadh", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-43", 
-    "name": "Mila", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-46", 
-    "name": "A\u00efn T\u00e9mouchent", 
-    "countryAlpha3": "DZA", 
-    "countryAlpha2": "DZ", 
-    "categoryId": "366", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "DZ-48", 
-    "name": "Relizane", 
+    "alpha3": "DZ-27", 
+    "name": "Mostaganem", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
@@ -344,24 +136,64 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "DZ-18", 
-    "name": "Jijel", 
+    "alpha3": "DZ-23", 
+    "name": "Annaba", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "DZ-22", 
-    "name": "Sidi Bel Abb\u00e8s", 
+    "alpha3": "DZ-20", 
+    "name": "Sa\u00efda", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "DZ-30", 
-    "name": "Ouargla", 
+    "alpha3": "DZ-07", 
+    "name": "Biskra", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-13", 
+    "name": "Tlemcen", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-33", 
+    "name": "Illizi", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-06", 
+    "name": "B\u00e9ja\u00efa", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-14", 
+    "name": "Tiaret", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-40", 
+    "name": "Khenchela", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 
@@ -370,6 +202,174 @@
   {
     "alpha3": "DZ-47", 
     "name": "Gharda\u00efa", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-42", 
+    "name": "Tipaza", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-18", 
+    "name": "Jijel", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-08", 
+    "name": "B\u00e9char", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-21", 
+    "name": "Skikda", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-48", 
+    "name": "Relizane", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-36", 
+    "name": "El Tarf", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-16", 
+    "name": "Alger", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-31", 
+    "name": "Oran", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-28", 
+    "name": "M'sila", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-12", 
+    "name": "T\u00e9bessa", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-25", 
+    "name": "Constantine", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-03", 
+    "name": "Laghouat", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-02", 
+    "name": "Chlef", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-11", 
+    "name": "Tamanrasset", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-43", 
+    "name": "Mila", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-05", 
+    "name": "Batna", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-01", 
+    "name": "Adrar", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-09", 
+    "name": "Blida", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-24", 
+    "name": "Guelma", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-44", 
+    "name": "A\u00efn Defla", 
+    "countryAlpha3": "DZA", 
+    "countryAlpha2": "DZ", 
+    "categoryId": "366", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "DZ-19", 
+    "name": "S\u00e9tif", 
     "countryAlpha3": "DZA", 
     "countryAlpha2": "DZ", 
     "categoryId": "366", 

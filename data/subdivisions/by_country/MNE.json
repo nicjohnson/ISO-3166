@@ -1,119 +1,7 @@
 [
   {
-    "alpha3": "ME-01", 
-    "name": "Andrijevica", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-07", 
-    "name": "Danilovgrad", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-10", 
-    "name": "Kotor", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-17", 
-    "name": "Ro\u017eaje", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-06", 
-    "name": "Cetinje", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-09", 
-    "name": "Kola\u0161in", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-14", 
-    "name": "Pljevlja", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-18", 
-    "name": "\u0160avnik", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-21", 
-    "name": "\u017dabljak", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-02", 
-    "name": "Bar", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-04", 
-    "name": "Bijelo Polje", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-08", 
-    "name": "Herceg-Novi", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-11", 
-    "name": "Mojkovac", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-03", 
-    "name": "Berane", 
-    "countryAlpha3": "MNE", 
-    "countryAlpha2": "ME", 
-    "categoryId": "121", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "ME-16", 
-    "name": "Podgorica", 
+    "alpha3": "ME-13", 
+    "name": "Plav", 
     "countryAlpha3": "MNE", 
     "countryAlpha2": "ME", 
     "categoryId": "121", 
@@ -128,16 +16,48 @@
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "ME-22", 
-    "name": "Gusinje", 
+    "alpha3": "ME-21", 
+    "name": "\u017dabljak", 
     "countryAlpha3": "MNE", 
     "countryAlpha2": "ME", 
     "categoryId": "121", 
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "ME-23", 
-    "name": "Petnjica", 
+    "alpha3": "ME-07", 
+    "name": "Danilovgrad", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-18", 
+    "name": "\u0160avnik", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-08", 
+    "name": "Herceg-Novi", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-06", 
+    "name": "Cetinje", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-22", 
+    "name": "Gusinje", 
     "countryAlpha3": "MNE", 
     "countryAlpha2": "ME", 
     "categoryId": "121", 
@@ -152,8 +72,64 @@
     "categoryName": "municipality"
   }, 
   {
+    "alpha3": "ME-02", 
+    "name": "Bar", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-16", 
+    "name": "Podgorica", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-11", 
+    "name": "Mojkovac", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-23", 
+    "name": "Petnjica", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-01", 
+    "name": "Andrijevica", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
     "alpha3": "ME-15", 
     "name": "Plu\u017eine", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-03", 
+    "name": "Berane", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-17", 
+    "name": "Ro\u017eaje", 
     "countryAlpha3": "MNE", 
     "countryAlpha2": "ME", 
     "categoryId": "121", 
@@ -168,8 +144,32 @@
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "ME-13", 
-    "name": "Plav", 
+    "alpha3": "ME-12", 
+    "name": "Nik\u0161i\u0107", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-10", 
+    "name": "Kotor", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-04", 
+    "name": "Bijelo Polje", 
+    "countryAlpha3": "MNE", 
+    "countryAlpha2": "ME", 
+    "categoryId": "121", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "ME-09", 
+    "name": "Kola\u0161in", 
     "countryAlpha3": "MNE", 
     "countryAlpha2": "ME", 
     "categoryId": "121", 

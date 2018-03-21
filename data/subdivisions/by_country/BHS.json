@@ -1,79 +1,15 @@
 [
   {
-    "alpha3": "BS-HT", 
-    "name": "Hope Town", 
+    "alpha3": "BS-MG", 
+    "name": "Mayaguana", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-RI", 
-    "name": "Ragged Island", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-CO", 
-    "name": "Central Abaco", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-EG", 
-    "name": "East Grand Bahama", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-HI", 
-    "name": "Harbour Island", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-MI", 
-    "name": "Moore's Island", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-SS", 
-    "name": "San Salvador", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-SW", 
-    "name": "Spanish Wells", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-AK", 
-    "name": "Acklins", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-LI", 
-    "name": "Long Island", 
+    "alpha3": "BS-SE", 
+    "name": "South Eleuthera", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
@@ -88,24 +24,16 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-FP", 
-    "name": "City of Freeport", 
+    "alpha3": "BS-BP", 
+    "name": "Black Point", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-NS", 
-    "name": "North Andros", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-RC", 
-    "name": "Rum Cay", 
+    "alpha3": "BS-AK", 
+    "name": "Acklins", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
@@ -120,8 +48,80 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-CE", 
-    "name": "Central Eleuthera", 
+    "alpha3": "BS-WG", 
+    "name": "West Grand Bahama", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-GC", 
+    "name": "Grand Cay", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-CK", 
+    "name": "Crooked Island and Long Cay", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-NE", 
+    "name": "North Eleuthera", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-SA", 
+    "name": "South Andros", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-FP", 
+    "name": "City of Freeport", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-RC", 
+    "name": "Rum Cay", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-HI", 
+    "name": "Harbour Island", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-NO", 
+    "name": "North Abaco", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-SW", 
+    "name": "Spanish Wells", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
@@ -130,6 +130,30 @@
   {
     "alpha3": "BS-CI", 
     "name": "Cat Island", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-CE", 
+    "name": "Central Eleuthera", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-MC", 
+    "name": "Mangrove Cay", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-RI", 
+    "name": "Ragged Island", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
@@ -152,6 +176,30 @@
     "categoryName": "district"
   }, 
   {
+    "alpha3": "BS-MI", 
+    "name": "Moore's Island", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-LI", 
+    "name": "Long Island", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BS-HT", 
+    "name": "Hope Town", 
+    "countryAlpha3": "BHS", 
+    "countryAlpha2": "BS", 
+    "categoryId": "100", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "BS-IN", 
     "name": "Inagua", 
     "countryAlpha3": "BHS", 
@@ -160,40 +208,16 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-MC", 
-    "name": "Mangrove Cay", 
+    "alpha3": "BS-EG", 
+    "name": "East Grand Bahama", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-SA", 
-    "name": "South Andros", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-GC", 
-    "name": "Grand Cay", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-MG", 
-    "name": "Mayaguana", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-WG", 
-    "name": "West Grand Bahama", 
+    "alpha3": "BS-NS", 
+    "name": "North Andros", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 
@@ -208,32 +232,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BS-BP", 
-    "name": "Black Point", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-NE", 
-    "name": "North Eleuthera", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-NO", 
-    "name": "North Abaco", 
-    "countryAlpha3": "BHS", 
-    "countryAlpha2": "BS", 
-    "categoryId": "100", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BS-SE", 
-    "name": "South Eleuthera", 
+    "alpha3": "BS-SS", 
+    "name": "San Salvador", 
     "countryAlpha3": "BHS", 
     "countryAlpha2": "BS", 
     "categoryId": "100", 

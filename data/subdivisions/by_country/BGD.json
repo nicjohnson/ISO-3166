@@ -1,79 +1,7 @@
 [
   {
-    "alpha3": "BD-H", 
-    "name": "Mymensingh", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-A", 
+    "alpha3": "BD-06", 
     "name": "Barisal", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-C", 
-    "name": "Dhaka", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-D", 
-    "name": "Khulna", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-E", 
-    "name": "Rajshahi", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-F", 
-    "name": "Rangpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-G", 
-    "name": "Sylhet", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "274", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "BD-10", 
-    "name": "Chittagong", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-11", 
-    "name": "Cox's Bazar", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-56", 
-    "name": "Rangamati", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -88,248 +16,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-31", 
-    "name": "Lakshmipur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-09", 
-    "name": "Chandpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-08", 
-    "name": "Comilla", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-29", 
-    "name": "Khagrachhari", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-01", 
-    "name": "Bandarban", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-04", 
-    "name": "Brahmanbaria", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-47", 
-    "name": "Noakhali", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-34", 
-    "name": "Mymensingh", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-57", 
-    "name": "Sherpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-21", 
-    "name": "Jamalpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-41", 
-    "name": "Netrakona", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-06", 
-    "name": "Barisal", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-07", 
-    "name": "Bhola", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-51", 
-    "name": "Patuakhali", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-02", 
-    "name": "Barguna", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-25", 
-    "name": "Jhalakathi", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-50", 
-    "name": "Pirojpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-26", 
-    "name": "Kishoreganj", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-42", 
-    "name": "Narsingdi", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-13", 
-    "name": "Dhaka", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-15", 
-    "name": "Faridpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-17", 
-    "name": "Gopalganj", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-53", 
-    "name": "Rajbari", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-18", 
-    "name": "Gazipur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-33", 
-    "name": "Manikganj", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-35", 
-    "name": "Munshiganj", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-40", 
-    "name": "Narayanganj", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-36", 
-    "name": "Madaripur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-62", 
-    "name": "Shariatpur", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-63", 
-    "name": "Tangail", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-30", 
-    "name": "Kushtia", 
+    "alpha3": "BD-44", 
+    "name": "Natore", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -352,72 +40,32 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-22", 
-    "name": "Jessore", 
+    "alpha3": "BD-63", 
+    "name": "Tangail", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-58", 
-    "name": "Satkhira", 
+    "alpha3": "BD-20", 
+    "name": "Habiganj", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-37", 
-    "name": "Magura", 
+    "alpha3": "BD-47", 
+    "name": "Noakhali", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-05", 
-    "name": "Bagerhat", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-23", 
-    "name": "Jhenaidah", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-27", 
-    "name": "Khulna", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-43", 
-    "name": "Narail", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-49", 
-    "name": "Pabna", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-54", 
-    "name": "Rajshahi", 
+    "alpha3": "BD-50", 
+    "name": "Pirojpur", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -432,56 +80,16 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-59", 
-    "name": "Sirajganj", 
+    "alpha3": "BD-09", 
+    "name": "Chandpur", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-03", 
-    "name": "Bogra", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-44", 
-    "name": "Natore", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-45", 
-    "name": "Chapai Nawabganj", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-48", 
-    "name": "Naogaon", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-19", 
-    "name": "Gaibandha", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-64", 
-    "name": "Thakurgaon", 
+    "alpha3": "BD-13", 
+    "name": "Dhaka", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -496,8 +104,24 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-52", 
-    "name": "Panchagarh", 
+    "alpha3": "BD-57", 
+    "name": "Sherpur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-04", 
+    "name": "Brahmanbaria", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-36", 
+    "name": "Madaripur", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -512,24 +136,16 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-32", 
-    "name": "Lalmonirhat", 
+    "alpha3": "BD-D", 
+    "name": "Khulna", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
+    "categoryId": "274", 
+    "categoryName": "division"
   }, 
   {
     "alpha3": "BD-46", 
     "name": "Nilphamari", 
-    "countryAlpha3": "BGD", 
-    "countryAlpha2": "BD", 
-    "categoryId": "149", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BD-55", 
-    "name": "Rangpur", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -544,8 +160,40 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-60", 
+    "alpha3": "BD-H", 
+    "name": "Mymensingh", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-11", 
+    "name": "Cox's Bazar", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-54", 
+    "name": "Rajshahi", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-G", 
     "name": "Sylhet", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-05", 
+    "name": "Bagerhat", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 
@@ -560,8 +208,360 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BD-20", 
-    "name": "Habiganj", 
+    "alpha3": "BD-56", 
+    "name": "Rangamati", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-51", 
+    "name": "Patuakhali", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-22", 
+    "name": "Jessore", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-40", 
+    "name": "Narayanganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-43", 
+    "name": "Narail", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-21", 
+    "name": "Jamalpur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-53", 
+    "name": "Rajbari", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-32", 
+    "name": "Lalmonirhat", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-17", 
+    "name": "Gopalganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-A", 
+    "name": "Barisal", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-31", 
+    "name": "Lakshmipur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-03", 
+    "name": "Bogra", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-48", 
+    "name": "Naogaon", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-35", 
+    "name": "Munshiganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-19", 
+    "name": "Gaibandha", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-18", 
+    "name": "Gazipur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-29", 
+    "name": "Khagrachhari", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-30", 
+    "name": "Kushtia", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-08", 
+    "name": "Comilla", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-64", 
+    "name": "Thakurgaon", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-25", 
+    "name": "Jhalakathi", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-26", 
+    "name": "Kishoreganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-59", 
+    "name": "Sirajganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-C", 
+    "name": "Dhaka", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-45", 
+    "name": "Chapai Nawabganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-42", 
+    "name": "Narsingdi", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-23", 
+    "name": "Jhenaidah", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-49", 
+    "name": "Pabna", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-37", 
+    "name": "Magura", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-B", 
+    "name": "Chittagong", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-E", 
+    "name": "Rajshahi", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-62", 
+    "name": "Shariatpur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-27", 
+    "name": "Khulna", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-52", 
+    "name": "Panchagarh", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-02", 
+    "name": "Barguna", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-07", 
+    "name": "Bhola", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-58", 
+    "name": "Satkhira", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-33", 
+    "name": "Manikganj", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-60", 
+    "name": "Sylhet", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-55", 
+    "name": "Rangpur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-15", 
+    "name": "Faridpur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-01", 
+    "name": "Bandarban", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-F", 
+    "name": "Rangpur", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "274", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "BD-34", 
+    "name": "Mymensingh", 
+    "countryAlpha3": "BGD", 
+    "countryAlpha2": "BD", 
+    "categoryId": "149", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "BD-41", 
+    "name": "Netrakona", 
     "countryAlpha3": "BGD", 
     "countryAlpha2": "BD", 
     "categoryId": "149", 

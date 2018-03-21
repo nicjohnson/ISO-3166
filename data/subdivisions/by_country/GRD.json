@@ -8,6 +8,14 @@
     "categoryName": "parish"
   }, 
   {
+    "alpha3": "GD-10", 
+    "name": "Southern Grenadine Islands", 
+    "countryAlpha3": "GRD", 
+    "countryAlpha2": "GD", 
+    "categoryId": "351", 
+    "categoryName": "dependency"
+  }, 
+  {
     "alpha3": "GD-05", 
     "name": "Saint Mark", 
     "countryAlpha3": "GRD", 
@@ -16,8 +24,8 @@
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "GD-01", 
-    "name": "Saint Andrew", 
+    "alpha3": "GD-04", 
+    "name": "Saint John", 
     "countryAlpha3": "GRD", 
     "countryAlpha2": "GD", 
     "categoryId": "242", 
@@ -38,13 +46,5 @@
     "countryAlpha2": "GD", 
     "categoryId": "242", 
     "categoryName": "parish"
-  }, 
-  {
-    "alpha3": "GD-10", 
-    "name": "Southern Grenadine Islands", 
-    "countryAlpha3": "GRD", 
-    "countryAlpha2": "GD", 
-    "categoryId": "351", 
-    "categoryName": "dependency"
   }
 ]

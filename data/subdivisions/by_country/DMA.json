@@ -1,23 +1,15 @@
 [
   {
-    "alpha3": "DM-07", 
-    "name": "Saint Luke", 
+    "alpha3": "DM-05", 
+    "name": "Saint John", 
     "countryAlpha3": "DMA", 
     "countryAlpha2": "DM", 
     "categoryId": "219", 
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "DM-06", 
-    "name": "Saint Joseph", 
-    "countryAlpha3": "DMA", 
-    "countryAlpha2": "DM", 
-    "categoryId": "219", 
-    "categoryName": "parish"
-  }, 
-  {
-    "alpha3": "DM-08", 
-    "name": "Saint Mark", 
+    "alpha3": "DM-02", 
+    "name": "Saint Andrew", 
     "countryAlpha3": "DMA", 
     "countryAlpha2": "DM", 
     "categoryId": "219", 
@@ -32,16 +24,16 @@
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "DM-03", 
-    "name": "Saint David", 
+    "alpha3": "DM-06", 
+    "name": "Saint Joseph", 
     "countryAlpha3": "DMA", 
     "countryAlpha2": "DM", 
     "categoryId": "219", 
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "DM-02", 
-    "name": "Saint Andrew", 
+    "alpha3": "DM-07", 
+    "name": "Saint Luke", 
     "countryAlpha3": "DMA", 
     "countryAlpha2": "DM", 
     "categoryId": "219", 
@@ -66,6 +58,14 @@
   {
     "alpha3": "DM-10", 
     "name": "Saint Paul", 
+    "countryAlpha3": "DMA", 
+    "countryAlpha2": "DM", 
+    "categoryId": "219", 
+    "categoryName": "parish"
+  }, 
+  {
+    "alpha3": "DM-03", 
+    "name": "Saint David", 
     "countryAlpha3": "DMA", 
     "countryAlpha2": "DM", 
     "categoryId": "219", 

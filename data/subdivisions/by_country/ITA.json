@@ -1,543 +1,7 @@
 [
   {
-    "alpha3": "IT-IS", 
-    "name": "Isernia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-AO", 
-    "name": "Aosta", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-AO", 
-    "name": "Aoste", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BS", 
-    "name": "Brescia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SO", 
-    "name": "Sondrio", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-MN", 
-    "name": "Mantova", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BG", 
-    "name": "Bergamo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-VA", 
-    "name": "Varese", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CO", 
-    "name": "Como", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-LO", 
-    "name": "Lodi", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-MI", 
-    "name": "Milano", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PV", 
-    "name": "Pavia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-MB", 
-    "name": "Monza e Brianza", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CR", 
-    "name": "Cremona", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-LC", 
-    "name": "Lecco", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TS", 
-    "name": "Trieste", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-UD", 
-    "name": "Udine", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PN", 
-    "name": "Pordenone", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-GO", 
-    "name": "Gorizia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PD", 
-    "name": "Padova", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-RO", 
-    "name": "Rovigo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BL", 
-    "name": "Belluno", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TV", 
-    "name": "Treviso", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-VR", 
-    "name": "Verona", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-VE", 
-    "name": "Venezia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-VI", 
-    "name": "Vicenza", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SP", 
-    "name": "La Spezia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SV", 
-    "name": "Savona", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-GE", 
-    "name": "Genova", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-IM", 
-    "name": "Imperia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BO", 
-    "name": "Bologna", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-MO", 
-    "name": "Modena", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-RN", 
-    "name": "Rimini", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PR", 
-    "name": "Parma", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-RE", 
-    "name": "Reggio Emilia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-FC", 
-    "name": "Forl\u00ec-Cesena", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-FE", 
-    "name": "Ferrara", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PC", 
-    "name": "Piacenza", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-RA", 
-    "name": "Ravenna", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-MT", 
-    "name": "Matera", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PZ", 
-    "name": "Potenza", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CL", 
-    "name": "Caltanissetta", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-RG", 
-    "name": "Ragusa", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SR", 
-    "name": "Siracusa", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-EN", 
-    "name": "Enna", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-ME", 
-    "name": "Messina", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CT", 
-    "name": "Catania", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-AG", 
-    "name": "Agrigento", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PA", 
-    "name": "Palermo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TP", 
-    "name": "Trapani", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-OT", 
-    "name": "Olbia-Tempio", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-VS", 
-    "name": "Medio Campidano", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SS", 
-    "name": "Sassari", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-NU", 
-    "name": "Nuoro", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CA", 
-    "name": "Cagliari", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CI", 
-    "name": "Carbonia-Iglesias", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-OG", 
-    "name": "Ogliastra", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-OR", 
-    "name": "Oristano", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TR", 
-    "name": "Terni", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PG", 
-    "name": "Perugia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-AV", 
-    "name": "Avellino", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BN", 
-    "name": "Benevento", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SA", 
-    "name": "Salerno", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-CE", 
-    "name": "Caserta", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-NA", 
-    "name": "Napoli", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BZ", 
-    "name": "Bolzano", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BZ", 
-    "name": "Bozen", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TN", 
-    "name": "Trento", 
+    "alpha3": "IT-KR", 
+    "name": "Crotone", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
@@ -560,142 +24,6 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-VT", 
-    "name": "Viterbo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-LT", 
-    "name": "Latina", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-FR", 
-    "name": "Frosinone", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PO", 
-    "name": "Prato", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PT", 
-    "name": "Pistoia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-LU", 
-    "name": "Lucca", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-SI", 
-    "name": "Siena", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-MS", 
-    "name": "Massa-Carrara", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-PI", 
-    "name": "Pisa", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-FI", 
-    "name": "Firenze", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-AR", 
-    "name": "Arezzo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-LI", 
-    "name": "Livorno", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-GR", 
-    "name": "Grosseto", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-LE", 
-    "name": "Lecce", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BA", 
-    "name": "Bari", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BR", 
-    "name": "Brindisi", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TA", 
-    "name": "Taranto", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "IT-BT", 
     "name": "Barletta-Andria-Trani", 
     "countryAlpha3": "ITA", 
@@ -704,8 +32,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-FG", 
-    "name": "Foggia", 
+    "alpha3": "IT-CL", 
+    "name": "Caltanissetta", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
@@ -720,68 +48,28 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-VV", 
-    "name": "Vibo Valentia", 
+    "alpha3": "IT-LO", 
+    "name": "Lodi", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-CS", 
-    "name": "Cosenza", 
+    "alpha3": "IT-BL", 
+    "name": "Belluno", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-CZ", 
-    "name": "Catanzaro", 
+    "alpha3": "IT-25", 
+    "name": "Lombardia", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-KR", 
-    "name": "Crotone", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-BI", 
-    "name": "Biella", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-NO", 
-    "name": "Novara", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-VB", 
-    "name": "Verbano-Cusio-Ossola", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-TO", 
-    "name": "Torino", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
+    "categoryId": "117", 
+    "categoryName": "region"
   }, 
   {
     "alpha3": "IT-AL", 
@@ -792,40 +80,56 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-AT", 
-    "name": "Asti", 
+    "alpha3": "IT-CO", 
+    "name": "Como", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-CN", 
-    "name": "Cuneo", 
+    "alpha3": "IT-NA", 
+    "name": "Napoli", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-VC", 
-    "name": "Vercelli", 
+    "alpha3": "IT-OG", 
+    "name": "Ogliastra", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-AP", 
-    "name": "Ascoli Piceno", 
+    "alpha3": "IT-62", 
+    "name": "Lazio", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-21", 
+    "name": "Piemonte", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-TO", 
+    "name": "Torino", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-AN", 
-    "name": "Ancona", 
+    "alpha3": "IT-LU", 
+    "name": "Lucca", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
@@ -840,24 +144,304 @@
     "categoryName": "province"
   }, 
   {
+    "alpha3": "IT-AV", 
+    "name": "Avellino", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PN", 
+    "name": "Pordenone", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-BI", 
+    "name": "Biella", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-36", 
+    "name": "Friuli-Venezia Giulia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-LI", 
+    "name": "Livorno", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CZ", 
+    "name": "Catanzaro", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-TE", 
+    "name": "Teramo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-55", 
+    "name": "Umbria", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-BN", 
+    "name": "Benevento", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-LE", 
+    "name": "Lecce", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-BZ", 
+    "name": "Bozen", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PV", 
+    "name": "Pavia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-IM", 
+    "name": "Imperia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CE", 
+    "name": "Caserta", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-BS", 
+    "name": "Brescia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-52", 
+    "name": "Toscana", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-FE", 
+    "name": "Ferrara", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-65", 
+    "name": "Abruzzo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-LC", 
+    "name": "Lecco", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-77", 
+    "name": "Basilicata", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-EN", 
+    "name": "Enna", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VB", 
+    "name": "Verbano-Cusio-Ossola", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CS", 
+    "name": "Cosenza", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-75", 
+    "name": "Puglia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-SO", 
+    "name": "Sondrio", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VV", 
+    "name": "Vibo Valentia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CT", 
+    "name": "Catania", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-SR", 
+    "name": "Siracusa", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VI", 
+    "name": "Vicenza", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PT", 
+    "name": "Pistoia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-UD", 
+    "name": "Udine", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-78", 
+    "name": "Calabria", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-PA", 
+    "name": "Palermo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-57", 
+    "name": "Marche", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-NO", 
+    "name": "Novara", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-IS", 
+    "name": "Isernia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-GO", 
+    "name": "Gorizia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "IT-PU", 
     "name": "Pesaro e Urbino", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-FM", 
-    "name": "Fermo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "374", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "IT-AQ", 
-    "name": "L'Aquila", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
@@ -872,8 +456,448 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-TE", 
-    "name": "Teramo", 
+    "alpha3": "IT-BO", 
+    "name": "Bologna", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VR", 
+    "name": "Verona", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-TS", 
+    "name": "Trieste", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-SP", 
+    "name": "La Spezia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-AT", 
+    "name": "Asti", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-TR", 
+    "name": "Terni", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-MS", 
+    "name": "Massa-Carrara", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PR", 
+    "name": "Parma", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-FC", 
+    "name": "Forl\u00ec-Cesena", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-AN", 
+    "name": "Ancona", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-MB", 
+    "name": "Monza e Brianza", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-OT", 
+    "name": "Olbia-Tempio", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-TA", 
+    "name": "Taranto", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-RE", 
+    "name": "Reggio Emilia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PO", 
+    "name": "Prato", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VC", 
+    "name": "Vercelli", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-MT", 
+    "name": "Matera", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-AP", 
+    "name": "Ascoli Piceno", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-BR", 
+    "name": "Brindisi", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-GR", 
+    "name": "Grosseto", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-MN", 
+    "name": "Mantova", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PG", 
+    "name": "Perugia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-LT", 
+    "name": "Latina", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PD", 
+    "name": "Padova", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-GE", 
+    "name": "Genova", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CA", 
+    "name": "Cagliari", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CN", 
+    "name": "Cuneo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-PI", 
+    "name": "Pisa", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-AG", 
+    "name": "Agrigento", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CB", 
+    "name": "Campobasso", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-ME", 
+    "name": "Messina", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CR", 
+    "name": "Cremona", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-RN", 
+    "name": "Rimini", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-FG", 
+    "name": "Foggia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-32", 
+    "name": "Trentino-S\u00fcdtirol", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-NU", 
+    "name": "Nuoro", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-FM", 
+    "name": "Fermo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-OR", 
+    "name": "Oristano", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-RG", 
+    "name": "Ragusa", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-CI", 
+    "name": "Carbonia-Iglesias", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-32", 
+    "name": "Trentino-Alto Adige", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-45", 
+    "name": "Emilia-Romagna", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-SV", 
+    "name": "Savona", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VE", 
+    "name": "Venezia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-BG", 
+    "name": "Bergamo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-RA", 
+    "name": "Ravenna", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-34", 
+    "name": "Veneto", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-AO", 
+    "name": "Aoste", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-RO", 
+    "name": "Rovigo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-AQ", 
+    "name": "L'Aquila", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-82", 
+    "name": "Sicilia", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-TN", 
+    "name": "Trento", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-VT", 
+    "name": "Viterbo", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-23", 
+    "name": "Val d'Aoste", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "117", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IT-TP", 
+    "name": "Trapani", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-SS", 
+    "name": "Sassari", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "374", 
@@ -896,76 +920,28 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IT-23", 
-    "name": "Valle d'Aosta", 
+    "alpha3": "IT-SI", 
+    "name": "Siena", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-23", 
-    "name": "Val d'Aoste", 
+    "alpha3": "IT-VA", 
+    "name": "Varese", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-25", 
-    "name": "Lombardia", 
+    "alpha3": "IT-AR", 
+    "name": "Arezzo", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-36", 
-    "name": "Friuli-Venezia Giulia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-34", 
-    "name": "Veneto", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-42", 
-    "name": "Liguria", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-45", 
-    "name": "Emilia-Romagna", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-77", 
-    "name": "Basilicata", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-82", 
-    "name": "Sicilia", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "IT-88", 
@@ -976,12 +952,28 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IT-55", 
-    "name": "Umbria", 
+    "alpha3": "IT-PC", 
+    "name": "Piacenza", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-BA", 
+    "name": "Bari", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-MI", 
+    "name": "Milano", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "IT-72", 
@@ -992,75 +984,83 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IT-32", 
-    "name": "Trentino-S\u00fcdtirol", 
+    "alpha3": "IT-FI", 
+    "name": "Firenze", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-42", 
+    "name": "Liguria", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "117", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IT-32", 
-    "name": "Trentino-Alto Adige", 
+    "alpha3": "IT-BZ", 
+    "name": "Bolzano", 
+    "countryAlpha3": "ITA", 
+    "countryAlpha2": "IT", 
+    "categoryId": "374", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IT-23", 
+    "name": "Valle d'Aosta", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
     "categoryId": "117", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IT-62", 
-    "name": "Lazio", 
+    "alpha3": "IT-SA", 
+    "name": "Salerno", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-52", 
-    "name": "Toscana", 
+    "alpha3": "IT-TV", 
+    "name": "Treviso", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-75", 
-    "name": "Puglia", 
+    "alpha3": "IT-PZ", 
+    "name": "Potenza", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-78", 
-    "name": "Calabria", 
+    "alpha3": "IT-VS", 
+    "name": "Medio Campidano", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-21", 
-    "name": "Piemonte", 
+    "alpha3": "IT-MO", 
+    "name": "Modena", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "IT-57", 
-    "name": "Marche", 
+    "alpha3": "IT-FR", 
+    "name": "Frosinone", 
     "countryAlpha3": "ITA", 
     "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IT-65", 
-    "name": "Abruzzo", 
-    "countryAlpha3": "ITA", 
-    "countryAlpha2": "IT", 
-    "categoryId": "117", 
-    "categoryName": "region"
+    "categoryId": "374", 
+    "categoryName": "province"
   }
 ]

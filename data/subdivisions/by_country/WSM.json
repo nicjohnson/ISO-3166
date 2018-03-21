@@ -1,5 +1,45 @@
 [
   {
+    "alpha3": "WS-GI", 
+    "name": "Gagaifomauga", 
+    "countryAlpha3": "WSM", 
+    "countryAlpha2": "WS", 
+    "categoryId": "171", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "WS-TU", 
+    "name": "Tuamasaga", 
+    "countryAlpha3": "WSM", 
+    "countryAlpha2": "WS", 
+    "categoryId": "171", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "WS-GE", 
+    "name": "Gaga'emauga", 
+    "countryAlpha3": "WSM", 
+    "countryAlpha2": "WS", 
+    "categoryId": "171", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "WS-SA", 
+    "name": "Satupa'itea", 
+    "countryAlpha3": "WSM", 
+    "countryAlpha2": "WS", 
+    "categoryId": "171", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "WS-AL", 
+    "name": "Aiga-i-le-Tai", 
+    "countryAlpha3": "WSM", 
+    "countryAlpha2": "WS", 
+    "categoryId": "171", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "WS-VS", 
     "name": "Vaisigano", 
     "countryAlpha3": "WSM", 
@@ -8,64 +48,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "WS-SA", 
-    "name": "Satupa'itea", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-SA", 
-    "name": "Satupa'itea", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-AA", 
-    "name": "A'ana", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-AA", 
-    "name": "A'ana", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "WS-FA", 
     "name": "Fa'asaleleaga", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-FA", 
-    "name": "Fa'asaleleaga", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-GE", 
-    "name": "Gaga'emauga", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-GE", 
-    "name": "Gaga'emauga", 
     "countryAlpha3": "WSM", 
     "countryAlpha2": "WS", 
     "categoryId": "171", 
@@ -80,40 +64,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "WS-AT", 
-    "name": "Atua", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-PA", 
-    "name": "Palauli", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-PA", 
-    "name": "Palauli", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-TU", 
-    "name": "Tuamasaga", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-TU", 
-    "name": "Tuamasaga", 
+    "alpha3": "WS-AA", 
+    "name": "A'ana", 
     "countryAlpha3": "WSM", 
     "countryAlpha2": "WS", 
     "categoryId": "171", 
@@ -122,46 +74,6 @@
   {
     "alpha3": "WS-VF", 
     "name": "Va'a-o-Fonoti", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-VF", 
-    "name": "Va'a-o-Fonoti", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-GI", 
-    "name": "Gagaifomauga", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-GI", 
-    "name": "Gagaifomauga", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-AL", 
-    "name": "Aiga-i-le-Tai", 
-    "countryAlpha3": "WSM", 
-    "countryAlpha2": "WS", 
-    "categoryId": "171", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "WS-AL", 
-    "name": "Aiga-i-le-Tai", 
     "countryAlpha3": "WSM", 
     "countryAlpha2": "WS", 
     "categoryId": "171", 

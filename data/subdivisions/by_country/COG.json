@@ -1,39 +1,7 @@
 [
   {
-    "alpha3": "CG-2", 
-    "name": "L\u00e9koumou", 
-    "countryAlpha3": "COG", 
-    "countryAlpha2": "CG", 
-    "categoryId": "279", 
-    "categoryName": "department"
-  }, 
-  {
     "alpha3": "CG-8", 
     "name": "Cuvette", 
-    "countryAlpha3": "COG", 
-    "countryAlpha2": "CG", 
-    "categoryId": "279", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CG-9", 
-    "name": "Niari", 
-    "countryAlpha3": "COG", 
-    "countryAlpha2": "CG", 
-    "categoryId": "279", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CG-15", 
-    "name": "Cuvette-Ouest", 
-    "countryAlpha3": "COG", 
-    "countryAlpha2": "CG", 
-    "categoryId": "279", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CG-5", 
-    "name": "Kouilou", 
     "countryAlpha3": "COG", 
     "countryAlpha2": "CG", 
     "categoryId": "279", 
@@ -48,16 +16,24 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CG-BZV", 
-    "name": "Brazzaville", 
+    "alpha3": "CG-9", 
+    "name": "Niari", 
     "countryAlpha3": "COG", 
     "countryAlpha2": "CG", 
     "categoryId": "279", 
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CG-16", 
-    "name": "Pointe-Noire", 
+    "alpha3": "CG-14", 
+    "name": "Plateaux", 
+    "countryAlpha3": "COG", 
+    "countryAlpha2": "CG", 
+    "categoryId": "279", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CG-5", 
+    "name": "Kouilou", 
     "countryAlpha3": "COG", 
     "countryAlpha2": "CG", 
     "categoryId": "279", 
@@ -72,6 +48,14 @@
     "categoryName": "department"
   }, 
   {
+    "alpha3": "CG-BZV", 
+    "name": "Brazzaville", 
+    "countryAlpha3": "COG", 
+    "countryAlpha2": "CG", 
+    "categoryId": "279", 
+    "categoryName": "department"
+  }, 
+  {
     "alpha3": "CG-13", 
     "name": "Sangha", 
     "countryAlpha3": "COG", 
@@ -80,8 +64,24 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CG-7", 
-    "name": "Likouala", 
+    "alpha3": "CG-16", 
+    "name": "Pointe-Noire", 
+    "countryAlpha3": "COG", 
+    "countryAlpha2": "CG", 
+    "categoryId": "279", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CG-2", 
+    "name": "L\u00e9koumou", 
+    "countryAlpha3": "COG", 
+    "countryAlpha2": "CG", 
+    "categoryId": "279", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CG-15", 
+    "name": "Cuvette-Ouest", 
     "countryAlpha3": "COG", 
     "countryAlpha2": "CG", 
     "categoryId": "279", 

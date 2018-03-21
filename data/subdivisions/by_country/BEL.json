@@ -1,7 +1,15 @@
 [
   {
-    "alpha3": "BE-WNA", 
-    "name": "Namur", 
+    "alpha3": "BE-BRU", 
+    "name": "Brussels Hoofdstedelijk Gewest", 
+    "countryAlpha3": "BEL", 
+    "countryAlpha2": "BE", 
+    "categoryId": "391", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BE-VWV", 
+    "name": "West-Vlaanderen", 
     "countryAlpha3": "BEL", 
     "countryAlpha2": "BE", 
     "categoryId": "390", 
@@ -16,16 +24,40 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BE-WBR", 
-    "name": "Brabant wallon", 
+    "alpha3": "BE-WNA", 
+    "name": "Namur", 
     "countryAlpha3": "BEL", 
     "countryAlpha2": "BE", 
     "categoryId": "390", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BE-WLG", 
-    "name": "Li\u00e8ge", 
+    "alpha3": "BE-BRU", 
+    "name": "Bruxelles-Capitale, R\u00e9gion de", 
+    "countryAlpha3": "BEL", 
+    "countryAlpha2": "BE", 
+    "categoryId": "391", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BE-WAL", 
+    "name": "wallonne, R\u00e9gion", 
+    "countryAlpha3": "BEL", 
+    "countryAlpha2": "BE", 
+    "categoryId": "391", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "BE-VAN", 
+    "name": "Antwerpen", 
+    "countryAlpha3": "BEL", 
+    "countryAlpha2": "BE", 
+    "categoryId": "390", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "BE-WBR", 
+    "name": "Brabant wallon", 
     "countryAlpha3": "BEL", 
     "countryAlpha2": "BE", 
     "categoryId": "390", 
@@ -40,24 +72,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BE-VWV", 
-    "name": "West-Vlaanderen", 
+    "alpha3": "BE-VLG", 
+    "name": "Vlaams Gewest", 
     "countryAlpha3": "BEL", 
     "countryAlpha2": "BE", 
-    "categoryId": "390", 
-    "categoryName": "province"
+    "categoryId": "391", 
+    "categoryName": "region"
   }, 
   {
-    "alpha3": "BE-VAN", 
-    "name": "Antwerpen", 
-    "countryAlpha3": "BEL", 
-    "countryAlpha2": "BE", 
-    "categoryId": "390", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "BE-VLI", 
-    "name": "Limburg", 
+    "alpha3": "BE-WLX", 
+    "name": "Luxembourg", 
     "countryAlpha3": "BEL", 
     "countryAlpha2": "BE", 
     "categoryId": "390", 
@@ -72,35 +96,11 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "BE-WAL", 
-    "name": "wallonne, R\u00e9gion", 
+    "alpha3": "BE-VLI", 
+    "name": "Limburg", 
     "countryAlpha3": "BEL", 
     "countryAlpha2": "BE", 
-    "categoryId": "391", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "BE-BRU", 
-    "name": "Brussels Hoofdstedelijk Gewest", 
-    "countryAlpha3": "BEL", 
-    "countryAlpha2": "BE", 
-    "categoryId": "391", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "BE-BRU", 
-    "name": "Bruxelles-Capitale, R\u00e9gion de", 
-    "countryAlpha3": "BEL", 
-    "countryAlpha2": "BE", 
-    "categoryId": "391", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "BE-VLG", 
-    "name": "Vlaams Gewest", 
-    "countryAlpha3": "BEL", 
-    "countryAlpha2": "BE", 
-    "categoryId": "391", 
-    "categoryName": "region"
+    "categoryId": "390", 
+    "categoryName": "province"
   }
 ]

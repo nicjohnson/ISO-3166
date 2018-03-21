@@ -1,23 +1,31 @@
 [
   {
+    "alpha3": "GE-KK", 
+    "name": "Kvemo Kartli", 
+    "countryAlpha3": "GEO", 
+    "countryAlpha2": "GE", 
+    "categoryId": "201", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GE-AJ", 
+    "name": "Ajaria", 
+    "countryAlpha3": "GEO", 
+    "countryAlpha2": "GE", 
+    "categoryId": "299", 
+    "categoryName": "autonomous republic"
+  }, 
+  {
+    "alpha3": "GE-GU", 
+    "name": "Guria", 
+    "countryAlpha3": "GEO", 
+    "countryAlpha2": "GE", 
+    "categoryId": "201", 
+    "categoryName": "region"
+  }, 
+  {
     "alpha3": "GE-SZ", 
     "name": "Samegrelo-Zemo Svaneti", 
-    "countryAlpha3": "GEO", 
-    "countryAlpha2": "GE", 
-    "categoryId": "201", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GE-SK", 
-    "name": "Shida Kartli", 
-    "countryAlpha3": "GEO", 
-    "countryAlpha2": "GE", 
-    "categoryId": "201", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GE-IM", 
-    "name": "Imereti", 
     "countryAlpha3": "GEO", 
     "countryAlpha2": "GE", 
     "categoryId": "201", 
@@ -32,16 +40,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "GE-GU", 
-    "name": "Guria", 
+    "alpha3": "GE-TB", 
+    "name": "Tbilisi", 
     "countryAlpha3": "GEO", 
     "countryAlpha2": "GE", 
-    "categoryId": "201", 
-    "categoryName": "region"
+    "categoryId": "314", 
+    "categoryName": "city"
   }, 
   {
-    "alpha3": "GE-RL", 
-    "name": "Rach'a-Lechkhumi-Kvemo Svaneti", 
+    "alpha3": "GE-SK", 
+    "name": "Shida Kartli", 
     "countryAlpha3": "GEO", 
     "countryAlpha2": "GE", 
     "categoryId": "201", 
@@ -56,35 +64,27 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "GE-KK", 
-    "name": "Kvemo Kartli", 
+    "alpha3": "GE-MM", 
+    "name": "Mtskheta-Mtianeti", 
     "countryAlpha3": "GEO", 
     "countryAlpha2": "GE", 
     "categoryId": "201", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "GE-AB", 
-    "name": "Abkhazia", 
+    "alpha3": "GE-RL", 
+    "name": "Rach'a-Lechkhumi-Kvemo Svaneti", 
     "countryAlpha3": "GEO", 
     "countryAlpha2": "GE", 
-    "categoryId": "299", 
-    "categoryName": "autonomous republic"
+    "categoryId": "201", 
+    "categoryName": "region"
   }, 
   {
-    "alpha3": "GE-AJ", 
-    "name": "Ajaria", 
+    "alpha3": "GE-IM", 
+    "name": "Imereti", 
     "countryAlpha3": "GEO", 
     "countryAlpha2": "GE", 
-    "categoryId": "299", 
-    "categoryName": "autonomous republic"
-  }, 
-  {
-    "alpha3": "GE-TB", 
-    "name": "Tbilisi", 
-    "countryAlpha3": "GEO", 
-    "countryAlpha2": "GE", 
-    "categoryId": "314", 
-    "categoryName": "city"
+    "categoryId": "201", 
+    "categoryName": "region"
   }
 ]

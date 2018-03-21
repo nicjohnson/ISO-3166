@@ -1,5 +1,29 @@
 [
   {
+    "alpha3": "ZW-MS", 
+    "name": "Matabeleland South", 
+    "countryAlpha3": "ZWE", 
+    "countryAlpha2": "ZW", 
+    "categoryId": "169", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZW-MW", 
+    "name": "Mashonaland West", 
+    "countryAlpha3": "ZWE", 
+    "countryAlpha2": "ZW", 
+    "categoryId": "169", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZW-MI", 
+    "name": "Midlands", 
+    "countryAlpha3": "ZWE", 
+    "countryAlpha2": "ZW", 
+    "categoryId": "169", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "ZW-MC", 
     "name": "Mashonaland Central", 
     "countryAlpha3": "ZWE", 
@@ -8,8 +32,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ZW-MS", 
-    "name": "Matabeleland South", 
+    "alpha3": "ZW-MA", 
+    "name": "Manicaland", 
+    "countryAlpha3": "ZWE", 
+    "countryAlpha2": "ZW", 
+    "categoryId": "169", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "ZW-MV", 
+    "name": "Masvingo", 
     "countryAlpha3": "ZWE", 
     "countryAlpha2": "ZW", 
     "categoryId": "169", 
@@ -32,40 +64,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "ZW-MI", 
-    "name": "Midlands", 
-    "countryAlpha3": "ZWE", 
-    "countryAlpha2": "ZW", 
-    "categoryId": "169", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZW-MW", 
-    "name": "Mashonaland West", 
-    "countryAlpha3": "ZWE", 
-    "countryAlpha2": "ZW", 
-    "categoryId": "169", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "ZW-ME", 
     "name": "Mashonaland East", 
-    "countryAlpha3": "ZWE", 
-    "countryAlpha2": "ZW", 
-    "categoryId": "169", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZW-MN", 
-    "name": "Matabeleland North", 
-    "countryAlpha3": "ZWE", 
-    "countryAlpha2": "ZW", 
-    "categoryId": "169", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "ZW-MV", 
-    "name": "Masvingo", 
     "countryAlpha3": "ZWE", 
     "countryAlpha2": "ZW", 
     "categoryId": "169", 

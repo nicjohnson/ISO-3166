@@ -1,7 +1,7 @@
 [
   {
-    "alpha3": "AD-06", 
-    "name": "Sant Juli\u00e0 de L\u00f2ria", 
+    "alpha3": "AD-07", 
+    "name": "Andorra la Vella", 
     "countryAlpha3": "AND", 
     "countryAlpha2": "AD", 
     "categoryId": "262", 
@@ -24,16 +24,16 @@
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "AD-07", 
-    "name": "Andorra la Vella", 
+    "alpha3": "AD-02", 
+    "name": "Canillo", 
     "countryAlpha3": "AND", 
     "countryAlpha2": "AD", 
     "categoryId": "262", 
     "categoryName": "parish"
   }, 
   {
-    "alpha3": "AD-04", 
-    "name": "La Massana", 
+    "alpha3": "AD-06", 
+    "name": "Sant Juli\u00e0 de L\u00f2ria", 
     "countryAlpha3": "AND", 
     "countryAlpha2": "AD", 
     "categoryId": "262", 

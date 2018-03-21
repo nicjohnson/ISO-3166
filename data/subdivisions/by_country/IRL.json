@@ -1,223 +1,15 @@
 [
   {
-    "alpha3": "IE-KE", 
-    "name": "Cill Dara", 
+    "alpha3": "IE-M", 
+    "name": "An Mhumhain", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LD", 
-    "name": "An Longfort", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LD", 
-    "name": "Longford", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-CW", 
-    "name": "Carlow", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-CW", 
-    "name": "Ceatharlach", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-KK", 
-    "name": "Cill Chainnigh", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-KK", 
-    "name": "Kilkenny", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LS", 
-    "name": "Laois", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LS", 
-    "name": "Laois", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-MH", 
-    "name": "An Mh\u00ed", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-MH", 
-    "name": "Meath", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WW", 
-    "name": "Cill Mhant\u00e1in", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WW", 
-    "name": "Wicklow", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WX", 
-    "name": "Wexford", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WX", 
-    "name": "Loch Garman", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LH", 
-    "name": "L\u00fa", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LH", 
-    "name": "Louth", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
+    "categoryId": "417", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "IE-WH", 
     "name": "An Iarmh\u00ed", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WH", 
-    "name": "Westmeath", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-OY", 
-    "name": "U\u00edbh Fhail\u00ed", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-OY", 
-    "name": "Offaly", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-D", 
-    "name": "Baile \u00c1tha Cliath", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-D", 
-    "name": "Dublin", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-CN", 
-    "name": "Cavan", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-CN", 
-    "name": "An Cabh\u00e1n", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-DL", 
-    "name": "Donegal", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-DL", 
-    "name": "D\u00fan na nGall", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-MN", 
-    "name": "Monaghan", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
     "categoryId": "246", 
@@ -232,96 +24,8 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "IE-G", 
-    "name": "Galway", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-G", 
-    "name": "Gaillimh", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-RN", 
-    "name": "Roscommon", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-RN", 
-    "name": "Ros Com\u00e1in", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-SO", 
-    "name": "Sligeach", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-SO", 
-    "name": "Sligo", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LM", 
-    "name": "Liatroim", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LM", 
-    "name": "Leitrim", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-MO", 
-    "name": "Mayo", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-MO", 
-    "name": "Maigh Eo", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-CE", 
-    "name": "An Cl\u00e1r", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-CE", 
-    "name": "Clare", 
+    "alpha3": "IE-OY", 
+    "name": "Offaly", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
     "categoryId": "246", 
@@ -336,56 +40,8 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "IE-CO", 
-    "name": "Cork", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-TA", 
-    "name": "Tiobraid \u00c1rann", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-TA", 
-    "name": "Tipperary", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WD", 
-    "name": "Port L\u00e1irge", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-WD", 
-    "name": "Waterford", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LK", 
-    "name": "Limerick", 
-    "countryAlpha3": "IRL", 
-    "countryAlpha2": "IE", 
-    "categoryId": "246", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "IE-LK", 
-    "name": "Luimneach", 
+    "alpha3": "IE-WW", 
+    "name": "Cill Mhant\u00e1in", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
     "categoryId": "246", 
@@ -400,8 +56,32 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "IE-KY", 
-    "name": "Kerry", 
+    "alpha3": "IE-WH", 
+    "name": "Westmeath", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-C", 
+    "name": "Connaught", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "417", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IE-G", 
+    "name": "Gaillimh", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-CE", 
+    "name": "Clare", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
     "categoryId": "246", 
@@ -416,12 +96,76 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IE-L", 
-    "name": "Laighin", 
+    "alpha3": "IE-CE", 
+    "name": "An Cl\u00e1r", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
-    "categoryId": "417", 
-    "categoryName": "province"
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-TA", 
+    "name": "Tipperary", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-MH", 
+    "name": "Meath", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-D", 
+    "name": "Baile \u00c1tha Cliath", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-CW", 
+    "name": "Ceatharlach", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LH", 
+    "name": "L\u00fa", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-KE", 
+    "name": "Cill Dara", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-DL", 
+    "name": "Donegal", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-KE", 
+    "name": "Kildare", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
   }, 
   {
     "alpha3": "IE-U", 
@@ -432,20 +176,100 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IE-U", 
-    "name": "Ulster", 
+    "alpha3": "IE-CW", 
+    "name": "Carlow", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
-    "categoryId": "417", 
-    "categoryName": "province"
+    "categoryId": "246", 
+    "categoryName": "county"
   }, 
   {
-    "alpha3": "IE-C", 
-    "name": "Connaught", 
+    "alpha3": "IE-LK", 
+    "name": "Luimneach", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
-    "categoryId": "417", 
-    "categoryName": "province"
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LH", 
+    "name": "Louth", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-MH", 
+    "name": "An Mh\u00ed", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-KK", 
+    "name": "Cill Chainnigh", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LM", 
+    "name": "Leitrim", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-D", 
+    "name": "Dublin", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-MN", 
+    "name": "Monaghan", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-SO", 
+    "name": "Sligo", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-WD", 
+    "name": "Waterford", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-G", 
+    "name": "Galway", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-CN", 
+    "name": "Cavan", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
   }, 
   {
     "alpha3": "IE-C", 
@@ -456,12 +280,84 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "IE-M", 
-    "name": "An Mhumhain", 
+    "alpha3": "IE-MO", 
+    "name": "Maigh Eo", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-WX", 
+    "name": "Loch Garman", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-SO", 
+    "name": "Sligeach", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LD", 
+    "name": "An Longfort", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-MO", 
+    "name": "Mayo", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-U", 
+    "name": "Ulster", 
     "countryAlpha3": "IRL", 
     "countryAlpha2": "IE", 
     "categoryId": "417", 
     "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IE-LS", 
+    "name": "Laois", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-L", 
+    "name": "Laighin", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "417", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IE-WX", 
+    "name": "Wexford", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LD", 
+    "name": "Longford", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
   }, 
   {
     "alpha3": "IE-M", 
@@ -470,5 +366,101 @@
     "countryAlpha2": "IE", 
     "categoryId": "417", 
     "categoryName": "province"
+  }, 
+  {
+    "alpha3": "IE-DL", 
+    "name": "D\u00fan na nGall", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LK", 
+    "name": "Limerick", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-OY", 
+    "name": "U\u00edbh Fhail\u00ed", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-RN", 
+    "name": "Roscommon", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-CO", 
+    "name": "Cork", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-WW", 
+    "name": "Wicklow", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-CN", 
+    "name": "An Cabh\u00e1n", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-TA", 
+    "name": "Tiobraid \u00c1rann", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-LM", 
+    "name": "Liatroim", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-WD", 
+    "name": "Port L\u00e1irge", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-KY", 
+    "name": "Kerry", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "IE-KK", 
+    "name": "Kilkenny", 
+    "countryAlpha3": "IRL", 
+    "countryAlpha2": "IE", 
+    "categoryId": "246", 
+    "categoryName": "county"
   }
 ]

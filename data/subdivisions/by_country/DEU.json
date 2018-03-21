@@ -1,55 +1,7 @@
 [
   {
-    "alpha3": "DE-SN", 
-    "name": "Sachsen", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-BW", 
-    "name": "Baden-W\u00fcrttemberg", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-MV", 
-    "name": "Mecklenburg-Vorpommern", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-NW", 
-    "name": "Nordrhein-Westfalen", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-SL", 
-    "name": "Saarland", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-TH", 
-    "name": "Th\u00fcringen", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-ST", 
-    "name": "Sachsen-Anhalt", 
+    "alpha3": "DE-HB", 
+    "name": "Bremen", 
     "countryAlpha3": "DEU", 
     "countryAlpha2": "DE", 
     "categoryId": "198", 
@@ -64,22 +16,6 @@
     "categoryName": "L\u00e4nder"
   }, 
   {
-    "alpha3": "DE-BB", 
-    "name": "Brandenburg", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
-    "alpha3": "DE-BE", 
-    "name": "Berlin", 
-    "countryAlpha3": "DEU", 
-    "countryAlpha2": "DE", 
-    "categoryId": "198", 
-    "categoryName": "L\u00e4nder"
-  }, 
-  {
     "alpha3": "DE-BY", 
     "name": "Bayern", 
     "countryAlpha3": "DEU", 
@@ -88,8 +24,24 @@
     "categoryName": "L\u00e4nder"
   }, 
   {
-    "alpha3": "DE-HB", 
-    "name": "Bremen", 
+    "alpha3": "DE-BB", 
+    "name": "Brandenburg", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-SN", 
+    "name": "Sachsen", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-TH", 
+    "name": "Th\u00fcringen", 
     "countryAlpha3": "DEU", 
     "countryAlpha2": "DE", 
     "categoryId": "198", 
@@ -104,6 +56,46 @@
     "categoryName": "L\u00e4nder"
   }, 
   {
+    "alpha3": "DE-SH", 
+    "name": "Schleswig-Holstein", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-BW", 
+    "name": "Baden-W\u00fcrttemberg", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-ST", 
+    "name": "Sachsen-Anhalt", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-NW", 
+    "name": "Nordrhein-Westfalen", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-RP", 
+    "name": "Rheinland-Pfalz", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
     "alpha3": "DE-NI", 
     "name": "Niedersachsen", 
     "countryAlpha3": "DEU", 
@@ -112,8 +104,16 @@
     "categoryName": "L\u00e4nder"
   }, 
   {
-    "alpha3": "DE-SH", 
-    "name": "Schleswig-Holstein", 
+    "alpha3": "DE-BE", 
+    "name": "Berlin", 
+    "countryAlpha3": "DEU", 
+    "countryAlpha2": "DE", 
+    "categoryId": "198", 
+    "categoryName": "L\u00e4nder"
+  }, 
+  {
+    "alpha3": "DE-MV", 
+    "name": "Mecklenburg-Vorpommern", 
     "countryAlpha3": "DEU", 
     "countryAlpha2": "DE", 
     "categoryId": "198", 

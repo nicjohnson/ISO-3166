@@ -1,23 +1,63 @@
 [
   {
-    "alpha3": "GQ-C", 
-    "name": "Regi\u00e3o Continental", 
+    "alpha3": "GQ-LI", 
+    "name": "Littoral", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-I", 
+    "name": "Regi\u00e3o Insular", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
     "categoryId": "300", 
     "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-BS", 
+    "name": "Bioko Sul", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-LI", 
+    "name": "Litoral", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BN", 
+    "name": "Bioko Norte", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-AN", 
+    "name": "Annob\u00f3n", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-BN", 
+    "name": "Bioko Nord", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "GQ-C", 
     "name": "R\u00e9gion Continentale", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "300", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GQ-I", 
-    "name": "R\u00e9gion Insulaire", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
     "categoryId": "300", 
@@ -32,12 +72,28 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "GQ-I", 
-    "name": "Regi\u00e3o Insular", 
+    "alpha3": "GQ-C", 
+    "name": "Regi\u00f3n Continental", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
     "categoryId": "300", 
     "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-CS", 
+    "name": "Centro Sur", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GQ-KN", 
+    "name": "Ki\u00e9-Ntem", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "244", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "GQ-CS", 
@@ -56,92 +112,36 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GQ-CS", 
-    "name": "Centro Sur", 
+    "alpha3": "GQ-BS", 
+    "name": "Bioko Sud", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
     "categoryId": "244", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GQ-LI", 
-    "name": "Littoral", 
+    "alpha3": "GQ-I", 
+    "name": "R\u00e9gion Insulaire", 
+    "countryAlpha3": "GNQ", 
+    "countryAlpha2": "GQ", 
+    "categoryId": "300", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GQ-BS", 
+    "name": "Bioko Sur", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
     "categoryId": "244", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GQ-LI", 
-    "name": "Litoral", 
+    "alpha3": "GQ-C", 
+    "name": "Regi\u00e3o Continental", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-LI", 
-    "name": "Litoral", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-WN", 
-    "name": "Wele-Nzas", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-WN", 
-    "name": "Wele-Nzas", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-WN", 
-    "name": "Wele-Nzas", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-KN", 
-    "name": "Ki\u00e9-Ntem", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-KN", 
-    "name": "Ki\u00e9-Ntem", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-KN", 
-    "name": "Ki\u00e9-Ntem", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-AN", 
-    "name": "Annob\u00f3n", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
+    "categoryId": "300", 
+    "categoryName": "region"
   }, 
   {
     "alpha3": "GQ-AN", 
@@ -152,56 +152,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GQ-AN", 
-    "name": "Ano Bom", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-BN", 
-    "name": "Bioko Norte", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-BN", 
-    "name": "Bioko Nord", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-BN", 
-    "name": "Bioko Norte", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-BS", 
-    "name": "Bioko Sud", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-BS", 
-    "name": "Bioko Sul", 
-    "countryAlpha3": "GNQ", 
-    "countryAlpha2": "GQ", 
-    "categoryId": "244", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GQ-BS", 
-    "name": "Bioko Sur", 
+    "alpha3": "GQ-WN", 
+    "name": "Wele-Nzas", 
     "countryAlpha3": "GNQ", 
     "countryAlpha2": "GQ", 
     "categoryId": "244", 

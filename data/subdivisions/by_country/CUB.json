@@ -1,23 +1,31 @@
 [
   {
-    "alpha3": "CU-06", 
-    "name": "Cienfuegos", 
+    "alpha3": "CU-99", 
+    "name": "Isla de la Juventud", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "441", 
+    "categoryName": "special municipality"
+  }, 
+  {
+    "alpha3": "CU-13", 
+    "name": "Santiago de Cuba", 
     "countryAlpha3": "CUB", 
     "countryAlpha2": "CU", 
     "categoryId": "365", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CU-03", 
-    "name": "La Habana", 
+    "alpha3": "CU-16", 
+    "name": "Mayabeque", 
     "countryAlpha3": "CUB", 
     "countryAlpha2": "CU", 
     "categoryId": "365", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CU-07", 
-    "name": "Sancti Sp\u00edritus", 
+    "alpha3": "CU-09", 
+    "name": "Camag\u00fcey", 
     "countryAlpha3": "CUB", 
     "countryAlpha2": "CU", 
     "categoryId": "365", 
@@ -32,8 +40,48 @@
     "categoryName": "province"
   }, 
   {
+    "alpha3": "CU-01", 
+    "name": "Pinar del R\u00edo", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-04", 
+    "name": "Matanzas", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-07", 
+    "name": "Sancti Sp\u00edritus", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-10", 
+    "name": "Las Tunas", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "CU-05", 
     "name": "Villa Clara", 
+    "countryAlpha3": "CUB", 
+    "countryAlpha2": "CU", 
+    "categoryId": "365", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CU-15", 
+    "name": "Artemisa", 
     "countryAlpha3": "CUB", 
     "countryAlpha2": "CU", 
     "categoryId": "365", 
@@ -56,48 +104,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CU-09", 
-    "name": "Camag\u00fcey", 
-    "countryAlpha3": "CUB", 
-    "countryAlpha2": "CU", 
-    "categoryId": "365", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CU-10", 
-    "name": "Las Tunas", 
-    "countryAlpha3": "CUB", 
-    "countryAlpha2": "CU", 
-    "categoryId": "365", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CU-13", 
-    "name": "Santiago de Cuba", 
-    "countryAlpha3": "CUB", 
-    "countryAlpha2": "CU", 
-    "categoryId": "365", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CU-15", 
-    "name": "Artemisa", 
-    "countryAlpha3": "CUB", 
-    "countryAlpha2": "CU", 
-    "categoryId": "365", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CU-16", 
-    "name": "Mayabeque", 
-    "countryAlpha3": "CUB", 
-    "countryAlpha2": "CU", 
-    "categoryId": "365", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CU-01", 
-    "name": "Pinar del R\u00edo", 
+    "alpha3": "CU-06", 
+    "name": "Cienfuegos", 
     "countryAlpha3": "CUB", 
     "countryAlpha2": "CU", 
     "categoryId": "365", 
@@ -110,13 +118,5 @@
     "countryAlpha2": "CU", 
     "categoryId": "365", 
     "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CU-99", 
-    "name": "Isla de la Juventud", 
-    "countryAlpha3": "CUB", 
-    "countryAlpha2": "CU", 
-    "categoryId": "441", 
-    "categoryName": "special municipality"
   }
 ]

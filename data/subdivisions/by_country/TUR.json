@@ -1,7 +1,575 @@
 [
   {
+    "alpha3": "TR-74", 
+    "name": "Bart\u0131n", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-76", 
+    "name": "I\u011fd\u0131r", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-42", 
+    "name": "Konya", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-08", 
+    "name": "Artvin", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-75", 
+    "name": "Ardahan", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-66", 
+    "name": "Yozgat", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-77", 
+    "name": "Yalova", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-68", 
+    "name": "Aksaray", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-70", 
+    "name": "Karaman", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-48", 
+    "name": "Mu\u011fla", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-36", 
+    "name": "Kars", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-37", 
+    "name": "Kastamonu", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-52", 
+    "name": "Ordu", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-28", 
+    "name": "Giresun", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-15", 
+    "name": "Burdur", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-25", 
+    "name": "Erzurum", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-78", 
+    "name": "Karab\u00fck", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-20", 
+    "name": "Denizli", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-23", 
+    "name": "Elaz\u0131\u011f", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-05", 
+    "name": "Amasya", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-01", 
+    "name": "Adana", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "TR-06", 
     "name": "Ankara", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-54", 
+    "name": "Sakarya", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-40", 
+    "name": "K\u0131r\u015fehir", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-81", 
+    "name": "D\u00fczce", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-10", 
+    "name": "Bal\u0131kesir", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-67", 
+    "name": "Zonguldak", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-43", 
+    "name": "K\u00fctahya", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-16", 
+    "name": "Bursa", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-17", 
+    "name": "\u00c7anakkale", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-29", 
+    "name": "G\u00fcm\u00fc\u015fhane", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-38", 
+    "name": "Kayseri", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-69", 
+    "name": "Bayburt", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-73", 
+    "name": "\u015e\u0131rnak", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-64", 
+    "name": "U\u015fak", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-31", 
+    "name": "Hatay", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-55", 
+    "name": "Samsun", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-60", 
+    "name": "Tokat", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-62", 
+    "name": "Tunceli", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-13", 
+    "name": "Bitlis", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-56", 
+    "name": "Siirt", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-12", 
+    "name": "Bing\u00f6l", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-24", 
+    "name": "Erzincan", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-72", 
+    "name": "Batman", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-47", 
+    "name": "Mardin", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-35", 
+    "name": "\u0130zmir", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-02", 
+    "name": "Ad\u0131yaman", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-19", 
+    "name": "\u00c7orum", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-39", 
+    "name": "K\u0131rklareli", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-14", 
+    "name": "Bolu", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-27", 
+    "name": "Gaziantep", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-11", 
+    "name": "Bilecik", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-80", 
+    "name": "Osmaniye", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-44", 
+    "name": "Malatya", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-03", 
+    "name": "Afyonkarahisar", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-49", 
+    "name": "Mu\u015f", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-58", 
+    "name": "Sivas", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-53", 
+    "name": "Rize", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-79", 
+    "name": "Kilis", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-34", 
+    "name": "\u0130stanbul", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-18", 
+    "name": "\u00c7ank\u0131r\u0131", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-22", 
+    "name": "Edirne", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-41", 
+    "name": "Kocaeli", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-04", 
+    "name": "A\u011fr\u0131", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-59", 
+    "name": "Tekirda\u011f", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-63", 
+    "name": "\u015eanl\u0131urfa", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-45", 
+    "name": "Manisa", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-30", 
+    "name": "Hakk\u00e2ri", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-32", 
+    "name": "Isparta", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-26", 
+    "name": "Eski\u015fehir", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-65", 
+    "name": "Van", 
+    "countryAlpha3": "TUR", 
+    "countryAlpha2": "TR", 
+    "categoryId": "426", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "TR-50", 
+    "name": "Nev\u015fehir", 
     "countryAlpha3": "TUR", 
     "countryAlpha2": "TR", 
     "categoryId": "426", 
@@ -24,160 +592,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "TR-12", 
-    "name": "Bing\u00f6l", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-23", 
-    "name": "Elaz\u0131\u011f", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-26", 
-    "name": "Eski\u015fehir", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-36", 
-    "name": "Kars", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-42", 
-    "name": "Konya", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-48", 
-    "name": "Mu\u011fla", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-51", 
-    "name": "Ni\u011fde", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-59", 
-    "name": "Tekirda\u011f", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-79", 
-    "name": "Kilis", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-14", 
-    "name": "Bolu", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-38", 
-    "name": "Kayseri", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-41", 
-    "name": "Kocaeli", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-44", 
-    "name": "Malatya", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-58", 
-    "name": "Sivas", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-68", 
-    "name": "Aksaray", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "TR-71", 
     "name": "K\u0131r\u0131kkale", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-73", 
-    "name": "\u015e\u0131rnak", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-34", 
-    "name": "\u0130stanbul", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-47", 
-    "name": "Mardin", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-49", 
-    "name": "Mu\u015f", 
     "countryAlpha3": "TUR", 
     "countryAlpha2": "TR", 
     "categoryId": "426", 
@@ -192,206 +608,6 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "TR-66", 
-    "name": "Yozgat", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-69", 
-    "name": "Bayburt", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-75", 
-    "name": "Ardahan", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-77", 
-    "name": "Yalova", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-78", 
-    "name": "Karab\u00fck", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-03", 
-    "name": "Afyonkarahisar", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-08", 
-    "name": "Artvin", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-15", 
-    "name": "Burdur", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-22", 
-    "name": "Edirne", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-25", 
-    "name": "Erzurum", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-27", 
-    "name": "Gaziantep", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-29", 
-    "name": "G\u00fcm\u00fc\u015fhane", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-40", 
-    "name": "K\u0131r\u015fehir", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-45", 
-    "name": "Manisa", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-56", 
-    "name": "Siirt", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-67", 
-    "name": "Zonguldak", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-70", 
-    "name": "Karaman", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-02", 
-    "name": "Ad\u0131yaman", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-05", 
-    "name": "Amasya", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-11", 
-    "name": "Bilecik", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-13", 
-    "name": "Bitlis", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-17", 
-    "name": "\u00c7anakkale", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-43", 
-    "name": "K\u00fctahya", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-52", 
-    "name": "Ordu", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-60", 
-    "name": "Tokat", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "TR-61", 
     "name": "Trabzon", 
     "countryAlpha3": "TUR", 
@@ -400,144 +616,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "TR-62", 
-    "name": "Tunceli", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-80", 
-    "name": "Osmaniye", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-10", 
-    "name": "Bal\u0131kesir", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-18", 
-    "name": "\u00c7ank\u0131r\u0131", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-30", 
-    "name": "Hakk\u00e2ri", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-31", 
-    "name": "Hatay", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-32", 
-    "name": "Isparta", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-35", 
-    "name": "\u0130zmir", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-37", 
-    "name": "Kastamonu", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-74", 
-    "name": "Bart\u0131n", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-01", 
-    "name": "Adana", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-16", 
-    "name": "Bursa", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-19", 
-    "name": "\u00c7orum", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-20", 
-    "name": "Denizli", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-21", 
-    "name": "Diyarbak\u0131r", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-24", 
-    "name": "Erzincan", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-28", 
-    "name": "Giresun", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-33", 
-    "name": "Mersin", 
+    "alpha3": "TR-51", 
+    "name": "Ni\u011fde", 
     "countryAlpha3": "TUR", 
     "countryAlpha2": "TR", 
     "categoryId": "426", 
@@ -552,88 +632,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "TR-54", 
-    "name": "Sakarya", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-65", 
-    "name": "Van", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-72", 
-    "name": "Batman", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-39", 
-    "name": "K\u0131rklareli", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-50", 
-    "name": "Nev\u015fehir", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-53", 
-    "name": "Rize", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-55", 
-    "name": "Samsun", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-63", 
-    "name": "\u015eanl\u0131urfa", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-64", 
-    "name": "U\u015fak", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-76", 
-    "name": "I\u011fd\u0131r", 
-    "countryAlpha3": "TUR", 
-    "countryAlpha2": "TR", 
-    "categoryId": "426", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "TR-81", 
-    "name": "D\u00fczce", 
+    "alpha3": "TR-33", 
+    "name": "Mersin", 
     "countryAlpha3": "TUR", 
     "countryAlpha2": "TR", 
     "categoryId": "426", 

@@ -1,13 +1,5 @@
 [
   {
-    "alpha3": "PA-KY", 
-    "name": "Kuna Yala", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "232", 
-    "categoryName": "indigenous region"
-  }, 
-  {
     "alpha3": "PA-EM", 
     "name": "Ember\u00e1", 
     "countryAlpha3": "PAN", 
@@ -16,64 +8,8 @@
     "categoryName": "indigenous region"
   }, 
   {
-    "alpha3": "PA-9", 
-    "name": "Veraguas", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PA-1", 
-    "name": "Bocas del Toro", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PA-2", 
-    "name": "Cocl\u00e9", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "PA-5", 
     "name": "Dari\u00e9n", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PA-4", 
-    "name": "Chiriqu\u00ed", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PA-7", 
-    "name": "Los Santos", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PA-8", 
-    "name": "Panam\u00e1", 
-    "countryAlpha3": "PAN", 
-    "countryAlpha2": "PA", 
-    "categoryId": "389", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PA-6", 
-    "name": "Herrera", 
     "countryAlpha3": "PAN", 
     "countryAlpha2": "PA", 
     "categoryId": "389", 
@@ -90,6 +26,70 @@
   {
     "alpha3": "PA-3", 
     "name": "Col\u00f3n", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-2", 
+    "name": "Cocl\u00e9", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-7", 
+    "name": "Los Santos", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-1", 
+    "name": "Bocas del Toro", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-8", 
+    "name": "Panam\u00e1", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-4", 
+    "name": "Chiriqu\u00ed", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-NB", 
+    "name": "Ng\u00f6be-Bugl\u00e9", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "232", 
+    "categoryName": "indigenous region"
+  }, 
+  {
+    "alpha3": "PA-9", 
+    "name": "Veraguas", 
+    "countryAlpha3": "PAN", 
+    "countryAlpha2": "PA", 
+    "categoryId": "389", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PA-6", 
+    "name": "Herrera", 
     "countryAlpha3": "PAN", 
     "countryAlpha2": "PA", 
     "categoryId": "389", 

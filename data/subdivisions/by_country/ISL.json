@@ -1,21 +1,5 @@
 [
   {
-    "alpha3": "IS-2", 
-    "name": "Su\u00f0urnes", 
-    "countryAlpha3": "ISL", 
-    "countryAlpha2": "IS", 
-    "categoryId": "419", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "IS-7", 
-    "name": "Austurland", 
-    "countryAlpha3": "ISL", 
-    "countryAlpha2": "IS", 
-    "categoryId": "419", 
-    "categoryName": "region"
-  }, 
-  {
     "alpha3": "IS-1", 
     "name": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i utan Reykjav\u00edkur", 
     "countryAlpha3": "ISL", 
@@ -32,6 +16,22 @@
     "categoryName": "region"
   }, 
   {
+    "alpha3": "IS-8", 
+    "name": "Su\u00f0urland", 
+    "countryAlpha3": "ISL", 
+    "countryAlpha2": "IS", 
+    "categoryId": "419", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "IS-7", 
+    "name": "Austurland", 
+    "countryAlpha3": "ISL", 
+    "countryAlpha2": "IS", 
+    "categoryId": "419", 
+    "categoryName": "region"
+  }, 
+  {
     "alpha3": "IS-6", 
     "name": "Nor\u00f0urland eystra", 
     "countryAlpha3": "ISL", 
@@ -40,16 +40,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IS-3", 
-    "name": "Vesturland", 
+    "alpha3": "IS-4", 
+    "name": "Vestfir\u00f0ir", 
     "countryAlpha3": "ISL", 
     "countryAlpha2": "IS", 
     "categoryId": "419", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "IS-8", 
-    "name": "Su\u00f0urland", 
+    "alpha3": "IS-3", 
+    "name": "Vesturland", 
     "countryAlpha3": "ISL", 
     "countryAlpha2": "IS", 
     "categoryId": "419", 

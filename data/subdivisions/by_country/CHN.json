@@ -1,237 +1,5 @@
 [
   {
-    "alpha3": "CN-12", 
-    "name": "Tianjin", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "397", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "CN-50", 
-    "name": "Chongqing", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "397", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "CN-11", 
-    "name": "Beijing", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "397", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "CN-15", 
-    "name": "Nei Mongol", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "195", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "CN-64", 
-    "name": "Ningxia", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "195", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "CN-65", 
-    "name": "Xinjiang", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "195", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "CN-45", 
-    "name": "Guangxi", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "195", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "CN-54", 
-    "name": "Xizang", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "195", 
-    "categoryName": "autonomous region"
-  }, 
-  {
-    "alpha3": "CN-92", 
-    "name": "Aomen (see also separate country code entry under MO)", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "268", 
-    "categoryName": "special administrative region"
-  }, 
-  {
-    "alpha3": "CN-92", 
-    "name": "Macao", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "268", 
-    "categoryName": "special administrative region"
-  }, 
-  {
-    "alpha3": "CN-91", 
-    "name": "Hong Kong", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "268", 
-    "categoryName": "special administrative region"
-  }, 
-  {
-    "alpha3": "CN-91", 
-    "name": "Xianggang (see also separate country code entry under HK)", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "268", 
-    "categoryName": "special administrative region"
-  }, 
-  {
-    "alpha3": "CN-36", 
-    "name": "Jiangxi", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-43", 
-    "name": "Hunan", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-53", 
-    "name": "Yunnan", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-32", 
-    "name": "Jiangsu", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-37", 
-    "name": "Shandong", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-23", 
-    "name": "Heilongjiang", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-41", 
-    "name": "Henan", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-62", 
-    "name": "Gansu", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-63", 
-    "name": "Qinghai", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-14", 
-    "name": "Shanxi", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-22", 
-    "name": "Jilin", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-42", 
-    "name": "Hubei", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-44", 
-    "name": "Guangdong", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-71", 
-    "name": "Taiwan (see also separate country code entry under TW)", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-51", 
-    "name": "Sichuan", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-13", 
-    "name": "Hebei", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CN-21", 
-    "name": "Liaoning", 
-    "countryAlpha3": "CHN", 
-    "countryAlpha2": "CN", 
-    "categoryId": "103", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "CN-34", 
     "name": "Anhui", 
     "countryAlpha3": "CHN", 
@@ -248,6 +16,22 @@
     "categoryName": "province"
   }, 
   {
+    "alpha3": "CN-44", 
+    "name": "Guangdong", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-13", 
+    "name": "Hebei", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "CN-61", 
     "name": "Shaanxi", 
     "countryAlpha3": "CHN", 
@@ -256,8 +40,216 @@
     "categoryName": "province"
   }, 
   {
+    "alpha3": "CN-50", 
+    "name": "Chongqing", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "397", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CN-92", 
+    "name": "Macao", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "268", 
+    "categoryName": "special administrative region"
+  }, 
+  {
+    "alpha3": "CN-42", 
+    "name": "Hubei", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-23", 
+    "name": "Heilongjiang", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-43", 
+    "name": "Hunan", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-12", 
+    "name": "Tianjin", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "397", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CN-11", 
+    "name": "Beijing", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "397", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "CN-54", 
+    "name": "Xizang", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "195", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "CN-53", 
+    "name": "Yunnan", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-92", 
+    "name": "Aomen (see also separate country code entry under MO)", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "268", 
+    "categoryName": "special administrative region"
+  }, 
+  {
+    "alpha3": "CN-41", 
+    "name": "Henan", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-37", 
+    "name": "Shandong", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-51", 
+    "name": "Sichuan", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-32", 
+    "name": "Jiangsu", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-91", 
+    "name": "Xianggang (see also separate country code entry under HK)", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "268", 
+    "categoryName": "special administrative region"
+  }, 
+  {
+    "alpha3": "CN-64", 
+    "name": "Ningxia", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "195", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "CN-62", 
+    "name": "Gansu", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-65", 
+    "name": "Xinjiang", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "195", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "CN-15", 
+    "name": "Nei Mongol", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "195", 
+    "categoryName": "autonomous region"
+  }, 
+  {
     "alpha3": "CN-33", 
     "name": "Zhejiang", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-63", 
+    "name": "Qinghai", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-21", 
+    "name": "Liaoning", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-45", 
+    "name": "Guangxi", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "195", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "CN-22", 
+    "name": "Jilin", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-14", 
+    "name": "Shanxi", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-52", 
+    "name": "Guizhou", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "103", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CN-71", 
+    "name": "Taiwan (see also separate country code entry under TW)", 
     "countryAlpha3": "CHN", 
     "countryAlpha2": "CN", 
     "categoryId": "103", 
@@ -272,8 +264,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CN-52", 
-    "name": "Guizhou", 
+    "alpha3": "CN-91", 
+    "name": "Hong Kong", 
+    "countryAlpha3": "CHN", 
+    "countryAlpha2": "CN", 
+    "categoryId": "268", 
+    "categoryName": "special administrative region"
+  }, 
+  {
+    "alpha3": "CN-36", 
+    "name": "Jiangxi", 
     "countryAlpha3": "CHN", 
     "countryAlpha2": "CN", 
     "categoryId": "103", 

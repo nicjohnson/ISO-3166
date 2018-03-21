@@ -8,24 +8,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "LS-D", 
-    "name": "Berea", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-D", 
-    "name": "Berea", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-E", 
-    "name": "Mafeteng", 
+    "alpha3": "LS-C", 
+    "name": "Leribe", 
     "countryAlpha3": "LSO", 
     "countryAlpha2": "LS", 
     "categoryId": "209", 
@@ -48,40 +32,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "LS-K", 
-    "name": "Thaba-Tseka", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "LS-A", 
     "name": "Maseru", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-A", 
-    "name": "Maseru", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-F", 
-    "name": "Mohale's Hoek", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-F", 
-    "name": "Mohale's Hoek", 
     "countryAlpha3": "LSO", 
     "countryAlpha2": "LS", 
     "categoryId": "209", 
@@ -96,40 +48,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "LS-J", 
-    "name": "Mokhotlong", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-C", 
-    "name": "Leribe", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-C", 
-    "name": "Leribe", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-H", 
-    "name": "Qacha's Nek", 
-    "countryAlpha3": "LSO", 
-    "countryAlpha2": "LS", 
-    "categoryId": "209", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "LS-H", 
-    "name": "Qacha's Nek", 
+    "alpha3": "LS-F", 
+    "name": "Mohale's Hoek", 
     "countryAlpha3": "LSO", 
     "countryAlpha2": "LS", 
     "categoryId": "209", 
@@ -144,8 +64,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "LS-B", 
-    "name": "Butha-Buthe", 
+    "alpha3": "LS-D", 
+    "name": "Berea", 
     "countryAlpha3": "LSO", 
     "countryAlpha2": "LS", 
     "categoryId": "209", 

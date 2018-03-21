@@ -1,37 +1,5 @@
 [
   {
-    "alpha3": "CO-BOY", 
-    "name": "Boyac\u00e1", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-CAQ", 
-    "name": "Caquet\u00e1", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-CUN", 
-    "name": "Cundinamarca", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-NAR", 
-    "name": "Nari\u00f1o", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
     "alpha3": "CO-BOL", 
     "name": "Bol\u00edvar", 
     "countryAlpha3": "COL", 
@@ -40,32 +8,8 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CO-MAG", 
-    "name": "Magdalena", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-MET", 
-    "name": "Meta", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-PUT", 
-    "name": "Putumayo", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-VID", 
-    "name": "Vichada", 
+    "alpha3": "CO-SAN", 
+    "name": "Santander", 
     "countryAlpha3": "COL", 
     "countryAlpha2": "CO", 
     "categoryId": "104", 
@@ -80,86 +24,6 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CO-CAL", 
-    "name": "Caldas", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-CAU", 
-    "name": "Cauca", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-CES", 
-    "name": "Cesar", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-LAG", 
-    "name": "La Guajira", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-ARA", 
-    "name": "Arauca", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-NSA", 
-    "name": "Norte de Santander", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-TOL", 
-    "name": "Tolima", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-VAC", 
-    "name": "Valle del Cauca", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-GUV", 
-    "name": "Guaviare", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-HUI", 
-    "name": "Huila", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
     "alpha3": "CO-SUC", 
     "name": "Sucre", 
     "countryAlpha3": "COL", 
@@ -168,24 +32,8 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CO-CAS", 
-    "name": "Casanare", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-CHO", 
-    "name": "Choc\u00f3", 
-    "countryAlpha3": "COL", 
-    "countryAlpha2": "CO", 
-    "categoryId": "104", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "CO-GUA", 
-    "name": "Guain\u00eda", 
+    "alpha3": "CO-VAC", 
+    "name": "Valle del Cauca", 
     "countryAlpha3": "COL", 
     "countryAlpha2": "CO", 
     "categoryId": "104", 
@@ -208,8 +56,16 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CO-SAN", 
-    "name": "Santander", 
+    "alpha3": "CO-CES", 
+    "name": "Cesar", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-CAL", 
+    "name": "Caldas", 
     "countryAlpha3": "COL", 
     "countryAlpha2": "CO", 
     "categoryId": "104", 
@@ -224,16 +80,24 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CO-ANT", 
-    "name": "Antioquia", 
+    "alpha3": "CO-CAQ", 
+    "name": "Caquet\u00e1", 
     "countryAlpha3": "COL", 
     "countryAlpha2": "CO", 
     "categoryId": "104", 
     "categoryName": "department"
   }, 
   {
-    "alpha3": "CO-ATL", 
-    "name": "Atl\u00e1ntico", 
+    "alpha3": "CO-LAG", 
+    "name": "La Guajira", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-HUI", 
+    "name": "Huila", 
     "countryAlpha3": "COL", 
     "countryAlpha2": "CO", 
     "categoryId": "104", 
@@ -248,8 +112,144 @@
     "categoryName": "department"
   }, 
   {
+    "alpha3": "CO-ANT", 
+    "name": "Antioquia", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-CUN", 
+    "name": "Cundinamarca", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-MAG", 
+    "name": "Magdalena", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
     "alpha3": "CO-SAP", 
     "name": "San Andr\u00e9s, Providencia y Santa Catalina", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-MET", 
+    "name": "Meta", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-GUV", 
+    "name": "Guaviare", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-PUT", 
+    "name": "Putumayo", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-ATL", 
+    "name": "Atl\u00e1ntico", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-CHO", 
+    "name": "Choc\u00f3", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-DC", 
+    "name": "Distrito Capital de Bogot\u00e1", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "143", 
+    "categoryName": "capital district"
+  }, 
+  {
+    "alpha3": "CO-CAS", 
+    "name": "Casanare", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-NSA", 
+    "name": "Norte de Santander", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-ARA", 
+    "name": "Arauca", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-BOY", 
+    "name": "Boyac\u00e1", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-GUA", 
+    "name": "Guain\u00eda", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-NAR", 
+    "name": "Nari\u00f1o", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-VID", 
+    "name": "Vichada", 
+    "countryAlpha3": "COL", 
+    "countryAlpha2": "CO", 
+    "categoryId": "104", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "CO-TOL", 
+    "name": "Tolima", 
     "countryAlpha3": "COL", 
     "countryAlpha2": "CO", 
     "categoryId": "104", 

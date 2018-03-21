@@ -1,31 +1,7 @@
 [
   {
-    "alpha3": "QA-US", 
-    "name": "Umm \u015eal\u0101l", 
-    "countryAlpha3": "QAT", 
-    "countryAlpha2": "QA", 
-    "categoryId": "179", 
-    "categoryName": "municipality"
-  }, 
-  {
     "alpha3": "QA-WA", 
     "name": "Al Wakrah", 
-    "countryAlpha3": "QAT", 
-    "countryAlpha2": "QA", 
-    "categoryId": "179", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "QA-ZA", 
-    "name": "Az\u0327 Z\u0327a\u2018\u0101yin", 
-    "countryAlpha3": "QAT", 
-    "countryAlpha2": "QA", 
-    "categoryId": "179", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "QA-RA", 
-    "name": "Ar Rayy\u0101n", 
     "countryAlpha3": "QAT", 
     "countryAlpha2": "QA", 
     "categoryId": "179", 
@@ -40,8 +16,32 @@
     "categoryName": "municipality"
   }, 
   {
+    "alpha3": "QA-ZA", 
+    "name": "Az\u0327 Z\u0327a\u2018\u0101yin", 
+    "countryAlpha3": "QAT", 
+    "countryAlpha2": "QA", 
+    "categoryId": "179", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "QA-US", 
+    "name": "Umm \u015eal\u0101l", 
+    "countryAlpha3": "QAT", 
+    "countryAlpha2": "QA", 
+    "categoryId": "179", 
+    "categoryName": "municipality"
+  }, 
+  {
     "alpha3": "QA-KH", 
     "name": "Al Khawr wa adh Dhakh\u012brah", 
+    "countryAlpha3": "QAT", 
+    "countryAlpha2": "QA", 
+    "categoryId": "179", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "QA-MS", 
+    "name": "Ash Sham\u0101l", 
     "countryAlpha3": "QAT", 
     "countryAlpha2": "QA", 
     "categoryId": "179", 

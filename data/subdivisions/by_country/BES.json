@@ -1,14 +1,6 @@
 [
   {
     "alpha3": "BQ-BO", 
-    "name": " Boneiru", 
-    "countryAlpha3": "BES", 
-    "countryAlpha2": "BQ", 
-    "categoryId": "272", 
-    "categoryName": "special municipality"
-  }, 
-  {
-    "alpha3": "BQ-BO", 
     "name": "Bonaire", 
     "countryAlpha3": "BES", 
     "countryAlpha2": "BQ", 
@@ -16,40 +8,8 @@
     "categoryName": "special municipality"
   }, 
   {
-    "alpha3": "BQ-SA", 
-    "name": "Saba", 
-    "countryAlpha3": "BES", 
-    "countryAlpha2": "BQ", 
-    "categoryId": "272", 
-    "categoryName": "special municipality"
-  }, 
-  {
-    "alpha3": "BQ-SA", 
-    "name": "Saba", 
-    "countryAlpha3": "BES", 
-    "countryAlpha2": "BQ", 
-    "categoryId": "272", 
-    "categoryName": "special municipality"
-  }, 
-  {
-    "alpha3": "BQ-SA", 
-    "name": "Saba", 
-    "countryAlpha3": "BES", 
-    "countryAlpha2": "BQ", 
-    "categoryId": "272", 
-    "categoryName": "special municipality"
-  }, 
-  {
-    "alpha3": "BQ-SE", 
-    "name": "Sint Eustatius", 
-    "countryAlpha3": "BES", 
-    "countryAlpha2": "BQ", 
-    "categoryId": "272", 
-    "categoryName": "special municipality"
-  }, 
-  {
-    "alpha3": "BQ-SE", 
-    "name": "Sint Eustatius", 
+    "alpha3": "BQ-BO", 
+    "name": " Boneiru", 
     "countryAlpha3": "BES", 
     "countryAlpha2": "BQ", 
     "categoryId": "272", 

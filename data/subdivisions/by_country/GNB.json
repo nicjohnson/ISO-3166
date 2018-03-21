@@ -1,21 +1,5 @@
 [
   {
-    "alpha3": "GW-BA", 
-    "name": "Bafat\u00e1", 
-    "countryAlpha3": "GNB", 
-    "countryAlpha2": "GW", 
-    "categoryId": "416", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GW-OI", 
-    "name": "Oio", 
-    "countryAlpha3": "GNB", 
-    "countryAlpha2": "GW", 
-    "categoryId": "416", 
-    "categoryName": "region"
-  }, 
-  {
     "alpha3": "GW-CA", 
     "name": "Cacheu", 
     "countryAlpha3": "GNB", 
@@ -24,8 +8,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "GW-BM", 
-    "name": "Biombo", 
+    "alpha3": "GW-BS", 
+    "name": "Bissau", 
+    "countryAlpha3": "GNB", 
+    "countryAlpha2": "GW", 
+    "categoryId": "139", 
+    "categoryName": "autonomous sector"
+  }, 
+  {
+    "alpha3": "GW-QU", 
+    "name": "Quinara", 
     "countryAlpha3": "GNB", 
     "countryAlpha2": "GW", 
     "categoryId": "416", 
@@ -38,30 +30,6 @@
     "countryAlpha2": "GW", 
     "categoryId": "416", 
     "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GW-BL", 
-    "name": "Bolama", 
-    "countryAlpha3": "GNB", 
-    "countryAlpha2": "GW", 
-    "categoryId": "416", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GW-QU", 
-    "name": "Quinara", 
-    "countryAlpha3": "GNB", 
-    "countryAlpha2": "GW", 
-    "categoryId": "416", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GW-L", 
-    "name": "Leste", 
-    "countryAlpha3": "GNB", 
-    "countryAlpha2": "GW", 
-    "categoryId": "301", 
-    "categoryName": "province"
   }, 
   {
     "alpha3": "GW-N", 
@@ -80,11 +48,43 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GW-BS", 
-    "name": "Bissau", 
+    "alpha3": "GW-OI", 
+    "name": "Oio", 
     "countryAlpha3": "GNB", 
     "countryAlpha2": "GW", 
-    "categoryId": "139", 
-    "categoryName": "autonomous sector"
+    "categoryId": "416", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GW-BM", 
+    "name": "Biombo", 
+    "countryAlpha3": "GNB", 
+    "countryAlpha2": "GW", 
+    "categoryId": "416", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GW-L", 
+    "name": "Leste", 
+    "countryAlpha3": "GNB", 
+    "countryAlpha2": "GW", 
+    "categoryId": "301", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GW-GA", 
+    "name": "Gab\u00fa", 
+    "countryAlpha3": "GNB", 
+    "countryAlpha2": "GW", 
+    "categoryId": "416", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GW-BL", 
+    "name": "Bolama", 
+    "countryAlpha3": "GNB", 
+    "countryAlpha2": "GW", 
+    "categoryId": "416", 
+    "categoryName": "region"
   }
 ]

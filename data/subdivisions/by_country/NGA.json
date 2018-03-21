@@ -1,7 +1,23 @@
 [
   {
-    "alpha3": "NG-KN", 
-    "name": "Kano", 
+    "alpha3": "NG-PL", 
+    "name": "Plateau", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-RI", 
+    "name": "Rivers", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-AN", 
+    "name": "Anambra", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
@@ -16,24 +32,40 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-BO", 
-    "name": "Borno", 
+    "alpha3": "NG-KO", 
+    "name": "Kogi", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-EB", 
-    "name": "Ebonyi", 
+    "alpha3": "NG-CR", 
+    "name": "Cross River", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-KE", 
-    "name": "Kebbi", 
+    "alpha3": "NG-TA", 
+    "name": "Taraba", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-JI", 
+    "name": "Jigawa", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-EN", 
+    "name": "Enugu", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
@@ -56,24 +88,88 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-ON", 
-    "name": "Ondo", 
+    "alpha3": "NG-KW", 
+    "name": "Kwara", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-IM", 
+    "name": "Imo", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-GO", 
+    "name": "Gombe", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-YO", 
+    "name": "Yobe", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-BA", 
+    "name": "Bauchi", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-AB", 
+    "name": "Abia", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-KD", 
+    "name": "Kaduna", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-EB", 
+    "name": "Ebonyi", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-BO", 
+    "name": "Borno", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "200", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "NG-FC", 
+    "name": "Abuja Federal Capital Territory", 
+    "countryAlpha3": "NGA", 
+    "countryAlpha2": "NG", 
+    "categoryId": "435", 
+    "categoryName": "capital territory"
   }, 
   {
     "alpha3": "NG-OS", 
     "name": "Osun", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-OY", 
-    "name": "Oyo", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
@@ -96,56 +192,24 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-KO", 
-    "name": "Kogi", 
+    "alpha3": "NG-AD", 
+    "name": "Adamawa", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-LA", 
-    "name": "Lagos", 
+    "alpha3": "NG-BY", 
+    "name": "Bayelsa", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-TA", 
-    "name": "Taraba", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-KD", 
-    "name": "Kaduna", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-OG", 
-    "name": "Ogun", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-SO", 
-    "name": "Sokoto", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-YO", 
-    "name": "Yobe", 
+    "alpha3": "NG-KE", 
+    "name": "Kebbi", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
@@ -160,24 +224,24 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-AK", 
-    "name": "Akwa Ibom", 
+    "alpha3": "NG-OY", 
+    "name": "Oyo", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-EN", 
-    "name": "Enugu", 
+    "alpha3": "NG-OG", 
+    "name": "Ogun", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-IM", 
-    "name": "Imo", 
+    "alpha3": "NG-KN", 
+    "name": "Kano", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
@@ -192,48 +256,8 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-CR", 
-    "name": "Cross River", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-JI", 
-    "name": "Jigawa", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-AD", 
-    "name": "Adamawa", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-AN", 
-    "name": "Anambra", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-AB", 
-    "name": "Abia", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-BA", 
-    "name": "Bauchi", 
+    "alpha3": "NG-ON", 
+    "name": "Ondo", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
@@ -248,43 +272,19 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-GO", 
-    "name": "Gombe", 
+    "alpha3": "NG-LA", 
+    "name": "Lagos", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
   }, 
   {
-    "alpha3": "NG-KW", 
-    "name": "Kwara", 
+    "alpha3": "NG-SO", 
+    "name": "Sokoto", 
     "countryAlpha3": "NGA", 
     "countryAlpha2": "NG", 
     "categoryId": "200", 
     "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-PL", 
-    "name": "Plateau", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-RI", 
-    "name": "Rivers", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "200", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "NG-FC", 
-    "name": "Abuja Federal Capital Territory", 
-    "countryAlpha3": "NGA", 
-    "countryAlpha2": "NG", 
-    "categoryId": "435", 
-    "categoryName": "capital territory"
   }
 ]

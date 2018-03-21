@@ -1,7 +1,31 @@
 [
   {
+    "alpha3": "AU-QLD", 
+    "name": "Queensland", 
+    "countryAlpha3": "AUS", 
+    "countryAlpha2": "AU", 
+    "categoryId": "393", 
+    "categoryName": "state"
+  }, 
+  {
     "alpha3": "AU-ACT", 
     "name": "Australian Capital Territory", 
+    "countryAlpha3": "AUS", 
+    "countryAlpha2": "AU", 
+    "categoryId": "324", 
+    "categoryName": "territory"
+  }, 
+  {
+    "alpha3": "AU-WA", 
+    "name": "Western Australia", 
+    "countryAlpha3": "AUS", 
+    "countryAlpha2": "AU", 
+    "categoryId": "393", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "AU-NT", 
+    "name": "Northern Territory", 
     "countryAlpha3": "AUS", 
     "countryAlpha2": "AU", 
     "categoryId": "324", 
@@ -16,30 +40,6 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "AU-QLD", 
-    "name": "Queensland", 
-    "countryAlpha3": "AUS", 
-    "countryAlpha2": "AU", 
-    "categoryId": "393", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "AU-TAS", 
-    "name": "Tasmania", 
-    "countryAlpha3": "AUS", 
-    "countryAlpha2": "AU", 
-    "categoryId": "393", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "AU-NSW", 
-    "name": "New South Wales", 
-    "countryAlpha3": "AUS", 
-    "countryAlpha2": "AU", 
-    "categoryId": "393", 
-    "categoryName": "state"
-  }, 
-  {
     "alpha3": "AU-SA", 
     "name": "South Australia", 
     "countryAlpha3": "AUS", 
@@ -48,8 +48,8 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "AU-WA", 
-    "name": "Western Australia", 
+    "alpha3": "AU-NSW", 
+    "name": "New South Wales", 
     "countryAlpha3": "AUS", 
     "countryAlpha2": "AU", 
     "categoryId": "393", 

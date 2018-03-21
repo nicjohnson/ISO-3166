@@ -1,15 +1,7 @@
 [
   {
-    "alpha3": "AL-11", 
-    "name": "Tiran\u00eb", 
-    "countryAlpha3": "ALB", 
-    "countryAlpha2": "AL", 
-    "categoryId": "322", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "AL-12", 
-    "name": "Vlor\u00eb", 
+    "alpha3": "AL-02", 
+    "name": "Durr\u00ebs", 
     "countryAlpha3": "ALB", 
     "countryAlpha2": "AL", 
     "categoryId": "322", 
@@ -24,24 +16,8 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "AL-09", 
-    "name": "Dib\u00ebr", 
-    "countryAlpha3": "ALB", 
-    "countryAlpha2": "AL", 
-    "categoryId": "322", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "AL-01", 
-    "name": "Berat", 
-    "countryAlpha3": "ALB", 
-    "countryAlpha2": "AL", 
-    "categoryId": "322", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "AL-02", 
-    "name": "Durr\u00ebs", 
+    "alpha3": "AL-06", 
+    "name": "Kor\u00e7\u00eb", 
     "countryAlpha3": "ALB", 
     "countryAlpha2": "AL", 
     "categoryId": "322", 
@@ -56,8 +32,32 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "AL-10", 
-    "name": "Shkod\u00ebr", 
+    "alpha3": "AL-01", 
+    "name": "Berat", 
+    "countryAlpha3": "ALB", 
+    "countryAlpha2": "AL", 
+    "categoryId": "322", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "AL-07", 
+    "name": "Kuk\u00ebs", 
+    "countryAlpha3": "ALB", 
+    "countryAlpha2": "AL", 
+    "categoryId": "322", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "AL-12", 
+    "name": "Vlor\u00eb", 
+    "countryAlpha3": "ALB", 
+    "countryAlpha2": "AL", 
+    "categoryId": "322", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "AL-11", 
+    "name": "Tiran\u00eb", 
     "countryAlpha3": "ALB", 
     "countryAlpha2": "AL", 
     "categoryId": "322", 
@@ -72,16 +72,16 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "AL-06", 
-    "name": "Kor\u00e7\u00eb", 
+    "alpha3": "AL-10", 
+    "name": "Shkod\u00ebr", 
     "countryAlpha3": "ALB", 
     "countryAlpha2": "AL", 
     "categoryId": "322", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "AL-07", 
-    "name": "Kuk\u00ebs", 
+    "alpha3": "AL-09", 
+    "name": "Dib\u00ebr", 
     "countryAlpha3": "ALB", 
     "countryAlpha2": "AL", 
     "categoryId": "322", 

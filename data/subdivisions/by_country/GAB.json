@@ -1,15 +1,7 @@
 [
   {
-    "alpha3": "GA-5", 
-    "name": "Nyanga", 
-    "countryAlpha3": "GAB", 
-    "countryAlpha2": "GA", 
-    "categoryId": "394", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GA-1", 
-    "name": "Estuaire", 
+    "alpha3": "GA-4", 
+    "name": "Ngouni\u00e9", 
     "countryAlpha3": "GAB", 
     "countryAlpha2": "GA", 
     "categoryId": "394", 
@@ -18,14 +10,6 @@
   {
     "alpha3": "GA-6", 
     "name": "Ogoou\u00e9-Ivindo", 
-    "countryAlpha3": "GAB", 
-    "countryAlpha2": "GA", 
-    "categoryId": "394", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "GA-7", 
-    "name": "Ogoou\u00e9-Lolo", 
     "countryAlpha3": "GAB", 
     "countryAlpha2": "GA", 
     "categoryId": "394", 
@@ -48,16 +32,32 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GA-4", 
-    "name": "Ngouni\u00e9", 
+    "alpha3": "GA-3", 
+    "name": "Moyen-Ogoou\u00e9", 
     "countryAlpha3": "GAB", 
     "countryAlpha2": "GA", 
     "categoryId": "394", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "GA-9", 
-    "name": "Woleu-Ntem", 
+    "alpha3": "GA-5", 
+    "name": "Nyanga", 
+    "countryAlpha3": "GAB", 
+    "countryAlpha2": "GA", 
+    "categoryId": "394", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GA-7", 
+    "name": "Ogoou\u00e9-Lolo", 
+    "countryAlpha3": "GAB", 
+    "countryAlpha2": "GA", 
+    "categoryId": "394", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "GA-1", 
+    "name": "Estuaire", 
     "countryAlpha3": "GAB", 
     "countryAlpha2": "GA", 
     "categoryId": "394", 

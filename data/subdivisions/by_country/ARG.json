@@ -1,119 +1,7 @@
 [
   {
-    "alpha3": "AR-D", 
-    "name": "San Luis", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "AR-L", 
     "name": "La Pampa", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-M", 
-    "name": "Mendoza", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-Q", 
-    "name": "Neuqu\u00e9n", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-R", 
-    "name": "R\u00edo Negro", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-Y", 
-    "name": "Jujuy", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-N", 
-    "name": "Misiones", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-S", 
-    "name": "Santa Fe", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-Z", 
-    "name": "Santa Cruz", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-A", 
-    "name": "Salta", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-F", 
-    "name": "La Rioja", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-B", 
-    "name": "Buenos Aires", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-G", 
-    "name": "Santiago del Estero", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-H", 
-    "name": "Chaco", 
-    "countryAlpha3": "ARG", 
-    "countryAlpha2": "AR", 
-    "categoryId": "107", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "AR-P", 
-    "name": "Formosa", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 
@@ -128,40 +16,72 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "AR-J", 
-    "name": "San Juan", 
+    "alpha3": "AR-Z", 
+    "name": "Santa Cruz", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "AR-T", 
-    "name": "Tucum\u00e1n", 
+    "alpha3": "AR-Q", 
+    "name": "Neuqu\u00e9n", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "AR-E", 
-    "name": "Entre R\u00edos", 
+    "alpha3": "AR-H", 
+    "name": "Chaco", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "AR-K", 
-    "name": "Catamarca", 
+    "alpha3": "AR-B", 
+    "name": "Buenos Aires", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "AR-V", 
-    "name": "Tierra del Fuego", 
+    "alpha3": "AR-U", 
+    "name": "Chubut", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-C", 
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "182", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "AR-M", 
+    "name": "Mendoza", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-D", 
+    "name": "San Luis", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-Y", 
+    "name": "Jujuy", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 
@@ -176,8 +96,88 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "AR-U", 
-    "name": "Chubut", 
+    "alpha3": "AR-P", 
+    "name": "Formosa", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-S", 
+    "name": "Santa Fe", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-G", 
+    "name": "Santiago del Estero", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-R", 
+    "name": "R\u00edo Negro", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-N", 
+    "name": "Misiones", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-K", 
+    "name": "Catamarca", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-E", 
+    "name": "Entre R\u00edos", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-A", 
+    "name": "Salta", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-V", 
+    "name": "Tierra del Fuego", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-T", 
+    "name": "Tucum\u00e1n", 
+    "countryAlpha3": "ARG", 
+    "countryAlpha2": "AR", 
+    "categoryId": "107", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "AR-F", 
+    "name": "La Rioja", 
     "countryAlpha3": "ARG", 
     "countryAlpha2": "AR", 
     "categoryId": "107", 

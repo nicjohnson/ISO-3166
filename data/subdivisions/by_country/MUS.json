@@ -1,11 +1,11 @@
 [
   {
-    "alpha3": "MU-PW", 
-    "name": "Plaines Wilhems", 
+    "alpha3": "MU-CU", 
+    "name": "Curepipe", 
     "countryAlpha3": "MUS", 
     "countryAlpha2": "MU", 
-    "categoryId": "238", 
-    "categoryName": "district"
+    "categoryId": "109", 
+    "categoryName": "city"
   }, 
   {
     "alpha3": "MU-GP", 
@@ -16,48 +16,16 @@
     "categoryName": "district"
   }, 
   {
+    "alpha3": "MU-BR", 
+    "name": "Beau Bassin-Rose Hill", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "109", 
+    "categoryName": "city"
+  }, 
+  {
     "alpha3": "MU-PA", 
     "name": "Pamplemousses", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "238", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MU-PL", 
-    "name": "Port Louis", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "238", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MU-BL", 
-    "name": "Black River", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "238", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MU-FL", 
-    "name": "Flacq", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "238", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MU-MO", 
-    "name": "Moka", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "238", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MU-RR", 
-    "name": "Rivi\u00e8re du Rempart", 
     "countryAlpha3": "MUS", 
     "countryAlpha2": "MU", 
     "categoryId": "238", 
@@ -72,36 +40,44 @@
     "categoryName": "dependency"
   }, 
   {
-    "alpha3": "MU-RO", 
-    "name": "Rodrigues Island", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "340", 
-    "categoryName": "dependency"
-  }, 
-  {
-    "alpha3": "MU-CC", 
-    "name": "Cargados Carajos Shoals", 
-    "countryAlpha3": "MUS", 
-    "countryAlpha2": "MU", 
-    "categoryId": "340", 
-    "categoryName": "dependency"
-  }, 
-  {
-    "alpha3": "MU-BR", 
-    "name": "Beau Bassin-Rose Hill", 
+    "alpha3": "MU-PU", 
+    "name": "Port Louis", 
     "countryAlpha3": "MUS", 
     "countryAlpha2": "MU", 
     "categoryId": "109", 
     "categoryName": "city"
   }, 
   {
-    "alpha3": "MU-CU", 
-    "name": "Curepipe", 
+    "alpha3": "MU-MO", 
+    "name": "Moka", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "238", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MU-PL", 
+    "name": "Port Louis", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "238", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MU-VP", 
+    "name": "Vacoas-Phoenix", 
     "countryAlpha3": "MUS", 
     "countryAlpha2": "MU", 
     "categoryId": "109", 
     "categoryName": "city"
+  }, 
+  {
+    "alpha3": "MU-RR", 
+    "name": "Rivi\u00e8re du Rempart", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "238", 
+    "categoryName": "district"
   }, 
   {
     "alpha3": "MU-QB", 
@@ -112,19 +88,43 @@
     "categoryName": "city"
   }, 
   {
-    "alpha3": "MU-PU", 
-    "name": "Port Louis", 
+    "alpha3": "MU-BL", 
+    "name": "Black River", 
     "countryAlpha3": "MUS", 
     "countryAlpha2": "MU", 
-    "categoryId": "109", 
-    "categoryName": "city"
+    "categoryId": "238", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "MU-VP", 
-    "name": "Vacoas-Phoenix", 
+    "alpha3": "MU-RO", 
+    "name": "Rodrigues Island", 
     "countryAlpha3": "MUS", 
     "countryAlpha2": "MU", 
-    "categoryId": "109", 
-    "categoryName": "city"
+    "categoryId": "340", 
+    "categoryName": "dependency"
+  }, 
+  {
+    "alpha3": "MU-PW", 
+    "name": "Plaines Wilhems", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "238", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MU-FL", 
+    "name": "Flacq", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "238", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MU-CC", 
+    "name": "Cargados Carajos Shoals", 
+    "countryAlpha3": "MUS", 
+    "countryAlpha2": "MU", 
+    "categoryId": "340", 
+    "categoryName": "dependency"
   }
 ]

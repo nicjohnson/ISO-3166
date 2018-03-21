@@ -1,111 +1,15 @@
 [
   {
-    "alpha3": "VE-V", 
-    "name": "Zulia", 
+    "alpha3": "VE-A", 
+    "name": "Distrito Capital", 
     "countryAlpha3": "VEN", 
     "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
+    "categoryId": "385", 
+    "categoryName": "capital district"
   }, 
   {
-    "alpha3": "VE-D", 
-    "name": "Aragua", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-P", 
-    "name": "Portuguesa", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-S", 
-    "name": "T\u00e1chira", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-F", 
-    "name": "Bol\u00edvar", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-H", 
-    "name": "Cojedes", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-I", 
-    "name": "Falc\u00f3n", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-Z", 
-    "name": "Amazonas", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-J", 
-    "name": "Gu\u00e1rico", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-K", 
-    "name": "Lara", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-O", 
-    "name": "Nueva Esparta", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-U", 
-    "name": "Yaracuy", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-C", 
-    "name": "Apure", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-Y", 
-    "name": "Delta Amacuro", 
+    "alpha3": "VE-L", 
+    "name": "M\u00e9rida", 
     "countryAlpha3": "VEN", 
     "countryAlpha2": "VE", 
     "categoryId": "256", 
@@ -120,40 +24,8 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "VE-L", 
-    "name": "M\u00e9rida", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-N", 
-    "name": "Monagas", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-R", 
-    "name": "Sucre", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-T", 
-    "name": "Trujillo", 
-    "countryAlpha3": "VEN", 
-    "countryAlpha2": "VE", 
-    "categoryId": "256", 
-    "categoryName": "state"
-  }, 
-  {
-    "alpha3": "VE-X", 
-    "name": "Vargas", 
+    "alpha3": "VE-V", 
+    "name": "Zulia", 
     "countryAlpha3": "VEN", 
     "countryAlpha2": "VE", 
     "categoryId": "256", 
@@ -168,8 +40,24 @@
     "categoryName": "state"
   }, 
   {
-    "alpha3": "VE-M", 
-    "name": "Miranda", 
+    "alpha3": "VE-Z", 
+    "name": "Amazonas", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-O", 
+    "name": "Nueva Esparta", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-J", 
+    "name": "Gu\u00e1rico", 
     "countryAlpha3": "VEN", 
     "countryAlpha2": "VE", 
     "categoryId": "256", 
@@ -184,11 +72,123 @@
     "categoryName": "federal dependency"
   }, 
   {
-    "alpha3": "VE-A", 
-    "name": "Distrito Capital", 
+    "alpha3": "VE-G", 
+    "name": "Carabobo", 
     "countryAlpha3": "VEN", 
     "countryAlpha2": "VE", 
-    "categoryId": "385", 
-    "categoryName": "capital district"
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-D", 
+    "name": "Aragua", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-R", 
+    "name": "Sucre", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-I", 
+    "name": "Falc\u00f3n", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-C", 
+    "name": "Apure", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-K", 
+    "name": "Lara", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-N", 
+    "name": "Monagas", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-U", 
+    "name": "Yaracuy", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-Y", 
+    "name": "Delta Amacuro", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-M", 
+    "name": "Miranda", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-S", 
+    "name": "T\u00e1chira", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-X", 
+    "name": "Vargas", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-T", 
+    "name": "Trujillo", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-P", 
+    "name": "Portuguesa", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
+  }, 
+  {
+    "alpha3": "VE-F", 
+    "name": "Bol\u00edvar", 
+    "countryAlpha3": "VEN", 
+    "countryAlpha2": "VE", 
+    "categoryId": "256", 
+    "categoryName": "state"
   }
 ]

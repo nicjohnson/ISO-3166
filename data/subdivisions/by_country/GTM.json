@@ -1,63 +1,7 @@
 [
   {
-    "alpha3": "GT-ES", 
-    "name": "Escuintla", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-IZ", 
-    "name": "Izabal", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-PE", 
-    "name": "Pet\u00e9n", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-TO", 
-    "name": "Totonicap\u00e1n", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-GU", 
-    "name": "Guatemala", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
     "alpha3": "GT-ZA", 
     "name": "Zacapa", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-QZ", 
-    "name": "Quetzaltenango", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-RE", 
-    "name": "Retalhuleu", 
     "countryAlpha3": "GTM", 
     "countryAlpha2": "GT", 
     "categoryId": "372", 
@@ -72,72 +16,16 @@
     "categoryName": "department"
   }, 
   {
-    "alpha3": "GT-SO", 
-    "name": "Solol\u00e1", 
+    "alpha3": "GT-GU", 
+    "name": "Guatemala", 
     "countryAlpha3": "GTM", 
     "countryAlpha2": "GT", 
     "categoryId": "372", 
     "categoryName": "department"
   }, 
   {
-    "alpha3": "GT-SR", 
-    "name": "Santa Rosa", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-SU", 
-    "name": "Suchitep\u00e9quez", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-PR", 
-    "name": "El Progreso", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-JA", 
-    "name": "Jalapa", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-JU", 
-    "name": "Jutiapa", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-SA", 
-    "name": "Sacatep\u00e9quez", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-SM", 
-    "name": "San Marcos", 
-    "countryAlpha3": "GTM", 
-    "countryAlpha2": "GT", 
-    "categoryId": "372", 
-    "categoryName": "department"
-  }, 
-  {
-    "alpha3": "GT-CQ", 
-    "name": "Chiquimula", 
+    "alpha3": "GT-PE", 
+    "name": "Pet\u00e9n", 
     "countryAlpha3": "GTM", 
     "countryAlpha2": "GT", 
     "categoryId": "372", 
@@ -152,8 +40,120 @@
     "categoryName": "department"
   }, 
   {
+    "alpha3": "GT-SA", 
+    "name": "Sacatep\u00e9quez", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-RE", 
+    "name": "Retalhuleu", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-SO", 
+    "name": "Solol\u00e1", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-QZ", 
+    "name": "Quetzaltenango", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-JA", 
+    "name": "Jalapa", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-ES", 
+    "name": "Escuintla", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
     "alpha3": "GT-AV", 
     "name": "Alta Verapaz", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-CM", 
+    "name": "Chimaltenango", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-PR", 
+    "name": "El Progreso", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-SM", 
+    "name": "San Marcos", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-IZ", 
+    "name": "Izabal", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-CQ", 
+    "name": "Chiquimula", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-JU", 
+    "name": "Jutiapa", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-SU", 
+    "name": "Suchitep\u00e9quez", 
+    "countryAlpha3": "GTM", 
+    "countryAlpha2": "GT", 
+    "categoryId": "372", 
+    "categoryName": "department"
+  }, 
+  {
+    "alpha3": "GT-SR", 
+    "name": "Santa Rosa", 
     "countryAlpha3": "GTM", 
     "countryAlpha2": "GT", 
     "categoryId": "372", 

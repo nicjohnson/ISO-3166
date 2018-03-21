@@ -1,5 +1,13 @@
 [
   {
+    "alpha3": "BN-BM", 
+    "name": "Brunei-Muara", 
+    "countryAlpha3": "BRN", 
+    "countryAlpha2": "BN", 
+    "categoryId": "362", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "BN-TU", 
     "name": "Tutong", 
     "countryAlpha3": "BRN", 
@@ -8,48 +16,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "BN-BM", 
-    "name": "Brunei-Muara", 
-    "countryAlpha3": "BRN", 
-    "countryAlpha2": "BN", 
-    "categoryId": "362", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BN-BM", 
-    "name": "Brunei-Muara", 
-    "countryAlpha3": "BRN", 
-    "countryAlpha2": "BN", 
-    "categoryId": "362", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "BN-BE", 
     "name": "Belait", 
-    "countryAlpha3": "BRN", 
-    "countryAlpha2": "BN", 
-    "categoryId": "362", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BN-BE", 
-    "name": "Belait", 
-    "countryAlpha3": "BRN", 
-    "countryAlpha2": "BN", 
-    "categoryId": "362", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BN-TE", 
-    "name": "Temburong", 
-    "countryAlpha3": "BRN", 
-    "countryAlpha2": "BN", 
-    "categoryId": "362", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "BN-TE", 
-    "name": "Temburong", 
     "countryAlpha3": "BRN", 
     "countryAlpha2": "BN", 
     "categoryId": "362", 

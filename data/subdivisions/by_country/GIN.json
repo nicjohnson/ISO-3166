@@ -1,39 +1,7 @@
 [
   {
-    "alpha3": "GN-MM", 
-    "name": "Mamou", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-DL", 
-    "name": "Dalaba", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-MD", 
-    "name": "Mandiana", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-KA", 
-    "name": "Kankan", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-KE", 
-    "name": "K\u00e9rouan\u00e9", 
+    "alpha3": "GN-TE", 
+    "name": "T\u00e9lim\u00e9l\u00e9", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
     "categoryId": "415", 
@@ -48,56 +16,16 @@
     "categoryName": "prefecture"
   }, 
   {
-    "alpha3": "GN-SI", 
-    "name": "Siguiri", 
+    "alpha3": "GN-KE", 
+    "name": "K\u00e9rouan\u00e9", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
     "categoryId": "415", 
     "categoryName": "prefecture"
   }, 
   {
-    "alpha3": "GN-ML", 
-    "name": "Mali", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-TO", 
-    "name": "Tougu\u00e9", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-LE", 
-    "name": "L\u00e9louma", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-LA", 
-    "name": "Lab\u00e9", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-KB", 
-    "name": "Koubia", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-BF", 
-    "name": "Boffa", 
+    "alpha3": "GN-MD", 
+    "name": "Mandiana", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
     "categoryId": "415", 
@@ -112,128 +40,8 @@
     "categoryName": "prefecture"
   }, 
   {
-    "alpha3": "GN-FR", 
-    "name": "Fria", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-KN", 
-    "name": "Koundara", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-BK", 
-    "name": "Bok\u00e9", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-DI", 
-    "name": "Dinguiraye", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-DB", 
-    "name": "Dabola", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-KS", 
-    "name": "Kissidougou", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-FA", 
-    "name": "Faranah", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-KD", 
-    "name": "Kindia", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-DU", 
-    "name": "Dubr\u00e9ka", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-CO", 
-    "name": "Coyah", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-FO", 
-    "name": "For\u00e9cariah", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-TE", 
-    "name": "T\u00e9lim\u00e9l\u00e9", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-LO", 
-    "name": "Lola", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-YO", 
-    "name": "Yomou", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
     "alpha3": "GN-BE", 
     "name": "Beyla", 
-    "countryAlpha3": "GIN", 
-    "countryAlpha2": "GN", 
-    "categoryId": "415", 
-    "categoryName": "prefecture"
-  }, 
-  {
-    "alpha3": "GN-GU", 
-    "name": "Gu\u00e9k\u00e9dou", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
     "categoryId": "415", 
@@ -248,6 +56,38 @@
     "categoryName": "prefecture"
   }, 
   {
+    "alpha3": "GN-L", 
+    "name": "Lab\u00e9", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "346", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "GN-BF", 
+    "name": "Boffa", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-D", 
+    "name": "Kindia", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "346", 
+    "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "GN-M", 
+    "name": "Mamou", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "346", 
+    "categoryName": "administrative region"
+  }, 
+  {
     "alpha3": "GN-MC", 
     "name": "Macenta", 
     "countryAlpha3": "GIN", 
@@ -256,16 +96,48 @@
     "categoryName": "prefecture"
   }, 
   {
-    "alpha3": "GN-C", 
-    "name": "Conakry", 
+    "alpha3": "GN-KS", 
+    "name": "Kissidougou", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
-    "categoryId": "184", 
-    "categoryName": "governorate"
+    "categoryId": "415", 
+    "categoryName": "prefecture"
   }, 
   {
-    "alpha3": "GN-M", 
+    "alpha3": "GN-MM", 
     "name": "Mamou", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-FR", 
+    "name": "Fria", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-BK", 
+    "name": "Bok\u00e9", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-DL", 
+    "name": "Dalaba", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-F", 
+    "name": "Faranah", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
     "categoryId": "346", 
@@ -280,12 +152,132 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "GN-L", 
-    "name": "Lab\u00e9", 
+    "alpha3": "GN-KN", 
+    "name": "Koundara", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-LE", 
+    "name": "L\u00e9louma", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-N", 
+    "name": "Nz\u00e9r\u00e9kor\u00e9", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
     "categoryId": "346", 
     "categoryName": "administrative region"
+  }, 
+  {
+    "alpha3": "GN-KD", 
+    "name": "Kindia", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-PI", 
+    "name": "Pita", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-DU", 
+    "name": "Dubr\u00e9ka", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-FA", 
+    "name": "Faranah", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-KA", 
+    "name": "Kankan", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-GU", 
+    "name": "Gu\u00e9k\u00e9dou", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-LA", 
+    "name": "Lab\u00e9", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-CO", 
+    "name": "Coyah", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-SI", 
+    "name": "Siguiri", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-DI", 
+    "name": "Dinguiraye", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-ML", 
+    "name": "Mali", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-FO", 
+    "name": "For\u00e9cariah", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-KB", 
+    "name": "Koubia", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
   }, 
   {
     "alpha3": "GN-B", 
@@ -296,27 +288,35 @@
     "categoryName": "administrative region"
   }, 
   {
-    "alpha3": "GN-F", 
-    "name": "Faranah", 
+    "alpha3": "GN-YO", 
+    "name": "Yomou", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
-    "categoryId": "346", 
-    "categoryName": "administrative region"
+    "categoryId": "415", 
+    "categoryName": "prefecture"
   }, 
   {
-    "alpha3": "GN-D", 
-    "name": "Kindia", 
+    "alpha3": "GN-C", 
+    "name": "Conakry", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
-    "categoryId": "346", 
-    "categoryName": "administrative region"
+    "categoryId": "184", 
+    "categoryName": "governorate"
   }, 
   {
-    "alpha3": "GN-N", 
-    "name": "Nz\u00e9r\u00e9kor\u00e9", 
+    "alpha3": "GN-LO", 
+    "name": "Lola", 
     "countryAlpha3": "GIN", 
     "countryAlpha2": "GN", 
-    "categoryId": "346", 
-    "categoryName": "administrative region"
+    "categoryId": "415", 
+    "categoryName": "prefecture"
+  }, 
+  {
+    "alpha3": "GN-TO", 
+    "name": "Tougu\u00e9", 
+    "countryAlpha3": "GIN", 
+    "countryAlpha2": "GN", 
+    "categoryId": "415", 
+    "categoryName": "prefecture"
   }
 ]

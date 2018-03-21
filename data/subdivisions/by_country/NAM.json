@@ -1,15 +1,79 @@
 [
   {
-    "alpha3": "NA-HA", 
-    "name": "Hardap", 
+    "alpha3": "NA-ON", 
+    "name": "Oshana", 
     "countryAlpha3": "NAM", 
     "countryAlpha2": "NA", 
     "categoryId": "157", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "NA-KH", 
-    "name": "Khomas", 
+    "alpha3": "NA-OD", 
+    "name": "Otjozondjupa", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-OW", 
+    "name": "Ohangwena", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-KU", 
+    "name": "Kunene", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-OT", 
+    "name": "Oshikoto", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-KW", 
+    "name": "Kavango West", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-OH", 
+    "name": "Omaheke", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-KA", 
+    "name": "Karas", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-OS", 
+    "name": "Omusati", 
+    "countryAlpha3": "NAM", 
+    "countryAlpha2": "NA", 
+    "categoryId": "157", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "NA-HA", 
+    "name": "Hardap", 
     "countryAlpha3": "NAM", 
     "countryAlpha2": "NA", 
     "categoryId": "157", 
@@ -32,72 +96,8 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "NA-KU", 
-    "name": "Kunene", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-OS", 
-    "name": "Omusati", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-OW", 
-    "name": "Ohangwena", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-OD", 
-    "name": "Otjozondjupa", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
     "alpha3": "NA-KE", 
     "name": "Kavango East", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-KW", 
-    "name": "Kavango West", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-KA", 
-    "name": "Karas", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-OH", 
-    "name": "Omaheke", 
-    "countryAlpha3": "NAM", 
-    "countryAlpha2": "NA", 
-    "categoryId": "157", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "NA-OT", 
-    "name": "Oshikoto", 
     "countryAlpha3": "NAM", 
     "countryAlpha2": "NA", 
     "categoryId": "157", 

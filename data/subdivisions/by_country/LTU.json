@@ -1,61 +1,5 @@
 [
   {
-    "alpha3": "LT-07", 
-    "name": "Druskininkai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "LT-08", 
-    "name": "Elektr\u0117nai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "LT-14", 
-    "name": "Kalvarijos", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "LT-17", 
-    "name": "Kazl\u0173 R\u016bdos", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "LT-28", 
-    "name": "Neringa", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "LT-29", 
-    "name": "Pag\u0117giai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
-    "alpha3": "LT-39", 
-    "name": "Rietavo", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "456", 
-    "categoryName": "municipality"
-  }, 
-  {
     "alpha3": "LT-59", 
     "name": "Visaginas", 
     "countryAlpha3": "LTU", 
@@ -64,352 +8,8 @@
     "categoryName": "municipality"
   }, 
   {
-    "alpha3": "LT-02", 
-    "name": "Alytaus miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-15", 
-    "name": "Kauno miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-20", 
-    "name": "Klaip\u0117dos miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-31", 
-    "name": "Palangos miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-43", 
-    "name": "\u0160iauli\u0173 miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-57", 
-    "name": "Vilniaus miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-32", 
-    "name": "Panev\u0117\u017eio miestas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "454", 
-    "categoryName": "city municipality"
-  }, 
-  {
-    "alpha3": "LT-03", 
-    "name": "Alytus", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-01", 
-    "name": "Akmen\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-04", 
-    "name": "Anyk\u0161\u010diai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-06", 
-    "name": "Bir\u017eai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-09", 
-    "name": "Ignalina", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-10", 
-    "name": "Jonava", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-11", 
-    "name": "Joni\u0161kis", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-12", 
-    "name": "Jurbarkas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-13", 
-    "name": "Kai\u0161iadorys", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-16", 
-    "name": "Kaunas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-18", 
-    "name": "K\u0117dainiai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-19", 
-    "name": "Kelm\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-21", 
-    "name": "Klaip\u0117da", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-22", 
-    "name": "Kretinga", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-23", 
-    "name": "Kupi\u0161kis", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-24", 
-    "name": "Lazdijai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-25", 
-    "name": "Marijampol\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-26", 
-    "name": "Ma\u017eeikiai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-27", 
-    "name": "Mol\u0117tai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-30", 
-    "name": "Pakruojis", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-33", 
-    "name": "Panev\u0117\u017eys", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-34", 
-    "name": "Pasvalys", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-35", 
-    "name": "Plung\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-36", 
-    "name": "Prienai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
     "alpha3": "LT-37", 
     "name": "Radvili\u0161kis", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-38", 
-    "name": "Raseiniai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-40", 
-    "name": "Roki\u0161kis", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-41", 
-    "name": "\u0160akiai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-42", 
-    "name": "\u0160al\u010dininkai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-44", 
-    "name": "\u0160iauliai", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-45", 
-    "name": "\u0160ilal\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-46", 
-    "name": "\u0160ilut\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-47", 
-    "name": "\u0160irvintos", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-48", 
-    "name": "Skuodas", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-49", 
-    "name": "\u0160ven\u010dionys", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-50", 
-    "name": "Taurag\u0117", 
-    "countryAlpha3": "LTU", 
-    "countryAlpha2": "LT", 
-    "categoryId": "455", 
-    "categoryName": "district municipality"
-  }, 
-  {
-    "alpha3": "LT-51", 
-    "name": "Tel\u0161iai", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "455", 
@@ -424,32 +24,104 @@
     "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-53", 
-    "name": "Ukmerg\u0117", 
+    "alpha3": "LT-12", 
+    "name": "Jurbarkas", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "455", 
     "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-54", 
-    "name": "Utena", 
+    "alpha3": "LT-01", 
+    "name": "Akmen\u0117", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "455", 
     "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-55", 
-    "name": "Var\u0117na", 
+    "alpha3": "LT-16", 
+    "name": "Kaunas", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "455", 
     "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-56", 
-    "name": "Vilkavi\u0161kis", 
+    "alpha3": "LT-57", 
+    "name": "Vilniaus miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
+  }, 
+  {
+    "alpha3": "LT-AL", 
+    "name": "Alytaus apskritis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "210", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LT-20", 
+    "name": "Klaip\u0117dos miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
+  }, 
+  {
+    "alpha3": "LT-17", 
+    "name": "Kazl\u0173 R\u016bdos", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-24", 
+    "name": "Lazdijai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-44", 
+    "name": "\u0160iauliai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-51", 
+    "name": "Tel\u0161iai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-40", 
+    "name": "Roki\u0161kis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-06", 
+    "name": "Bir\u017eai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-38", 
+    "name": "Raseiniai", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "455", 
@@ -464,28 +136,76 @@
     "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-60", 
-    "name": "Zarasai", 
+    "alpha3": "LT-11", 
+    "name": "Joni\u0161kis", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "455", 
     "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-MR", 
-    "name": "Marijampol\u0117s apskritis", 
+    "alpha3": "LT-26", 
+    "name": "Ma\u017eeikiai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-14", 
+    "name": "Kalvarijos", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-32", 
+    "name": "Panev\u0117\u017eio miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
+  }, 
+  {
+    "alpha3": "LT-29", 
+    "name": "Pag\u0117giai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-43", 
+    "name": "\u0160iauli\u0173 miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
+  }, 
+  {
+    "alpha3": "LT-53", 
+    "name": "Ukmerg\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-TE", 
+    "name": "Tel\u0161i\u0173 apskritis", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "210", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "LT-PN", 
-    "name": "Panev\u0117\u017eio apskritis", 
+    "alpha3": "LT-10", 
+    "name": "Jonava", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
-    "categoryId": "210", 
-    "categoryName": "county"
+    "categoryId": "455", 
+    "categoryName": "district municipality"
   }, 
   {
     "alpha3": "LT-SA", 
@@ -496,8 +216,112 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "LT-AL", 
-    "name": "Alytaus apskritis", 
+    "alpha3": "LT-08", 
+    "name": "Elektr\u0117nai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-VL", 
+    "name": "Vilniaus apskritis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "210", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LT-35", 
+    "name": "Plung\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-39", 
+    "name": "Rietavo", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-28", 
+    "name": "Neringa", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-PN", 
+    "name": "Panev\u0117\u017eio apskritis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "210", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LT-09", 
+    "name": "Ignalina", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-48", 
+    "name": "Skuodas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-05", 
+    "name": "Bir\u0161tono", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-33", 
+    "name": "Panev\u0117\u017eys", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-60", 
+    "name": "Zarasai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-15", 
+    "name": "Kauno miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
+  }, 
+  {
+    "alpha3": "LT-18", 
+    "name": "K\u0117dainiai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-TA", 
+    "name": "Taurag\u0117s apskritis", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "210", 
@@ -512,20 +336,100 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "LT-UT", 
-    "name": "Utenos apskritis", 
+    "alpha3": "LT-55", 
+    "name": "Var\u0117na", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
-    "categoryId": "210", 
-    "categoryName": "county"
+    "categoryId": "455", 
+    "categoryName": "district municipality"
   }, 
   {
-    "alpha3": "LT-TE", 
-    "name": "Tel\u0161i\u0173 apskritis", 
+    "alpha3": "LT-03", 
+    "name": "Alytus", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
-    "categoryId": "210", 
-    "categoryName": "county"
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-41", 
+    "name": "\u0160akiai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-25", 
+    "name": "Marijampol\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-22", 
+    "name": "Kretinga", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-30", 
+    "name": "Pakruojis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-19", 
+    "name": "Kelm\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-13", 
+    "name": "Kai\u0161iadorys", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-42", 
+    "name": "\u0160al\u010dininkai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-27", 
+    "name": "Mol\u0117tai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-45", 
+    "name": "\u0160ilal\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-02", 
+    "name": "Alytaus miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
   }, 
   {
     "alpha3": "LT-KL", 
@@ -536,19 +440,115 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "LT-TA", 
-    "name": "Taurag\u0117s apskritis", 
+    "alpha3": "LT-54", 
+    "name": "Utena", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-56", 
+    "name": "Vilkavi\u0161kis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-07", 
+    "name": "Druskininkai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "456", 
+    "categoryName": "municipality"
+  }, 
+  {
+    "alpha3": "LT-50", 
+    "name": "Taurag\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-UT", 
+    "name": "Utenos apskritis", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "210", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "LT-VL", 
-    "name": "Vilniaus apskritis", 
+    "alpha3": "LT-47", 
+    "name": "\u0160irvintos", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-49", 
+    "name": "\u0160ven\u010dionys", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-21", 
+    "name": "Klaip\u0117da", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-31", 
+    "name": "Palangos miestas", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "454", 
+    "categoryName": "city municipality"
+  }, 
+  {
+    "alpha3": "LT-MR", 
+    "name": "Marijampol\u0117s apskritis", 
     "countryAlpha3": "LTU", 
     "countryAlpha2": "LT", 
     "categoryId": "210", 
     "categoryName": "county"
+  }, 
+  {
+    "alpha3": "LT-23", 
+    "name": "Kupi\u0161kis", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-46", 
+    "name": "\u0160ilut\u0117", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-34", 
+    "name": "Pasvalys", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
+  }, 
+  {
+    "alpha3": "LT-04", 
+    "name": "Anyk\u0161\u010diai", 
+    "countryAlpha3": "LTU", 
+    "countryAlpha2": "LT", 
+    "categoryId": "455", 
+    "categoryName": "district municipality"
   }
 ]

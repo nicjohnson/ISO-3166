@@ -1,183 +1,7 @@
 [
   {
-    "alpha3": "EG-ASN", 
-    "name": "Asw\u0101n", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-JS", 
-    "name": "Jan\u016bb S\u012bn\u0101'", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-KFS", 
-    "name": "Kafr ash Shaykh", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-MN", 
-    "name": "Al Miny\u0101", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-AST", 
-    "name": "Asy\u016b\u0163", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
     "alpha3": "EG-BNS", 
     "name": "Ban\u012b Suwayf", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-C", 
-    "name": "Al Q\u0101hirah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-FYM", 
-    "name": "Al Fayy\u016bm", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-PTS", 
-    "name": "B\u016br Sa\u2018\u012bd", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-DT", 
-    "name": "Dumy\u0101\u0163", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-GZ", 
-    "name": "Al J\u012bzah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-IS", 
-    "name": "Al Ism\u0101'\u012bl\u012byah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-SHG", 
-    "name": "S\u016bh\u0101j", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-BA", 
-    "name": "Al Ba\u1e29r al A\u1e29mar", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-KB", 
-    "name": "Al Qaly\u016bb\u012byah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-SHR", 
-    "name": "Ash Sharq\u012byah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-DK", 
-    "name": "Ad Daqahl\u012byah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-LX", 
-    "name": "Al Uq\u015fur", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-SIN", 
-    "name": "Sham\u0101l S\u012bn\u0101'", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-WAD", 
-    "name": "Al W\u0101d\u012b al Jad\u012bd", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-GH", 
-    "name": "Al Gharb\u012byah", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-KN", 
-    "name": "Qin\u0101", 
-    "countryAlpha3": "EGY", 
-    "countryAlpha2": "EG", 
-    "categoryId": "316", 
-    "categoryName": "governorate"
-  }, 
-  {
-    "alpha3": "EG-MNF", 
-    "name": "Al Min\u016bf\u012byah", 
     "countryAlpha3": "EGY", 
     "countryAlpha2": "EG", 
     "categoryId": "316", 
@@ -192,8 +16,184 @@
     "categoryName": "governorate"
   }, 
   {
+    "alpha3": "EG-GZ", 
+    "name": "Al J\u012bzah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-KB", 
+    "name": "Al Qaly\u016bb\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-LX", 
+    "name": "Al Uq\u015fur", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-DK", 
+    "name": "Ad Daqahl\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-ASN", 
+    "name": "Asw\u0101n", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-ALX", 
+    "name": "Al Iskandar\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-C", 
+    "name": "Al Q\u0101hirah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-SHG", 
+    "name": "S\u016bh\u0101j", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-SHR", 
+    "name": "Ash Sharq\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-JS", 
+    "name": "Jan\u016bb S\u012bn\u0101'", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-MN", 
+    "name": "Al Miny\u0101", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-DT", 
+    "name": "Dumy\u0101\u0163", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-GH", 
+    "name": "Al Gharb\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
     "alpha3": "EG-BH", 
     "name": "Al Bu\u1e29ayrah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-MNF", 
+    "name": "Al Min\u016bf\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-BA", 
+    "name": "Al Ba\u1e29r al A\u1e29mar", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-AST", 
+    "name": "Asy\u016b\u0163", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-FYM", 
+    "name": "Al Fayy\u016bm", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-IS", 
+    "name": "Al Ism\u0101'\u012bl\u012byah", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-PTS", 
+    "name": "B\u016br Sa\u2018\u012bd", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-WAD", 
+    "name": "Al W\u0101d\u012b al Jad\u012bd", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-KFS", 
+    "name": "Kafr ash Shaykh", 
+    "countryAlpha3": "EGY", 
+    "countryAlpha2": "EG", 
+    "categoryId": "316", 
+    "categoryName": "governorate"
+  }, 
+  {
+    "alpha3": "EG-KN", 
+    "name": "Qin\u0101", 
     "countryAlpha3": "EGY", 
     "countryAlpha2": "EG", 
     "categoryId": "316", 

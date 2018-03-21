@@ -1,31 +1,15 @@
 [
   {
-    "alpha3": "AE-SH", 
-    "name": "Ash Sh\u0101riqah", 
-    "countryAlpha3": "ARE", 
-    "countryAlpha2": "AE", 
-    "categoryId": "199", 
-    "categoryName": "emirate"
-  }, 
-  {
-    "alpha3": "AE-FU", 
-    "name": "Al Fujayrah", 
-    "countryAlpha3": "ARE", 
-    "countryAlpha2": "AE", 
-    "categoryId": "199", 
-    "categoryName": "emirate"
-  }, 
-  {
-    "alpha3": "AE-DU", 
-    "name": "Dubayy", 
-    "countryAlpha3": "ARE", 
-    "countryAlpha2": "AE", 
-    "categoryId": "199", 
-    "categoryName": "emirate"
-  }, 
-  {
     "alpha3": "AE-AZ", 
     "name": "Ab\u016b Z\u0327aby", 
+    "countryAlpha3": "ARE", 
+    "countryAlpha2": "AE", 
+    "categoryId": "199", 
+    "categoryName": "emirate"
+  }, 
+  {
+    "alpha3": "AE-AJ", 
+    "name": "\u2018Ajm\u0101n", 
     "countryAlpha3": "ARE", 
     "countryAlpha2": "AE", 
     "categoryId": "199", 
@@ -40,8 +24,24 @@
     "categoryName": "emirate"
   }, 
   {
-    "alpha3": "AE-AJ", 
-    "name": "\u2018Ajm\u0101n", 
+    "alpha3": "AE-FU", 
+    "name": "Al Fujayrah", 
+    "countryAlpha3": "ARE", 
+    "countryAlpha2": "AE", 
+    "categoryId": "199", 
+    "categoryName": "emirate"
+  }, 
+  {
+    "alpha3": "AE-SH", 
+    "name": "Ash Sh\u0101riqah", 
+    "countryAlpha3": "ARE", 
+    "countryAlpha2": "AE", 
+    "categoryId": "199", 
+    "categoryName": "emirate"
+  }, 
+  {
+    "alpha3": "AE-DU", 
+    "name": "Dubayy", 
     "countryAlpha3": "ARE", 
     "countryAlpha2": "AE", 
     "categoryId": "199", 

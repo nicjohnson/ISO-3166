@@ -1,5 +1,21 @@
 [
   {
+    "alpha3": "TO-03", 
+    "name": "Niuas", 
+    "countryAlpha3": "TON", 
+    "countryAlpha2": "TO", 
+    "categoryId": "381", 
+    "categoryName": "division"
+  }, 
+  {
+    "alpha3": "TO-04", 
+    "name": "Tongatapu", 
+    "countryAlpha3": "TON", 
+    "countryAlpha2": "TO", 
+    "categoryId": "381", 
+    "categoryName": "division"
+  }, 
+  {
     "alpha3": "TO-01", 
     "name": "'Eua", 
     "countryAlpha3": "TON", 
@@ -8,64 +24,8 @@
     "categoryName": "division"
   }, 
   {
-    "alpha3": "TO-05", 
-    "name": "Vava'u", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "TO-05", 
-    "name": "Vava'u", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
     "alpha3": "TO-02", 
     "name": "Ha'apai", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "TO-02", 
-    "name": "Ha'apai", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "TO-03", 
-    "name": "Niuas", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "TO-03", 
-    "name": "Niuas", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "TO-04", 
-    "name": "Tongatapu", 
-    "countryAlpha3": "TON", 
-    "countryAlpha2": "TO", 
-    "categoryId": "381", 
-    "categoryName": "division"
-  }, 
-  {
-    "alpha3": "TO-04", 
-    "name": "Tongatapu", 
     "countryAlpha3": "TON", 
     "countryAlpha2": "TO", 
     "categoryId": "381", 

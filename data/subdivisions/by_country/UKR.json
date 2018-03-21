@@ -1,15 +1,7 @@
 [
   {
-    "alpha3": "UA-30", 
-    "name": "Kyiv", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "382", 
-    "categoryName": "city"
-  }, 
-  {
-    "alpha3": "UA-07", 
-    "name": "Volynska oblast", 
+    "alpha3": "UA-48", 
+    "name": "Mykolaivska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
@@ -24,48 +16,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "UA-65", 
-    "name": "Khersonska oblast", 
+    "alpha3": "UA-77", 
+    "name": "Chernivetska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "UA-09", 
-    "name": "Luhanska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-21", 
-    "name": "Zakarpatska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-23", 
-    "name": "Zaporizka oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-32", 
-    "name": "Kyivska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-35", 
-    "name": "Kirovohradska oblast", 
+    "alpha3": "UA-68", 
+    "name": "Khmelnytska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
@@ -80,24 +40,8 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "UA-05", 
-    "name": "Vinnytska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-63", 
-    "name": "Kharkivska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-74", 
-    "name": "Chernihivska oblast", 
+    "alpha3": "UA-07", 
+    "name": "Volynska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
@@ -112,56 +56,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "UA-48", 
-    "name": "Mykolaivska oblast", 
+    "alpha3": "UA-09", 
+    "name": "Luhanska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "UA-56", 
-    "name": "Rivnenska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-71", 
-    "name": "Cherkaska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-26", 
-    "name": "Ivano-Frankivska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-51", 
-    "name": "Odeska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-77", 
-    "name": "Chernivetska oblast", 
-    "countryAlpha3": "UKR", 
-    "countryAlpha2": "UA", 
-    "categoryId": "383", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UA-53", 
-    "name": "Poltavska oblast", 
+    "alpha3": "UA-05", 
+    "name": "Vinnytska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
@@ -184,6 +88,70 @@
     "categoryName": "region"
   }, 
   {
+    "alpha3": "UA-23", 
+    "name": "Zaporizka oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-63", 
+    "name": "Kharkivska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-74", 
+    "name": "Chernihivska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-65", 
+    "name": "Khersonska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-51", 
+    "name": "Odeska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-30", 
+    "name": "Kyiv", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "382", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "UA-53", 
+    "name": "Poltavska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-71", 
+    "name": "Cherkaska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
     "alpha3": "UA-18", 
     "name": "Zhytomyrska oblast", 
     "countryAlpha3": "UKR", 
@@ -192,8 +160,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "UA-68", 
-    "name": "Khmelnytska oblast", 
+    "alpha3": "UA-32", 
+    "name": "Kyivska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-21", 
+    "name": "Zakarpatska oblast", 
     "countryAlpha3": "UKR", 
     "countryAlpha2": "UA", 
     "categoryId": "383", 
@@ -206,5 +182,29 @@
     "countryAlpha2": "UA", 
     "categoryId": "400", 
     "categoryName": "republic"
+  }, 
+  {
+    "alpha3": "UA-56", 
+    "name": "Rivnenska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-35", 
+    "name": "Kirovohradska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UA-26", 
+    "name": "Ivano-Frankivska oblast", 
+    "countryAlpha3": "UKR", 
+    "countryAlpha2": "UA", 
+    "categoryId": "383", 
+    "categoryName": "region"
   }
 ]

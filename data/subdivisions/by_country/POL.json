@@ -8,24 +8,48 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "PL-PD", 
-    "name": "Podlaskie", 
+    "alpha3": "PL-PK", 
+    "name": "Podkarpackie", 
     "countryAlpha3": "POL", 
     "countryAlpha2": "PL", 
     "categoryId": "217", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "PL-SK", 
-    "name": "\u015awi\u0119tokrzyskie", 
+    "alpha3": "PL-KP", 
+    "name": "Kujawsko-pomorskie", 
     "countryAlpha3": "POL", 
     "countryAlpha2": "PL", 
     "categoryId": "217", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "PL-SL", 
-    "name": "\u015al\u0105skie", 
+    "alpha3": "PL-MZ", 
+    "name": "Mazowieckie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-LD", 
+    "name": "\u0141\u00f3dzkie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-LB", 
+    "name": "Lubuskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-LU", 
+    "name": "Lubelskie", 
     "countryAlpha3": "POL", 
     "countryAlpha2": "PL", 
     "categoryId": "217", 
@@ -48,8 +72,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "PL-LU", 
-    "name": "Lubelskie", 
+    "alpha3": "PL-PD", 
+    "name": "Podlaskie", 
+    "countryAlpha3": "POL", 
+    "countryAlpha2": "PL", 
+    "categoryId": "217", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "PL-WP", 
+    "name": "Wielkopolskie", 
     "countryAlpha3": "POL", 
     "countryAlpha2": "PL", 
     "categoryId": "217", 
@@ -64,24 +96,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "PL-MZ", 
-    "name": "Mazowieckie", 
-    "countryAlpha3": "POL", 
-    "countryAlpha2": "PL", 
-    "categoryId": "217", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PL-LB", 
-    "name": "Lubuskie", 
-    "countryAlpha3": "POL", 
-    "countryAlpha2": "PL", 
-    "categoryId": "217", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PL-PK", 
-    "name": "Podkarpackie", 
+    "alpha3": "PL-SK", 
+    "name": "\u015awi\u0119tokrzyskie", 
     "countryAlpha3": "POL", 
     "countryAlpha2": "PL", 
     "categoryId": "217", 
@@ -96,24 +112,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "PL-KP", 
-    "name": "Kujawsko-pomorskie", 
-    "countryAlpha3": "POL", 
-    "countryAlpha2": "PL", 
-    "categoryId": "217", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PL-OP", 
-    "name": "Opolskie", 
-    "countryAlpha3": "POL", 
-    "countryAlpha2": "PL", 
-    "categoryId": "217", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "PL-WP", 
-    "name": "Wielkopolskie", 
+    "alpha3": "PL-SL", 
+    "name": "\u015al\u0105skie", 
     "countryAlpha3": "POL", 
     "countryAlpha2": "PL", 
     "categoryId": "217", 

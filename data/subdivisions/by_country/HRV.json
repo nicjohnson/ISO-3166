@@ -1,15 +1,7 @@
 [
   {
-    "alpha3": "HR-01", 
-    "name": "Zagreba\u010dka \u017eupanija", 
-    "countryAlpha3": "HRV", 
-    "countryAlpha2": "HR", 
-    "categoryId": "115", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "HR-06", 
-    "name": "Koprivni\u010dko-kri\u017eeva\u010dka \u017eupanija", 
+    "alpha3": "HR-19", 
+    "name": "Dubrova\u010dko-neretvanska \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
@@ -24,16 +16,48 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-04", 
-    "name": "Karlova\u010dka \u017eupanija", 
+    "alpha3": "HR-18", 
+    "name": "Istarska \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-19", 
-    "name": "Dubrova\u010dko-neretvanska \u017eupanija", 
+    "alpha3": "HR-07", 
+    "name": "Bjelovarsko-bilogorska \u017eupanija", 
+    "countryAlpha3": "HRV", 
+    "countryAlpha2": "HR", 
+    "categoryId": "115", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HR-06", 
+    "name": "Koprivni\u010dko-kri\u017eeva\u010dka \u017eupanija", 
+    "countryAlpha3": "HRV", 
+    "countryAlpha2": "HR", 
+    "categoryId": "115", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HR-01", 
+    "name": "Zagreba\u010dka \u017eupanija", 
+    "countryAlpha3": "HRV", 
+    "countryAlpha2": "HR", 
+    "categoryId": "115", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HR-21", 
+    "name": "Grad Zagreb", 
+    "countryAlpha3": "HRV", 
+    "countryAlpha2": "HR", 
+    "categoryId": "347", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "HR-16", 
+    "name": "Vukovarsko-srijemska \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
@@ -56,8 +80,8 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-16", 
-    "name": "Vukovarsko-srijemska \u017eupanija", 
+    "alpha3": "HR-20", 
+    "name": "Me\u0111imurska \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
@@ -72,30 +96,6 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-09", 
-    "name": "Li\u010dko-senjska \u017eupanija", 
-    "countryAlpha3": "HRV", 
-    "countryAlpha2": "HR", 
-    "categoryId": "115", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "HR-12", 
-    "name": "Brodsko-posavska \u017eupanija", 
-    "countryAlpha3": "HRV", 
-    "countryAlpha2": "HR", 
-    "categoryId": "115", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "HR-18", 
-    "name": "Istarska \u017eupanija", 
-    "countryAlpha3": "HRV", 
-    "countryAlpha2": "HR", 
-    "categoryId": "115", 
-    "categoryName": "county"
-  }, 
-  {
     "alpha3": "HR-03", 
     "name": "Sisa\u010dko-moslava\u010dka \u017eupanija", 
     "countryAlpha3": "HRV", 
@@ -104,8 +104,16 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-05", 
-    "name": "Vara\u017edinska \u017eupanija", 
+    "alpha3": "HR-09", 
+    "name": "Li\u010dko-senjska \u017eupanija", 
+    "countryAlpha3": "HRV", 
+    "countryAlpha2": "HR", 
+    "categoryId": "115", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "HR-13", 
+    "name": "Zadarska \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
@@ -120,6 +128,14 @@
     "categoryName": "county"
   }, 
   {
+    "alpha3": "HR-12", 
+    "name": "Brodsko-posavska \u017eupanija", 
+    "countryAlpha3": "HRV", 
+    "countryAlpha2": "HR", 
+    "categoryId": "115", 
+    "categoryName": "county"
+  }, 
+  {
     "alpha3": "HR-15", 
     "name": "\u0160ibensko-kninska \u017eupanija", 
     "countryAlpha3": "HRV", 
@@ -128,35 +144,19 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-07", 
-    "name": "Bjelovarsko-bilogorska \u017eupanija", 
+    "alpha3": "HR-05", 
+    "name": "Vara\u017edinska \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "HR-20", 
-    "name": "Me\u0111imurska \u017eupanija", 
+    "alpha3": "HR-04", 
+    "name": "Karlova\u010dka \u017eupanija", 
     "countryAlpha3": "HRV", 
     "countryAlpha2": "HR", 
     "categoryId": "115", 
     "categoryName": "county"
-  }, 
-  {
-    "alpha3": "HR-11", 
-    "name": "Po\u017ee\u0161ko-slavonska \u017eupanija", 
-    "countryAlpha3": "HRV", 
-    "countryAlpha2": "HR", 
-    "categoryId": "115", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "HR-21", 
-    "name": "Grad Zagreb", 
-    "countryAlpha3": "HRV", 
-    "countryAlpha2": "HR", 
-    "categoryId": "347", 
-    "categoryName": "city"
   }
 ]

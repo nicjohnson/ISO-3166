@@ -1,13 +1,5 @@
 [
   {
-    "alpha3": "PT-18", 
-    "name": "Viseu", 
-    "countryAlpha3": "PRT", 
-    "countryAlpha2": "PT", 
-    "categoryId": "304", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "PT-01", 
     "name": "Aveiro", 
     "countryAlpha3": "PRT", 
@@ -16,48 +8,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "PT-02", 
-    "name": "Beja", 
-    "countryAlpha3": "PRT", 
-    "countryAlpha2": "PT", 
-    "categoryId": "304", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "PT-05", 
-    "name": "Castelo Branco", 
-    "countryAlpha3": "PRT", 
-    "countryAlpha2": "PT", 
-    "categoryId": "304", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "PT-09", 
-    "name": "Guarda", 
-    "countryAlpha3": "PRT", 
-    "countryAlpha2": "PT", 
-    "categoryId": "304", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "PT-12", 
-    "name": "Portalegre", 
-    "countryAlpha3": "PRT", 
-    "countryAlpha2": "PT", 
-    "categoryId": "304", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "PT-04", 
-    "name": "Bragan\u00e7a", 
-    "countryAlpha3": "PRT", 
-    "countryAlpha2": "PT", 
-    "categoryId": "304", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "PT-06", 
-    "name": "Coimbra", 
+    "alpha3": "PT-13", 
+    "name": "Porto", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
     "categoryId": "304", 
@@ -72,8 +24,24 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "PT-11", 
-    "name": "Lisboa", 
+    "alpha3": "PT-09", 
+    "name": "Guarda", 
+    "countryAlpha3": "PRT", 
+    "countryAlpha2": "PT", 
+    "categoryId": "304", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "PT-07", 
+    "name": "\u00c9vora", 
+    "countryAlpha3": "PRT", 
+    "countryAlpha2": "PT", 
+    "categoryId": "304", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "PT-04", 
+    "name": "Bragan\u00e7a", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
     "categoryId": "304", 
@@ -88,8 +56,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "PT-16", 
-    "name": "Viana do Castelo", 
+    "alpha3": "PT-12", 
+    "name": "Portalegre", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
     "categoryId": "304", 
@@ -112,24 +80,48 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "PT-07", 
-    "name": "\u00c9vora", 
+    "alpha3": "PT-11", 
+    "name": "Lisboa", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
     "categoryId": "304", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "PT-13", 
-    "name": "Porto", 
+    "alpha3": "PT-08", 
+    "name": "Faro", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
     "categoryId": "304", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "PT-14", 
-    "name": "Santar\u00e9m", 
+    "alpha3": "PT-06", 
+    "name": "Coimbra", 
+    "countryAlpha3": "PRT", 
+    "countryAlpha2": "PT", 
+    "categoryId": "304", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "PT-30", 
+    "name": "Regi\u00e3o Aut\u00f3noma da Madeira", 
+    "countryAlpha3": "PRT", 
+    "countryAlpha2": "PT", 
+    "categoryId": "270", 
+    "categoryName": "autonomous region"
+  }, 
+  {
+    "alpha3": "PT-16", 
+    "name": "Viana do Castelo", 
+    "countryAlpha3": "PRT", 
+    "countryAlpha2": "PT", 
+    "categoryId": "304", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "PT-18", 
+    "name": "Viseu", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
     "categoryId": "304", 
@@ -144,11 +136,19 @@
     "categoryName": "autonomous region"
   }, 
   {
-    "alpha3": "PT-30", 
-    "name": "Regi\u00e3o Aut\u00f3noma da Madeira", 
+    "alpha3": "PT-05", 
+    "name": "Castelo Branco", 
     "countryAlpha3": "PRT", 
     "countryAlpha2": "PT", 
-    "categoryId": "270", 
-    "categoryName": "autonomous region"
+    "categoryId": "304", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "PT-02", 
+    "name": "Beja", 
+    "countryAlpha3": "PRT", 
+    "countryAlpha2": "PT", 
+    "categoryId": "304", 
+    "categoryName": "district"
   }
 ]

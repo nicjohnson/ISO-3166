@@ -1,91 +1,131 @@
 [
   {
-    "alpha3": "CZ-42", 
-    "name": "\u00dasteck\u00fd kraj", 
+    "alpha3": "CZ-10", 
+    "name": "Praha, Hlavn\u00ed me\u0161to", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "465", 
+    "categoryName": "capital city"
   }, 
   {
-    "alpha3": "CZ-63", 
-    "name": "Kraj Vyso\u010dina", 
+    "alpha3": "CZ-326", 
+    "name": "Rokycany", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-72", 
-    "name": "Zl\u00ednsk\u00fd kraj", 
+    "alpha3": "CZ-641", 
+    "name": "Blansko", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-31", 
-    "name": "Jiho\u010desk\u00fd kraj", 
+    "alpha3": "CZ-647", 
+    "name": "Znojmo", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-64", 
-    "name": "Jihomoravsk\u00fd kraj", 
+    "alpha3": "CZ-534", 
+    "name": "\u00dast\u00ed nad Orlic\u00ed", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-41", 
-    "name": "Karlovarsk\u00fd kraj", 
+    "alpha3": "CZ-118", 
+    "name": "Praha 18", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-52", 
-    "name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj", 
+    "alpha3": "CZ-642", 
+    "name": "Brno-m\u011bsto", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-51", 
-    "name": "Libereck\u00fd kraj", 
+    "alpha3": "CZ-525", 
+    "name": "Trutnov", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-80", 
-    "name": "Moravskoslezsk\u00fd kraj", 
+    "alpha3": "CZ-122", 
+    "name": "Praha 22", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-71", 
-    "name": "Olomouck\u00fd kraj", 
+    "alpha3": "CZ-801", 
+    "name": "Brunt\u00e1l", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-53", 
-    "name": "Pardubick\u00fd kraj", 
+    "alpha3": "CZ-206", 
+    "name": "M\u011bln\u00edk", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
-    "categoryId": "154", 
-    "categoryName": "region"
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-514", 
+    "name": "Semily", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-115", 
+    "name": "Praha 15", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-205", 
+    "name": "Kutn\u00e1 Hora", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-119", 
+    "name": "Praha 19", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-323", 
+    "name": "Plze\u0148-m\u011bsto", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
     "alpha3": "CZ-32", 
@@ -96,12 +136,516 @@
     "categoryName": "region"
   }, 
   {
+    "alpha3": "CZ-312", 
+    "name": "\u010cesk\u00fd Krumlov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-111", 
+    "name": "Praha 11", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-632", 
+    "name": "Jihlava", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-105", 
+    "name": "Praha 5", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-644", 
+    "name": "B\u0159eclav", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-102", 
+    "name": "Praha 2", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-643", 
+    "name": "Brno-venkov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-107", 
+    "name": "Praha 7", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-71", 
+    "name": "Olomouck\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-324", 
+    "name": "Plze\u0148-jih", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-316", 
+    "name": "Strakonice", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-714", 
+    "name": "P\u0159erov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-513", 
+    "name": "Liberec", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-531", 
+    "name": "Chrudim", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-202", 
+    "name": "Beroun", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-313", 
+    "name": "Jind\u0159ich\u016fv Hradec", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-425", 
+    "name": "Most", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-121", 
+    "name": "Praha 21", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-101", 
+    "name": "Praha 1", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-424", 
+    "name": "Louny", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-116", 
+    "name": "Praha 16", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-108", 
+    "name": "Praha 8", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-207", 
+    "name": "Mlad\u00e1 Boleslav", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-42", 
+    "name": "\u00dasteck\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-427", 
+    "name": "\u00dast\u00ed nad Labem", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-645", 
+    "name": "Hodon\u00edn", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-20A", 
+    "name": "Praha-z\u00e1pad", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-52", 
+    "name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-802", 
+    "name": "Fr\u00fddek M\u00edstek", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-804", 
+    "name": "Nov\u00fd Ji\u010d\u00edn", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-721", 
+    "name": "Krom\u011b\u0159\u00ed\u017e", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-422", 
+    "name": "Chomutov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "CZ-20", 
     "name": "St\u0159edo\u010desk\u00fd kraj", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "154", 
     "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-522", 
+    "name": "Ji\u010d\u00edn", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-411", 
+    "name": "Cheb", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-208", 
+    "name": "Nymburk", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-64", 
+    "name": "Jihomoravsk\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-803", 
+    "name": "Karvin\u00e1", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-723", 
+    "name": "Vset\u00edn", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-713", 
+    "name": "Prost\u011bjov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-104", 
+    "name": "Praha 4", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-113", 
+    "name": "Praha 13", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-317", 
+    "name": "T\u00e1bor", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-63", 
+    "name": "Kraj Vyso\u010dina", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-110", 
+    "name": "Praha 10", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-524", 
+    "name": "Rychnov nad Kn\u011b\u017enou", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-322", 
+    "name": "Klatovy", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-53", 
+    "name": "Pardubick\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-311", 
+    "name": "\u010cesk\u00e9 Bud\u011bjovice", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-80", 
+    "name": "Moravskoslezsk\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-209", 
+    "name": "Praha-v\u00fdchod", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-511", 
+    "name": "\u010cesk\u00e1 L\u00edpa", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-412", 
+    "name": "Karlovy Vary", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-20B", 
+    "name": "P\u0159\u00edbram", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-722", 
+    "name": "Uhersk\u00e9 Hradi\u0161t\u011b", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-635", 
+    "name": "\u017d\u010f\u00e1r nad S\u00e1zavou", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-103", 
+    "name": "Praha 3", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-646", 
+    "name": "Vy\u0161kov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-532", 
+    "name": "Pardubice", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-72", 
+    "name": "Zl\u00ednsk\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-201", 
+    "name": "Bene\u0161ov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-533", 
+    "name": "Svitavy", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-631", 
+    "name": "Havl\u00ed\u010dk\u016fv Brod", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-426", 
+    "name": "Teplice", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
   }, 
   {
     "alpha3": "CZ-423", 
@@ -120,440 +664,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-422", 
-    "name": "Chomutov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-424", 
-    "name": "Louny", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-426", 
-    "name": "Teplice", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-427", 
-    "name": "\u00dast\u00ed nad Labem", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-425", 
-    "name": "Most", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-631", 
-    "name": "Havl\u00ed\u010dk\u016fv Brod", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-632", 
-    "name": "Jihlava", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-633", 
-    "name": "Pelh\u0159imov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-634", 
-    "name": "T\u0159eb\u00ed\u010d", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-635", 
-    "name": "\u017d\u010f\u00e1r nad S\u00e1zavou", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-721", 
-    "name": "Krom\u011b\u0159\u00ed\u017e", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-722", 
-    "name": "Uhersk\u00e9 Hradi\u0161t\u011b", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-723", 
-    "name": "Vset\u00edn", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-724", 
-    "name": "Zl\u00edn", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-312", 
-    "name": "\u010cesk\u00fd Krumlov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-316", 
-    "name": "Strakonice", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-317", 
-    "name": "T\u00e1bor", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-313", 
-    "name": "Jind\u0159ich\u016fv Hradec", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-311", 
-    "name": "\u010cesk\u00e9 Bud\u011bjovice", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-314", 
-    "name": "P\u00edsek", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-315", 
-    "name": "Prachatice", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-641", 
-    "name": "Blansko", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-644", 
-    "name": "B\u0159eclav", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-642", 
-    "name": "Brno-m\u011bsto", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-643", 
-    "name": "Brno-venkov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-645", 
-    "name": "Hodon\u00edn", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-646", 
-    "name": "Vy\u0161kov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-647", 
-    "name": "Znojmo", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-411", 
-    "name": "Cheb", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-412", 
-    "name": "Karlovy Vary", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-413", 
-    "name": "Sokolov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-521", 
-    "name": "Hradec Kr\u00e1lov\u00e9", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-524", 
-    "name": "Rychnov nad Kn\u011b\u017enou", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-522", 
-    "name": "Ji\u010d\u00edn", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-525", 
-    "name": "Trutnov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-523", 
-    "name": "N\u00e1chod", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-512", 
-    "name": "Jablonec nad Nisou", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-513", 
-    "name": "Liberec", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-511", 
-    "name": "\u010cesk\u00e1 L\u00edpa", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-514", 
-    "name": "Semily", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-802", 
-    "name": "Fr\u00fddek M\u00edstek", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-803", 
-    "name": "Karvin\u00e1", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-806", 
-    "name": "Ostrava-m\u011bsto", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-804", 
-    "name": "Nov\u00fd Ji\u010d\u00edn", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-805", 
-    "name": "Opava", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-801", 
-    "name": "Brunt\u00e1l", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-712", 
-    "name": "Olomouc", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-711", 
-    "name": "Jesen\u00edk", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-715", 
-    "name": "\u0160umperk", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-713", 
-    "name": "Prost\u011bjov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-714", 
-    "name": "P\u0159erov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-534", 
-    "name": "\u00dast\u00ed nad Orlic\u00ed", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-533", 
-    "name": "Svitavy", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-531", 
-    "name": "Chrudim", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-532", 
-    "name": "Pardubice", 
+    "alpha3": "CZ-203", 
+    "name": "Kladno", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
@@ -568,184 +680,24 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-327", 
-    "name": "Tachov", 
+    "alpha3": "CZ-715", 
+    "name": "\u0160umperk", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-325", 
-    "name": "Plze\u0148-sever", 
+    "alpha3": "CZ-633", 
+    "name": "Pelh\u0159imov", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-324", 
-    "name": "Plze\u0148-jih", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-323", 
-    "name": "Plze\u0148-m\u011bsto", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-326", 
-    "name": "Rokycany", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-322", 
-    "name": "Klatovy", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-205", 
-    "name": "Kutn\u00e1 Hora", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-20C", 
-    "name": "Rakovn\u00edk", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-203", 
-    "name": "Kladno", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-207", 
-    "name": "Mlad\u00e1 Boleslav", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-206", 
-    "name": "M\u011bln\u00edk", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-20A", 
-    "name": "Praha-z\u00e1pad", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-20B", 
-    "name": "P\u0159\u00edbram", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-201", 
-    "name": "Bene\u0161ov", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-202", 
-    "name": "Beroun", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-204", 
-    "name": "Kol\u00edn", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-209", 
-    "name": "Praha-v\u00fdchod", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-208", 
-    "name": "Nymburk", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-101", 
-    "name": "Praha 1", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-110", 
-    "name": "Praha 10", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-111", 
-    "name": "Praha 11", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-112", 
-    "name": "Praha 12", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-113", 
-    "name": "Praha 13", 
+    "alpha3": "CZ-806", 
+    "name": "Ostrava-m\u011bsto", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
@@ -760,80 +712,40 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-115", 
-    "name": "Praha 15", 
+    "alpha3": "CZ-634", 
+    "name": "T\u0159eb\u00ed\u010d", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-102", 
-    "name": "Praha 2", 
+    "alpha3": "CZ-711", 
+    "name": "Jesen\u00edk", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-103", 
-    "name": "Praha 3", 
+    "alpha3": "CZ-712", 
+    "name": "Olomouc", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-104", 
-    "name": "Praha 4", 
+    "alpha3": "CZ-315", 
+    "name": "Prachatice", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-105", 
-    "name": "Praha 5", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-106", 
-    "name": "Praha 6", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-107", 
-    "name": "Praha 7", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-108", 
-    "name": "Praha 8", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-109", 
-    "name": "Praha 9", 
-    "countryAlpha3": "CZE", 
-    "countryAlpha2": "CZ", 
-    "categoryId": "197", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "CZ-116", 
-    "name": "Praha 16", 
+    "alpha3": "CZ-521", 
+    "name": "Hradec Kr\u00e1lov\u00e9", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
@@ -848,16 +760,72 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-118", 
-    "name": "Praha 18", 
+    "alpha3": "CZ-724", 
+    "name": "Zl\u00edn", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-119", 
-    "name": "Praha 19", 
+    "alpha3": "CZ-512", 
+    "name": "Jablonec nad Nisou", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-112", 
+    "name": "Praha 12", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-31", 
+    "name": "Jiho\u010desk\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-20C", 
+    "name": "Rakovn\u00edk", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-805", 
+    "name": "Opava", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-106", 
+    "name": "Praha 6", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-523", 
+    "name": "N\u00e1chod", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-325", 
+    "name": "Plze\u0148-sever", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
@@ -872,16 +840,48 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-122", 
-    "name": "Praha 22", 
+    "alpha3": "CZ-413", 
+    "name": "Sokolov", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "CZ-121", 
-    "name": "Praha 21", 
+    "alpha3": "CZ-327", 
+    "name": "Tachov", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-314", 
+    "name": "P\u00edsek", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "197", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "CZ-41", 
+    "name": "Karlovarsk\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-51", 
+    "name": "Libereck\u00fd kraj", 
+    "countryAlpha3": "CZE", 
+    "countryAlpha2": "CZ", 
+    "categoryId": "154", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CZ-109", 
+    "name": "Praha 9", 
     "countryAlpha3": "CZE", 
     "countryAlpha2": "CZ", 
     "categoryId": "197", 

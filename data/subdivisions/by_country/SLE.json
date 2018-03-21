@@ -1,7 +1,7 @@
 [
   {
-    "alpha3": "SL-S", 
-    "name": "Southern", 
+    "alpha3": "SL-E", 
+    "name": "Eastern", 
     "countryAlpha3": "SLE", 
     "countryAlpha2": "SL", 
     "categoryId": "424", 
@@ -16,11 +16,11 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "SL-E", 
-    "name": "Eastern", 
+    "alpha3": "SL-W", 
+    "name": "Western Area (Freetown)", 
     "countryAlpha3": "SLE", 
     "countryAlpha2": "SL", 
-    "categoryId": "424", 
-    "categoryName": "province"
+    "categoryId": "359", 
+    "categoryName": "area"
   }
 ]

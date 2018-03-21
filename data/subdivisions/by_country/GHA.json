@@ -1,47 +1,7 @@
 [
   {
-    "alpha3": "GH-EP", 
-    "name": "Eastern", 
-    "countryAlpha3": "GHA", 
-    "countryAlpha2": "GH", 
-    "categoryId": "114", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GH-CP", 
-    "name": "Central", 
-    "countryAlpha3": "GHA", 
-    "countryAlpha2": "GH", 
-    "categoryId": "114", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GH-NP", 
-    "name": "Northern", 
-    "countryAlpha3": "GHA", 
-    "countryAlpha2": "GH", 
-    "categoryId": "114", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GH-BA", 
-    "name": "Brong-Ahafo", 
-    "countryAlpha3": "GHA", 
-    "countryAlpha2": "GH", 
-    "categoryId": "114", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GH-TV", 
-    "name": "Volta", 
-    "countryAlpha3": "GHA", 
-    "countryAlpha2": "GH", 
-    "categoryId": "114", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "GH-UW", 
-    "name": "Upper West", 
+    "alpha3": "GH-WP", 
+    "name": "Western", 
     "countryAlpha3": "GHA", 
     "countryAlpha2": "GH", 
     "categoryId": "114", 
@@ -56,8 +16,40 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "GH-AA", 
-    "name": "Greater Accra", 
+    "alpha3": "GH-TV", 
+    "name": "Volta", 
+    "countryAlpha3": "GHA", 
+    "countryAlpha2": "GH", 
+    "categoryId": "114", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GH-CP", 
+    "name": "Central", 
+    "countryAlpha3": "GHA", 
+    "countryAlpha2": "GH", 
+    "categoryId": "114", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GH-BA", 
+    "name": "Brong-Ahafo", 
+    "countryAlpha3": "GHA", 
+    "countryAlpha2": "GH", 
+    "categoryId": "114", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GH-UW", 
+    "name": "Upper West", 
+    "countryAlpha3": "GHA", 
+    "countryAlpha2": "GH", 
+    "categoryId": "114", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GH-NP", 
+    "name": "Northern", 
     "countryAlpha3": "GHA", 
     "countryAlpha2": "GH", 
     "categoryId": "114", 
@@ -66,6 +58,14 @@
   {
     "alpha3": "GH-UE", 
     "name": "Upper East", 
+    "countryAlpha3": "GHA", 
+    "countryAlpha2": "GH", 
+    "categoryId": "114", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "GH-EP", 
+    "name": "Eastern", 
     "countryAlpha3": "GHA", 
     "countryAlpha2": "GH", 
     "categoryId": "114", 

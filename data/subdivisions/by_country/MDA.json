@@ -1,239 +1,7 @@
 [
   {
-    "alpha3": "MD-GA", 
-    "name": "G\u0103g\u0103uzia, Unitatea teritorial\u0103 autonom\u0103 (UTAG)", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "148", 
-    "categoryName": "autonomous territorial unit"
-  }, 
-  {
-    "alpha3": "MD-CS", 
-    "name": "C\u0103u\u0219eni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-DO", 
-    "name": "Dondu\u0219eni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-DU", 
-    "name": "Dub\u0103sari", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-IA", 
-    "name": "Ialoveni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-UN", 
-    "name": "Ungheni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-ED", 
-    "name": "Edine\u021b", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-HI", 
-    "name": "H\u00eence\u0219ti", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-NI", 
-    "name": "Nisporeni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-RE", 
-    "name": "Rezina", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-SV", 
-    "name": "\u0218tefan Vod\u0103", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-BR", 
-    "name": "Briceni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-FA", 
-    "name": "F\u0103le\u0219ti", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-CM", 
-    "name": "Cimi\u0219lia", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-FL", 
-    "name": "Flore\u0219ti", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-LE", 
-    "name": "Leova", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-OR", 
-    "name": "Orhei", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-AN", 
-    "name": "Anenii Noi", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-CR", 
-    "name": "Criuleni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-CT", 
-    "name": "Cantemir", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-GL", 
-    "name": "Glodeni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-RI", 
-    "name": "R\u00ee\u0219cani", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "MD-ST", 
     "name": "Str\u0103\u0219eni", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-BS", 
-    "name": "Basarabeasca", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-CA", 
-    "name": "Cahul", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-SD", 
-    "name": "\u0218old\u0103ne\u0219ti", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-SI", 
-    "name": "S\u00eengerei", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-CL", 
-    "name": "C\u0103l\u0103ra\u0219i", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-DR", 
-    "name": "Drochia", 
-    "countryAlpha3": "MDA", 
-    "countryAlpha2": "MD", 
-    "categoryId": "120", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MD-OC", 
-    "name": "Ocni\u021ba", 
     "countryAlpha3": "MDA", 
     "countryAlpha2": "MD", 
     "categoryId": "120", 
@@ -248,16 +16,168 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MD-TA", 
-    "name": "Taraclia", 
+    "alpha3": "MD-FA", 
+    "name": "F\u0103le\u0219ti", 
     "countryAlpha3": "MDA", 
     "countryAlpha2": "MD", 
     "categoryId": "120", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MD-TE", 
-    "name": "Telene\u0219ti", 
+    "alpha3": "MD-DR", 
+    "name": "Drochia", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-CT", 
+    "name": "Cantemir", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-FL", 
+    "name": "Flore\u0219ti", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-OR", 
+    "name": "Orhei", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-GL", 
+    "name": "Glodeni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-DO", 
+    "name": "Dondu\u0219eni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-SI", 
+    "name": "S\u00eengerei", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-SV", 
+    "name": "\u0218tefan Vod\u0103", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-SN", 
+    "name": "St\u00eenga Nistrului, unitatea teritorial\u0103 din", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "222", 
+    "categoryName": "territorial unit"
+  }, 
+  {
+    "alpha3": "MD-CR", 
+    "name": "Criuleni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-RI", 
+    "name": "R\u00ee\u0219cani", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-NI", 
+    "name": "Nisporeni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-ED", 
+    "name": "Edine\u021b", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-BA", 
+    "name": "B\u0103l\u021bi", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "234", 
+    "categoryName": "city"
+  }, 
+  {
+    "alpha3": "MD-CL", 
+    "name": "C\u0103l\u0103ra\u0219i", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-CA", 
+    "name": "Cahul", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-CS", 
+    "name": "C\u0103u\u0219eni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-AN", 
+    "name": "Anenii Noi", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-CM", 
+    "name": "Cimi\u0219lia", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-DU", 
+    "name": "Dub\u0103sari", 
     "countryAlpha3": "MDA", 
     "countryAlpha2": "MD", 
     "categoryId": "120", 
@@ -272,6 +192,14 @@
     "categoryName": "city"
   }, 
   {
+    "alpha3": "MD-IA", 
+    "name": "Ialoveni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "MD-CU", 
     "name": "Chi\u0219in\u0103u", 
     "countryAlpha3": "MDA", 
@@ -280,11 +208,83 @@
     "categoryName": "city"
   }, 
   {
-    "alpha3": "MD-BA", 
-    "name": "B\u0103l\u021bi", 
+    "alpha3": "MD-LE", 
+    "name": "Leova", 
     "countryAlpha3": "MDA", 
     "countryAlpha2": "MD", 
-    "categoryId": "234", 
-    "categoryName": "city"
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-GA", 
+    "name": "G\u0103g\u0103uzia, Unitatea teritorial\u0103 autonom\u0103 (UTAG)", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "148", 
+    "categoryName": "autonomous territorial unit"
+  }, 
+  {
+    "alpha3": "MD-OC", 
+    "name": "Ocni\u021ba", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-HI", 
+    "name": "H\u00eence\u0219ti", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-UN", 
+    "name": "Ungheni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-TE", 
+    "name": "Telene\u0219ti", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-BS", 
+    "name": "Basarabeasca", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-SD", 
+    "name": "\u0218old\u0103ne\u0219ti", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-RE", 
+    "name": "Rezina", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MD-BR", 
+    "name": "Briceni", 
+    "countryAlpha3": "MDA", 
+    "countryAlpha2": "MD", 
+    "categoryId": "120", 
+    "categoryName": "district"
   }
 ]

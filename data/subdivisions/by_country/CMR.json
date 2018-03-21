@@ -1,15 +1,15 @@
 [
   {
-    "alpha3": "CM-SU", 
-    "name": "Sud", 
+    "alpha3": "CM-LT", 
+    "name": "Littoral", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "CM-SW", 
-    "name": "Sud-Ouest", 
+    "alpha3": "CM-AD", 
+    "name": "Adamaoua", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 
@@ -24,16 +24,16 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "CM-NW", 
-    "name": "Nord-Ouest", 
+    "alpha3": "CM-SW", 
+    "name": "Sud-Ouest", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 
     "categoryName": "region"
   }, 
   {
-    "alpha3": "CM-NW", 
-    "name": "North-West", 
+    "alpha3": "CM-ES", 
+    "name": "East", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 
@@ -42,54 +42,6 @@
   {
     "alpha3": "CM-OU", 
     "name": "West", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-OU", 
-    "name": "Ouest", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-AD", 
-    "name": "Adamaoua", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-AD", 
-    "name": "Adamaoua", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-LT", 
-    "name": "Littoral", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-LT", 
-    "name": "Littoral", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-NO", 
-    "name": "Nord", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 
@@ -112,8 +64,40 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "CM-CE", 
-    "name": "Centre", 
+    "alpha3": "CM-NW", 
+    "name": "Nord-Ouest", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-SU", 
+    "name": "Sud", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-NO", 
+    "name": "Nord", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-OU", 
+    "name": "Ouest", 
+    "countryAlpha3": "CMR", 
+    "countryAlpha2": "CM", 
+    "categoryId": "130", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "CM-NW", 
+    "name": "North-West", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 
@@ -130,14 +114,6 @@
   {
     "alpha3": "CM-EN", 
     "name": "Far North", 
-    "countryAlpha3": "CMR", 
-    "countryAlpha2": "CM", 
-    "categoryId": "130", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "CM-ES", 
-    "name": "East", 
     "countryAlpha3": "CMR", 
     "countryAlpha2": "CM", 
     "categoryId": "130", 

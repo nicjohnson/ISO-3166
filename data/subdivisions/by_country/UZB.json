@@ -1,87 +1,15 @@
 [
   {
-    "alpha3": "UZ-TK", 
-    "name": "Toshkent", 
+    "alpha3": "UZ-QR", 
+    "name": "Qoraqalpog\u2018iston Respublikasi", 
     "countryAlpha3": "UZB", 
     "countryAlpha2": "UZ", 
-    "categoryId": "445", 
-    "categoryName": "city"
-  }, 
-  {
-    "alpha3": "UZ-BU", 
-    "name": "Buxoro", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-NW", 
-    "name": "Navoiy", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
+    "categoryId": "293", 
+    "categoryName": "republic"
   }, 
   {
     "alpha3": "UZ-JI", 
     "name": "Jizzax", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-NG", 
-    "name": "Namangan", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-FA", 
-    "name": "Farg\u2018ona", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-QA", 
-    "name": "Qashqadaryo", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-AN", 
-    "name": "Andijon", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-SA", 
-    "name": "Samarqand", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-SI", 
-    "name": "Sirdaryo", 
-    "countryAlpha3": "UZB", 
-    "countryAlpha2": "UZ", 
-    "categoryId": "216", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "UZ-SU", 
-    "name": "Surxondaryo", 
     "countryAlpha3": "UZB", 
     "countryAlpha2": "UZ", 
     "categoryId": "216", 
@@ -96,8 +24,80 @@
     "categoryName": "region"
   }, 
   {
+    "alpha3": "UZ-NW", 
+    "name": "Navoiy", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-SI", 
+    "name": "Sirdaryo", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-QA", 
+    "name": "Qashqadaryo", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
     "alpha3": "UZ-TO", 
     "name": "Toshkent", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-SA", 
+    "name": "Samarqand", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-BU", 
+    "name": "Buxoro", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-NG", 
+    "name": "Namangan", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-AN", 
+    "name": "Andijon", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-SU", 
+    "name": "Surxondaryo", 
+    "countryAlpha3": "UZB", 
+    "countryAlpha2": "UZ", 
+    "categoryId": "216", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "UZ-FA", 
+    "name": "Farg\u2018ona", 
     "countryAlpha3": "UZB", 
     "countryAlpha2": "UZ", 
     "categoryId": "216", 

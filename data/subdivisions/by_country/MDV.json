@@ -1,207 +1,7 @@
 [
   {
-    "alpha3": "MV-14", 
-    "name": "Nilandhe Atholhu Uthuruburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
     "alpha3": "MV-12", 
     "name": "Meemu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-12", 
-    "name": "Mulakatholhu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-17", 
-    "name": "Nilandhe Atholhu Dhekunuburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-17", 
-    "name": "Dhaalu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-04", 
-    "name": "Vaavu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-04", 
-    "name": "Felidhu Atholhu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-26", 
-    "name": "Kaafu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-26", 
-    "name": "Maale Atholhu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-00", 
-    "name": "Alifu Dhaalu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-00", 
-    "name": "Ari Atholhu Dhekunuburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-02", 
-    "name": "Alifu Alifu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-02", 
-    "name": "Ari Atholhu Uthuruburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-29", 
-    "name": "Gnaviyani", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-29", 
-    "name": "Fuvammulah", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-01", 
-    "name": "Addu Atholhu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-01", 
-    "name": "Seenu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-27", 
-    "name": "Huvadhu Atholhu Uthuruburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-27", 
-    "name": "Gaafu Alifu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-28", 
-    "name": "Huvadhu Atholhu Dhekunuburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-28", 
-    "name": "Gaafu Dhaalu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-13", 
-    "name": "Maalhosmadulu Uthuruburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-13", 
-    "name": "Raa", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-03", 
-    "name": "Faadhippolhu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-03", 
-    "name": "Lhaviyani", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-20", 
-    "name": "Maalhosmadulu Dhekunuburi", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "326", 
@@ -216,88 +16,24 @@
     "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-25", 
-    "name": "Noonu", 
+    "alpha3": "MV-17", 
+    "name": "Nilandhe Atholhu Dhekunuburi", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "326", 
     "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-25", 
-    "name": "Miladhunmadulu Dhekunuburi", 
+    "alpha3": "MV-SU", 
+    "name": "South", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-07", 
-    "name": "Thiladhunmathee Uthuruburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-07", 
-    "name": "Haa Alifu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
+    "categoryId": "263", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "MV-23", 
     "name": "Haa Dhaalu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-23", 
-    "name": "Thiladhunmathee Dhekunuburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-24", 
-    "name": "Miladhunmadulu Uthuruburi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-24", 
-    "name": "Shaviyani", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-05", 
-    "name": "Laamu", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-05", 
-    "name": "Hahdhunmathi", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "326", 
-    "categoryName": "administrative atoll"
-  }, 
-  {
-    "alpha3": "MV-08", 
-    "name": "Thaa", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "326", 
@@ -312,48 +48,64 @@
     "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-CE", 
-    "name": "Medhu", 
+    "alpha3": "MV-MLE", 
+    "name": "Male", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "439", 
+    "categoryName": "capital"
+  }, 
+  {
+    "alpha3": "MV-UN", 
+    "name": "Mathi-Uthuru", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "263", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "MV-CE", 
-    "name": "Central", 
+    "alpha3": "MV-13", 
+    "name": "Maalhosmadulu Uthuruburi", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
-    "categoryId": "263", 
-    "categoryName": "province"
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-NC", 
-    "name": "North Central", 
+    "alpha3": "MV-05", 
+    "name": "Laamu", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
-    "categoryId": "263", 
-    "categoryName": "province"
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-NC", 
-    "name": "Medhu-Uthuru", 
+    "alpha3": "MV-24", 
+    "name": "Shaviyani", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
-    "categoryId": "263", 
-    "categoryName": "province"
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-SU", 
-    "name": "Dhekunu", 
+    "alpha3": "MV-08", 
+    "name": "Thaa", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
-    "categoryId": "263", 
-    "categoryName": "province"
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }, 
   {
-    "alpha3": "MV-SU", 
-    "name": "South", 
+    "alpha3": "MV-28", 
+    "name": "Gaafu Dhaalu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-US", 
+    "name": "Upper South", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "263", 
@@ -368,12 +120,92 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "MV-SC", 
-    "name": "South Central", 
+    "alpha3": "MV-00", 
+    "name": "Alifu Dhaalu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-07", 
+    "name": "Haa Alifu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-CE", 
+    "name": "Central", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "263", 
     "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MV-20", 
+    "name": "Maalhosmadulu Dhekunuburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-04", 
+    "name": "Felidhu Atholhu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-17", 
+    "name": "Dhaalu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-13", 
+    "name": "Raa", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-28", 
+    "name": "Huvadhu Atholhu Dhekunuburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-27", 
+    "name": "Gaafu Alifu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-MLE", 
+    "name": "Maale", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "439", 
+    "categoryName": "capital"
+  }, 
+  {
+    "alpha3": "MV-25", 
+    "name": "Miladhunmadulu Dhekunuburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }, 
   {
     "alpha3": "MV-NO", 
@@ -392,6 +224,126 @@
     "categoryName": "province"
   }, 
   {
+    "alpha3": "MV-03", 
+    "name": "Faadhippolhu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-26", 
+    "name": "Kaafu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-01", 
+    "name": "Addu Atholhu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-27", 
+    "name": "Huvadhu Atholhu Uthuruburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-29", 
+    "name": "Fuvammulah", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-14", 
+    "name": "Faafu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-NC", 
+    "name": "North Central", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "263", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MV-02", 
+    "name": "Alifu Alifu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-04", 
+    "name": "Vaavu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-24", 
+    "name": "Miladhunmadulu Uthuruburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-29", 
+    "name": "Gnaviyani", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-01", 
+    "name": "Seenu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-03", 
+    "name": "Lhaviyani", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-25", 
+    "name": "Noonu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-SC", 
+    "name": "South Central", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "263", 
+    "categoryName": "province"
+  }, 
+  {
     "alpha3": "MV-UN", 
     "name": "Upper North", 
     "countryAlpha3": "MDV", 
@@ -400,20 +352,76 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "MV-UN", 
-    "name": "Mathi-Uthuru", 
+    "alpha3": "MV-SU", 
+    "name": "Dhekunu", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "263", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "MV-US", 
-    "name": "Upper South", 
+    "alpha3": "MV-NC", 
+    "name": "Medhu-Uthuru", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
     "categoryId": "263", 
     "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MV-12", 
+    "name": "Mulakatholhu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-05", 
+    "name": "Hahdhunmathi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-23", 
+    "name": "Thiladhunmathee Dhekunuburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-00", 
+    "name": "Ari Atholhu Dhekunuburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-26", 
+    "name": "Maale Atholhu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
+  }, 
+  {
+    "alpha3": "MV-CE", 
+    "name": "Medhu", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "263", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "MV-14", 
+    "name": "Nilandhe Atholhu Uthuruburi", 
+    "countryAlpha3": "MDV", 
+    "countryAlpha2": "MV", 
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }, 
   {
     "alpha3": "MV-US", 
@@ -424,19 +432,11 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "MV-MLE", 
-    "name": "Male", 
+    "alpha3": "MV-02", 
+    "name": "Ari Atholhu Uthuruburi", 
     "countryAlpha3": "MDV", 
     "countryAlpha2": "MV", 
-    "categoryId": "439", 
-    "categoryName": "capital"
-  }, 
-  {
-    "alpha3": "MV-MLE", 
-    "name": "Maale", 
-    "countryAlpha3": "MDV", 
-    "countryAlpha2": "MV", 
-    "categoryId": "439", 
-    "categoryName": "capital"
+    "categoryId": "326", 
+    "categoryName": "administrative atoll"
   }
 ]

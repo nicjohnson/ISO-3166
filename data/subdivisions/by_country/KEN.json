@@ -1,39 +1,7 @@
 [
   {
-    "alpha3": "KE-02", 
-    "name": "Bomet", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
     "alpha3": "KE-03", 
     "name": "Bungoma", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-04", 
-    "name": "Busia", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-05", 
-    "name": "Elgeyo/Marakwet", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-06", 
-    "name": "Embu", 
     "countryAlpha3": "KEN", 
     "countryAlpha2": "KE", 
     "categoryId": "451", 
@@ -48,48 +16,8 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "KE-08", 
-    "name": "Homa Bay", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-09", 
-    "name": "Isiolo", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-10", 
-    "name": "Kajiado", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-11", 
-    "name": "Kakamega", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-12", 
-    "name": "Kericho", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-13", 
-    "name": "Kiambu", 
+    "alpha3": "KE-27", 
+    "name": "Migori", 
     "countryAlpha3": "KEN", 
     "countryAlpha2": "KE", 
     "categoryId": "451", 
@@ -104,200 +32,16 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "KE-15", 
-    "name": "Kirinyaga", 
+    "alpha3": "KE-13", 
+    "name": "Kiambu", 
     "countryAlpha3": "KEN", 
     "countryAlpha2": "KE", 
     "categoryId": "451", 
     "categoryName": "county"
   }, 
   {
-    "alpha3": "KE-16", 
-    "name": "Kisii", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-17", 
-    "name": "Kisumu", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-18", 
-    "name": "Kitui", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-19", 
-    "name": "Kwale", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-20", 
-    "name": "Laikipia", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-21", 
-    "name": "Lamu", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-22", 
-    "name": "Machakos", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-23", 
-    "name": "Makueni", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-24", 
-    "name": "Mandera", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-25", 
-    "name": "Marsabit", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-26", 
-    "name": "Meru", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-27", 
-    "name": "Migori", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-28", 
-    "name": "Mombasa", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-29", 
-    "name": "Murang'a", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-30", 
-    "name": "Nairobi City", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-31", 
-    "name": "Nakuru", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-32", 
-    "name": "Nandi", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-33", 
-    "name": "Narok", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-34", 
-    "name": "Nyamira", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-35", 
-    "name": "Nyandarua", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-36", 
-    "name": "Nyeri", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-37", 
-    "name": "Samburu", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-38", 
-    "name": "Siaya", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-39", 
-    "name": "Taita/Taveta", 
+    "alpha3": "KE-09", 
+    "name": "Isiolo", 
     "countryAlpha3": "KEN", 
     "countryAlpha2": "KE", 
     "categoryId": "451", 
@@ -312,32 +56,24 @@
     "categoryName": "county"
   }, 
   {
+    "alpha3": "KE-47", 
+    "name": "West Pokot", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-02", 
+    "name": "Bomet", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
     "alpha3": "KE-41", 
     "name": "Tharaka-Nithi", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-42", 
-    "name": "Trans Nzoia", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-43", 
-    "name": "Turkana", 
-    "countryAlpha3": "KEN", 
-    "countryAlpha2": "KE", 
-    "categoryId": "451", 
-    "categoryName": "county"
-  }, 
-  {
-    "alpha3": "KE-44", 
-    "name": "Uasin Gishu", 
     "countryAlpha3": "KEN", 
     "countryAlpha2": "KE", 
     "categoryId": "451", 
@@ -352,6 +88,142 @@
     "categoryName": "county"
   }, 
   {
+    "alpha3": "KE-24", 
+    "name": "Mandera", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-29", 
+    "name": "Murang'a", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-01", 
+    "name": "Baringo", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-26", 
+    "name": "Meru", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-37", 
+    "name": "Samburu", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-28", 
+    "name": "Mombasa", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-30", 
+    "name": "Nairobi City", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-10", 
+    "name": "Kajiado", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-18", 
+    "name": "Kitui", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-42", 
+    "name": "Trans Nzoia", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-16", 
+    "name": "Kisii", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-05", 
+    "name": "Elgeyo/Marakwet", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-25", 
+    "name": "Marsabit", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-23", 
+    "name": "Makueni", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-36", 
+    "name": "Nyeri", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-35", 
+    "name": "Nyandarua", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-33", 
+    "name": "Narok", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
     "alpha3": "KE-46", 
     "name": "Wajir", 
     "countryAlpha3": "KEN", 
@@ -360,8 +232,136 @@
     "categoryName": "county"
   }, 
   {
-    "alpha3": "KE-47", 
-    "name": "West Pokot", 
+    "alpha3": "KE-17", 
+    "name": "Kisumu", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-39", 
+    "name": "Taita/Taveta", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-11", 
+    "name": "Kakamega", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-15", 
+    "name": "Kirinyaga", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-32", 
+    "name": "Nandi", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-19", 
+    "name": "Kwale", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-34", 
+    "name": "Nyamira", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-44", 
+    "name": "Uasin Gishu", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-38", 
+    "name": "Siaya", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-21", 
+    "name": "Lamu", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-43", 
+    "name": "Turkana", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-06", 
+    "name": "Embu", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-04", 
+    "name": "Busia", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-22", 
+    "name": "Machakos", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-20", 
+    "name": "Laikipia", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-12", 
+    "name": "Kericho", 
+    "countryAlpha3": "KEN", 
+    "countryAlpha2": "KE", 
+    "categoryId": "451", 
+    "categoryName": "county"
+  }, 
+  {
+    "alpha3": "KE-08", 
+    "name": "Homa Bay", 
     "countryAlpha3": "KEN", 
     "countryAlpha2": "KE", 
     "categoryId": "451", 

@@ -1,35 +1,11 @@
 [
   {
     "alpha3": "KP-13", 
-    "name": "Nas\u01d2n", 
+    "name": "Raseon", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "140", 
     "categoryName": "special city"
-  }, 
-  {
-    "alpha3": "KP-01", 
-    "name": "P'y\u01d2ngyang", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "356", 
-    "categoryName": "capital city"
-  }, 
-  {
-    "alpha3": "KP-01", 
-    "name": "Phyeongyang", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "356", 
-    "categoryName": "capital city"
-  }, 
-  {
-    "alpha3": "KP-05", 
-    "name": "Hwanghae-namdo", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "207", 
-    "categoryName": "province"
   }, 
   {
     "alpha3": "KP-05", 
@@ -40,40 +16,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-06", 
-    "name": "Hwanghae-bukto", 
+    "alpha3": "KP-13", 
+    "name": "Nas\u01d2n", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
-    "categoryId": "207", 
-    "categoryName": "province"
+    "categoryId": "140", 
+    "categoryName": "special city"
   }, 
   {
-    "alpha3": "KP-06", 
-    "name": "Hwanghaipukto", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "207", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KP-10", 
-    "name": "Ryangkangto", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "207", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KP-10", 
-    "name": "Yanggang-do", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "207", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KP-02", 
-    "name": "Phyeongannamto", 
+    "alpha3": "KP-08", 
+    "name": "Hamgy\u01d2ng-namdo", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 
@@ -88,8 +40,32 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-03", 
-    "name": "P'y\u01d2ngan-bukto", 
+    "alpha3": "KP-10", 
+    "name": "Ryangkangto", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "207", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KP-01", 
+    "name": "Phyeongyang", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "356", 
+    "categoryName": "capital city"
+  }, 
+  {
+    "alpha3": "KP-08", 
+    "name": "Hamkyeongnamto", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "207", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KP-06", 
+    "name": "Hwanghae-bukto", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 
@@ -104,16 +80,24 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-04", 
-    "name": "Chagang-do", 
+    "alpha3": "KP-10", 
+    "name": "Yanggang-do", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-04", 
-    "name": "Jakangto", 
+    "alpha3": "KP-01", 
+    "name": "P'y\u01d2ngyang", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "356", 
+    "categoryName": "capital city"
+  }, 
+  {
+    "alpha3": "KP-07", 
+    "name": "Kangweonto", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 
@@ -128,16 +112,40 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-09", 
-    "name": "Hamgy\u01d2ng-bukto", 
+    "alpha3": "KP-04", 
+    "name": "Chagang-do", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-07", 
-    "name": "Kangweonto", 
+    "alpha3": "KP-06", 
+    "name": "Hwanghaipukto", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "207", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KP-02", 
+    "name": "Phyeongannamto", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "207", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KP-05", 
+    "name": "Hwanghae-namdo", 
+    "countryAlpha3": "PRK", 
+    "countryAlpha2": "KP", 
+    "categoryId": "207", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "KP-03", 
+    "name": "P'y\u01d2ngan-bukto", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 
@@ -152,16 +160,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "KP-08", 
-    "name": "Hamgy\u01d2ng-namdo", 
-    "countryAlpha3": "PRK", 
-    "countryAlpha2": "KP", 
-    "categoryId": "207", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "KP-08", 
-    "name": "Hamkyeongnamto", 
+    "alpha3": "KP-09", 
+    "name": "Hamgy\u01d2ng-bukto", 
     "countryAlpha3": "PRK", 
     "countryAlpha2": "KP", 
     "categoryId": "207", 

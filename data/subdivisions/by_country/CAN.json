@@ -1,77 +1,5 @@
 [
   {
-    "alpha3": "CA-YT", 
-    "name": "Yukon", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "233", 
-    "categoryName": "territory"
-  }, 
-  {
-    "alpha3": "CA-NT", 
-    "name": "Territoires du Nord-Ouest", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "233", 
-    "categoryName": "territory"
-  }, 
-  {
-    "alpha3": "CA-NT", 
-    "name": "Northwest Territories", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "233", 
-    "categoryName": "territory"
-  }, 
-  {
-    "alpha3": "CA-NU", 
-    "name": "Nunavut", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "233", 
-    "categoryName": "territory"
-  }, 
-  {
-    "alpha3": "CA-NU", 
-    "name": "Nunavut", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "233", 
-    "categoryName": "territory"
-  }, 
-  {
-    "alpha3": "CA-BC", 
-    "name": "Colombie-Britannique", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-BC", 
-    "name": "British Columbia", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-MB", 
-    "name": "Manitoba", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-MB", 
-    "name": "Manitoba", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "CA-NB", 
     "name": "Nouveau-Brunswick", 
     "countryAlpha3": "CAN", 
@@ -80,24 +8,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CA-NB", 
-    "name": "New Brunswick", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-SK", 
-    "name": "Saskatchewan", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-SK", 
-    "name": "Saskatchewan", 
+    "alpha3": "CA-NS", 
+    "name": "Nouvelle-\u00c9cosse", 
     "countryAlpha3": "CAN", 
     "countryAlpha2": "CA", 
     "categoryId": "412", 
@@ -112,48 +24,8 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CA-AB", 
-    "name": "Alberta", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-ON", 
-    "name": "Ontario", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-ON", 
-    "name": "Ontario", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-NL", 
-    "name": "Newfoundland and Labrador", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-NL", 
-    "name": "Terre-Neuve-et-Labrador", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-PE", 
-    "name": "\u00cele-du-Prince-\u00c9douard", 
+    "alpha3": "CA-QC", 
+    "name": "Quebec", 
     "countryAlpha3": "CAN", 
     "countryAlpha2": "CA", 
     "categoryId": "412", 
@@ -176,27 +48,107 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "CA-NS", 
-    "name": "Nouvelle-\u00c9cosse", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "CA-QC", 
-    "name": "Quebec", 
-    "countryAlpha3": "CAN", 
-    "countryAlpha2": "CA", 
-    "categoryId": "412", 
-    "categoryName": "province"
-  }, 
-  {
     "alpha3": "CA-QC", 
     "name": "Qu\u00e9bec", 
     "countryAlpha3": "CAN", 
     "countryAlpha2": "CA", 
     "categoryId": "412", 
     "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-PE", 
+    "name": "\u00cele-du-Prince-\u00c9douard", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-NT", 
+    "name": "Territoires du Nord-Ouest", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "233", 
+    "categoryName": "territory"
+  }, 
+  {
+    "alpha3": "CA-NU", 
+    "name": "Nunavut", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "233", 
+    "categoryName": "territory"
+  }, 
+  {
+    "alpha3": "CA-NL", 
+    "name": "Newfoundland and Labrador", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-ON", 
+    "name": "Ontario", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-SK", 
+    "name": "Saskatchewan", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-BC", 
+    "name": "Colombie-Britannique", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-NL", 
+    "name": "Terre-Neuve-et-Labrador", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-MB", 
+    "name": "Manitoba", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-YT", 
+    "name": "Yukon", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "233", 
+    "categoryName": "territory"
+  }, 
+  {
+    "alpha3": "CA-NB", 
+    "name": "New Brunswick", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "412", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "CA-NT", 
+    "name": "Northwest Territories", 
+    "countryAlpha3": "CAN", 
+    "countryAlpha2": "CA", 
+    "categoryId": "233", 
+    "categoryName": "territory"
   }
 ]

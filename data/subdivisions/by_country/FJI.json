@@ -16,20 +16,12 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "FJ-13", 
-    "name": "Serua", 
+    "alpha3": "FJ-C", 
+    "name": "Central", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "FJ-14", 
-    "name": "Tailevu", 
-    "countryAlpha3": "FJI", 
-    "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
+    "categoryId": "410", 
+    "categoryName": "division"
   }, 
   {
     "alpha3": "FJ-01", 
@@ -40,56 +32,16 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "FJ-08", 
-    "name": "Nadroga and Navosa", 
+    "alpha3": "FJ-W", 
+    "name": "Western", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "FJ-11", 
-    "name": "Ra", 
-    "countryAlpha3": "FJI", 
-    "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "FJ-02", 
-    "name": "Bua", 
-    "countryAlpha3": "FJI", 
-    "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
+    "categoryId": "410", 
+    "categoryName": "division"
   }, 
   {
     "alpha3": "FJ-03", 
     "name": "Cakaudrove", 
-    "countryAlpha3": "FJI", 
-    "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "FJ-07", 
-    "name": "Macuata", 
-    "countryAlpha3": "FJI", 
-    "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "FJ-04", 
-    "name": "Kadavu", 
-    "countryAlpha3": "FJI", 
-    "countryAlpha2": "FJ", 
-    "categoryId": "450", 
-    "categoryName": "province"
-  }, 
-  {
-    "alpha3": "FJ-05", 
-    "name": "Lau", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
     "categoryId": "450", 
@@ -104,20 +56,60 @@
     "categoryName": "province"
   }, 
   {
-    "alpha3": "FJ-C", 
-    "name": "Central", 
+    "alpha3": "FJ-08", 
+    "name": "Nadroga and Navosa", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
-    "categoryId": "410", 
-    "categoryName": "division"
+    "categoryId": "450", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "FJ-W", 
-    "name": "Western", 
+    "alpha3": "FJ-R", 
+    "name": "Rotuma", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
-    "categoryId": "410", 
-    "categoryName": "division"
+    "categoryId": "353", 
+    "categoryName": "dependency"
+  }, 
+  {
+    "alpha3": "FJ-11", 
+    "name": "Ra", 
+    "countryAlpha3": "FJI", 
+    "countryAlpha2": "FJ", 
+    "categoryId": "450", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "FJ-09", 
+    "name": "Naitasiri", 
+    "countryAlpha3": "FJI", 
+    "countryAlpha2": "FJ", 
+    "categoryId": "450", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "FJ-07", 
+    "name": "Macuata", 
+    "countryAlpha3": "FJI", 
+    "countryAlpha2": "FJ", 
+    "categoryId": "450", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "FJ-13", 
+    "name": "Serua", 
+    "countryAlpha3": "FJI", 
+    "countryAlpha2": "FJ", 
+    "categoryId": "450", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "FJ-05", 
+    "name": "Lau", 
+    "countryAlpha3": "FJI", 
+    "countryAlpha2": "FJ", 
+    "categoryId": "450", 
+    "categoryName": "province"
   }, 
   {
     "alpha3": "FJ-N", 
@@ -128,19 +120,27 @@
     "categoryName": "division"
   }, 
   {
-    "alpha3": "FJ-E", 
-    "name": "Eastern", 
+    "alpha3": "FJ-02", 
+    "name": "Bua", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
-    "categoryId": "410", 
-    "categoryName": "division"
+    "categoryId": "450", 
+    "categoryName": "province"
   }, 
   {
-    "alpha3": "FJ-R", 
-    "name": "Rotuma", 
+    "alpha3": "FJ-04", 
+    "name": "Kadavu", 
     "countryAlpha3": "FJI", 
     "countryAlpha2": "FJ", 
-    "categoryId": "353", 
-    "categoryName": "dependency"
+    "categoryId": "450", 
+    "categoryName": "province"
+  }, 
+  {
+    "alpha3": "FJ-14", 
+    "name": "Tailevu", 
+    "countryAlpha3": "FJI", 
+    "countryAlpha2": "FJ", 
+    "categoryId": "450", 
+    "categoryName": "province"
   }
 ]

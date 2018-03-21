@@ -1,5 +1,13 @@
 [
   {
+    "alpha3": "MW-ZO", 
+    "name": "Zomba", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
     "alpha3": "MW-C", 
     "name": "Chapakati", 
     "countryAlpha3": "MWI", 
@@ -8,28 +16,12 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "MW-N", 
-    "name": "Chakumpoto", 
+    "alpha3": "MW-NU", 
+    "name": "Ntcheu", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
-    "categoryId": "135", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MW-N", 
-    "name": "Northern Region", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "135", 
-    "categoryName": "region"
-  }, 
-  {
-    "alpha3": "MW-S", 
-    "name": "Chakumwera", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "135", 
-    "categoryName": "region"
+    "categoryId": "367", 
+    "categoryName": "district"
   }, 
   {
     "alpha3": "MW-S", 
@@ -40,64 +32,8 @@
     "categoryName": "region"
   }, 
   {
-    "alpha3": "MW-KS", 
-    "name": "Kasungu", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-KS", 
-    "name": "Kasungu", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NK", 
-    "name": "Nkhotakota", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NK", 
-    "name": "Nkhotakota", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MC", 
-    "name": "Mchinji", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MC", 
-    "name": "Mchinji", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NI", 
-    "name": "Ntchisi", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NI", 
-    "name": "Ntchisi", 
+    "alpha3": "MW-BA", 
+    "name": "Balaka", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
     "categoryId": "367", 
@@ -112,24 +48,24 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MW-SA", 
-    "name": "Salima", 
+    "alpha3": "MW-TH", 
+    "name": "Thyolo", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
     "categoryId": "367", 
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MW-DE", 
-    "name": "Dedza", 
+    "alpha3": "MW-N", 
+    "name": "Northern Region", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
+    "categoryId": "135", 
+    "categoryName": "region"
   }, 
   {
-    "alpha3": "MW-DE", 
-    "name": "Dedza", 
+    "alpha3": "MW-BL", 
+    "name": "Blantyre", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
     "categoryId": "367", 
@@ -144,296 +80,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MW-DO", 
-    "name": "Dowa", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NU", 
-    "name": "Ntcheu", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NU", 
-    "name": "Ntcheu", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-LI", 
-    "name": "Lilongwe", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-LI", 
-    "name": "Lilongwe", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-CT", 
-    "name": "Chitipa", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-CT", 
-    "name": "Chitipa", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-KR", 
-    "name": "Karonga", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-KR", 
-    "name": "Karonga", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-LK", 
-    "name": "Likoma", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-LK", 
-    "name": "Likoma", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
     "alpha3": "MW-NB", 
     "name": "Nkhata Bay", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NB", 
-    "name": "Nkhata Bay", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MZ", 
-    "name": "Mzimba", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MZ", 
-    "name": "Mzimba", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-RU", 
-    "name": "Rumphi", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-RU", 
-    "name": "Rumphi", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-BA", 
-    "name": "Balaka", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-BA", 
-    "name": "Balaka", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-CK", 
-    "name": "Chikwawa", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-CK", 
-    "name": "Chikwawa", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MG", 
-    "name": "Mangochi", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MG", 
-    "name": "Mangochi", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MW", 
-    "name": "Mwanza", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MW", 
-    "name": "Mwanza", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-TH", 
-    "name": "Thyolo", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-TH", 
-    "name": "Thyolo", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-BL", 
-    "name": "Blantyre", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-BL", 
-    "name": "Blantyre", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MH", 
-    "name": "Machinga", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MH", 
-    "name": "Machinga", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NE", 
-    "name": "Neno", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-NE", 
-    "name": "Neno", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-CR", 
-    "name": "Chiradzulu", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-CR", 
-    "name": "Chiradzulu", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MU", 
-    "name": "Mulanje", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-MU", 
-    "name": "Mulanje", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
     "categoryId": "367", 
@@ -448,8 +96,152 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MW-NS", 
-    "name": "Nsanje", 
+    "alpha3": "MW-MZ", 
+    "name": "Mzimba", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-LK", 
+    "name": "Likoma", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-NE", 
+    "name": "Neno", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-C", 
+    "name": "Central Region", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "135", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MW-DE", 
+    "name": "Dedza", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-MH", 
+    "name": "Machinga", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-MG", 
+    "name": "Mangochi", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-KS", 
+    "name": "Kasungu", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-MU", 
+    "name": "Mulanje", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-NI", 
+    "name": "Ntchisi", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-RU", 
+    "name": "Rumphi", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-CT", 
+    "name": "Chitipa", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-N", 
+    "name": "Chakumpoto", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "135", 
+    "categoryName": "region"
+  }, 
+  {
+    "alpha3": "MW-MC", 
+    "name": "Mchinji", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-MW", 
+    "name": "Mwanza", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-CK", 
+    "name": "Chikwawa", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-NK", 
+    "name": "Nkhotakota", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-KR", 
+    "name": "Karonga", 
+    "countryAlpha3": "MWI", 
+    "countryAlpha2": "MW", 
+    "categoryId": "367", 
+    "categoryName": "district"
+  }, 
+  {
+    "alpha3": "MW-LI", 
+    "name": "Lilongwe", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
     "categoryId": "367", 
@@ -464,24 +256,8 @@
     "categoryName": "district"
   }, 
   {
-    "alpha3": "MW-PH", 
-    "name": "Phalombe", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-ZO", 
-    "name": "Zomba", 
-    "countryAlpha3": "MWI", 
-    "countryAlpha2": "MW", 
-    "categoryId": "367", 
-    "categoryName": "district"
-  }, 
-  {
-    "alpha3": "MW-ZO", 
-    "name": "Zomba", 
+    "alpha3": "MW-CR", 
+    "name": "Chiradzulu", 
     "countryAlpha3": "MWI", 
     "countryAlpha2": "MW", 
     "categoryId": "367", 
