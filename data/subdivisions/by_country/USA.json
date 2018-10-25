@@ -224,6 +224,14 @@
     "categoryName": "state"
   }, 
   {
+    "alpha3": "US-SD", 
+    "name": "South Dakota", 
+    "countryAlpha3": "USA", 
+    "countryAlpha2": "US", 
+    "categoryId": "335", 
+    "categoryName": "state"
+  }, 
+  {
     "alpha3": "US-MS", 
     "name": "Mississippi", 
     "countryAlpha3": "USA", 
